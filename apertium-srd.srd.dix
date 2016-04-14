@@ -189,11 +189,11 @@
     <pardef n="ONU__abbr">
       <e>       <p><l></l><r><s n="abbr"/></r></p></e>
     </pardef>
-
+<!--
     <pardef n="ONU__abbr">
       <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
-
+-->
     <!-- SECTION: Congiunzioni -->
 
     <pardef n="o__cnjcoo" c="p.32">
