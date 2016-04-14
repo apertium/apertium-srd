@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-srd
+srcdir=@datarootdir@/apertium/apertium-srd
+
+Name: apertium-srd
+Description: Finite-state morphological transducer and constraint grammar for Sardinian 
+Version: @VERSION@
+
