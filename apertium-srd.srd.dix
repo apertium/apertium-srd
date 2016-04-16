@@ -1919,6 +1919,7 @@
     <e lm="dae"><i>dae</i><par n="a__pr"/></e>
     <e lm="in"><i>in</i><par n="a__pr"/></e>
     <e lm="cun"><i>cun</i><par n="a__pr"/></e>
+    <e lm="chin" r="LR"><p><l>chin</l><r>cun</r></p><par n="a__pr"/></e> <!-- @@!LSC -->
     <e lm="pro"><i>pro</i><par n="a__pr"/></e>
     <e lm="intre"><i>intre</i><par n="a__pr"/></e>
     <e lm="tra"><i>tra</i><par n="a__pr"/></e>

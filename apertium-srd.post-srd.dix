@@ -1,12 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <dictionary>
   <alphabet/>
-
   <sdefs>
-    <sdef n="n" c="Noun"/>
+    <sdef n="test"/>
   </sdefs>
 
   <pardefs>
+    <pardef n="caracter_general">
+      <e>
+        <i>;</i>
+      </e>
+      <e>
+        <i>#</i>
+      </e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+      <e>
+        <i>(</i>
+      </e>
+      <e>
+        <i>[</i>
+      </e>
+      <e>
+        <i>]</i>
+      </e>
+      <e>
+        <i>"</i>
+      </e>
+      <e>
+        <i>'</i>
+      </e>
+      <e>
+        <i>*</i>
+      </e>
+      <e>
+        <i>@</i>
+      </e>
+      <e>
+        <i>«</i>
+      </e>
+      <e>
+        <i>-</i>
+      </e>
+      <e>
+        <i>,</i>
+      </e>
+      <e>
+        <i>?</i>
+      </e>
+      <e>
+        <i>/</i>
+      </e>
+      <e>
+        <i>`</i>
+      </e>
+      <e>
+        <i>±</i>
+      </e>
+      <e>
+        <i>­</i>
+      </e>
+      <e>
+        <i>$</i>
+      </e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+      <e>
+        <i>.</i>
+      </e>
+    </pardef>
+
+    <pardef n="numeros">
+      <e>
+        <i>1</i>
+      </e>
+      <e>
+        <i>2</i>
+      </e>
+      <e>
+        <i>3</i>
+      </e>
+      <e>
+        <i>4</i>
+      </e>
+      <e>
+        <i>5</i>
+      </e>
+      <e>
+        <i>6</i>
+      </e>
+      <e>
+        <i>7</i>
+      </e>
+      <e>
+        <i>8</i>
+      </e>
+      <e>
+        <i>9</i>
+      </e>
+      <e>
+        <i>0</i>
+      </e>
+    </pardef>
+
+    <pardef n="consonants">
+      <e>
+        <i>b</i>
+      </e>
+      <e>
+        <i>c</i>
+      </e>
+      <e>
+        <i>d</i>
+      </e>
+      <e>
+        <i>f</i>
+      </e>
+      <e>
+        <i>g</i>
+      </e>
+      <e>
+        <i>j</i>
+      </e>
+      <e>
+        <i>k</i>
+      </e>
+      <e>
+        <i>l</i>
+      </e>
+      <e>
+        <i>m</i>
+      </e>
+      <e>
+        <i>n</i>
+      </e>
+      <e>
+        <i>p</i>
+      </e>
+      <e>
+        <i>q</i>
+      </e>
+      <e>
+        <i>r</i>
+      </e>
+      <e>
+        <i>s</i>
+      </e>
+      <e>
+        <i>t</i>
+      </e>
+      <e>
+        <i>v</i>
+      </e>
+      <e>
+        <i>w</i>
+      </e>
+      <e>
+        <i>x</i>
+      </e>
+      <e>
+        <i>y</i>
+      </e>
+      <e>
+        <i>z</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>b</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>c</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>d</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>f</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>g</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>j</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>k</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>l</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>m</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>n</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>p</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>q</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>r</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>s</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>t</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>v</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>w</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>x</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>y</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>z</i>
+      </e>
+    </pardef>
+
+
     <pardef n="vocals">
       <e>
         <i>a</i>
@@ -23,18 +251,241 @@
       <e>
         <i>u</i>
       </e>
-    </pardef>
-  </pardefs>
+      <e>
+        <i>é</i>
+      </e>
+      <e>
+        <i>í</i>
+      </e>
+      <e>
+        <i>ó</i>
+      </e>
+      <e>
+        <i>ú</i>
+      </e>
+      <e>
+        <i>à</i>
+      </e>
+      <e>
+        <i>á</i>
+      </e>
+      <e>
+        <i>è</i>
+      </e>
+      <e>
+        <i>ò</i>
+      </e>
+      <e>
+        <i>h</i>
+      </e>
+     <e>
+        <par n="caracter_general"/><i>a</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>e</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>i</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>o</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>u</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>é</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>í</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ó</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ú</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>à</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>á</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>è</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ò</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>h</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ì</i>
+      </e>
+      <e>
+        <i>ì</i>
+      </e>
+    </pardef> 
+
+   <pardef n="vocal_sin_h">
+      <e>
+        <i>a</i>
+      </e>
+      <e>
+        <i>e</i>
+      </e>
+      <e>
+        <i>i</i>
+      </e>
+      <e>
+        <i>o</i>
+      </e>
+      <e>
+        <i>u</i>
+      </e>
+      <e>
+        <i>é</i>
+      </e>
+      <e>
+        <i>í</i>
+      </e>
+      <e>
+        <i>ó</i>
+      </e>
+      <e>
+        <i>ú</i>
+      </e>
+      <e>
+        <i>à</i>
+      </e>
+      <e>
+        <i>á</i>
+      </e>
+      <e>
+        <i>è</i>
+      </e>
+      <e>
+        <i>ò</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>a</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>e</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>i</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>o</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>u</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>é</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>í</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ó</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ú</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>à</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>á</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>è</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>ò</i>
+      </e>
+   </pardef> 
+
+
+ </pardefs>
 
   <section id="main" type="standard">
-    <!-- Define entries within <e> here. See http://wiki.apertium.org/wiki/Post-generator for more information.-->
-    <e>
-      <p>
-        <l><a/>a<b/></l>
-        <r>an<b/></r>
-      </p>
-      <par n="vocals"/>
-    </e>
-  </section>
-</dictionary>
+     <e>
+        <p>
+          <l><a/>no<b/></l>
+          <r>no<b/></r>
+        </p>
+        <par n="vocals"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>no<b/></l>
+          <r>non<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>sa<b/></l>
+          <r>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>su<b/></l>
+          <r>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>s'<b/></l>
+          <r>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>s'<b/><a/>unu<b/></l>
+          <r>s'unu<b/></r>
+        </p>
+      </e>
 
+
+     <e>
+        <p>
+          <l><a/>una<b/></l>
+          <r>un'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>unu<b/></l>
+          <r>un'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>un'<b/></l>
+          <r>un'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>lu<b/></l>
+          <r>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+  </section>
+
+</dictionary>
