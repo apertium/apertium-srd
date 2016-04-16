@@ -2153,7 +2153,7 @@
     <e lm="coro"><i>coro</i><par n="pane__n"/></e>
     <e lm="robot"><i>robot</i><par n="pane__n"/></e>
     <e lm="gatzile"><i>gatzile</i><par n="pane__n"/></e>
-    <e lm="giardinu"><i>giardin</i><par n="giardin/u__n"/></e>
+    <e lm="giardinu"><i>giardin</i><par n="mac/u__n"/></e>
 
     <e lm="satellite"><i>satellite</i><par n="pane__n"/></e>
     <e lm="satellite" r="LR"><p><l>sàtellite</l><r>satellite</r></p><par n="pane__n"/></e>
