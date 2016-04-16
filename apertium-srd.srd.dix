@@ -2312,6 +2312,7 @@
     <e lm="ìsula" r="LR"><p><l>isola</l><r>ìsula</r></p><par n="mesa__n"/></e>
     <e lm="ìsula" r="LR"><p><l>isula</l><r>ìsula</r></p><par n="mesa__n"/></e>
     <e lm="mesa"><i>mesa</i><par n="mesa__n"/></e>
+    <e lm="ventana"><i>ventana</i><par n="mesa__n"/></e>
     <e lm="buca"><i>buca</i><par n="mesa__n"/></e>
     <e lm="làgrima"><i>làgrima</i><par n="mesa__n"/></e>
     <e lm="cabra"><i>cabra</i><par n="mesa__n"/></e>
@@ -4780,11 +4781,13 @@
     <e lm="pro ite"><i>pro<b/>ite</i><par n="cando__adv"/></e>
     <e lm="pro ite" r="LR"><p><l>pru<b/>itte</l><r>pro<b/>ite</r></p><par n="cando__adv"/></e>
 
+    <e lm="foras"><i>foras</i><par n="bene__adv"/></e>
     <e lm="ancora"><i>ancora</i><par n="bene__adv"/></e>
     <e lm="contra"><i>contra</i><par n="bene__adv"/></e>
     <e lm="intro"><i>intro</i><par n="bene__adv"/></e>
     <e lm="tantu"><i>tantu</i><par n="bene__adv"/></e>
     <e lm="prus"><i>prus</i><par n="bene__adv"/></e>
+    <e lm="abbellu-abbellu"><i>abbellu-abbellu</i><par n="bene__adv"/></e>
     <e lm="imbetzes"><i>imbetzes</i><par n="bene__adv"/></e>
     <e lm="mancu"><i>mancu</i><par n="bene__adv"/></e>
     <e lm="nessi"><i>nessi</i><par n="bene__adv"/></e>
