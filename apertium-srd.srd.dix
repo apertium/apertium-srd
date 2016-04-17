@@ -406,6 +406,11 @@
       <e r="LR"><p><l>is<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="nudda__prn">
+      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+    </pardef>
+
+
     <!-- SECTION: Determiners -->
 
     <pardef n="/su__det" c="p.25">
@@ -728,6 +733,10 @@
 
     <pardef n="cando__adv" c="p.31">
       <e>       <p><l></l><r><s n="adv"/><s n="itg"/></r></p></e>
+    </pardef>
+
+    <pardef n="cando__rel">
+      <e>       <p><l></l><r><s n="rel"/><s n="adv"/></r></p></e>
     </pardef>
 
     <pardef n="guasi__preadv" c="">
@@ -1880,17 +1889,21 @@
     <e lm="che"><i>che</i><par n="chi__cnjsub"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 
+    <!-- Probablemente esto es un rel.adv -->
     <e lm="comente"><i>comente</i><par n="chi__cnjsub"/></e>
     <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
     <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
     <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
     <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="chi__cnjsub"/></e>
 
-    <e lm="cando"><i>cando</i><par n="chi__cnjsub"/></e>
-    <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="chi__cnjsub"/></e>
+    <e lm="cando"><i>cando</i><par n="cando__rel"/></e>
+    <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="cando__rel"/></e>
+    
+    <!-- Probablemente esto es un rel.adv -->
     <e lm="pro ite"><i>pro<b/>ite</i><par n="chi__cnjsub"/></e>
     <e lm="pro ite" r="LR"><p><l>proite</l><r>pro<b/>ite</r></p><par n="chi__cnjsub"/></e>
     <e lm="pro ite ca"><i>pro<b/>ite<b/>ca</i><par n="chi__cnjsub"/></e>
+
     <!--<e lm="cantu"><i>cantu</i><par n="chi__cnjsub"/></e>-->
     <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
     <e lm="sigomente"><i>sigomente</i><par n="chi__cnjsub"/></e>
@@ -2026,6 +2039,8 @@
     <e lm="nche"><i>nche</i><par n="nde__prn"/></e>
 
     <e lm="su cale"><i></i><par n="/su_cale__rel"/></e>
+
+    <e lm="nudda"><i>nudda</i><par n="nudda__prn"/></e>
 
     <!-- SECTION: Determiners -->
 
