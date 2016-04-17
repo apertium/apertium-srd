@@ -3705,6 +3705,7 @@
     <e lm="sàbadu"><i>sàbad</i><par n="mac/u__n"/></e>
     <e lm="domìniga"><i>domìniga</i><par n="mesa__n"/></e>
     <e lm="domìnigu"><i>domìnig</i><par n="mac/u__n"/></e>
+    <e lm="giogu"><i>giog</i><par n="mac/u__n"/></e>
 
     <e lm="àrbore"><i>àrbore</i><par n="àrbore__n"/></e>
     <e lm="àrbore" r="LR"><p><l>àrvore</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
@@ -4812,6 +4813,7 @@
     <e lm="ancora"><i>ancora</i><par n="bene__adv"/></e>
     <e lm="contra"><i>contra</i><par n="bene__adv"/></e>
     <e lm="intro"><i>intro</i><par n="bene__adv"/></e>
+    <e lm="suta"><i>suta</i><par n="bene__adv"/></e>
     <e lm="tantu"><i>tantu</i><par n="bene__adv"/></e>
     <e lm="prus"><i>prus</i><par n="bene__adv"/></e>
     <e lm="abbellu-abbellu"><i>abbellu-abbellu</i><par n="bene__adv"/></e>
@@ -4859,6 +4861,7 @@
     <e lm="a bellu"><i>a<b/>bellu</i><par n="bene__adv"/></e>
     <e lm="a forte"><i>a<b/>forte</i><par n="bene__adv"/></e>
     <e lm="petzi"><i>petzi</i><par n="bene__adv"/></e>
+    <e lm="in tottue"><i>in<b/>tottue</i><par n="bene__adv"/></e>
     <e lm="isceti"><i>isceti</i><par n="bene__adv"/></e>
     <e lm="isceti" r="LR"><p><l>sceti</l><r>isceti</r></p><par n="bene__adv"/></e>
     <e lm="feti"><i>feti</i><par n="bene__adv"/></e>
