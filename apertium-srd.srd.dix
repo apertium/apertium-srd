@@ -1935,6 +1935,8 @@
     <e lm="a"><i>a</i><par n="a__pr"/></e>
     <e lm="de"><i></i><par n="/de__pr"/></e>
     <e lm="dae"><i>dae</i><par n="a__pr"/></e>
+    <e lm="dae segus"><i>dae<b/>segus</i><par n="a__pr"/></e>
+    <e lm="dae segus a"><i>dae<b/>segus<b/>a</i><par n="a__pr"/></e>
     <e lm="in"><i>in</i><par n="a__pr"/></e>
     <e lm="cun"><i>cun</i><par n="a__pr"/></e>
     <e lm="chin" r="LR"><p><l>chin</l><r>cun</r></p><par n="a__pr"/></e> <!-- @@!LSC -->
