@@ -512,7 +512,12 @@
     <pardef n="lapis__n">
       <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
- 
+  
+    <pardef n="àrbore__n">
+      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="dentista__n">
       <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -3698,6 +3703,11 @@
     <e lm="sàbadu"><i>sàbad</i><par n="mac/u__n"/></e>
     <e lm="domìniga"><i>domìniga</i><par n="mesa__n"/></e>
     <e lm="domìnigu"><i>domìnig</i><par n="mac/u__n"/></e>
+
+    <e lm="àrbore"><i>àrbore</i><par n="àrbore__n"/></e>
+    <e lm="àrbore" r="LR"><p><l>àrvore</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
+    <e lm="àrbore" r="LR"><p><l>àrvure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
+    <e lm="àrbore" r="LR"><p><l>àrbure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
 
     <!-- SECTION: Proper nouns -->
 
