@@ -1560,62 +1560,71 @@
       <e>       <p><l>atas</l><r>àghere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="p/òdere" c="p.47">
+      <e r="LR"><p><l>oder</l><r><s n="inf"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>òdere</l><r><s n="inf"/></r></p></e>
+      <e>       <p><l>òdere</l><r><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e r="LR"><p><l>odendi</l><r><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>odendi</l><r><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+      <e>       <p><l>odende</l><r><s n="ger"/></r></p></e>
+      <e>       <p><l>odende</l><r><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+
+      <e>       <p><l>otzo</l><r><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>odes</l><r><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+
+      <e r="LR"><p><l>odit</l><r><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>odat</l><r><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>odet</l><r><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e>       <p><l>odimus</l><r><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>odides</l><r><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>odint</l><r><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>oden</l><r><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>odent</l><r><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>odia</l><r><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>odias</l><r><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>odiat</l><r><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>odiamus</l><r><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>odiais</l><r><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>odiant</l><r><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>otza</l><r><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>otzas</l><r><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>otzat</l><r><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>otzamus</l><r><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>otzais</l><r><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>odant</l><r><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>otzant</l><r><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>odere</l><r><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>oderes</l><r><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>oderet</l><r><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>oderemus</l><r><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>odereis</l><r><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>oderent</l><r><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ode</l><r><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ode</l><r><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>otzat</l><r><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>otzamus</l><r><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>odide</l><r><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>otzant</l><r><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>òdidu</l><r><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>òdida</l><r><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>òdidos</l><r><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>òdidas</l><r><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+
     <pardef n="p/òdere__vblex" c="p.47">
-      <e r="LR"><p><l>oder</l><r>òdere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>òdere</l><r>òdere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>òdere</l><r>òdere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e>       <p><l></l><r>òdere<s n="vblex"/></r></p><par n="p/òdere"/></e>
+    </pardef>
 
-      <e r="LR"><p><l>odendi</l><r>òdere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>odendi</l><r>òdere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>odende</l><r>òdere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>odende</l><r>òdere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
-
-      <e>       <p><l>otzo</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>odes</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>odit</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>odat</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>odet</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-
-      <e>       <p><l>odimus</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>odides</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>odint</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>oden</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>odent</l><r>òdere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>odia</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>odias</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>odiat</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>odiamus</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>odiais</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>odiant</l><r>òdere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>otza</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>otzas</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>otzat</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>otzamus</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>otzais</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>odant</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>otzant</l><r>òdere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>odere</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oderes</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oderet</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oderemus</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>odereis</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>oderent</l><r>òdere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>ode</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ode</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
-      <e>       <p><l>otzat</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>otzamus</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>odide</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>otzant</l><r>òdere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>òdidu</l><r>òdere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>òdida</l><r>òdere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>òdidos</l><r>òdere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>òdidas</l><r>òdere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    <pardef n="p/òdere__vbmod" c="p.47">
+      <e>       <p><l></l><r>òdere<s n="vbmod"/></r></p><par n="p/òdere"/></e>
     </pardef>
 
     <pardef n="sig/hire__vblex" c="p.48">
@@ -3149,6 +3158,7 @@
     <e lm="architetura" r="LR"><p><l>architettura</l><r>architetura</r></p><par n="mesa__n"/></e>
 
     <e lm="partighedda"><i>partighedda</i><par n="mesa__n"/></e>
+    <e lm="manedda"><i>manedda</i><par n="mesa__n"/></e>
     <e lm="informàtica"><i>informàti</i><par n="linguìsti/ca__n"/></e>
 
     <e lm="opositzione"><i>opositzion</i><par n="region/e__n"/></e>
@@ -4674,6 +4684,7 @@
     <e lm="italianu"><i>italian</i><par n="frantzes/u__adj"/></e>
     <e lm="latinu"><i>latin</i><par n="frantzes/u__adj"/></e>
     <e lm="sardu"><i>sard</i><par n="frantzes/u__adj"/></e>
+    <e lm="felitze"><i>felitz</i><par n="fàtzil/e__adj"/></e>
 
     <e lm="castiglianu"><i>castiglian</i><par n="frantzes/u__adj"/></e>
 
@@ -4744,11 +4755,13 @@
     <e lm="giustu"><i>giust</i><par n="frantzes/u__adj"/></e>
     <e lm="giustu" r="LR"><p><l>zust</l><r>giust</r></p><par n="frantzes/u__adj"/></e>
     <e lm="distintu"><i>distint</i><par n="frantzes/u__adj"/></e>
+    <e lm="cuntentu"><i>cuntent</i><par n="frantzes/u__adj"/></e>
     <e lm="santu"><i>sant</i><par n="frantzes/u__adj"/></e>
     <e lm="seguru"><i>segur</i><par n="frantzes/u__adj"/></e>
     <e lm="giurìdicu"><i>giurìdi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="giurìdicu" r="LR"><p><l>zurìdi</l><r>giurìdi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="sinistru"><i>sinistr</i><par n="frantzes/u__adj"/></e>
+    <e lm="lestru"><i>lestr</i><par n="frantzes/u__adj"/></e>
     <e lm="catolicu"><i>catoli</i><par n="linguìsti/cu__adj"/></e>
     <e lm="contrariu"><i>contrari</i><par n="frantzes/u__adj"/></e>
     <e lm="mediterràneu"><i>mediterràne</i><par n="frantzes/u__adj"/></e>
@@ -5123,7 +5136,7 @@
     <e lm="a bellu"><i>a<b/>bellu</i><par n="bene__adv"/></e>
     <e lm="a forte"><i>a<b/>forte</i><par n="bene__adv"/></e>
     <e lm="petzi"><i>petzi</i><par n="bene__adv"/></e>
-    <e lm="in tottue"><i>in<b/>tottue</i><par n="bene__adv"/></e>
+    <e lm="in totue"><i>in<b/>totue</i><par n="bene__adv"/></e>
     <e lm="isceti"><i>isceti</i><par n="bene__adv"/></e>
     <e lm="isceti" r="LR"><p><l>sceti</l><r>isceti</r></p><par n="bene__adv"/></e>
     <e lm="feti"><i>feti</i><par n="bene__adv"/></e>
@@ -5827,6 +5840,7 @@
     <e lm="fàghere parte" r="LR"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parti</l><r><g><b/>parte</g></r></p></e> 
 
     <e lm="pòdere"><i>p</i><par n="p/òdere__vblex"/></e> 
+    <e lm="pòdere"><i>p</i><par n="p/òdere__vbmod"/></e> 
 
     <e lm="sighire"><i>sig</i><par n="sig/hire__vblex"/></e>
     <e lm="cunsighire"><i>cunsig</i><par n="sig/hire__vblex"/></e>
