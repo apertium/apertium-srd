@@ -3712,6 +3712,9 @@
     <e lm="pugione"><i>pugione</i><par n="pane__n"/></e>
     <e lm="dimanda"><i>dimanda</i><par n="mesa__n"/></e>
 
+    <e lm="resposta"><i>resposta</i><par n="mesa__n"/></e>
+    <e lm="resposta" r="LR"><p><l>risposta</l><r>resposta</r></p><par n="mesa__n"/></e>
+
     <e lm="àrbore"><i>àrbore</i><par n="àrbore__n"/></e>
     <e lm="àrbore" r="LR"><p><l>àrvore</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
     <e lm="àrbore" r="LR"><p><l>àrvure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
