@@ -4151,6 +4151,7 @@
     <!-- SECTION: Proper nouns -->
 
     <e lm="Etiòpia"><i>Etiòpia</i><par n="Etiòpia__np"/></e>
+    <e lm="Guernica"><i>Guernica</i><par n="Etiòpia__np"/></e>
     <e lm="Vall d'Aran"><i>Vall<b/>d'Aran</i><par n="Etiòpia__np"/></e>
     <e lm="Vall d'Aran" r="LR"><p><l>Val<b/>d'Aran</l><r>Vall<b/>d'Aran</r></p><par n="Etiòpia__np"/></e>
 
@@ -4858,6 +4859,7 @@
     <e lm="latinu"><i>latin</i><par n="frantzes/u__adj"/></e>
     <e lm="sardu"><i>sard</i><par n="frantzes/u__adj"/></e>
     <e lm="felitze"><i>felitz</i><par n="fàtzil/e__adj"/></e>
+    <e lm="capitale"><i>capital</i><par n="fàtzil/e__adj"/></e>
 
     <e lm="castiglianu"><i>castiglian</i><par n="frantzes/u__adj"/></e>
 
@@ -5593,7 +5595,6 @@
     <e lm="parare"><i>par</i><par n="cant/are__vblex"/></e>
     <e lm="devastare"><i>devast</i><par n="cant/are__vblex"/></e>
     <e lm="lassare"><i>lass</i><par n="cant/are__vblex"/></e>
-    <e lm="respetare"><i>respet</i><par n="cant/are__vblex"/></e>
     <e lm="signare"><i>sign</i><par n="cant/are__vblex"/></e>
     <e lm="imparare"><i>impar</i><par n="cant/are__vblex"/></e>
     <e lm="delimitare"><i>delimit</i><par n="cant/are__vblex"/></e>
