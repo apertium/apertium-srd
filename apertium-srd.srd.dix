@@ -3537,7 +3537,8 @@
     <e lm="norma"><i>norma</i><par n="mesa__n"/></e>
     <e lm="novidade"><i>novidad</i><par n="identidad/e__n"/></e>
     <e lm="fantàsia"><i>fantàsia</i><par n="mesa__n"/></e>
-    <e lm="area"><i>area</i><par n="mesa__n"/></e>
+    <e lm="àrea"><i>àrea</i><par n="mesa__n"/></e>
+    <e lm="àrea" r="LR" c="!LSC"><p><l>area</l><r>àrea</r></p><par n="mesa__n"/></e>
     <e lm="bentana"><i>bentana</i><par n="mesa__n"/></e>
     <e lm="armonia"><i>armonia</i><par n="mesa__n"/></e>
     <e lm="sorte"><i>sorte</i><par n="mesa__n"/></e>
@@ -5564,7 +5565,6 @@
     <e lm="cunfirmare"><i>cunfirm</i><par n="cant/are__vblex"/></e>
     <e lm="formalizare"><i>formaliz</i><par n="cant/are__vblex"/></e>
 
-    <e lm="fundare"><i>fund</i><par n="cant/are__vblex"/></e>
     <e lm="fundare" r="LR"><p><l>fundh</l><r>fund</r></p><par n="cant/are__vblex"/></e>
     <e lm="fundare supra"><i>fund</i><par n="cant/are__vblex"/><p><l><b/>supra</l><r><g><b/>supra</g></r></p></e>
     <e lm="fundare supra" r="LR"><p><l>fundh</l><r>fund</r></p><par n="cant/are__vblex"/><p><l><b/>supra</l><r><g><b/>supra</g></r></p></e>
@@ -5760,8 +5760,6 @@
     <e lm="derivare"><i>deriv</i><par n="cant/are__vblex"/></e>
     <e lm="bortare"><i>bort</i><par n="cant/are__vblex"/></e>
     <e lm="esperimentare"><i>esperiment</i><par n="cant/are__vblex"/></e>
-    <e lm="creare"><i>cre</i><par n="cant/are__vblex"/></e>
-    <e lm="creare" r="LR"><p><l>cri</l><r>cre</r></p><par n="cant/are__vblex"/></e>
     <e lm="collaborare"><i>collabor</i><par n="cant/are__vblex"/></e>
     <e lm="imbentare" r="LR"><p><l>invent</l><r>imbent</r></p><par n="cant/are__vblex"/></e>
     <e lm="esecutare"><i>esecut</i><par n="cant/are__vblex"/></e>
@@ -5822,7 +5820,6 @@
     <e lm="assigurare"><i>assigur</i><par n="cant/are__vblex"/></e>
     <e lm="assigurare" r="LR"><p><l>assegur</l><r>assigur</r></p><par n="cant/are__vblex"/></e>
     <e lm="trasformare"><i>trasform</i><par n="cant/are__vblex"/></e>
-    <e lm="operare"><i>oper</i><par n="cant/are__vblex"/></e>
     <e lm="lìberare"><i>lìber</i><par n="cant/are__vblex"/></e>
     <e lm="lìberare" r="LR"><p><l>liber</l><r>lìber</r></p><par n="cant/are__vblex"/></e>
     <e lm="evitare"><i>evit</i><par n="cant/are__vblex"/></e>
@@ -5852,7 +5849,6 @@
 
 
     <e lm="adatare"><i>adat</i><par n="cant/are__vblex"/></e>
-    <e lm="cunservare"><i>cunserv</i><par n="cant/are__vblex"/></e>
     <e lm="comunicare"><i>comunic</i><par n="cant/are__vblex"/></e>
     <e lm="cuncambiare"><i>cuncambi</i><par n="cant/are__vblex"/></e>
     <e lm="identificare"><i>identific</i><par n="cant/are__vblex"/></e>
@@ -5909,8 +5905,6 @@
     <e lm="iscrìere" r="LR"><p><l>iscri</l><r>iscrì</r></p><par n="tim/ere__vblex"/></e>
     <e lm="descrìere"><i>descrì</i><par n="tim/ere__vblex"/></e>
     <e lm="descrìere" r="LR"><p><l>descri</l><r>descrì</r></p><par n="tim/ere__vblex"/></e>
-    <e lm="nàschere"><i>nàsch</i><par n="tim/ere__vblex"/></e>
-    <e lm="nàschere" r="LR"><p><l>nasch</l><r>nàsch</r></p><par n="tim/ere__vblex"/></e>
     <e lm="costituiere"><i>costitui</i><par n="tim/ere__vblex"/></e>
     <e lm="costituiere" r="LR"><p><l>constitui</l><r>costitui</r></p><par n="tim/ere__vblex"/></e>
     <e lm="bìnchere"><i>bìnch</i><par n="tim/ere__vblex"/></e>
@@ -5960,7 +5954,6 @@
     <e lm="proibire" r="LR"><p><l>preub</l><r>proib</r></p><par n="fin/ire__vblex"/></e>
     <e lm="servire"><i>serv</i><par n="fin/ire__vblex"/></e>
     <e lm="cunsentire"><i>cunsent</i><par n="fin/ire__vblex"/></e>
-    <e lm="sostituire"><i>sostitu</i><par n="fin/ire__vblex"/></e>
     <e lm="garantire"><i>garant</i><par n="fin/ire__vblex"/></e>
 
     <e lm="cuntènnere"><i>cunt</i><par n="t/ènnere__vblex"/></e>
@@ -5991,7 +5984,6 @@
     <e lm="bogare"><i>bog</i><par n="seg/are__vblex"/></e>
     <e lm="brigare"><i>brig</i><par n="seg/are__vblex"/></e>
     <e lm="catalogare"><i>catalog</i><par n="seg/are__vblex"/></e>
-    <e lm="ligare"><i>lig</i><par n="seg/are__vblex"/></e>
     <e lm="imbentare"><i>imbent</i><par n="seg/are__vblex"/></e>
     <e lm="negare"><i>neg</i><par n="seg/are__vblex"/></e>
     <e lm="dennegare"><i>denneg</i><par n="seg/are__vblex"/></e>
@@ -14201,6 +14193,7 @@
     <e lm="cratzare"><p><l>cratz</l><r>cratzare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="cravare"><p><l>crav</l><r>cravare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="creare"><p><l>cre</l><r>creare</r></p><par n="acabb/are__vblex"/></e>
+    <e lm="creare" r="LR" c="!LSC"><p><l>cri</l><r>creare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="crebare"><p><l>creb</l><r>crebare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="crebulare"><p><l>crebul</l><r>crebulare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="creculare"><p><l>crecul</l><r>creculare</r></p><par n="acabb/are__vblex"/></e>
