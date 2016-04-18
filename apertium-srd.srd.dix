@@ -4881,6 +4881,7 @@
 
     <e lm="meda"><i>meda</i><par n="meda__adj"/></e>
     <e lm="meda" r="LR"><p><l>mera</l><r>meda</r></p><par n="meda__adj"/></e>
+    <e lm="caente"><i>caente</i><par n="meda__adj"/></e>
     <e lm="indipendentista"><i>indipendentista</i><par n="meda__adj"/></e>
     <e lm="socialista"><i>socialista</i><par n="meda__adj"/></e>
     <e lm="generalista"><i>generalista</i><par n="meda__adj"/></e>
