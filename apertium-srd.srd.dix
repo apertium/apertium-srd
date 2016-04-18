@@ -4161,6 +4161,7 @@
     <e lm="pugione"><i>pugione</i><par n="pane__n"/></e>
     <e lm="dimanda"><i>dimanda</i><par n="mesa__n"/></e>
 
+    <e lm="paisu"><i>pais</i><par n="mac/u__n"/></e>
     <e lm="frutu"><i>frut</i><par n="mac/u__n"/></e>
     <e lm="frutu" r="LR" c="!LSC"><p><l>frutt</l><r>frut</r></p><par n="mac/u__n"/></e>
 
