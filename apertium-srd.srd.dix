@@ -1865,6 +1865,101 @@
       <e>       <p><l>aradas</l><r>àrrere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <!-- !!! Nuevo sistema de HUNSPELL !!! -->
+
+    <pardef n="sètz/ere__vblex">
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>idos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>idas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="setz/o__vblex">
+      <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>imus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eres</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eremus</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ereis</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>erent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>e</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+    <pardef n="règ/ere__vblex">
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>idos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>idas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="reg/o__vblex">
+      <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hes</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>het</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>himus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>hia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hiamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>here</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heres</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heremus</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hereis</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>herent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>he</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>hende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+
 
   </pardefs>
 
@@ -1937,6 +2032,7 @@
     <e lm="dae"><i>dae</i><par n="a__pr"/></e>
     <e lm="dae segus"><i>dae<b/>segus</i><par n="a__pr"/></e>
     <e lm="dae segus a"><i>dae<b/>segus<b/>a</i><par n="a__pr"/></e>
+    <e lm="dae in antis"><i>dae<b/>in<b/>antis</i><par n="a__pr"/></e>
     <e lm="in"><i>in</i><par n="a__pr"/></e>
     <e lm="cun"><i>cun</i><par n="a__pr"/></e>
     <e lm="chin" r="LR"><p><l>chin</l><r>cun</r></p><par n="a__pr"/></e> <!-- @@!LSC -->
@@ -5483,8 +5579,6 @@
     <e lm="emergere"><i>emerg</i><par n="tim/ere__vblex"/></e>
     <e lm="rìere"><i>rì</i><par n="tim/ere__vblex"/></e>
     <e lm="crèere"><i>crè</i><par n="tim/ere__vblex"/></e>
-    <e lm="bìdere"><i>bìd</i><par n="tim/ere__vblex"/></e>
-    <e lm="bìdere" r="LR"><p><l>bid</l><r>bìd</r></p><par n="tim/ere__vblex"/></e>
     <e lm="imparere"><i>impar</i><par n="tim/ere__vblex"/></e>
     <e lm="provochere"><i>provoch</i><par n="tim/ere__vblex"/></e>
     <e lm="iscrìere"><i>iscrì</i><par n="tim/ere__vblex"/></e>
@@ -5516,7 +5610,6 @@
     <e lm="istabilire"><i>istabil</i><par n="fin/ire__vblex"/></e>
     <e lm="essire"><i>ess</i><par n="fin/ire__vblex"/></e>
     <e lm="divenire"><i>diven</i><par n="fin/ire__vblex"/></e>
-    <e lm="bidire"><i>bid</i><par n="fin/ire__vblex"/></e>
     <e lm="produire"><i>produ</i><par n="fin/ire__vblex"/></e>
     <e lm="finire"><i>fin</i><par n="fin/ire__vblex"/></e>
     <e lm="defìnire"><i>defìn</i><par n="fin/ire__vblex"/></e>
@@ -5550,7 +5643,6 @@
     <e lm="cunsentire"><i>cunsent</i><par n="fin/ire__vblex"/></e>
     <e lm="sentire"><i>sent</i><par n="fin/ire__vblex"/></e>
     <e lm="retzire"><i>retz</i><par n="fin/ire__vblex"/></e>
-    <e lm="dirigire"><i>dirig</i><par n="fin/ire__vblex"/></e>
     <e lm="sostituire"><i>sostitu</i><par n="fin/ire__vblex"/></e>
     <e lm="garantire"><i>garant</i><par n="fin/ire__vblex"/></e>
     <e lm="partire"><i>part</i><par n="fin/ire__vblex"/></e>
@@ -13072,6 +13164,805 @@
     <e lm="zodìacu"><i>zodìac</i><par n="mac/u__n"/></e>
     <e lm="zumiamentu"><i>zumiament</i><par n="mac/u__n"/></e>
     <e lm="zunzellu"><i>zunzell</i><par n="mac/u__n"/></e>
+
+
+    <!-- SECTION: Verbs -->
+
+    <!-- SECTION: II Coniugatzione in -ere 
+
+      # Tocat a ponni in su ditzionariu s'infinidu e su indicativu presente primu persona sing.
+      # cun sa regula /I (tìmere/I timo/I). Non balet po su verbou pòder ca est totu iregolare
+      # (castia regula /J).
+      #
+      # Po is verbos iregolares che acabang in [gc]here (che còghere, tìnghere, bìnchere, etc.) tocat a
+      # fàgher su propriu sa regula /I (còghere/I cogo/I). Non balet po su verbou fàghere ca est totu
+      # iregolare (castia regula /J).
+      
+    -->
+
+    <e lm="aborrèssere"><p><l>aborrèss</l><r>aborrèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="aborrèssere"><p><l>aborress</l><r>aborrèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="acadèssere"><p><l>acadèss</l><r>acadèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="acadèssere"><p><l>acadess</l><r>acadèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="acòllere"><p><l>acòll</l><r>acòllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="acòllere"><p><l>acoll</l><r>acòllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="acontèssere"><p><l>acontèss</l><r>acontèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="acontèssere"><p><l>acontess</l><r>acontèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="acràere"><p><l>acrà</l><r>acràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="acràere"><p><l>acra</l><r>acràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="addùghere"><p><l>addùgh</l><r>addùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="addùghere"><p><l>addug</l><r>addùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="aèschere"><p><l>aèsch</l><r>aèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="aèschere"><p><l>aesc</l><r>aèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="agiùnghere"><p><l>agiùngh</l><r>agiùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="agiùnghere"><p><l>agiung</l><r>agiùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="agradèssere"><p><l>agradèss</l><r>agradèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="agradèssere"><p><l>agradess</l><r>agradèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="allùghere"><p><l>allùgh</l><r>allùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="allùghere"><p><l>allug</l><r>allùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ammalèschere"><p><l>ammalèsch</l><r>ammalèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ammalèschere"><p><l>ammalesc</l><r>ammalèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ammìtere"><p><l>ammìt</l><r>ammìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ammìtere"><p><l>ammit</l><r>ammìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ammustèrchere"><p><l>ammustèrch</l><r>ammustèrchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ammustèrchere"><p><l>ammusterc</l><r>ammustèrchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="annànghere"><p><l>annàngh</l><r>annànghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="annànghere"><p><l>annang</l><r>annànghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="aparèssere"><p><l>aparèss</l><r>aparèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="aparèssere"><p><l>aparess</l><r>aparèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="apòrrere"><p><l>apòrr</l><r>apòrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="apòrrere"><p><l>aporr</l><r>apòrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="arrèere"><p><l>arrè</l><r>arrèere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="arrèndere"><p><l>arrènd</l><r>arrèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="arrèndere"><p><l>arrend</l><r>arrèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="arrèere"><p><l>arre</l><r>arrèere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="arrèschere"><p><l>arrèsch</l><r>arrèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="arrèschere"><p><l>arresc</l><r>arrèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="arròschere"><p><l>arròsch</l><r>arròschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="arròschere"><p><l>arrosc</l><r>arròschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="arruèschere"><p><l>arruèsch</l><r>arruèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="arruèschere"><p><l>arruesc</l><r>arruèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="assìstere"><p><l>assìst</l><r>assìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="assìstere"><p><l>assist</l><r>assìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="assòlvere"><p><l>assòlv</l><r>assòlvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="assòlvere"><p><l>assolv</l><r>assòlvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="assùmere"><p><l>assùm</l><r>assùmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="assùmere"><p><l>assum</l><r>assùmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="astrìnghere"><p><l>astrìngh</l><r>astrìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="astrìnghere"><p><l>astring</l><r>astrìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="atèndere"><p><l>atènd</l><r>atèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="atèndere"><p><l>atend</l><r>atèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="atràere"><p><l>atrà</l><r>atràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="atràere"><p><l>atra</l><r>atràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="atzèdere"><p><l>atzèd</l><r>atzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="atzèdere"><p><l>atzed</l><r>atzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="avalèssere"><p><l>avalèss</l><r>avalèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="avalèssere"><p><l>avaless</l><r>avalèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="avèrtere"><p><l>avèrt</l><r>avèrtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="avèrtere"><p><l>avert</l><r>avèrtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bàere"><p><l>bà</l><r>bàere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bàere"><p><l>ba</l><r>bàere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bèndere"><p><l>bènd</l><r>bèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bèndere"><p><l>bend</l><r>bèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="beneìghere"><p><l>beneìgh</l><r>beneìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="beneìghere"><p><l>beneig</l><r>beneìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bìdere"><p><l>bìd</l><r>bìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bìdere"><p><l>bid</l><r>bìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bìere"><p><l>bì</l><r>bìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bìnchere"><p><l>bìnch</l><r>bìnchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bìnchere"><p><l>binc</l><r>bìnchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bìere"><p><l>bi</l><r>bìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bìvere"><p><l>bìv</l><r>bìvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bìvere"><p><l>biv</l><r>bìvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="bòmbere"><p><l>bòmb</l><r>bòmbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="bòmbere"><p><l>bomb</l><r>bòmbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="càbere"><p><l>càb</l><r>càbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="càbere"><p><l>cab</l><r>càbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="calèschere"><p><l>calèsch</l><r>calèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="calèschere"><p><l>calesc</l><r>calèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="candèssere"><p><l>candèss</l><r>candèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="candèssere"><p><l>candess</l><r>candèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="chìghere"><p><l>chìgh</l><r>chìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="chìghere"><p><l>chig</l><r>chìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="chìnghere"><p><l>chìngh</l><r>chìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="chìnghere"><p><l>ching</l><r>chìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cointzìdere"><p><l>cointzìd</l><r>cointzìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cointzìdere"><p><l>cointzid</l><r>cointzìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="combìnchere"><p><l>combìnch</l><r>combìnchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="combìnchere"><p><l>combinc</l><r>combìnchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="commòvere"><p><l>commòv</l><r>commòvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="commòvere"><p><l>commov</l><r>commòvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="concòghere"><p><l>concògh</l><r>concòghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="concòghere"><p><l>concog</l><r>concòghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="concùrrere"><p><l>concùrr</l><r>concùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="concùrrere"><p><l>concurr</l><r>concùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="confùndere"><p><l>confùnd</l><r>confùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="confùndere"><p><l>confund</l><r>confùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="congiùnghere"><p><l>congiùngh</l><r>congiùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="congiùnghere"><p><l>congiung</l><r>congiùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="connètere"><p><l>connèt</l><r>connètere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="connètere"><p><l>connet</l><r>connètere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="connòschere"><p><l>connòsch</l><r>connòschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="connòschere"><p><l>connosc</l><r>connòschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="contraìghere"><p><l>contraìgh</l><r>contraìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="contraìghere"><p><l>contraig</l><r>contraìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="còrfere"><p><l>còrf</l><r>còrfere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="còrfere"><p><l>corf</l><r>còrfere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="corrispòndere"><p><l>corrispònd</l><r>corrispòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="corrispòndere"><p><l>corrispond</l><r>corrispòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="corròmpere"><p><l>corròmp</l><r>corròmpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="corròmpere"><p><l>corromp</l><r>corròmpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="corrùmpere"><p><l>corrùmp</l><r>corrùmpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="corrùmpere"><p><l>corrump</l><r>corrùmpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="costrìnghere"><p><l>costrìngh</l><r>costrìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="costrìnghere"><p><l>costring</l><r>costrìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="costrùere"><p><l>costrù</l><r>costrùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="costrùere"><p><l>costru</l><r>costrùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cràere"><p><l>crà</l><r>cràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cràere"><p><l>cra</l><r>cràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="crèere"><p><l>crè</l><r>crèere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="crèere"><p><l>cre</l><r>crèere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="crèschere"><p><l>crèsch</l><r>crèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="crèschere"><p><l>cresc</l><r>crèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cròere"><p><l>crò</l><r>cròere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cròmpere"><p><l>cròmp</l><r>cròmpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cròmpere"><p><l>cromp</l><r>cròmpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cròere"><p><l>cr</l><r>cròere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cùbere"><p><l>cùb</l><r>cùbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cùbere"><p><l>cub</l><r>cùbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumbàtere"><p><l>cumbàt</l><r>cumbàtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumbàtere"><p><l>cumbat</l><r>cumbàtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumbèrtere"><p><l>cumbèrt</l><r>cumbèrtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumbèrtere"><p><l>cumbert</l><r>cumbèrtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumbìnchere"><p><l>cumbìnch</l><r>cumbìnchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumbìnchere"><p><l>cumbinc</l><r>cumbìnchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cummìtere"><p><l>cummìt</l><r>cummìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cummìtere"><p><l>cummit</l><r>cummìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cummòvere"><p><l>cummòv</l><r>cummòvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cummòvere"><p><l>cummov</l><r>cummòvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumpadèssere"><p><l>cumpadèss</l><r>cumpadèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumpadèssere"><p><l>cumpadess</l><r>cumpadèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumpètere"><p><l>cumpèt</l><r>cumpètere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumpètere"><p><l>cumpet</l><r>cumpètere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumpràghere"><p><l>cumpràgh</l><r>cumpràghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumpràghere"><p><l>cumprag</l><r>cumpràghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumprèndere"><p><l>cumprènd</l><r>cumprèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumprèndere"><p><l>cumprend</l><r>cumprèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cumpromìtere"><p><l>cumpromìt</l><r>cumpromìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cumpromìtere"><p><l>cumpromit</l><r>cumpromìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cuncòghere"><p><l>cuncògh</l><r>cuncòghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cuncòghere"><p><l>cuncog</l><r>cuncòghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cuncùrrere"><p><l>cuncùrr</l><r>cuncùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cuncùrrere"><p><l>cuncurr</l><r>cuncùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cungiùnghere"><p><l>cungiùngh</l><r>cungiùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cungiùnghere"><p><l>cungiung</l><r>cungiùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cunsìstere"><p><l>cunsìst</l><r>cunsìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cunsìstere"><p><l>cunsist</l><r>cunsìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cuntzèdere"><p><l>cuntzèd</l><r>cuntzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cuntzèdere"><p><l>cuntzed</l><r>cuntzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cuntzèrnere"><p><l>cuntzèrn</l><r>cuntzèrnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cuntzèrnere"><p><l>cuntzern</l><r>cuntzèrnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cunvèrtere"><p><l>cunvèrt</l><r>cunvèrtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cunvèrtere"><p><l>cunvert</l><r>cunvèrtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cunvìvere"><p><l>cunvìv</l><r>cunvìvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cunvìvere"><p><l>cunviv</l><r>cunvìvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="cùrrere"><p><l>cùrr</l><r>cùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="currispòndere"><p><l>currispònd</l><r>currispòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="currispòndere"><p><l>currispond</l><r>currispòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="cùrrere"><p><l>curr</l><r>cùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="custrìnghere"><p><l>custrìngh</l><r>custrìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="custrìnghere"><p><l>custring</l><r>custrìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="decàdere"><p><l>decàd</l><r>decàdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="decadèssere"><p><l>decadèss</l><r>decadèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="decadèssere"><p><l>decadess</l><r>decadèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="decàdere"><p><l>decad</l><r>decàdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="decùrrere"><p><l>decùrr</l><r>decùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="decùrrere"><p><l>decurr</l><r>decùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dèghere"><p><l>dègh</l><r>dèghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dèghere"><p><l>deg</l><r>dèghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="delìncuere"><p><l>delìncu</l><r>delìncuere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="delìncuere"><p><l>delincu</l><r>delìncuere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="delùdere"><p><l>delùd</l><r>delùdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="delùdere"><p><l>delud</l><r>delùdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="demerèssere"><p><l>demerèss</l><r>demerèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="demerèssere"><p><l>demeress</l><r>demerèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dèpere"><p><l>dèp</l><r>dèpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dèpere"><p><l>dep</l><r>dèpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="derrùere"><p><l>derrù</l><r>derrùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="derrùere"><p><l>derru</l><r>derrùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="descadèssere"><p><l>descadèss</l><r>descadèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="descadèssere"><p><l>descadess</l><r>descadèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="descrìere"><p><l>descrì</l><r>descrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="descrìere"><p><l>descri</l><r>descrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="deslùghere"><p><l>deslùgh</l><r>deslùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="deslùghere"><p><l>deslug</l><r>deslùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="desmerèssere"><p><l>desmerèss</l><r>desmerèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="desmerèssere"><p><l>desmeress</l><r>desmerèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="desvanèssere"><p><l>desvanèss</l><r>desvanèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="desvanèssere"><p><l>desvaness</l><r>desvanèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="detzìdere"><p><l>detzìd</l><r>detzìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="detzìdere"><p><l>detzid</l><r>detzìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="devènnere"><p><l>devènn</l><r>devènnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="devènnere"><p><l>devenn</l><r>devènnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dèvere"><p><l>dèv</l><r>dèvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dèvere"><p><l>dev</l><r>dèvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="devòlvere"><p><l>devòlv</l><r>devòlvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="devòlvere"><p><l>devolv</l><r>devòlvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dibàtere"><p><l>dibàt</l><r>dibàtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dibàtere"><p><l>dibat</l><r>dibàtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="difèndere"><p><l>difènd</l><r>difèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="difèndere"><p><l>difend</l><r>difèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="difùndere"><p><l>difùnd</l><r>difùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="difùndere"><p><l>difund</l><r>difùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dimìtere"><p><l>dimìt</l><r>dimìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dimìtere"><p><l>dimit</l><r>dimìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dipèndere"><p><l>dipènd</l><r>dipèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dipèndere"><p><l>dipend</l><r>dipèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="disagradèssere"><p><l>disagradèss</l><r>disagradèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="disagradèssere"><p><l>disagradess</l><r>disagradèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="disconnòschere"><p><l>disconnòsch</l><r>disconnòschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="disconnòschere"><p><l>disconnosc</l><r>disconnòschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="discrèere"><p><l>discrè</l><r>discrèere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="discrèere"><p><l>discre</l><r>discrèere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="discumpàrrere"><p><l>discumpàrr</l><r>discumpàrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="discumpàrrere"><p><l>discumparr</l><r>discumpàrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="discùtere"><p><l>discùt</l><r>discùtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="discùtere"><p><l>discut</l><r>discùtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="disintèndere"><p><l>disintènd</l><r>disintèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="disintèndere"><p><l>disintend</l><r>disintèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dismerèssere"><p><l>dismerèss</l><r>dismerèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dismerèssere"><p><l>dismeress</l><r>dismerèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dispìdere"><p><l>dispìd</l><r>dispìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dispìdere"><p><l>dispid</l><r>dispìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dispràghere"><p><l>dispràgh</l><r>dispràghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dispràghere"><p><l>disprag</l><r>dispràghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dissòlvere"><p><l>dissòlv</l><r>dissòlvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dissòlvere"><p><l>dissolv</l><r>dissòlvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="distìnghere"><p><l>distìngh</l><r>distìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="distìnghere"><p><l>disting</l><r>distìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="distràere"><p><l>distrà</l><r>distràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="distràere"><p><l>distra</l><r>distràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="distrùere"><p><l>distrù</l><r>distrùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="distrùere"><p><l>distru</l><r>distrùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="divìdere"><p><l>divìd</l><r>divìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="divìdere"><p><l>divid</l><r>divìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="dòlere"><p><l>dòl</l><r>dòlere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="dòlere"><p><l>dol</l><r>dòlere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="emìtere"><p><l>emìt</l><r>emìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="emìtere"><p><l>emit</l><r>emìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="èpere"><p><l>èp</l><r>èpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="èpere"><p><l>ep</l><r>èpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esclùdere"><p><l>esclùd</l><r>esclùdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esclùdere"><p><l>esclud</l><r>esclùdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esclùere"><p><l>esclù</l><r>esclùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esclùere"><p><l>esclu</l><r>esclùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esìstere"><p><l>esìst</l><r>esìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esìstere"><p><l>esist</l><r>esìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="espèllere"><p><l>espèll</l><r>espèllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="espèllere"><p><l>espell</l><r>espèllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esplòdere"><p><l>esplòd</l><r>esplòdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esplòdere"><p><l>esplod</l><r>esplòdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esprìmere"><p><l>esprìm</l><r>esprìmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esprìmere"><p><l>esprim</l><r>esprìmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="estèndere"><p><l>estènd</l><r>estèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="estèndere"><p><l>estend</l><r>estèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="estremèssere"><p><l>estremèss</l><r>estremèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="estremèssere"><p><l>estremess</l><r>estremèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="esùmere"><p><l>esùm</l><r>esùmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="esùmere"><p><l>esum</l><r>esùmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="etzèdere"><p><l>etzèd</l><r>etzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="etzèdere"><p><l>etzed</l><r>etzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="evàdere"><p><l>evàd</l><r>evàdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="evàdere"><p><l>evad</l><r>evàdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="favorèssere"><p><l>favorèss</l><r>favorèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="favorèssere"><p><l>favoress</l><r>favorèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="fìnghere"><p><l>fìngh</l><r>fìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="fìnghere"><p><l>fing</l><r>fìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="fortalèssere"><p><l>fortalèss</l><r>fortalèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="fortalèssere"><p><l>fortaless</l><r>fortalèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frachèssere"><p><l>frachèss</l><r>frachèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frachèssere"><p><l>frachess</l><r>frachèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frànghere"><p><l>fràngh</l><r>frànghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frànghere"><p><l>frang</l><r>frànghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frìere"><p><l>frì</l><r>frìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frìnghere"><p><l>frìngh</l><r>frìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frìnghere"><p><l>fring</l><r>frìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frìere"><p><l>fri</l><r>frìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frorèssere"><p><l>frorèss</l><r>frorèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frorèssere"><p><l>froress</l><r>frorèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="frùtere"><p><l>frùt</l><r>frùtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="frùtere"><p><l>frut</l><r>frùtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="fùere"><p><l>fù</l><r>fùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="fùere"><p><l>fu</l><r>fùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="fùtere"><p><l>fùt</l><r>fùtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="fùtere"><p><l>fut</l><r>fùtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ghèmere"><p><l>ghèm</l><r>ghèmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ghèmere"><p><l>ghem</l><r>ghèmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="giùghere"><p><l>giùgh</l><r>giùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="giùghere"><p><l>giug</l><r>giùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="giùnghere"><p><l>giùngh</l><r>giùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="giùnghere"><p><l>giung</l><r>giùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="gradèssere"><p><l>gradèss</l><r>gradèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="gradèssere"><p><l>gradess</l><r>gradèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="illùdere"><p><l>illùd</l><r>illùdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="illùdere"><p><l>illud</l><r>illùdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="imbàtere"><p><l>imbàt</l><r>imbàtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="imbàtere"><p><l>imbat</l><r>imbàtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="imbelèschere"><p><l>imbelèsch</l><r>imbelèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="imbelèschere"><p><l>imbelesc</l><r>imbelèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="imbèrghere"><p><l>imbèrgh</l><r>imbèrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="imbèrghere"><p><l>imberg</l><r>imbèrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="impromìtere"><p><l>impromìt</l><r>impromìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="impromìtere"><p><l>impromit</l><r>impromìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="inchèndere"><p><l>inchènd</l><r>inchèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="inchèndere"><p><l>inchend</l><r>inchèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="inchìnghere"><p><l>inchìngh</l><r>inchìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="inchìnghere"><p><l>inching</l><r>inchìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="inclùdere"><p><l>inclùd</l><r>inclùdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="inclùdere"><p><l>includ</l><r>inclùdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="incrèschere"><p><l>incrèsch</l><r>incrèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="incrèschere"><p><l>incresc</l><r>incrèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="incrùere"><p><l>incrù</l><r>incrùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="incrùere"><p><l>incru</l><r>incrùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="incùrrere"><p><l>incùrr</l><r>incùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="incùrrere"><p><l>incurr</l><r>incùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="indùrghere"><p><l>indùrgh</l><r>indùrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="indùrghere"><p><l>indurg</l><r>indùrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="infèrrere"><p><l>infèrr</l><r>infèrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="infèrrere"><p><l>inferr</l><r>infèrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="infùndere"><p><l>infùnd</l><r>infùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="infùndere"><p><l>infund</l><r>infùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ingùllere"><p><l>ingùll</l><r>ingùllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ingùllere"><p><l>ingull</l><r>ingùllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="insìstere"><p><l>insìst</l><r>insìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="insìstere"><p><l>insist</l><r>insìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intèndere"><p><l>intènd</l><r>intèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intèndere"><p><l>intend</l><r>intèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intertènnere"><p><l>intertènn</l><r>intertènnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intertènnere"><p><l>intertenn</l><r>intertènnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="Intertzèdere"><p><l>Intertzèd</l><r>Intertzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="Intertzèdere"><p><l>Intertzed</l><r>Intertzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intìnghere"><p><l>intìngh</l><r>intìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intìnghere"><p><l>inting</l><r>intìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intramìtere"><p><l>intramìt</l><r>intramìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intramìtere"><p><l>intramit</l><r>intramìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intraprèndere"><p><l>intraprènd</l><r>intraprèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intraprèndere"><p><l>intraprend</l><r>intraprèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="intròbere"><p><l>intròb</l><r>intròbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="intròbere"><p><l>introb</l><r>intròbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="introdùere"><p><l>introdù</l><r>introdùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="introdùere"><p><l>introdu</l><r>introdùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="invàdere"><p><l>invàd</l><r>invàdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="invàdere"><p><l>invad</l><r>invàdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isbàtere"><p><l>isbàt</l><r>isbàtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isbàtere"><p><l>isbat</l><r>isbàtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscabùllere"><p><l>iscabùll</l><r>iscabùllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscabùllere"><p><l>iscabull</l><r>iscabùllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscadèssere"><p><l>iscadèss</l><r>iscadèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscadèssere"><p><l>iscadess</l><r>iscadèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscandèssere"><p><l>iscandèss</l><r>iscandèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscandèssere"><p><l>iscandess</l><r>iscandèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscarèssere"><p><l>iscarèss</l><r>iscarèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscarèssere"><p><l>iscaress</l><r>iscarèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscàrfere"><p><l>iscàrf</l><r>iscàrfere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscàrfere"><p><l>iscarf</l><r>iscàrfere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscàrpere"><p><l>iscàrp</l><r>iscàrpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscàrpere"><p><l>iscarp</l><r>iscàrpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ischìnghere"><p><l>ischìngh</l><r>ischìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ischìnghere"><p><l>isching</l><r>ischìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isciòllere"><p><l>isciòll</l><r>isciòllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isciòllere"><p><l>iscioll</l><r>isciòllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscòndere"><p><l>iscònd</l><r>iscòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscòndere"><p><l>iscond</l><r>iscòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscràere"><p><l>iscrà</l><r>iscràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscràere"><p><l>iscra</l><r>iscràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscrarèssere"><p><l>iscrarèss</l><r>iscrarèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscrarèssere"><p><l>iscraress</l><r>iscrarèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscrèere"><p><l>iscrè</l><r>iscrèere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscrèere"><p><l>iscre</l><r>iscrèere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscrìere"><p><l>iscrì</l><r>iscrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscrìere"><p><l>iscri</l><r>iscrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscrùfere"><p><l>iscrùf</l><r>iscrùfere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscrùfere"><p><l>iscruf</l><r>iscrùfere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscùdere"><p><l>iscùd</l><r>iscùdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscùdere"><p><l>iscud</l><r>iscùdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscummìtere"><p><l>iscummìt</l><r>iscummìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscummìtere"><p><l>iscummit</l><r>iscummìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscumpònnere"><p><l>iscumpònn</l><r>iscumpònnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscumpònnere"><p><l>iscumponn</l><r>iscumpònnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="iscùrrere"><p><l>iscùrr</l><r>iscùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="iscùrrere"><p><l>iscurr</l><r>iscùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isfùndere"><p><l>isfùnd</l><r>isfùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isfùndere"><p><l>isfund</l><r>isfùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isfùtere"><p><l>isfùt</l><r>isfùtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isfùtere"><p><l>isfut</l><r>isfùtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isgiùnghere"><p><l>isgiùngh</l><r>isgiùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isgiùnghere"><p><l>isgiung</l><r>isgiùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ismerèssere"><p><l>ismerèss</l><r>ismerèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ismerèssere"><p><l>ismeress</l><r>ismerèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ismòrrere"><p><l>ismòrr</l><r>ismòrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ismòrrere"><p><l>ismorr</l><r>ismòrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isòrvere"><p><l>isòrv</l><r>isòrvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isòrvere"><p><l>isorv</l><r>isòrvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isparèssere"><p><l>isparèss</l><r>isparèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isparèssere"><p><l>isparess</l><r>isparèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ispàrghere"><p><l>ispàrgh</l><r>ispàrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ispàrghere"><p><l>isparg</l><r>ispàrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ispèndere"><p><l>ispènd</l><r>ispèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ispèndere"><p><l>ispend</l><r>ispèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ispèrdere"><p><l>ispèrd</l><r>ispèrdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ispèrdere"><p><l>isperd</l><r>ispèrdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ispìnghere"><p><l>ispìngh</l><r>ispìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ispìnghere"><p><l>isping</l><r>ispìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ispòndere"><p><l>ispònd</l><r>ispòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ispòndere"><p><l>ispond</l><r>ispòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isprèmere"><p><l>isprèm</l><r>isprèmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isprèmere"><p><l>isprem</l><r>isprèmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isprèndere"><p><l>isprènd</l><r>isprèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isprèndere"><p><l>isprend</l><r>isprèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istabilèssere"><p><l>istabilèss</l><r>istabilèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istabilèssere"><p><l>istabiless</l><r>istabilèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istèndere"><p><l>istènd</l><r>istèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istèndere"><p><l>istend</l><r>istèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istèrrere"><p><l>istèrr</l><r>istèrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istèrrere"><p><l>isterr</l><r>istèrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istèssere"><p><l>istèss</l><r>istèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istèssere"><p><l>istess</l><r>istèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istìnghere"><p><l>istìngh</l><r>istìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istìnghere"><p><l>isting</l><r>istìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istòddere"><p><l>istòdd</l><r>istòddere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istòddere"><p><l>istodd</l><r>istòddere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istòmbere"><p><l>istòmb</l><r>istòmbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istòmbere"><p><l>istomb</l><r>istòmbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istòrchere"><p><l>istòrch</l><r>istòrchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istòrchere"><p><l>istorc</l><r>istòrchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="istrìnghere"><p><l>istrìngh</l><r>istrìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="istrìnghere"><p><l>istring</l><r>istrìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="isvanèssere"><p><l>isvanèss</l><r>isvanèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="isvanèssere"><p><l>isvaness</l><r>isvanèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="làmbere"><p><l>làmb</l><r>làmbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="làmbere"><p><l>lamb</l><r>làmbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lampalùghere"><p><l>lampalùgh</l><r>lampalùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lampalùghere"><p><l>lampalug</l><r>lampalùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lèdere"><p><l>lèd</l><r>lèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lèdere"><p><l>led</l><r>lèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lèghere"><p><l>lègh</l><r>lèghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lèghere"><p><l>leg</l><r>lèghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lìnghere"><p><l>lìngh</l><r>lìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lìnghere"><p><l>ling</l><r>lìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lòmpere"><p><l>lòmp</l><r>lòmpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lòmpere"><p><l>lomp</l><r>lòmpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lùghere"><p><l>lùgh</l><r>lùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lughèschere"><p><l>lughèsch</l><r>lughèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="lughèschere"><p><l>lughesc</l><r>lughèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="lùghere"><p><l>lug</l><r>lùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="maleìghere"><p><l>maleìgh</l><r>maleìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="maleìghere"><p><l>maleig</l><r>maleìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="merèssere"><p><l>merèss</l><r>merèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="merèssere"><p><l>meress</l><r>merèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mìntere"><p><l>mìnt</l><r>mìntere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mìntere"><p><l>mint</l><r>mìntere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mìtere"><p><l>mìt</l><r>mìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mìtere"><p><l>mit</l><r>mìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mòere"><p><l>mò</l><r>mòere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mòlere"><p><l>mòl</l><r>mòlere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mòlere"><p><l>mol</l><r>mòlere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mòere"><p><l>m</l><r>mòere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mòrdere"><p><l>mòrd</l><r>mòrdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mòrdere"><p><l>mord</l><r>mòrdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mòssere"><p><l>mòss</l><r>mòssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mòssere"><p><l>moss</l><r>mòssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mòvere"><p><l>mòv</l><r>mòvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mòvere"><p><l>mov</l><r>mòvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mùere"><p><l>mù</l><r>mùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mùere"><p><l>mu</l><r>mùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="mùrghere"><p><l>mùrgh</l><r>mùrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="mùrghere"><p><l>murg</l><r>mùrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="nàschere"><p><l>nàsch</l><r>nàschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="nàschere"><p><l>nasc</l><r>nàschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="nòghere"><p><l>nògh</l><r>nòghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="nòghere"><p><l>nog</l><r>nòghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="obedèssere"><p><l>obedèss</l><r>obedèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="obedèssere"><p><l>obedess</l><r>obedèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ochìere"><p><l>ochì</l><r>ochìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ochìere"><p><l>ochi</l><r>ochìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ocùrrere"><p><l>ocùrr</l><r>ocùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ocùrrere"><p><l>ocurr</l><r>ocùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ofèndere"><p><l>ofènd</l><r>ofèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ofèndere"><p><l>ofend</l><r>ofèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="omìtere"><p><l>omìt</l><r>omìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="omìtere"><p><l>omit</l><r>omìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="oprìmere"><p><l>oprìm</l><r>oprìmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="oprìmere"><p><l>oprim</l><r>oprìmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="orrèschere"><p><l>orrèsch</l><r>orrèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="orrèschere"><p><l>orresc</l><r>orrèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="orròschere"><p><l>orròsch</l><r>orròschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="orròschere"><p><l>orrosc</l><r>orròschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="oscurèssere"><p><l>oscurèss</l><r>oscurèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="oscurèssere"><p><l>oscuress</l><r>oscurèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="padèssere"><p><l>padèss</l><r>padèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="padèssere"><p><l>padess</l><r>padèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pàschere"><p><l>pàsch</l><r>pàschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pàschere"><p><l>pasc</l><r>pàschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pèndere"><p><l>pènd</l><r>pèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pèndere"><p><l>pend</l><r>pèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pèrdere"><p><l>pèrd</l><r>pèrdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pèrdere"><p><l>perd</l><r>pèrdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="persìstere"><p><l>persìst</l><r>persìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="persìstere"><p><l>persist</l><r>persìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pertùndere"><p><l>pertùnd</l><r>pertùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pertùndere"><p><l>pertund</l><r>pertùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pìnghere"><p><l>pìngh</l><r>pìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pìnghere"><p><l>ping</l><r>pìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pòrrere"><p><l>pòrr</l><r>pòrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pòrrere"><p><l>porr</l><r>pòrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="possèdere"><p><l>possèd</l><r>possèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="possèdere"><p><l>possed</l><r>possèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pràghere"><p><l>pràgh</l><r>pràghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pràghere"><p><l>prag</l><r>pràghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pràndere"><p><l>prànd</l><r>pràndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pràndere"><p><l>prand</l><r>pràndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prànghere"><p><l>pràngh</l><r>prànghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prànghere"><p><l>prang</l><r>prànghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prèmere"><p><l>prèm</l><r>prèmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prèmere"><p><l>prem</l><r>prèmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prèndere"><p><l>prènd</l><r>prèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prèndere"><p><l>prend</l><r>prèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prènere"><p><l>prèn</l><r>prènere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prènere"><p><l>pren</l><r>prènere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prescìndere"><p><l>prescìnd</l><r>prescìndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prescìndere"><p><l>prescind</l><r>prescìndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prescrìere"><p><l>prescrì</l><r>prescrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prescrìere"><p><l>prescri</l><r>prescrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prescrìvere"><p><l>prescrìv</l><r>prescrìvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prescrìvere"><p><l>prescriv</l><r>prescrìvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="presèdere"><p><l>presèd</l><r>presèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="presèdere"><p><l>presed</l><r>presèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="presùmere"><p><l>presùm</l><r>presùmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="presùmere"><p><l>presum</l><r>presùmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pretèndere"><p><l>pretènd</l><r>pretèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pretèndere"><p><l>pretend</l><r>pretèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pretzèdere"><p><l>pretzèd</l><r>pretzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pretzèdere"><p><l>pretzed</l><r>pretzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prevàlere"><p><l>prevàl</l><r>prevàlere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prevalèssere"><p><l>prevalèss</l><r>prevalèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prevalèssere"><p><l>prevaless</l><r>prevalèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prevàlere"><p><l>preval</l><r>prevàlere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prevìdere"><p><l>prevìd</l><r>prevìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prevìdere"><p><l>previd</l><r>prevìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prodùere"><p><l>prodù</l><r>prodùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prodùere"><p><l>produ</l><r>prodùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="prodùsere"><p><l>prodùs</l><r>prodùsere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="prodùsere"><p><l>produs</l><r>prodùsere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="promìtere"><p><l>promìt</l><r>promìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="promìtere"><p><l>promit</l><r>promìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="promòvere"><p><l>promòv</l><r>promòvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="promòvere"><p><l>promov</l><r>promòvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="protzèdere"><p><l>protzèd</l><r>protzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="protzèdere"><p><l>protzed</l><r>protzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="provìdere"><p><l>provìd</l><r>provìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="provìdere"><p><l>provid</l><r>provìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pudèschere"><p><l>pudèsch</l><r>pudèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pudèschere"><p><l>pudesc</l><r>pudèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pudrèschere"><p><l>pudrèsch</l><r>pudrèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pudrèschere"><p><l>pudresc</l><r>pudrèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="pùnghere"><p><l>pùngh</l><r>pùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="pùnghere"><p><l>pung</l><r>pùnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ràere"><p><l>rà</l><r>ràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ramallietare"><p><l>ramallietare</l><r>ramallietare</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rànchere"><p><l>rànch</l><r>rànchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rànchere"><p><l>ranc</l><r>rànchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ràere"><p><l>ra</l><r>ràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="raspalliare"><p><l>raspalliare</l><r>raspalliare</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rechèdere"><p><l>rechèd</l><r>rechèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rechèdere"><p><l>reched</l><r>rechèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="recòghere"><p><l>recògh</l><r>recòghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="recòghere"><p><l>recog</l><r>recòghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="reconnòschere"><p><l>reconnòsch</l><r>reconnòschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="reconnòschere"><p><l>reconnosc</l><r>reconnòschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="redìmere"><p><l>redìm</l><r>redìmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="redìmere"><p><l>redim</l><r>redìmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="redùsere"><p><l>redùs</l><r>redùsere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="redùsere"><p><l>redus</l><r>redùsere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rèere"><p><l>rè</l><r>rèere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="règhere"><p><l>règh</l><r>règhere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="règhere"><p><l>reg</l><r>règhere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="regòllere"><p><l>regòll</l><r>regòllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="regòllere"><p><l>regoll</l><r>regòllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="regòlvere"><p><l>regòlv</l><r>regòlvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="regòlvere"><p><l>regolv</l><r>regòlvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="remìtere"><p><l>remìt</l><r>remìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="remìtere"><p><l>remit</l><r>remìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rèndere"><p><l>rènd</l><r>rèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rèndere"><p><l>rend</l><r>rèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="renèssere"><p><l>renèss</l><r>renèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="renèssere"><p><l>reness</l><r>renèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rèere"><p><l>re</l><r>rèere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="repìtere"><p><l>repìt</l><r>repìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="repìtere"><p><l>repit</l><r>repìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="reprodùere"><p><l>reprodù</l><r>reprodùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="reprodùere"><p><l>reprodu</l><r>reprodùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="reprodùsere"><p><l>reprodùs</l><r>reprodùsere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="reprodùsere"><p><l>reprodus</l><r>reprodùsere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="resèssere"><p><l>resèss</l><r>resèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="resèssere"><p><l>resess</l><r>resèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="resìdere"><p><l>resìd</l><r>resìdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="resìdere"><p><l>resid</l><r>resìdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="resìstere"><p><l>resìst</l><r>resìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="resìstere"><p><l>resist</l><r>resìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="respìnghere"><p><l>respìngh</l><r>respìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="respìnghere"><p><l>resping</l><r>respìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="respòndere"><p><l>respònd</l><r>respòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="respòndere"><p><l>respond</l><r>respòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="restrìnghere"><p><l>restrìngh</l><r>restrìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="restrìnghere"><p><l>restring</l><r>restrìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="resùmere"><p><l>resùm</l><r>resùmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="resùmere"><p><l>resum</l><r>resùmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="retòrchere"><p><l>retòrch</l><r>retòrchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="retòrchere"><p><l>retorc</l><r>retòrchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="revèntere"><p><l>revènt</l><r>revèntere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="revèntere"><p><l>revent</l><r>revèntere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="riassùmere"><p><l>riassùm</l><r>riassùmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="riassùmere"><p><l>riassum</l><r>riassùmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ricùrrere"><p><l>ricùrr</l><r>ricùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ricùrrere"><p><l>ricurr</l><r>ricùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ridùere"><p><l>ridù</l><r>ridùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ridùere"><p><l>ridu</l><r>ridùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rìere"><p><l>rì</l><r>rìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="riflètere"><p><l>riflèt</l><r>riflètere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="riflètere"><p><l>riflet</l><r>riflètere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rimòvere"><p><l>rimòv</l><r>rimòvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rimòvere"><p><l>rimov</l><r>rimòvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rìere"><p><l>ri</l><r>rìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="risòlvere"><p><l>risòlv</l><r>risòlvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="risòlvere"><p><l>risolv</l><r>risòlvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rispòndere"><p><l>rispònd</l><r>rispòndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rispòndere"><p><l>rispond</l><r>rispòndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ròere"><p><l>rò</l><r>ròere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ròere"><p><l>r</l><r>ròere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rùere"><p><l>rù</l><r>rùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rùghere"><p><l>rùgh</l><r>rùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rùghere"><p><l>rug</l><r>rùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rùere"><p><l>ru</l><r>rùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="rùpere"><p><l>rùp</l><r>rùpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="rùpere"><p><l>rup</l><r>rùpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sabèschere"><p><l>sabèsch</l><r>sabèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sabèschere"><p><l>sabesc</l><r>sabèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sàpere"><p><l>sàp</l><r>sàpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sapèschere"><p><l>sapèsch</l><r>sapèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sapèschere"><p><l>sapesc</l><r>sapèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sàpere"><p><l>sap</l><r>sàpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sèllere"><p><l>sèll</l><r>sèllere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sèllere"><p><l>sell</l><r>sèllere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sèrpere"><p><l>sèrp</l><r>sèrpere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sèrpere"><p><l>serp</l><r>sèrpere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sètzere"><p><l>sètz</l><r>sètzere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sètzere"><p><l>setz</l><r>sètzere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sòlere"><p><l>sòl</l><r>sòlere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sòlere"><p><l>sol</l><r>sòlere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sòrbere"><p><l>sòrb</l><r>sòrbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sòrbere"><p><l>sorb</l><r>sòrbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subèrghere"><p><l>subèrgh</l><r>subèrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subèrghere"><p><l>suberg</l><r>subèrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subèschere"><p><l>subèsch</l><r>subèschere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subèschere"><p><l>subesc</l><r>subèschere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subrabìvere"><p><l>subrabìv</l><r>subrabìvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subrabìvere"><p><l>subrabiv</l><r>subrabìvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subravènnere"><p><l>subravènn</l><r>subravènnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subravènnere"><p><l>subravenn</l><r>subravènnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subravìvere"><p><l>subravìv</l><r>subravìvere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subravìvere"><p><l>subraviv</l><r>subravìvere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="subrintèndere"><p><l>subrintènd</l><r>subrintèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="subrintèndere"><p><l>subrintend</l><r>subrintèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sucùmbere"><p><l>sucùmb</l><r>sucùmbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sucùmbere"><p><l>sucumb</l><r>sucùmbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sucùrrere"><p><l>sucùrr</l><r>sucùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sucùrrere"><p><l>sucurr</l><r>sucùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sùere"><p><l>sù</l><r>sùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sufrìere"><p><l>sufrì</l><r>sufrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sufrìere"><p><l>sufri</l><r>sufrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="suìghere"><p><l>suìgh</l><r>suìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="suìghere"><p><l>suig</l><r>suìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sumèrghere"><p><l>sumèrgh</l><r>sumèrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sumèrghere"><p><l>sumerg</l><r>sumèrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sùere"><p><l>su</l><r>sùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="suspèndere"><p><l>suspènd</l><r>suspèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="suspèndere"><p><l>suspend</l><r>suspèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sussìstere"><p><l>sussìst</l><r>sussìstere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sussìstere"><p><l>sussist</l><r>sussìstere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sutamìtere"><p><l>sutamìt</l><r>sutamìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sutamìtere"><p><l>sutamit</l><r>sutamìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sutascrìere"><p><l>sutascrì</l><r>sutascrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sutascrìere"><p><l>sutascri</l><r>sutascrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="sutràere"><p><l>sutrà</l><r>sutràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="sutràere"><p><l>sutra</l><r>sutràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tànghere"><p><l>tàngh</l><r>tànghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tànghere"><p><l>tang</l><r>tànghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tèndere"><p><l>tènd</l><r>tèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tèndere"><p><l>tend</l><r>tèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tèrghere"><p><l>tèrgh</l><r>tèrghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tèrghere"><p><l>terg</l><r>tèrghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tèssere"><p><l>tèss</l><r>tèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tèssere"><p><l>tess</l><r>tèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tìmere"><p><l>tìm</l><r>tìmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tìmere"><p><l>tim</l><r>tìmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tìnghere"><p><l>tìngh</l><r>tìnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tìnghere"><p><l>ting</l><r>tìnghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tòddere"><p><l>tòdd</l><r>tòddere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tòddere"><p><l>todd</l><r>tòddere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tòrchere"><p><l>tòrch</l><r>tòrchere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tòrchere"><p><l>torc</l><r>tòrchere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tradùere"><p><l>tradù</l><r>tradùere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tradùere"><p><l>tradu</l><r>tradùere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tràere"><p><l>trà</l><r>tràere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="traìghere"><p><l>traìgh</l><r>traìghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="traìghere"><p><l>traig</l><r>traìghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tralùghere"><p><l>tralùgh</l><r>tralùghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tralùghere"><p><l>tralug</l><r>tralùghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tramìtere"><p><l>tramìt</l><r>tramìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tramìtere"><p><l>tramit</l><r>tramìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tràere"><p><l>tra</l><r>tràere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trascrìere"><p><l>trascrì</l><r>trascrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trascrìere"><p><l>trascri</l><r>trascrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trascùrrere"><p><l>trascùrr</l><r>trascùrrere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trascùrrere"><p><l>trascurr</l><r>trascùrrere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trasèndere"><p><l>trasènd</l><r>trasèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trasèndere"><p><l>trasend</l><r>trasèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trasmìtere"><p><l>trasmìt</l><r>trasmìtere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trasmìtere"><p><l>trasmit</l><r>trasmìtere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trasparèssere"><p><l>trasparèss</l><r>trasparèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trasparèssere"><p><l>trasparess</l><r>trasparèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="travèndere"><p><l>travènd</l><r>travèndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="travèndere"><p><l>travend</l><r>travèndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trèghere"><p><l>trègh</l><r>trèghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trèghere"><p><l>treg</l><r>trèghere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="trèmere"><p><l>trèm</l><r>trèmere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="trèmere"><p><l>trem</l><r>trèmere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tròddere"><p><l>tròdd</l><r>tròddere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tròddere"><p><l>trodd</l><r>tròddere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tròtzere"><p><l>tròtz</l><r>tròtzere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tròtzere"><p><l>trotz</l><r>tròtzere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tùmbere"><p><l>tùmb</l><r>tùmbere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tùmbere"><p><l>tumb</l><r>tùmbere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tùndere"><p><l>tùnd</l><r>tùndere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tùndere"><p><l>tund</l><r>tùndere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tzèdere"><p><l>tzèd</l><r>tzèdere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tzèdere"><p><l>tzed</l><r>tzèdere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tzintzigannènnere"><p><l>tzintzigannènn</l><r>tzintzigannènnere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tzintzigannènnere"><p><l>tzintzigannenn</l><r>tzintzigannènnere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="tzircuscrìere"><p><l>tzircuscrì</l><r>tzircuscrìere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="tzircuscrìere"><p><l>tzircuscri</l><r>tzircuscrìere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="umedèssere"><p><l>umedèss</l><r>umedèssere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="umedèssere"><p><l>umedess</l><r>umedèssere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ùmprere"><p><l>ùmpr</l><r>ùmprere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ùmprere"><p><l>umpr</l><r>ùmprere</r></p><par n="setz/o__vblex"/></e>
+    <e lm="ùnghere"><p><l>ùngh</l><r>ùnghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="ùnghere"><p><l>ung</l><r>ùnghere</r></p><par n="setz/o__vblex"/></e>
+
+    <e lm="elèghere"><p><l>elègh</l><r>elèghere</r></p><par n="sètz/ere__vblex"/></e>
+    <e lm="elèghere"><p><l>eleg</l><r>elèghere</r></p><par n="setz/o__vblex"/></e>
+
+    <e lm="currègere"><p><l>currèg</l><r>currègere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="currègere"><p><l>curreg</l><r>currègere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="dirìgere"><p><l>dirìg</l><r>dirìgere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="dirìgere"><p><l>dirig</l><r>dirìgere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="elègere"><p><l>elèg</l><r>elègere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="elègere"><p><l>eleg</l><r>elègere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="esìgere"><p><l>esìg</l><r>esìgere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="esìgere"><p><l>esig</l><r>esìgere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="ispòrgere"><p><l>ispòrg</l><r>ispòrgere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="ispòrgere"><p><l>isporg</l><r>ispòrgere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="pòngere"><p><l>pòng</l><r>pòngere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="pòngere"><p><l>pong</l><r>pòngere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="pòrgere"><p><l>pòrg</l><r>pòrgere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="pòrgere"><p><l>porg</l><r>pòrgere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="protègere"><p><l>protèg</l><r>protègere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="protègere"><p><l>proteg</l><r>protègere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="règere"><p><l>règ</l><r>règere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="règere"><p><l>reg</l><r>règere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="risòrgere"><p><l>risòrg</l><r>risòrgere</r></p><par n="reg/o__vblex"/></e>
+    <e lm="risòrgere"><p><l>risorg</l><r>risòrgere</r></p><par n="règ/ere__vblex"/></e>
+
   </section>
 
   <section id="apostrophe" type="postblank">
