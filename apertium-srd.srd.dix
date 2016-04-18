@@ -2771,8 +2771,9 @@
     <e lm="atore" r="LR"><p><l>attrice</l><r>atore</r></p><par n="mesa__n"/></e>
 
     <e lm="lapis"><i>lapis</i><par n="lapis__n"/></e>
+    <e lm="isport"><i>isport</i><par n="lapis__n"/></e>
     <e lm="paris"><i>paris</i><par n="lapis__n"/></e>
-    <!--<e lm="gas"><i>gas</i><par n="lapis__n"/></e>-->
+    <e lm="gas"><i>gas</i><par n="lapis__n"/></e>
 
     <e lm="ìsula"><i>ìsula</i><par n="mesa__n"/></e>
     <e lm="ìsula" r="LR"><p><l>isola</l><r>ìsula</r></p><par n="mesa__n"/></e>
@@ -2782,6 +2783,7 @@
     <e lm="ventana"><i>ventana</i><par n="mesa__n"/></e>
     <e lm="buca"><i>buca</i><par n="mesa__n"/></e>
     <e lm="làgrima"><i>làgrima</i><par n="mesa__n"/></e>
+    <e lm="riserva"><i>riserva</i><par n="mesa__n"/></e>
     <e lm="cabra"><i>cabra</i><par n="mesa__n"/></e>
     <e lm="rete"><i>rete</i><par n="mesa__n"/></e>
     <e lm="crae"><i>crae</i><par n="mesa__n"/></e>
@@ -3838,6 +3840,7 @@
     <e lm="sonu"><i>son</i><par n="mac/u__n"/></e>
     <e lm="istatutu"><i>istatut</i><par n="mac/u__n"/></e>
     <e lm="salariu"><i>salari</i><par n="mac/u__n"/></e>
+    <e lm="estuariu"><i>estuari</i><par n="mac/u__n"/></e>
     <e lm="cunsideru"><i>cunsider</i><par n="mac/u__n"/></e>
     <e lm="assòtziu"><i>assòtzi</i><par n="mac/u__n"/></e>
     <e lm="impreu"><i>impre</i><par n="mac/u__n"/></e>
