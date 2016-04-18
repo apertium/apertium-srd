@@ -5070,6 +5070,8 @@
     <e lm="contra"><i>contra</i><par n="bene__adv"/></e>
     <e lm="intro"><i>intro</i><par n="bene__adv"/></e>
     <e lm="suta"><i>suta</i><par n="bene__adv"/></e>
+    <e lm="agigu"><i>agigu</i><par n="bene__adv"/></e>
+    <e lm="in pessu"><i>in<b/>pessu</i><par n="bene__adv"/></e>
     <e lm="tantu"><i>tantu</i><par n="bene__adv"/></e>
     <e lm="prus"><i>prus</i><par n="bene__adv"/></e>
     <e lm="abbellu-abbellu"><i>abbellu-abbellu</i><par n="bene__adv"/></e>
@@ -5644,7 +5646,6 @@
     <e lm="donare"><i>don</i><par n="cant/are__vblex"/></e>
     <e lm="capitare"><i>capit</i><par n="cant/are__vblex"/></e>
     <e lm="bìolare"><i>bìol</i><par n="cant/are__vblex"/></e>
-    <e lm="cuare"><i>cu</i><par n="cant/are__vblex"/></e>
     <e lm="afare"><i>af</i><par n="cant/are__vblex"/></e>
     <e lm="importare"><i>import</i><par n="cant/are__vblex"/></e>
     <e lm="bastare"><i>bast</i><par n="cant/are__vblex"/></e>
