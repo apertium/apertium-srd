@@ -486,6 +486,23 @@
         <par n="vocals"/>
       </e>
 
+     <e>
+        <p>
+          <l><a/>ti<b/></l>
+          <r>t'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>si<b/></l>
+          <r>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+
   </section>
 
 </dictionary>

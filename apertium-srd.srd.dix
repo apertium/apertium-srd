@@ -296,7 +296,8 @@
     </pardef>
 
     <pardef n="ti__prn" c="p.18 / 105">
-      <e>       <p><l></l><r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ti</l><r>ti<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><a/>ti</l><r>ti<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="nos__prn" c="p.18 / 105">
@@ -336,7 +337,8 @@
     </pardef>
 
     <pardef n="si__prn" c="p.20 / 105">
-      <e>       <p><l></l><r><s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l>si</l><r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><a/>si</l><r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="nde__prn">
@@ -2394,6 +2396,7 @@
 
     <e lm="suta"><i>suta</i><par n="a__pr"/></e>
     <e lm="suta" r="LR"><p><l>sutta</l><r>suta</r></p><par n="a__pr"/></e>
+    <e lm="in suta de"><i>in<b/>suta<b/>de</i><par n="a__pr"/></e>
     <e lm="subra"><i>subra</i><par n="a__pr"/></e>
     <e lm="subra" r="LR"><p><l>supra</l><r>subra</r></p><par n="a__pr"/></e>
     <!--<e lm="a pustis"><i>a<b/>pustis</i><par n="a__pr"/></e>-->
@@ -2458,8 +2461,8 @@
     <e lm="bois"><i>bois</i><par n="bois__prn"/></e>
 
     <e lm="mi"><i>mi</i><par n="mi__prn"/></e>
-    <e lm="ti"><i>ti</i><par n="ti__prn"/></e>
-    <e lm="si"><i>si</i><par n="si__prn"/></e>
+    <e lm="ti"><i></i><par n="ti__prn"/></e>
+    <e lm="si"><i></i><par n="si__prn"/></e>
 
     <e lm="bi"><i>bi</i><par n="bi__prn"/></e>
 
@@ -5318,9 +5321,9 @@
 
     <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
     <e lm="ue"><i>ue</i><par n="cando__adv"/></e>
-    <e lm="inue"><i>inue</i><par n="cando__adv"/></e> <!-- ? -->
-    <e lm="inue" r="LR"><p><l>in<b/>ue</l><r>inue</r></p><par n="cando__adv"/></e> <!-- ? -->
-    <e lm="inue" r="LR"><p><l>innui</l><r>inue</r></p><par n="cando__adv"/></e> <!-- ? -->
+    <e lm="in ue"><i>in<b/>ue</i><par n="cando__adv"/></e> 
+    <e lm="in ue" r="LR"><p><l>inue</l><r>in<b/>ue</r></p><par n="cando__adv"/></e> 
+    <e lm="in ue" r="LR"><p><l>innui</l><r>in<b/>ue</r></p><par n="cando__adv"/></e> 
     <e lm="cando"><i>cando</i><par n="cando__adv"/></e>
     <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="cando__adv"/></e>
     <!--<e lm="cantu"><i>cantu</i><par n="cando__adv"/></e>-->
@@ -5336,11 +5339,13 @@
     <e lm="suta"><i>suta</i><par n="bene__adv"/></e>
     <e lm="subra"><i>subra</i><par n="bene__adv"/></e>
     <e lm="agigu"><i>agigu</i><par n="bene__adv"/></e>
+    <e lm="cun atentu"><i>cun<b/>atentu</i><par n="bene__adv"/></e>
     <e lm="custu"><i>custu</i><par n="bene__adv"/></e>
+    <e lm="craru"><i>craru</i><par n="bene__adv"/></e>
     <e lm="in pessu"><i>in<b/>pessu</i><par n="bene__adv"/></e>
     <e lm="tantu"><i>tantu</i><par n="bene__adv"/></e>
     <e lm="prus"><i>prus</i><par n="bene__adv"/></e>
-    <e lm="abbellu-abbellu"><i>abbellu-abbellu</i><par n="bene__adv"/></e>
+    <e lm="a bellu"><i>a<b/>bellu</i><par n="bene__adv"/></e>
     <e lm="imbetzes"><i>imbetzes</i><par n="bene__adv"/></e>
     <e lm="peri"><i>peri</i><par n="bene__adv"/></e>
     <e lm="travessu"><i>travessu</i><par n="bene__adv"/></e>
