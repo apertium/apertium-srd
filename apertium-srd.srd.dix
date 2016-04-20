@@ -2510,6 +2510,7 @@
     <e lm="su chi"><i></i><par n="/su_chi__rel"/></e>
 
     <e lm="nudda"><i>nudda</i><par n="nudda__prn"/></e>
+    <e lm="carchi cosa"><i>carchi<b/>cosa</i><par n="nudda__prn"/></e>
     <e lm="custu"><i>custu</i><par n="nudda__prn"/></e>
     <e lm="unu"><i>un</i><par n="un/u__prn"/></e>
 
@@ -5991,8 +5992,6 @@
     <e lm="crèere"><i>crè</i><par n="tim/ere__vblex"/></e>
     <e lm="imparere"><i>impar</i><par n="tim/ere__vblex"/></e>
     <e lm="provochere"><i>provoch</i><par n="tim/ere__vblex"/></e>
-    <e lm="iscrìere"><i>iscrì</i><par n="tim/ere__vblex"/></e>
-    <e lm="iscrìere" r="LR"><p><l>iscri</l><r>iscrì</r></p><par n="tim/ere__vblex"/></e>
     <e lm="descrìere"><i>descrì</i><par n="tim/ere__vblex"/></e>
     <e lm="descrìere" r="LR"><p><l>descri</l><r>descrì</r></p><par n="tim/ere__vblex"/></e>
     <e lm="costituiere"><i>costitui</i><par n="tim/ere__vblex"/></e>
