@@ -2375,6 +2375,7 @@
     <e lm="de manera chi"><i>de<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
     <e lm="duncas"><i>duncas</i><par n="duncas__cnjadv"/></e>
     <e lm="gai"><i>gai</i><par n="duncas__cnjadv"/></e>
+    <e lm="segundu"><i>segundu</i><par n="duncas__cnjadv"/></e>
     <e lm="mentras"><i>mentras</i><par n="duncas__cnjadv"/></e>
     <e lm="mentras" r="LR"><p><l>mentres</l><r>mentras</r></p><par n="duncas__cnjadv"/></e>
     <e lm="mentras" r="LR"><p><l>mentris</l><r>mentras</r></p><par n="duncas__cnjadv"/></e>
@@ -2759,6 +2760,8 @@
     <e lm="lege"><i>lege</i><par n="pane__n"/></e>
     <e lm="lege" r="LR"><p><l>leze</l><r>lege</r></p><par n="pane__n"/></e>
 
+    <e lm="istemma"><i>istemma</i><par n="pane__n"/></e>
+
     <e lm="tzìnema"><i>tzìnema</i><par n="pane__n"/></e>
     <e lm="tzìnema" r="LR"><p><l>cinema</l><r>tzìnema</r></p><par n="pane__n"/></e>
     <e lm="tzìnema" r="LR"><p><l>cìnema</l><r>tzìnema</r></p><par n="pane__n"/></e>
@@ -3113,6 +3116,7 @@
     <e lm="rapresentatzione"><i>rapresentatzion</i><par n="region/e__n"/></e>
     <e lm="ideatzione"><i>ideatzion</i><par n="region/e__n"/></e>
     <e lm="normalizatzione"><i>normalizatzion</i><par n="region/e__n"/></e>
+    <e lm="ammiratzione"><i>ammiratzion</i><par n="region/e__n"/></e>
     <e lm="publicatzione"><i>publicatzion</i><par n="region/e__n"/></e>
     <e lm="prostitutzione"><i>prostitutzion</i><par n="region/e__n"/></e>
     <e lm="tzircoscritzione"><i>tzircoscritzion</i><par n="region/e__n"/></e>
@@ -4133,6 +4137,7 @@
     <e lm="fotografu"><i>fotograf</i><par n="amig/u__n"/></e>
     <e lm="espertu"><i>espert</i><par n="amig/u__n"/></e>
     <e lm="amigu"><i>amig</i><par n="amig/u__n"/></e>
+    <e lm="patronu"><i>patron</i><par n="amig/u__n"/></e>
     <e lm="gatu"><i>gat</i><par n="amig/u__n"/></e>
     <e lm="ministru"><i>ministr</i><par n="amig/u__n"/></e>
     <e lm="tzitadinu"><i>tzitadin</i><par n="amig/u__n"/></e>
@@ -4205,6 +4210,7 @@
     <e lm="paisu"><i>pais</i><par n="mac/u__n"/></e>
     <e lm="iscudu"><i>iscud</i><par n="mac/u__n"/></e>
     <e lm="fundu"><i>fund</i><par n="mac/u__n"/></e>
+    <e lm="isfundu"><i>isfund</i><par n="mac/u__n"/></e>
     <e lm="frutu"><i>frut</i><par n="mac/u__n"/></e>
     <e lm="frutu" r="LR" c="!LSC"><p><l>frutt</l><r>frut</r></p><par n="mac/u__n"/></e>
 
@@ -4218,6 +4224,7 @@
     <e lm="bandera"><i>bandera</i><par n="mesa__n"/></e>
     <e lm="àbbila"><i>àbbila</i><par n="mesa__n"/></e>
     <e lm="eredade"><i>eredade</i><par n="mesa__n"/></e>
+    <e lm="ammenta"><i>ammenta</i><par n="mesa__n"/></e>
     <e lm="fundatore"><i>fundatore</i><par n="pane__n"/></e>
 
     <e lm="birde"><i>birde</i><par n="àrbore__n"/></e>
@@ -4674,6 +4681,8 @@
     <e lm="Ali"><i>Ali</i><par n="Antoni__np"/></e>
     <e lm="Alan"><i>Alan</i><par n="Antoni__np"/></e>
     <e lm="Anthony"><i>Anthony</i><par n="Antoni__np"/></e>
+    <e lm="Andrea"><i>Andrea</i><par n="Antoni__np"/></e>
+    <e lm="Andrìa"><i>Andrìa</i><par n="Antoni__np"/></e>
 
 
     <e lm="Maria"><i>Maria</i><par n="Maria__np"/></e>
@@ -5365,6 +5374,7 @@
     <e lm="contra"><i>contra</i><par n="bene__adv"/></e>
     <e lm="duncas"><i>duncas</i><par n="bene__adv"/></e>
     <e lm="intro"><i>intro</i><par n="bene__adv"/></e>
+    <e lm="in comintzu"><i>in<b/>comintzu</i><par n="bene__adv"/></e>
     <e lm="suta"><i>suta</i><par n="bene__adv"/></e>
     <e lm="subra"><i>subra</i><par n="bene__adv"/></e>
     <e lm="agigu"><i>agigu</i><par n="bene__adv"/></e>
