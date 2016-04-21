@@ -5615,136 +5615,53 @@
     <e lm="dèpere" r="LR"><p><l>dev</l><r>dèp</r></p><par n="dèp/ere__vbmod"/></e>
     <e lm="dèpere" r="LR"><p><l>dèv</l><r>dèp</r></p><par n="dèp/ere__vbmod"/></e>
 
-    <e lm="cantare"><i>cant</i><par n="cant/are__vblex"/></e>
     <e lm="pranghiare"><i>pranghi</i><par n="cant/are__vblex"/></e>
-    <e lm="nadare"><i>nad</i><par n="cant/are__vblex"/></e>
     <e lm="carinnare"><i>carinn</i><par n="cant/are__vblex"/></e>
-    <e lm="ispartzinare"><i>ispartzin</i><par n="cant/are__vblex"/></e>
-    <e lm="caminare"><i>camin</i><par n="cant/are__vblex"/></e>
-    <e lm="istimare"><i>istim</i><par n="cant/are__vblex"/></e>
-    <e lm="colonizare"><i>coloniz</i><par n="cant/are__vblex"/></e>
-    <e lm="leare"><i>le</i><par n="cant/are__vblex"/></e>
-    <e lm="pesare"><i>pes</i><par n="cant/are__vblex"/></e>
-    <e lm="cumandare"><i>cumand</i><par n="cant/are__vblex"/></e>
-    <e lm="dassare"><i>dass</i><par n="cant/are__vblex"/></e>
-    <e lm="campare"><i>camp</i><par n="cant/are__vblex"/></e>
     <e lm="modificare"><i>modific</i><par n="cant/are__vblex"/></e>
-    <e lm="indicare"><i>indic</i><par n="cant/are__vblex"/></e>
     <e lm="publicare"><i>public</i><par n="cant/are__vblex"/></e>
     <e lm="publicare" r="LR"><p><l>pubblic</l><r>public</r></p><par n="cant/are__vblex"/></e>
     <e lm="publicare" r="LR"><p><l>pubric</l><r>public</r></p><par n="cant/are__vblex"/></e>
     <e lm="publicare" r="LR"><p><l>pubbric</l><r>public</r></p><par n="cant/are__vblex"/></e>
-    <e lm="buscare"><i>busc</i><par n="cant/are__vblex"/></e>
-    <e lm="istudiare"><i>istudi</i><par n="cant/are__vblex"/></e>
-    <e lm="cumandare"><i>cumand</i><par n="cant/are__vblex"/></e>
-    <e lm="comporare"><i>compor</i><par n="cant/are__vblex"/></e> <!-- còmpora·ti·lu -->
-    <e lm="comporare" r="LR"><p><l>compr</l><r>compor</r></p><par n="cant/are__vblex"/></e> 
     <e lm="dimostrare"><i>dimostr</i><par n="cant/are__vblex"/></e>
     <e lm="dimostrare" r="LR"><p><l>demostr</l><r>dimostr</r></p><par n="cant/are__vblex"/></e>
     <e lm="dimostrare" r="LR"><p><l>dimostr</l><r>dimostr</r></p><par n="cant/are__vblex"/></e>
     <e lm="dimostrare" r="LR"><p><l>dimustr</l><r>dimostr</r></p><par n="cant/are__vblex"/></e>
-    <e lm="cunsiderare"><i>cunsider</i><par n="cant/are__vblex"/></e>
-    <e lm="cunsiderare" r="LR"><p><l>consider</l><r>cunsider</r></p><par n="cant/are__vblex"/></e>
-    <e lm="elaborare"><i>elabor</i><par n="cant/are__vblex"/></e>
-    <e lm="proclamare"><i>proclam</i><par n="cant/are__vblex"/></e>
-    <e lm="separare"><i>separ</i><par n="cant/are__vblex"/></e>
     <e lm="isseperare"><i>isseper</i><par n="cant/are__vblex"/></e>
-    <!--<e lm="tramandare"><i>tramand</i><par n="cant/are__vblex"/></e>-->
-    <e lm="mandare"><i>mand</i><par n="cant/are__vblex"/></e>
     <e lm="cumplicare"><i>cumplic</i><par n="cant/are__vblex"/></e>
-    <e lm="cumpilare"><i>cumpil</i><par n="cant/are__vblex"/></e>
     <e lm="abbarrare"><i>abbarr</i><par n="cant/are__vblex"/></e>
-    <e lm="cumpilare" r="LR"><p><l>compil</l><r>cumpil</r></p><par n="cant/are__vblex"/></e>
-    <e lm="perfetzionare"><i>perfetzion</i><par n="cant/are__vblex"/></e>
-    <e lm="perfetzionare" r="LR"><p><l>perfezion</l><r>perfetzion</r></p><par n="cant/are__vblex"/></e>
-    <e lm="traballare"><i>traball</i><par n="cant/are__vblex"/></e>
     <e lm="traballare" r="LR"><p><l>trabagli</l><r>traball</r></p><par n="cant/are__vblex"/></e>
-    <e lm="comintzare"><i>comintz</i><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>cominz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>comentz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>cumentz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>cumèntz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>cumintz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
-    <e lm="partetzipare"><i>partetzip</i><par n="cant/are__vblex"/></e>
     <e lm="partetzipare" r="LR"><p><l>partecip</l><r>partetzip</r></p><par n="cant/are__vblex"/></e>
-    <e lm="passare"><i>pass</i><par n="cant/are__vblex"/></e>
-    <e lm="sicare"><i>sic</i><par n="cant/are__vblex"/></e>
-    <e lm="fartare"><i>fart</i><par n="cant/are__vblex"/></e>
-    <e lm="mancare"><i>manc</i><par n="cant/are__vblex"/></e>
-    <e lm="disterrare"><i>disterr</i><par n="cant/are__vblex"/></e>
-    <e lm="emigrare"><i>emigr</i><par n="cant/are__vblex"/></e>
     <e lm="educare"><i>educ</i><par n="cant/are__vblex"/></e>
-    <e lm="realizare"><i>realiz</i><par n="cant/are__vblex"/></e>
     <e lm="realizare" r="LR"><p><l>realizz</l><r>realiz</r></p><par n="cant/are__vblex"/></e>
-    <e lm="caraterizare"><i>carateriz</i><par n="cant/are__vblex"/></e>
     <e lm="caraterizare" r="LR"><p><l>caraterizz</l><r>carateriz</r></p><par n="cant/are__vblex"/></e>
     <e lm="caraterizare" r="LR"><p><l>caratterizz</l><r>carateriz</r></p><par n="cant/are__vblex"/></e>
     <e lm="accumpagnare"><i>accumpagn</i><par n="cant/are__vblex"/></e>
     <e lm="accumpagnare" r="LR"><p><l>accumpangi</l><r>accumpagn</r></p><par n="cant/are__vblex"/></e>
-    <e lm="cunfirmare"><i>cunfirm</i><par n="cant/are__vblex"/></e>
-    <e lm="formalizare"><i>formaliz</i><par n="cant/are__vblex"/></e>
 
-    <e lm="fundare" r="LR"><p><l>fundh</l><r>fund</r></p><par n="cant/are__vblex"/></e>
     <e lm="fundare supra"><i>fund</i><par n="cant/are__vblex"/><p><l><b/>supra</l><r><g><b/>supra</g></r></p></e>
     <e lm="fundare supra" r="LR"><p><l>fundh</l><r>fund</r></p><par n="cant/are__vblex"/><p><l><b/>supra</l><r><g><b/>supra</g></r></p></e>
 
-    <e lm="analizare"><i>analiz</i><par n="cant/are__vblex"/></e>
     <e lm="analizare" r="LR"><p><l>analis</l><r>analiz</r></p><par n="cant/are__vblex"/></e>
-    <e lm="nominare"><i>nomin</i><par n="cant/are__vblex"/></e>
     <e lm="nominare" r="LR"><p><l>numen</l><r>nomin</r></p><par n="cant/are__vblex"/></e>
-    <e lm="presentare"><i>present</i><par n="cant/are__vblex"/></e>
-    <e lm="organizare"><i>organiz</i><par n="cant/are__vblex"/></e>
-    <e lm="càmbiare"><i>càmbi</i><par n="cant/are__vblex"/></e>
-    <e lm="càmbiare" r="LR"><p><l>cambi</l><r>càmbi</r></p><par n="cant/are__vblex"/></e>
-    <e lm="òdiare"><i>òdi</i><par n="cant/are__vblex"/></e>
-    <e lm="òdiare" r="LR"><p><l>odi</l><r>òdi</r></p><par n="cant/are__vblex"/></e>
     <e lm="recuberare"><i>recuber</i><par n="cant/are__vblex"/></e>
     <e lm="continuare"><i>continu</i><par n="cant/are__vblex"/></e>
-    <e lm="esplorare"><i>esplor</i><par n="cant/are__vblex"/></e>
-    <e lm="impresonare"><i>impreson</i><par n="cant/are__vblex"/></e>
-    <e lm="sonare"><i>son</i><par n="cant/are__vblex"/></e>
     <e lm="accumulare"><i>accumul</i><par n="cant/are__vblex"/></e>
     <e lm="utilitzare"><i>utilitz</i><par n="cant/are__vblex"/></e>
     <e lm="utilitzare" r="LR"><p><l>utilizz</l><r>utilitz</r></p><par n="cant/are__vblex"/></e>
     <e lm="praticare"><i>pratic</i><par n="cant/are__vblex"/></e>
-    <e lm="parare"><i>par</i><par n="cant/are__vblex"/></e>
-    <e lm="devastare"><i>devast</i><par n="cant/are__vblex"/></e>
-    <e lm="lassare"><i>lass</i><par n="cant/are__vblex"/></e>
-    <e lm="signare"><i>sign</i><par n="cant/are__vblex"/></e>
     <e lm="delimitare"><i>delimit</i><par n="cant/are__vblex"/></e>
-    <e lm="furriare"><i>furri</i><par n="cant/are__vblex"/></e>
-    <e lm="acontzare"><i>acontz</i><par n="cant/are__vblex"/></e>
-    <e lm="disvilupare"><i>disvilup</i><par n="cant/are__vblex"/></e>
     <e lm="disvilupare" r="LR"><p><l>isvilup</l><r>disvilup</r></p><par n="cant/are__vblex"/></e>
     <e lm="disvilupare" r="LR"><p><l>isvilupp</l><r>disvilup</r></p><par n="cant/are__vblex"/></e>
-    <e lm="funtzionare"><i>funtzion</i><par n="cant/are__vblex"/></e>
 
-    <e lm="abbandonare"><i>abbandon</i><par n="cant/are__vblex"/></e>
     <e lm="abbandonare" r="LR"><p><l>abandon</l><r>abbandon</r></p><par n="cant/are__vblex"/></e>
 
-
-    <e lm="aprofitare"><i>aprofit</i><par n="cant/are__vblex"/></e>
-    <e lm="animare"><i>anim</i><par n="cant/are__vblex"/></e>
-    <e lm="assustare"><i>assust</i><par n="cant/are__vblex"/></e>
-    <e lm="benefitziare"><i>benefitzi</i><par n="cant/are__vblex"/></e>
-    <e lm="carculare"><i>carcul</i><par n="cant/are__vblex"/></e>
-    <e lm="cumbinare"><i>cumbin</i><par n="cant/are__vblex"/></e>
     <e lm="cunchistare"><i>cunchist</i><par n="cant/are__vblex"/></e>
     <e lm="cunchistare" r="LR"><p><l>conchist</l><r>cunchist</r></p><par n="cant/are__vblex"/></e>
-    <e lm="cuncordare"><i>cuncord</i><par n="cant/are__vblex"/></e>
-    <e lm="denuntziare"><i>denuntzi</i><par n="cant/are__vblex"/></e>
-    <e lm="dominare"><i>domin</i><par n="cant/are__vblex"/></e>
-    <e lm="eliminare"><i>elimin</i><par n="cant/are__vblex"/></e>
-    <e lm="interpretare"><i>interpret</i><par n="cant/are__vblex"/></e>
-    <e lm="esportare"><i>esport</i><par n="cant/are__vblex"/></e>
-    <e lm="formulare"><i>formul</i><par n="cant/are__vblex"/></e>
-    <e lm="gastare"><i>gast</i><par n="cant/are__vblex"/></e>
-    <e lm="guvernare"><i>guvern</i><par n="cant/are__vblex"/></e>
-    <e lm="isparare"><i>ispar</i><par n="cant/are__vblex"/></e>
-    <e lm="istimulare"><i>istimul</i><par n="cant/are__vblex"/></e>
-    <e lm="massacrare"><i>massacr</i><par n="cant/are__vblex"/></e>
-    <e lm="montare"><i>mont</i><par n="cant/are__vblex"/></e>
-    <e lm="negotziare"><i>negotzi</i><par n="cant/are__vblex"/></e>
     <e lm="neutralizare"><i>neutraliz</i><par n="cant/are__vblex"/></e>
     <e lm="ordinare"><i>ordin</i><par n="cant/are__vblex"/></e>
     <e lm="osservare"><i>osserv</i><par n="cant/are__vblex"/></e>
@@ -5796,7 +5713,6 @@
     <e lm="tzelebrare"><i>tzelebr</i><par n="cant/are__vblex"/></e>
     <e lm="allestrare"><i>allestr</i><par n="cant/are__vblex"/></e>
     <e lm="apretziare"><i>apretzi</i><par n="cant/are__vblex"/></e>
-    <e lm="aprovare"><i>aprov</i><par n="cant/are__vblex"/></e>
     <e lm="arrestare"><i>arrest</i><par n="cant/are__vblex"/></e>
     <e lm="arribare"><i>arrib</i><par n="cant/are__vblex"/></e>
     <e lm="arribare" r="LR"><p><l>arriv</l><r>arrib</r></p><par n="cant/are__vblex"/></e>
@@ -17358,6 +17274,7 @@
     <e lm="comodare"><p><l>còmod</l><r>comodare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="compidare"><p><l>compid</l><r>compidare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="compidare"><p><l>còmpid</l><r>compidare</r></p><par n="vìgil/o__vblex"/></e>
+    <!-- còmpora·ti·lu -->
     <e lm="comporare"><p><l>compor</l><r>comporare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="comporare"><p><l>còmpor</l><r>comporare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="conchinare"><p><l>conchin</l><r>conchinare</r></p><par n="vigil/are__vblex"/></e>
@@ -18459,9 +18376,9 @@
     <e lm="calunniare"><p><l>calunn</l><r>calunniare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="calunniare"><p><l>calùnn</l><r>calunniare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambiare"><p><l>camb</l><r>cambiare</r></p><par n="acurtz/iare__vblex"/></e>
+    <e lm="cambiare"><p><l>càmb</l><r>cambiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambigiare"><p><l>cambig</l><r>cambigiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambigiare"><p><l>cambìg</l><r>cambigiare</r></p><par n="acurtz/iare__vblex"/></e>
-    <e lm="cambiare"><p><l>càmb</l><r>cambiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="campaniare"><p><l>campan</l><r>campaniare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="campaniare"><p><l>campàn</l><r>campaniare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="campigiare"><p><l>campig</l><r>campigiare</r></p><par n="acurtz/iare__vblex"/></e>
