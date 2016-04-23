@@ -15,3 +15,4 @@
 /modes.xml -text
 /srd.prob -text svneol=unset#unset
 texts/cuento.vislcg.txt -text
+texts/puupankki/puupankki.srd.conllu -text
