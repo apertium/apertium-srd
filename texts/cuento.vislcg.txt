@@ -1,11 +1,13 @@
-"<In ue>"
-	"in ue" adv itg @advmod #1->2
+"<In>"
+	"in" pr @case #1->2
+"<ue>"
+	"ue" adv itg @advmod #2->3
 "<est>"
-	"èssere" vblex pri p3 sg @root #2->0
+	"èssere" vblex pri p3 sg @root #3->0
 "<Giacomo>"
-	"Giacomo" np ant m sg @nsubj #3->2
+	"Giacomo" np ant m sg @nsubj #4->3
 "<?>"
-	"?" sent @punct #4->2
+	"?" sent @punct #5->3
  
 "<Giacomo>" 
 	"Giacomo" np ant m sg @nsubj #1->4
@@ -259,7 +261,7 @@
 "<Maria>"
 	"Maria" np ant f sg
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<unu>"
@@ -441,7 +443,7 @@
 	"." sent @punct
 
 "<No>"
-	"no" adv
+	"no" adv @neg
 "<est>"
 	"èssere" vblex pri p3 sg
 "<bidende>"
@@ -568,7 +570,7 @@
 "<Maria>"
 	"Maria" np ant f sg
 "<no>"
-	"no" adv
+	"no" adv @neg
 "<ischit>"
 	"ischire" vblex pri p3 sg
 "<in ue>"
@@ -614,7 +616,7 @@
 "<cane>"
 	"cane" n m sg
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<podet>"
 	"pòdere" vblex pri p3 sg
 "<faeddare>"
@@ -635,7 +637,7 @@
 "<Maria>"
 	"Maria" np ant f sg
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<imposta>"
@@ -658,7 +660,7 @@
 "<pessones>"
 	"persona" n f pl
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<tenent>"
 	"tènnere" vblex pri p3 pl
 "<mai>"
@@ -775,7 +777,7 @@
 "<,>"
 	"," cm
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<ti>"
 	"ti" prn pro p2 mf sg
 "<lu>"
@@ -810,7 +812,7 @@
 "<,>"
 	"," cm
 "<no>"
-	"no" adv
+	"no" adv @neg
 "<li>"
 	"li" prn pro p3 mf sg
 "<cheret>"
@@ -840,17 +842,17 @@
 	"." sent @punct
 
 "<Est>"
-	"èssere" vblex pri p3 sg
+	"èssere" vblex pri p3 sg @aux #1->3
 "<galu>"
-	"galu" adv
+	"galu" adv @advmod #2->3
 "<chirchende>"
-	"*chirchende"
+	"chircare" vblex ger @root #3->0
 "<a>"
-	"a" pr @case
+	"a" pr @case #4->5
 "<Giacomo>"
-	"Giacomo" np ant m sg
+	"Giacomo" np ant m sg @dobj #5->3
 "<.>"
-	"." sent @punct
+	"." sent @punct #6->3
 
 "<Est>"
 	"èssere" vblex pri p3 sg
@@ -877,7 +879,7 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<non>"
-	"no" adv
+	"no" adv @neg
 "<b'>"
 	"bi" prn pro adv
 "<est>"
@@ -894,7 +896,7 @@
 "<ma>"
 	"ma" cnjcoo @cc
 "<no>"
-	"no" adv
+	"no" adv @neg
 "<est>"
 	"èssere" vblex pri p3 sg
 "<resessende>"
@@ -955,13 +957,13 @@
 	"?" sent @punct
 
 "<Torra>"
-	"torrare" vblex pri p3 sg
+	"torrare" vblex pri p3 sg @root #1->0
 "<cussu>"
-	"cussu" det dem m sg
+	"cussu" det dem m sg @det #2->3
 "<sonu>"
-	"sonu" n m sg
+	"sonu" n m sg @nsubj #3->1
 "<.>"
-	"." sent @punct
+	"." sent @punct #4->1
 
 "<Issa>"
 	"issu" prn tn p3 f sg
@@ -975,36 +977,36 @@
 	"." sent @punct
 
 "<No>"
-	"no" adv
+	"no" adv @neg #1->4
 "<est>"
-	"èssere" vblex pri p3 sg
+	"èssere" vblex pri p3 sg @cop #2->4
 "<unu>"
-	"unu" det ind m sg
+	"unu" det ind m sg @det #3->4
 "<pugione>"
-	"pugione" n m sg
+	"pugione" n m sg @root #4->0 
 "<o>"
-	"o" cnjcoo @cc
+	"o" cnjcoo @cc #5->4
 "<un'>"
-	"unu" det ind mf sg
+	"unu" det ind mf sg @det #6->8
 "<àtera>"
-	"àteru" det ind f sg
+	"àteru" det ind f sg @det #7->8
 "<bèstia>"
-	"bèstia" n f sg
+	"bèstia" n f sg @conj #8->4
 "<.>"
-	"." sent @punct
+	"." sent @punct #9->4
 
 "<L'>"
-	"lu" prn pro p3 m sg
+	"lu" prn pro p3 m sg @dobj #1->3
 "<est>"
-	"èssere" vblex pri p3 sg
+	"èssere" vblex pri p3 sg @aux #2->3
 "<intendende>"
-	"intèndere" vblex ger
+	"intèndere" vblex ger @root #3->0
 "<galu>"
-	"galu" adv
+	"galu" adv @advmod #4->3
 "<bene>"
-	"bene" adv
+	"bene" adv @advmod #5->3
 "<.>"
-	"." sent @punct
+	"." sent @punct #6->3
 
 "<De>"
 	"de" pr @case
