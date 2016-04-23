@@ -2,7 +2,7 @@
 
 
 #verb='èssere'
-verb='tènnere'
+verb='otènnere'
 
 s="^$verb<vblex><inf>$"
 echo "$s" | lt-proc -g srd.autogen.bin

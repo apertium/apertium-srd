@@ -1246,60 +1246,6 @@
       <e>       <p><l>idas</l><r>ire<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="t/ènnere__vblex" c="p.42"> <!-- DEPRECATED -->
-      <e r="LR"><p><l>enner</l><r>ènnere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>ènnere</l><r>ènnere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ènnere</l><r>ènnere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
-      <e r="LR"><p><l>enendi</l><r>ènnere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>enendi</l><r>ènnere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>enende</l><r>ènnere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>enende</l><r>ènnere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
-
-      <e>       <p><l>èngio</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enes</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>enit</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>enet</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enimus</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>enides</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>enent</l><r>ènnere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>enia</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enias</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>eniat</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>eniamus</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>eniais</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>enaiant</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>eniant</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-
-      <e>       <p><l>èngia</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>èngias</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>engiat</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>engiamus</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>engiais</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>èngiant</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>engiant</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>ennere</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enneres</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enneret</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enneremus</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ennereis</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ennerent</l><r>ènnere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-
-      <e>       <p><l>ene</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>engiat</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>engiamus</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>engiais</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>èngiant</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e> 
-      <e r="LR"><p><l>engiant</l><r>ènnere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-
-
-      <e>       <p><l>entu</l><r>ènnere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>enta</l><r>ènnere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>entos</l><r>ènnere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>entas</l><r>ènnere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="tèn/nere__vblex" c="p.42">
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -6003,10 +5949,14 @@
     <e lm="cunsentire"><i>cunsent</i><par n="fin/ire__vblex"/></e>
     <e lm="garantire"><i>garant</i><par n="fin/ire__vblex"/></e>
 
-    <e lm="cuntènnere"><i>cunt</i><par n="t/ènnere__vblex"/></e>
-    <e lm="sustènnere"><i>sust</i><par n="t/ènnere__vblex"/></e>
-    <e lm="otènnere"><i>ot</i><par n="t/ènnere__vblex"/></e>
-    <e lm="otènnere" r="LR"><p><l>ott</l><r>ot</r></p><par n="t/ènnere__vblex"/></e>
+    <e lm="cuntènnere"><p><l>cuntèn</l><r>cuntènnere</r></p><par n="tèn/nere__vblex"/></e>
+    <e lm="cuntènnere"><p><l>cunten</l><r>cuntènnere</r></p><par n="ten/es__vblex"/></e>
+    <e lm="sustènnere"><p><l>sustèn</l><r>sustènnere</r></p><par n="tèn/nere__vblex"/></e>
+    <e lm="sustènnere"><p><l>susten</l><r>sustènnere</r></p><par n="ten/es__vblex"/></e>
+    <e lm="otènnere"><p><l>otèn</l><r>otènnere</r></p><par n="tèn/nere__vblex"/></e>
+    <e lm="otènnere"><p><l>oten</l><r>otènnere</r></p><par n="ten/es__vblex"/></e>
+    <e lm="otènnere" r="LR"><p><l>ottèn</l><r>otènnere</r></p><par n="tèn/nere__vblex"/></e>
+    <e lm="otènnere" r="LR"><p><l>otten</l><r>otènnere</r></p><par n="ten/es__vblex"/></e>
 
     <e lm="pònnere"><i>p</i><par n="p/ònnere__vblex"/></e>
     <e lm="impònnere"><i>imp</i><par n="p/ònnere__vblex"/></e>
