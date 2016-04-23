@@ -5851,89 +5851,43 @@
     <e lm="filmare"><i>film</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="obrigare"><i>obrig</i><par n="cant/are__vblex"/></e>
-    <!--<e lm="istampare"><i>istamp</i><par n="cant/are__vblex"/></e>-->
     <e lm="cunformare"><i>cunform</i><par n="cant/are__vblex"/></e>
 
 
 
-    <e lm="adatare"><i>adat</i><par n="cant/are__vblex"/></e>
     <e lm="comunicare"><i>comunic</i><par n="cant/are__vblex"/></e>
-    <e lm="cuncambiare"><i>cuncambi</i><par n="cant/are__vblex"/></e>
     <e lm="identificare"><i>identific</i><par n="cant/are__vblex"/></e>
-    <e lm="summare"><i>summ</i><par n="cant/are__vblex"/></e>
-    <e lm="iscostiare"><i>iscosti</i><par n="cant/are__vblex"/></e>
-    <e lm="istudare"><i>istud</i><par n="cant/are__vblex"/></e>
-    <e lm="impreare"><i>impre</i><par n="cant/are__vblex"/></e>
-    <e lm="tocare"><i>toc</i><par n="cant/are__vblex"/></e>
-    <e lm="isfrutare"><i>isfrut</i><par n="cant/are__vblex"/></e>
-    <e lm="informare"><i>inform</i><par n="cant/are__vblex"/></e>
-    <e lm="programmare"><i>programm</i><par n="cant/are__vblex"/></e>
+
     <e lm="programmare" r="LR"><p><l>program</l><r>programm</r></p><par n="cant/are__vblex"/></e>
-    <e lm="biagiare"><i>biagi</i><par n="cant/are__vblex"/></e>
-    <e lm="antitzipare"><i>antitzip</i><par n="cant/are__vblex"/></e>
     <e lm="antitzipare" r="LR"><p><l>antizip</l><r>antitzip</r></p><par n="cant/are__vblex"/></e>
-
-    <e lm="assignare"><i>assign</i><par n="cant/are__vblex"/></e>
     <e lm="assignare" r="LR"><p><l>assegn</l><r>assign</r></p><par n="cant/are__vblex"/></e>
-
-    <e lm="cunsignare"><i>cunsign</i><par n="cant/are__vblex"/></e>
     <e lm="cunsignare" r="LR"><p><l>consign</l><r>cunsign</r></p><par n="cant/are__vblex"/></e>
     <e lm="cunsignare" r="LR"><p><l>consegn</l><r>cunsign</r></p><par n="cant/are__vblex"/></e>
     <e lm="cunsignare" r="LR"><p><l>cunsegn</l><r>cunsign</r></p><par n="cant/are__vblex"/></e>
+    <e lm="retirare" r="LR"><p><l>ritir</l><r>retir</r></p><par n="cant/are__vblex"/></e>
 
     <e lm="presentziare"><i>presentzi</i><par n="cant/are__vblex"/></e>
     <e lm="abassare"><i>abass</i><par n="cant/are__vblex"/></e>
-    <e lm="causare"><i>caus</i><par n="cant/are__vblex"/></e>
-    <e lm="racumandare"><i>racumand</i><par n="cant/are__vblex"/></e>
-    <e lm="retirare"><i>retir</i><par n="cant/are__vblex"/></e>
-    <e lm="retirare" r="LR"><p><l>ritir</l><r>retir</r></p><par n="cant/are__vblex"/></e>
     <e lm="cagentare"><i>cagent</i><par n="cant/are__vblex"/></e>
-    <e lm="apassionare"><i>apassion</i><par n="cant/are__vblex"/></e>
 
-    <e lm="mòvere"><i>mòv</i><par n="tim/ere__vblex"/></e>
     <e lm="includere"><i>includ</i><par n="tim/ere__vblex"/></e>
-    <e lm="promòvere"><i>promòv</i><par n="tim/ere__vblex"/></e>
-    <e lm="reconnòschere"><i>reconnòsch</i><par n="tim/ere__vblex"/></e>
 
-    <e lm="lèghere"><i>lègh</i><par n="tim/ere__vblex"/></e>
-    <e lm="lèghere" r="LR"><p><l>legh</l><r>lègh</r></p><par n="tim/ere__vblex"/></e>
     <e lm="timere"><i>tim</i><par n="tim/ere__vblex"/></e>
-    <e lm="tradùere"><i>tradù</i><par n="tim/ere__vblex"/></e>
     <e lm="normalizere"><i>normaliz</i><par n="tim/ere__vblex"/></e>
     <e lm="collochere"><i>colloch</i><par n="tim/ere__vblex"/></e>
-    <e lm="pèrdere"><i>pèrd</i><par n="tim/ere__vblex"/></e>
-    <e lm="ispèrdere"><i>ispèrd</i><par n="tim/ere__vblex"/></e>
-    <!--<e lm="tòddere"><i>tòdd</i><par n="tim/ere__vblex"/></e>-->
     <e lm="emergere"><i>emerg</i><par n="tim/ere__vblex"/></e>
-    <e lm="crèere"><i>crè</i><par n="tim/ere__vblex"/></e>
     <e lm="imparere"><i>impar</i><par n="tim/ere__vblex"/></e>
     <e lm="provochere"><i>provoch</i><par n="tim/ere__vblex"/></e>
-    <e lm="descrìere"><i>descrì</i><par n="tim/ere__vblex"/></e>
-    <e lm="descrìere" r="LR"><p><l>descri</l><r>descrì</r></p><par n="tim/ere__vblex"/></e>
     <e lm="costituiere"><i>costitui</i><par n="tim/ere__vblex"/></e>
     <e lm="costituiere" r="LR"><p><l>constitui</l><r>costitui</r></p><par n="tim/ere__vblex"/></e>
-    <e lm="bìnchere"><i>bìnch</i><par n="tim/ere__vblex"/></e>
-    <e lm="bìvere"><i>bìv</i><par n="tim/ere__vblex"/></e>
-    <e lm="bìvere" r="LR"><p><l>biv</l><r>bìv</r></p><par n="tim/ere__vblex"/></e>
     <e lm="permìtere"><i>permìt</i><par n="tim/ere__vblex"/></e>
     <e lm="permìtere" r="LR"><p><l>permit</l><r>permìt</r></p><par n="tim/ere__vblex"/></e>
-    <e lm="cumprèndere"><i>cumprènd</i><par n="tim/ere__vblex"/></e>
-    <e lm="cumprèndere" r="LR"><p><l>cumprend</l><r>cumprènd</r></p><par n="tim/ere__vblex"/></e>
-    <e lm="dirìgere"><i>dirìg</i><par n="tim/ere__vblex"/></e>
-    <e lm="lùghere"><i>lùgh</i><par n="tim/ere__vblex"/></e>
-
-    <e lm="detzìdere"><i>detzìd</i><par n="tim/ere__vblex"/></e>
-    <e lm="detzìdere" r="LR"><p><l>detzid</l><r>detzìd</r></p><par n="tim/ere__vblex"/></e>
 
     <e lm="naschire"><i>nasch</i><par n="fin/ire__vblex"/></e>
     <e lm="naschire" r="LR"><p><l>nask</l><r>nasch</r></p><par n="fin/ire__vblex"/></e>
-    <e lm="istabilire"><i>istabil</i><par n="fin/ire__vblex"/></e>
     <e lm="divenire"><i>diven</i><par n="fin/ire__vblex"/></e>
     <e lm="defìnire"><i>defìn</i><par n="fin/ire__vblex"/></e>
     <e lm="defìnire" r="LR"><p><l>defin</l><r>defìn</r></p><par n="fin/ire__vblex"/></e>
-    <e lm="cunduire"><i>cundu</i><par n="fin/ire__vblex"/></e>
-    <e lm="collire"><i>coll</i><par n="fin/ire__vblex"/></e>
-    <e lm="istituire"><i>istitu</i><par n="fin/ire__vblex"/></e>
     <e lm="faddire"><i>fadd</i><par n="fin/ire__vblex"/></e>
     <e lm="mutire"><i>mut</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
@@ -5985,7 +5939,6 @@
     <e lm="imbentare"><i>imbent</i><par n="seg/are__vblex"/></e>
     <e lm="negare"><i>neg</i><par n="seg/are__vblex"/></e>
     <e lm="dennegare"><i>denneg</i><par n="seg/are__vblex"/></e>
-    <e lm="intregare"><i>intreg</i><par n="seg/are__vblex"/></e>
     <e lm="incarrigare"><i>incarrig</i><par n="seg/are__vblex"/></e>
 
     <e lm="còghere"><i>c</i><par n="c/òghere__vblex"/></e>
