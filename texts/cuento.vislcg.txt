@@ -1,0 +1,1128 @@
+"<In ue>"
+	"in ue" adv itg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<?>"
+	"?" sent
+ 
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<e>"
+	"e" cnjcoo
+"<Maria>"
+	"Maria" np ant f sg
+"<sunt>"
+	"èssere" vblex pri p3 pl
+"<in>"
+	"in" pr
+"<su>"
+	"su" det def m sg
+"<giardinu>"
+	"giardinu" n m sg
+"<.>"
+	"." sent
+
+"<Oe>"
+	"oe" adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<die>"
+	"die" n f sg
+"<bona>"
+	"bonu" adj f sg
+"<e>"
+	"e" cnjcoo
+"<b'>"
+	"bi" prn pro p3 mf sp
+"<at>"
+	"àere" vblex pri p3 sg
+"<calore>"
+	"calore" n m sg
+"<meda>"
+	"meda" adj mf sg
+"<.>"
+	"." sent
+
+"<Eris>"
+	"eris" adv
+"<,>"
+	"," cm
+"<imbetzes>"
+	"imbetzes" adv
+"<,>"
+	"," cm
+"<b'>"
+	"bi" prn pro p3 mf sp
+"<aiat>"
+	"àere" vblex pii p3 sg
+"<fritu>"
+	"fritu" adj m sg
+"<!>"
+	"!" sent
+
+"<E>"
+	"e" cnjcoo
+"<duncas>"
+	"duncas" adv
+"<no>"
+	"no" adv
+"<ant>"
+	"àere" vblex pri p3 pl
+"<pòdidu>"
+	"pòdere" vbmod pp m sg
+"<giogare>"
+	"giogare" vblex inf
+"<in>"
+	"in" pr
+"<foras>"
+	"foras" adv
+"<.>"
+	"." sent
+
+"<A>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"a" pr
+"<Maria>"
+	"Maria" np ant f sg
+"<lis>"
+	"li" prn pro p3 mf pl
+"<agradat>"
+	"agradare" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<giogare>"
+	"giogare" vblex inf
+"<,>"
+	"," cm
+"<giogant>"
+	"giogare" vblex pri p3 pl
+"<semper>"
+	"semper" adv
+"<in>"
+	"in" pr
+"<pare>"
+	"pare" n m sg
+"<in>"
+	"in" pr
+"<su>"
+	"su" det def m sg
+"<giardinu>"
+	"giardinu" n m sg
+"<in>"
+	"in" pr
+"<dae in antis>"
+	"dae in antis" pr
+"<de>"
+	"de" pr
+"<sa>"
+	"su" det def f sg
+"<domo>"
+	"domo" n f sg
+"<manna>"
+	"mannu" adj f sg
+"<.>"
+	"." sent
+
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<pitzinnu>"
+	"pitzinnu" n m sg
+"<e>"
+	"e" cnjcoo
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<ses>"
+	"ses" num mf sp
+"<annos>"
+	"annu" n m pl
+"<.>"
+	"." sent
+
+"<Sa>"
+	"su" det def f sg
+"<pitzinna>"
+	"pitzinnu" n f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<sorre>"
+	"sorre" n f sg
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<chimbe>"
+	"chimbe" num mf sp
+"<annos>"
+	"annu" n m pl
+"<.>"
+	"." sent
+
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<catzeddu>"
+	"catzeddu" n m sg
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<finas>"
+	"finas" adv
+"<su>"
+	"su" det def m sg
+"<cane>"
+	"cane" n m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<in>"
+	"in" pr
+"<su>"
+	"su" det def m sg
+"<giardinu>"
+	"giardinu" n m sg
+"<.>"
+	"." sent
+
+"<A>"
+	"a" pr
+"<su>"
+	"su" det def m sg
+"<cane>"
+	"cane" n m sg
+"<l'>"
+	"lu" prn pro p3 m sg
+"<agradat>"
+	"agradare" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<giogare>"
+	"giogare" vblex inf
+"<cun>"
+	"cun" pr
+"<sos>"
+	"su" det def m pl
+"<duos>"
+	"duos" num m sp
+"<pitzinnos>"
+	"pitzinnu" n m pl
+"<.>"
+	"." sent
+
+"<Como>"
+	"como" adv
+"<su>"
+	"su" det def m sg
+"<cane>"
+	"cane" n m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<cuntentu>"
+	"cuntentu" adj m sg
+"<mannu>"
+	"mannu" adj m sg
+"<.>"
+	"." sent
+
+"<Finas>"
+	"finas" adv
+"<Maria>"
+	"Maria" np ant f sg
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<cane>"
+	"cane" n m sg
+"<?>"
+	"?" sent
+
+"<Nono>"
+	"nono" adv
+"<,>"
+	"," cm
+"<Maria>"
+	"Maria" np ant f sg
+"<non>"
+	"no" adv
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<cane>"
+	"cane" n m sg
+"<,>"
+	"," cm
+"<ma>"
+	"ma" cnjcoo
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<gatu>"
+	"gatu" n m sg
+"<.>"
+	"." sent
+
+"<Ma>"
+	"ma" cnjcoo
+"<su>"
+	"su" det def m sg
+"<gatu>"
+	"gatu" n m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<in>"
+	"in" pr
+"<domo>"
+	"domo" n f sg
+"<,>"
+	"," cm
+"<su>"
+	"su" det def m sg
+"<gatu>"
+	"gatu" n m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<dormende>"
+	"dormire" vblex ger
+"<.>"
+	"." sent
+
+"<Sa>"
+	"su" det def f sg
+"<mama>"
+	"mama" n f sg
+"<issoro>"
+	"issoro" det pos mf sp
+"<est>"
+	"èssere" vblex pri p3 sg
+"<in>"
+	"in" pr
+"<domo>"
+	"domo" n f sg
+"<cun>"
+	"cun" pr
+"<su>"
+	"su" det def m sg
+"<gatu>"
+	"gatu" n m sg
+"<,>"
+	"," cm
+"<est>"
+	"èssere" vblex pri p3 sg
+"<abbaidende>"
+	"*abbaidende"
+"<dae>"
+	"dae" pr
+"<sas>"
+	"su" det def f pl
+"<ventanas>"
+	"ventana" n f pl
+"<e>"
+	"e" cnjcoo
+"<est>"
+	"èssere" vblex pri p3 sg
+"<bidende>"
+	"bìdere" vblex ger
+"<a>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"a" pr
+"<Maria>"
+	"Maria" np ant f sg
+"<chi>"
+	"chi" rel an mf sp
+"<sunt>"
+	"èssere" vblex pri p3 pl
+"<gioghende>"
+	"giogare" vblex ger
+"<.>"
+	"." sent
+
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<currende>"
+	"cùrrere" vblex ger
+"<lestru>"
+	"lestru" adj m sg
+"<chirru a>"
+	"chirru a" pr
+"<un'>"
+	"unu" det ind mf sg
+"<àrbore>"
+	"àrbore" n mf sg
+"<mannu>"
+	"mannu" adj m sg
+"<e>"
+	"e" cnjcoo
+"<betzu>"
+	"betzu" adj m sg
+"<,>"
+	"," cm
+"<si>"
+	"si" prn pro ref p3 mf sp
+"<nch'>"
+	"nche" prn pro adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<cuende>"
+	"*cuende"
+"<dae>"
+	"dae" pr
+"<Maria>"
+	"Maria" np ant f sg
+"<.>"
+	"." sent
+
+"<A>"
+	"a" pr
+"<l'>"
+	"lu" prn pro p3 m sg
+"<ischis>"
+	"ischire" vblex pri p2 sg
+"<pro ite>"
+	"pro ite" adv itg
+"<l'>"
+	"lu" prn pro p3 m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<faghende>"
+	"fàghere" vblex ger
+"<?>"
+	"?" sent
+
+"<Maria>"
+	"Maria" np ant f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<sèida>"
+	"sètzere" vblex pp f sg
+"<e>"
+	"e" cnjcoo
+"<s'>"
+	"si" prn pro ref p3 mf sp
+"<est>"
+	"èssere" vblex pri p3 sg
+"<cuende>"
+	"*cuende"
+"<soso>"
+	"*soso"
+"<gros>"
+	"gru" n m pl
+"<cun>"
+	"cun" pr
+"<sas>"
+	"su" det def f pl
+"<manos>"
+	"manu" n f pl
+"<.>"
+	"." sent
+
+"<No>"
+	"no" adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<bidende>"
+	"bìdere" vblex ger
+"<nudda>"
+	"nudda" prn tn nt
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<est>"
+	"èssere" vblex pri p3 sg
+"<contende>"
+	"*contende"
+"<.>"
+	"." sent
+
+"<Pro ite>"
+	"pro ite" adv itg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<faghende>"
+	"fàghere" vblex ger
+"<gosi>"
+	"gosi" adv
+"<?>"
+	"?" sent
+
+"<E>"
+	"e" cnjcoo
+"<ite>"
+	"ite" prn itg mf sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<faghende>"
+	"fàghere" vblex ger
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<a>"
+	"a" pr
+"<probe>"
+	"*probe"
+"<de>"
+	"de" pr
+"<s'>"
+	"su" det def mf sg
+"<àrbore>"
+	"àrbore" n mf sg
+"<?>"
+	"?" sent
+
+"<Est>"
+	"èssere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<giogu>"
+	"giogu" n m sg
+"<.>"
+	"." sent
+
+"<Nch'>"
+	"nche" prn pro adv
+"<at>"
+	"àere" vblex pri p3 sg
+"<in pessu>"
+	"in pessu" adv
+"<agabbadu>"
+	"agabbare" vblex pp m sg
+"<de>"
+	"de" pr
+"<contare>"
+	"contare" vblex inf
+"<,>"
+	"," cm
+"<Maria>"
+	"Maria" np ant f sg
+"<s'>"
+	"si" prn pro ref p3 mf sp
+"<est>"
+	"èssere" vblex pri p3 sg
+"<abbaidende>"
+	"*abbaidende"
+"<a inghìriu>"
+	"a inghìriu" adv
+"<.>"
+	"." sent
+
+"<Est>"
+	"èssere" vblex pri p3 sg
+"<chirchende>"
+	"*chirchende"
+"<a>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<:>"
+	":" sent
+"<a>"
+	"a" pr
+"<ue>"
+	"ue" rel adv
+"<si>"
+	"si" prn pro ref p3 mf sp
+"<nch'>"
+	"nche" prn pro adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<andadu>"
+	"andare" vblex pp m sg
+"<?>"
+	"?" sent
+
+"<Tue>"
+	"tue" prn tn p2 mf sg
+"<bidende>"
+	"bìdere" vblex ger
+"<lu>"
+	"lu" prn pro p3 nt
+"<ses>"
+	"èssere" vblex pri p2 sg
+"<?>"
+	"?" sent
+
+"<Maria>"
+	"Maria" np ant f sg
+"<no>"
+	"no" adv
+"<ischit>"
+	"ischire" vblex pri p3 sg
+"<in ue>"
+	"in ue" rel adv
+"<nche>"
+	"nche" prn pro adv
+"<siat>"
+	"èssere" vblex prs p3 sg
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<.>"
+	"." sent
+
+"<Pregontat>"
+	"pregontare" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<su>"
+	"su" det def m sg
+"<cane>"
+	"cane" n m sg
+"<“>"
+	"“" lquot
+"<Bidu>"
+	"*Bidu"
+"<l'>"
+	"lu" prn pro p3 m sg
+"<as>"
+	"àere" vblex pri p2 sg
+"<a>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<?>"
+	"?" sent
+"<”>"
+	"”" rquot
+
+"<Ma>"
+	"ma" cnjcoo
+"<su>"
+	"su" det def m sg
+"<cane>"
+	"cane" n m sg
+"<non>"
+	"no" adv
+"<podet>"
+	"pòdere" vblex pri p3 sg
+"<faeddare>"
+	"faeddare" vblex inf
+"<,>"
+	"," cm
+"<est>"
+	"èssere" vblex pri p3 sg
+"<craru>"
+	"craru" adv
+"<.>"
+	"." sent
+
+"<E>"
+	"e" cnjcoo
+"<duncas>"
+	"duncas" adv
+"<Maria>"
+	"Maria" np ant f sg
+"<non>"
+	"no" adv
+"<tenet>"
+	"tènnere" vblex pri p3 sg
+"<imposta>"
+	"imposta" n f sg
+"<peruna>"
+	"perunu" det ind f sg
+"<a>"
+	"a" pr
+"<sa>"
+	"su" det def f sg
+"<pregonta>"
+	"pregonta" n f sg
+"<sua>"
+	"suo" adj pos f sg
+"<.>"
+	"." sent
+
+"<Sas>"
+	"su" det def f pl
+"<pessones>"
+	"persona" n f pl
+"<non>"
+	"no" adv
+"<tenent>"
+	"tènnere" vblex pri p3 pl
+"<mai>"
+	"mai" adv
+"<imposta>"
+	"imposta" n f sg
+"<peruna>"
+	"perunu" det ind f sg
+"<cando>"
+	"cando" rel adv
+"<faeddant>"
+	"faeddare" vblex pri p3 pl
+"<cun>"
+	"cun" pr
+"<sos>"
+	"su" det def m pl
+"<canes>"
+	"cane" n m pl
+"<.>"
+	"." sent
+
+"<Maria>"
+	"Maria" np ant f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<abbaidende>"
+	"*abbaidende"
+"<sa>"
+	"su" det def f sg
+"<mama>"
+	"mama" n f sg
+"<in>"
+	"in" pr
+"<palas>"
+	"*palas"
+"<de>"
+	"de" pr
+"<sa>"
+	"su" det def f sg
+"<ventana>"
+	"ventana" n f sg
+"<,>"
+	"," cm
+"<sa>"
+	"su" det def f sg
+"<mama>"
+	"mama" n f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<riende>"
+	"rìere" vblex ger
+"<.>"
+	"." sent
+
+"<Maria>"
+	"Maria" np ant f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<pessende>"
+	"*pessende"
+"<chi>"
+	"chi" cnjsub
+"<issa>"
+	"issu" prn tn p3 f sg
+"<apat>"
+	"àere" vblex prs p3 sg
+"<bidu>"
+	"*bidu"
+"<a>"
+	"a" pr
+"<ue>"
+	"ue" rel adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<andadu>"
+	"andare" vblex pp m sg
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<Nara·mi>"
+	"nàrrere" vblex imp p2 sg
+		"mi" prn enc p1 mf sg
+"<in ue>"
+	"in ue" rel adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<”>"
+	"”" rquot
+"<,>"
+	"," cm
+"<li>"
+	"li" prn pro p3 mf sg
+"<narat>"
+	"nàrrere" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<sa>"
+	"su" det def f sg
+"<mama>"
+	"mama" n f sg
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<Nono>"
+	"nono" adv
+"<Maria>"
+	"Maria" np ant f sg
+"<,>"
+	"," cm
+"<non>"
+	"no" adv
+"<ti>"
+	"ti" prn pro p2 mf sg
+"<lu>"
+	"lu" prn pro p3 nt
+"<potzo>"
+	"pòdere" vbmod pri p1 sg
+"<nàrrere>"
+	"nàrrere" vblex inf
+"<”>"
+	"”" rquot
+"<,>"
+	"," cm
+"<li>"
+	"li" prn pro p3 mf sg
+"<rispondet>"
+	"rispòndere" vblex pri p3 sg
+"<.>"
+	"." sent
+
+"<Finas si>"
+	"finas si" cnjadv
+"<,>"
+	"," cm
+"<forsis>"
+	"forsis" adv
+"<,>"
+	"," cm
+"<l'>"
+	"lu" prn pro p3 m sg
+"<ischit>"
+	"ischire" vblex pri p3 sg
+"<,>"
+	"," cm
+"<no>"
+	"no" adv
+"<li>"
+	"li" prn pro p3 mf sg
+"<cheret>"
+	"chèrrere" vblex pri p3 sg
+"<nàrrere>"
+	"nàrrere" vblex inf
+"<in ue>"
+	"in ue" rel adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<.>"
+	"." sent
+
+"<Maria>"
+	"Maria" np ant f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<rugrende>"
+	"*rugrende"
+"<a bellu>"
+	"a bellu" adv
+"<su>"
+	"su" det def m sg
+"<giardinu>"
+	"giardinu" n m sg
+"<.>"
+	"." sent
+
+"<Est>"
+	"èssere" vblex pri p3 sg
+"<galu>"
+	"galu" adv
+"<chirchende>"
+	"*chirchende"
+"<a>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<.>"
+	"." sent
+
+"<Est>"
+	"èssere" vblex pri p3 sg
+"<abbaidende>"
+	"*abbaidende"
+"<in suta de>"
+	"in suta de" pr
+"<sa>"
+	"su" det def f sg
+"<mesa>"
+	"mesa" n f sg
+"<e>"
+	"e" cnjcoo
+"<in suta de>"
+	"in suta de" pr
+"<sas>"
+	"su" det def f pl
+"<cadreas>"
+	"cadrea" n f pl
+"<,>"
+	"," cm
+"<ma>"
+	"ma" cnjcoo
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<non>"
+	"no" adv
+"<b'>"
+	"bi" prn pro adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<.>"
+	"." sent
+
+"<Est>"
+	"èssere" vblex pri p3 sg
+"<abbaidende>"
+	"*abbaidende"
+"<in totue>"
+	"in totue" adv
+"<ma>"
+	"ma" cnjcoo
+"<no>"
+	"no" adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<resessende>"
+	"resèssere" vblex ger
+"<a>"
+	"a" pr
+"<agatare>"
+	"agatare" vblex inf
+"<a>"
+	"a" pr
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<.>"
+	"." sent
+
+"<A pustis>"
+	"a pustis" adv
+"<intendet>"
+	"intèndere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<sonu>"
+	"sonu" n m sg
+"<,>"
+	"," cm
+"<chi>"
+	"chi" rel an mf sp
+"<est>"
+	"èssere" vblex pri p3 sg
+"<essidu>"
+	"essire" vblex pp m sg
+"<dae>"
+	"dae" pr
+"<palas>"
+	"*palas"
+"<de>"
+	"de" pr
+"<s'>"
+	"su" det def mf sg
+"<àrbore>"
+	"àrbore" n mf sg
+"<mannu>"
+	"mannu" adj m sg
+"<e>"
+	"e" cnjcoo
+"<betzu>"
+	"betzu" adj m sg
+"<.>"
+	"." sent
+
+"<Chi>"
+	"chi" cnjsub
+"<siat>"
+	"èssere" vblex prs p3 sg
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<?>"
+	"?" sent
+
+"<Torra>"
+	"torrare" vblex pri p3 sg
+"<cussu>"
+	"cussu" det dem m sg
+"<sonu>"
+	"sonu" n m sg
+"<.>"
+	"." sent
+
+"<Issa>"
+	"issu" prn tn p3 f sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<ascurtende>"
+	"*ascurtende"
+"<cun atentu>"
+	"cun atentu" adv
+"<.>"
+	"." sent
+
+"<No>"
+	"no" adv
+"<est>"
+	"èssere" vblex pri p3 sg
+"<unu>"
+	"unu" det ind m sg
+"<pugione>"
+	"pugione" n m sg
+"<o>"
+	"o" cnjcoo
+"<un'>"
+	"unu" det ind mf sg
+"<àtera>"
+	"àteru" det ind f sg
+"<bèstia>"
+	"bèstia" n f sg
+"<.>"
+	"." sent
+
+"<L'>"
+	"lu" prn pro p3 m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<intendende>"
+	"intèndere" vblex ger
+"<galu>"
+	"galu" adv
+"<bene>"
+	"bene" adv
+"<.>"
+	"." sent
+
+"<De>"
+	"de" pr
+"<seguru>"
+	"seguru" adj m sg
+"<est>"
+	"èssere" vblex pri p3 sg
+"<Giacomo>"
+	"Giacomo" np ant m sg
+"<.>"
+	"." sent
+
+"<A pustis>"
+	"a pustis" adv
+"<nche>"
+	"nche" prn pro adv
+"<bidet>"
+	"bìdere" vblex pri p3 sg
+"<finas>"
+	"finas" pr
+"<una>"
+	"unu" det ind f sg
+"<manedda>"
+	"manedda" n f sg
+"<e>"
+	"e" cnjcoo
+"<cando>"
+	"cando" cnjadv
+"<s'>"
+	"si" prn pro ref p3 mf sp
+"<acùrtziat>"
+	"acurtziare" vblex pri p3 sg
+"<,>"
+	"," cm
+"<nche>"
+	"nche" prn pro adv
+"<bidet>"
+	"bìdere" vblex pri p3 sg
+"<finas>"
+	"finas" pr
+"<sa>"
+	"su" det def f sg
+"<conca>"
+	"conca" n f sg
+"<sua>"
+	"suo" adj pos f sg
+"<.>"
+	"." sent
+
+"<Si>"
+	"si" prn pro ref p3 mf sp
+"<ponet>"
+	"pònnere" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<rìere>"
+	"rìere" vblex inf
+"<e>"
+	"e" cnjcoo
+"<narat>"
+	"nàrrere" vblex pri p3 sg
+"<“>"
+	"“" lquot
+"<T'>"
+	"ti" prn pro p2 mf sg
+"<apo>"
+	"àere" vblex pri p1 sg
+"<agatadu>"
+	"agatare" vblex pp m sg
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<Sunt>"
+	"èssere" vblex pri p3 pl
+"<ambos>"
+	"ambos" prn tn m pl
+"<duos>"
+	"duos" num m sp
+"<cuntentos>"
+	"cuntentu" adj m pl
+"<mannos>"
+	"mannu" adj m pl
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<si>"
+	"si" prn pro ref p3 mf sp
+"<nch'>"
+	"nche" prn pro adv
+"<andant>"
+	"andare" vblex pri p3 pl
+"<a>"
+	"a" pr
+"<domo>"
+	"domo" n f sg
+"<,>"
+	"," cm
+"<ca>"
+	"ca" cnjsub
+"<est>"
+	"èssere" vblex pri p3 sg
+"<ora>"
+	"ora" n f sg
+"<de>"
+	"de" pr
+"<mandigare>"
+	"mandigare" vblex inf
+"<e>"
+	"e" cnjcoo
+"<de>"
+	"de" pr
+"<bufare>"
+	"bufare" vblex inf
+"<abba>"
+	"abba" n f sg
+"<.>"
+	"." sent
+

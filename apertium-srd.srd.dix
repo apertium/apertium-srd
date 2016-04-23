@@ -66,6 +66,8 @@
     <sdef n="cm"     c="Comma"/> 
     <sdef n="lpar"   c="Left parenthesis"/> 
     <sdef n="rpar"   c="Right parenthesis"/> 
+    <sdef n="lquot"  c="Left quote"/> 
+    <sdef n="rquot"  c="Right quote"/> 
   </sdefs>
   <pardefs>
 
@@ -73,6 +75,14 @@
 
     <pardef n="separa">
       <e><re>[.\?;:!]</re><p><l></l><r><s n="sent"/></r></p></e>
+    </pardef>
+
+    <pardef n="lquot">
+      <e><re>[“]</re><p><l></l><r><s n="lquot"/></r></p></e>
+    </pardef>
+
+    <pardef n="rquot">
+      <e><re>[”]</re><p><l></l><r><s n="rquot"/></r></p></e>
     </pardef>
 
     <pardef n="lpar">
@@ -21091,5 +21101,7 @@
     <e><par n="numeros"/></e>
     <e><par n="lpar"/></e>
     <e><par n="rpar"/></e>
+    <e><par n="lquot"/></e>
+    <e><par n="rquot"/></e>
   </section>
 </dictionary>
