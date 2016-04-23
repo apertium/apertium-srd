@@ -4879,6 +4879,33 @@
     <e lm="caraterìsticu"><i>caraterìsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="caraterìsticu" r="LR"><p><l>carateristi</l><r>caraterìsti</r></p><par n="linguìsti/cu__adj"/></e>
 
+    <e lm="ricu"><i>ri</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="geogràficu"><i>geogràfi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="archeològicu"><i>archeològi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="tecnològicu"><i>tecnològi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="igiènicu"><i>igièni</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="bàsicu"><i>bàsi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="acuàticu"><i>acuàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="iscolàsticu"><i>iscolàsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="politziescu"><i>politzies</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="carcu"><i>car</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="intrìnsecu"><i>intrìnse</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="chirùrgicu"><i>chirùrgi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="simmètricu"><i>simmètri</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="problemàticu"><i>problemàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="poèticu"><i>poèti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="esòticu"><i>esòti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="paesagìsticu"><i>paesagìsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="turìsticu"><i>turìsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="patriòticu"><i>patriòti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="propedèuticu"><i>propedèuti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="unìvocu"><i>unìvo</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="friscu"><i>fris</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="pedantescu"><i>pedantes</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="realìsticu"><i>realìsti</i><par n="linguìsti/cu__adj"/></e>
+
+
     <e lm="filosòficu"><i>filosòfi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="filosòficu" r="LR"><p><l>filosofi</l><r>filosòfi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="tècnicu"><i>tècni</i><par n="linguìsti/cu__adj"/></e>
