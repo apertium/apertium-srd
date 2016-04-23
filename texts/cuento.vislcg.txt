@@ -1,49 +1,49 @@
 "<In ue>"
-	"in ue" adv itg
+	"in ue" adv itg @advmod #1->2
 "<est>"
-	"èssere" vblex pri p3 sg
+	"èssere" vblex pri p3 sg @root #2->0
 "<Giacomo>"
-	"Giacomo" np ant m sg
+	"Giacomo" np ant m sg @nsubj #3->2
 "<?>"
-	"?" sent
+	"?" sent @punct #4->2
  
-"<Giacomo>"
-	"Giacomo" np ant m sg
+"<Giacomo>" 
+	"Giacomo" np ant m sg @nsubj #1->4
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc #2->1
 "<Maria>"
-	"Maria" np ant f sg
+	"Maria" np ant f sg @conj #3->1
 "<sunt>"
-	"èssere" vblex pri p3 pl
+	"èssere" vblex pri p3 pl @root #4->0
 "<in>"
-	"in" pr
+	"in" pr @case #5->7
 "<su>"
-	"su" det def m sg
+	"su" det def m sg @det #6->7
 "<giardinu>"
-	"giardinu" n m sg
+	"giardinu" n m sg @nmod #7->4
 "<.>"
-	"." sent
+	"." sent @punct #8->4
 
 "<Oe>"
-	"oe" adv
+	"oe" adv @advmod #1->2
 "<est>"
-	"èssere" vblex pri p3 sg
+	"èssere" vblex pri p3 sg @root #2->0
 "<die>"
-	"die" n f sg
+	"die" n f sg @nsubj #3->2
 "<bona>"
-	"bonu" adj f sg
+	"bonu" adj f sg @amod #4->3
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc #5->2
 "<b'>"
-	"bi" prn pro p3 mf sp
+	"bi" prn pro adv @dobj #6->7
 "<at>"
-	"àere" vblex pri p3 sg
+	"àere" vblex pri p3 sg @conj #7->2
 "<calore>"
-	"calore" n m sg
+	"calore" n m sg @dobj #8->7
 "<meda>"
-	"meda" adj mf sg
+	"meda" adj mf sg @amod #9->8
 "<.>"
-	"." sent
+	"." sent @punct #10->2
 
 "<Eris>"
 	"eris" adv
@@ -54,49 +54,49 @@
 "<,>"
 	"," cm
 "<b'>"
-	"bi" prn pro p3 mf sp
+	"bi" prn pro adv
 "<aiat>"
 	"àere" vblex pii p3 sg
 "<fritu>"
 	"fritu" adj m sg
 "<!>"
-	"!" sent
+	"!" sent @punct
 
 "<E>"
-	"e" cnjcoo
+	"e" cnjcoo @cc #1->6
 "<duncas>"
-	"duncas" adv
+	"duncas" adv @advmod #2->6
 "<no>"
-	"no" adv
+	"no" adv @neg #3->6
 "<ant>"
-	"àere" vblex pri p3 pl
+	"àere" vblex pri p3 pl @aux #4->6
 "<pòdidu>"
-	"pòdere" vbmod pp m sg
+	"pòdere" vbmod pp m sg @aux #5->6
 "<giogare>"
-	"giogare" vblex inf
-"<in>"
-	"in" pr
+	"giogare" vblex inf @root #6->0
+"<in>" 
+	"in" pr @case #7->8
 "<foras>"
-	"foras" adv
+	"foras" adv @advmod #8->6
 "<.>"
-	"." sent
+	"." sent @punct #9->6
 
 "<A>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
-	"Giacomo" np ant m sg
+	"Giacomo" np ant m sg @iobj
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Maria>"
-	"Maria" np ant f sg
+	"Maria" np ant f sg @conj
 "<lis>"
-	"li" prn pro p3 mf pl
+	"li" prn pro p3 mf pl @iobj
 "<agradat>"
-	"agradare" vblex pri p3 sg
+	"agradare" vblex pri p3 sg @root
 "<a>"
-	"a" pr
+	"a" pr @case
 "<giogare>"
 	"giogare" vblex inf
 "<,>"
@@ -106,21 +106,21 @@
 "<semper>"
 	"semper" adv
 "<in>"
-	"in" pr
+	"in" pr @case
 "<pare>"
 	"pare" n m sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<su>"
 	"su" det def m sg
 "<giardinu>"
 	"giardinu" n m sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<dae in antis>"
-	"dae in antis" pr
+	"dae in antis" pr @case
 "<de>"
-	"de" pr
+	"de" pr @case
 "<sa>"
 	"su" det def f sg
 "<domo>"
@@ -128,7 +128,7 @@
 "<manna>"
 	"mannu" adj f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Giacomo>"
 	"Giacomo" np ant m sg
@@ -139,7 +139,7 @@
 "<pitzinnu>"
 	"pitzinnu" n m sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<ses>"
@@ -147,7 +147,7 @@
 "<annos>"
 	"annu" n m pl
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Sa>"
 	"su" det def f sg
@@ -160,7 +160,7 @@
 "<,>"
 	"," cm
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<chimbe>"
@@ -168,7 +168,7 @@
 "<annos>"
 	"annu" n m pl
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Giacomo>"
 	"Giacomo" np ant m sg
@@ -181,7 +181,7 @@
 "<,>"
 	"," cm
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<finas>"
 	"finas" adv
 "<su>"
@@ -191,16 +191,16 @@
 "<est>"
 	"èssere" vblex pri p3 sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<su>"
 	"su" det def m sg
 "<giardinu>"
 	"giardinu" n m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<A>"
-	"a" pr
+	"a" pr @case
 "<su>"
 	"su" det def m sg
 "<cane>"
@@ -210,11 +210,11 @@
 "<agradat>"
 	"agradare" vblex pri p3 sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<giogare>"
 	"giogare" vblex inf
 "<cun>"
-	"cun" pr
+	"cun" pr @case
 "<sos>"
 	"su" det def m pl
 "<duos>"
@@ -222,7 +222,7 @@
 "<pitzinnos>"
 	"pitzinnu" n m pl
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Como>"
 	"como" adv
@@ -237,7 +237,7 @@
 "<mannu>"
 	"mannu" adj m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Finas>"
 	"finas" adv
@@ -250,7 +250,7 @@
 "<cane>"
 	"cane" n m sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Nono>"
 	"nono" adv
@@ -269,7 +269,7 @@
 "<,>"
 	"," cm
 "<ma>"
-	"ma" cnjcoo
+	"ma" cnjcoo @cc
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<unu>"
@@ -277,10 +277,10 @@
 "<gatu>"
 	"gatu" n m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Ma>"
-	"ma" cnjcoo
+	"ma" cnjcoo @cc
 "<su>"
 	"su" det def m sg
 "<gatu>"
@@ -288,7 +288,7 @@
 "<est>"
 	"èssere" vblex pri p3 sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<domo>"
 	"domo" n f sg
 "<,>"
@@ -302,7 +302,7 @@
 "<dormende>"
 	"dormire" vblex ger
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Sa>"
 	"su" det def f sg
@@ -313,11 +313,11 @@
 "<est>"
 	"èssere" vblex pri p3 sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<domo>"
 	"domo" n f sg
 "<cun>"
-	"cun" pr
+	"cun" pr @case
 "<su>"
 	"su" det def m sg
 "<gatu>"
@@ -329,25 +329,25 @@
 "<abbaidende>"
 	"*abbaidende"
 "<dae>"
-	"dae" pr
+	"dae" pr @case
 "<sas>"
 	"su" det def f pl
 "<ventanas>"
 	"ventana" n f pl
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<est>"
 	"èssere" vblex pri p3 sg
 "<bidende>"
 	"bìdere" vblex ger
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Maria>"
 	"Maria" np ant f sg
 "<chi>"
@@ -357,7 +357,7 @@
 "<gioghende>"
 	"giogare" vblex ger
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Giacomo>"
 	"Giacomo" np ant m sg
@@ -368,7 +368,7 @@
 "<lestru>"
 	"lestru" adj m sg
 "<chirru a>"
-	"chirru a" pr
+	"chirru a" pr @case
 "<un'>"
 	"unu" det ind mf sg
 "<àrbore>"
@@ -376,7 +376,7 @@
 "<mannu>"
 	"mannu" adj m sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<betzu>"
 	"betzu" adj m sg
 "<,>"
@@ -390,14 +390,14 @@
 "<cuende>"
 	"*cuende"
 "<dae>"
-	"dae" pr
+	"dae" pr @case
 "<Maria>"
 	"Maria" np ant f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<A>"
-	"a" pr
+	"a" pr @case
 "<l'>"
 	"lu" prn pro p3 m sg
 "<ischis>"
@@ -411,7 +411,7 @@
 "<faghende>"
 	"fàghere" vblex ger
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Maria>"
 	"Maria" np ant f sg
@@ -420,7 +420,7 @@
 "<sèida>"
 	"sètzere" vblex pp f sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<s'>"
 	"si" prn pro ref p3 mf sp
 "<est>"
@@ -432,13 +432,13 @@
 "<gros>"
 	"gru" n m pl
 "<cun>"
-	"cun" pr
+	"cun" pr @case
 "<sas>"
 	"su" det def f pl
 "<manos>"
 	"manu" n f pl
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<No>"
 	"no" adv
@@ -451,13 +451,13 @@
 "<,>"
 	"," cm
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<est>"
 	"èssere" vblex pri p3 sg
 "<contende>"
 	"*contende"
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Pro ite>"
 	"pro ite" adv itg
@@ -468,10 +468,10 @@
 "<gosi>"
 	"gosi" adv
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<E>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<ite>"
 	"ite" prn itg mf sg
 "<est>"
@@ -481,17 +481,17 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<probe>"
 	"*probe"
 "<de>"
-	"de" pr
+	"de" pr @case
 "<s'>"
 	"su" det def mf sg
 "<àrbore>"
 	"àrbore" n mf sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Est>"
 	"èssere" vblex pri p3 sg
@@ -500,7 +500,7 @@
 "<giogu>"
 	"giogu" n m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Nch'>"
 	"nche" prn pro adv
@@ -511,7 +511,7 @@
 "<agabbadu>"
 	"agabbare" vblex pp m sg
 "<de>"
-	"de" pr
+	"de" pr @case
 "<contare>"
 	"contare" vblex inf
 "<,>"
@@ -527,20 +527,20 @@
 "<a inghìriu>"
 	"a inghìriu" adv
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Est>"
 	"èssere" vblex pri p3 sg
 "<chirchende>"
 	"*chirchende"
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<:>"
-	":" sent
+	":" sent @punct
 "<a>"
-	"a" pr
+	"a" pr @case
 "<ue>"
 	"ue" rel adv
 "<si>"
@@ -552,7 +552,7 @@
 "<andadu>"
 	"andare" vblex pp m sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Tue>"
 	"tue" prn tn p2 mf sg
@@ -563,7 +563,7 @@
 "<ses>"
 	"èssere" vblex pri p2 sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Maria>"
 	"Maria" np ant f sg
@@ -580,12 +580,12 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Pregontat>"
 	"pregontare" vblex pri p3 sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<su>"
 	"su" det def m sg
 "<cane>"
@@ -599,16 +599,16 @@
 "<as>"
 	"àere" vblex pri p2 sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 "<”>"
 	"”" rquot
 
 "<Ma>"
-	"ma" cnjcoo
+	"ma" cnjcoo @cc
 "<su>"
 	"su" det def m sg
 "<cane>"
@@ -626,10 +626,10 @@
 "<craru>"
 	"craru" adv
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<E>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<duncas>"
 	"duncas" adv
 "<Maria>"
@@ -643,7 +643,7 @@
 "<peruna>"
 	"perunu" det ind f sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<sa>"
 	"su" det def f sg
 "<pregonta>"
@@ -651,7 +651,7 @@
 "<sua>"
 	"suo" adj pos f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Sas>"
 	"su" det def f pl
@@ -672,13 +672,13 @@
 "<faeddant>"
 	"faeddare" vblex pri p3 pl
 "<cun>"
-	"cun" pr
+	"cun" pr @case
 "<sos>"
 	"su" det def m pl
 "<canes>"
 	"cane" n m pl
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Maria>"
 	"Maria" np ant f sg
@@ -691,11 +691,11 @@
 "<mama>"
 	"mama" n f sg
 "<in>"
-	"in" pr
+	"in" pr @case
 "<palas>"
 	"*palas"
 "<de>"
-	"de" pr
+	"de" pr @case
 "<sa>"
 	"su" det def f sg
 "<ventana>"
@@ -711,7 +711,7 @@
 "<riende>"
 	"rìere" vblex ger
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Maria>"
 	"Maria" np ant f sg
@@ -728,7 +728,7 @@
 "<bidu>"
 	"*bidu"
 "<a>"
-	"a" pr
+	"a" pr @case
 "<ue>"
 	"ue" rel adv
 "<est>"
@@ -738,7 +738,7 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<“>"
 	"“" lquot
@@ -758,13 +758,13 @@
 "<narat>"
 	"nàrrere" vblex pri p3 sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<sa>"
 	"su" det def f sg
 "<mama>"
 	"mama" n f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<“>"
 	"“" lquot
@@ -793,7 +793,7 @@
 "<rispondet>"
 	"rispòndere" vblex pri p3 sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Finas si>"
 	"finas si" cnjadv
@@ -822,7 +822,7 @@
 "<est>"
 	"èssere" vblex pri p3 sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Maria>"
 	"Maria" np ant f sg
@@ -837,7 +837,7 @@
 "<giardinu>"
 	"giardinu" n m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Est>"
 	"èssere" vblex pri p3 sg
@@ -846,26 +846,26 @@
 "<chirchende>"
 	"*chirchende"
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Est>"
 	"èssere" vblex pri p3 sg
 "<abbaidende>"
 	"*abbaidende"
 "<in suta de>"
-	"in suta de" pr
+	"in suta de" pr @case
 "<sa>"
 	"su" det def f sg
 "<mesa>"
 	"mesa" n f sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<in suta de>"
-	"in suta de" pr
+	"in suta de" pr @case
 "<sas>"
 	"su" det def f pl
 "<cadreas>"
@@ -873,7 +873,7 @@
 "<,>"
 	"," cm
 "<ma>"
-	"ma" cnjcoo
+	"ma" cnjcoo @cc
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<non>"
@@ -883,7 +883,7 @@
 "<est>"
 	"èssere" vblex pri p3 sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Est>"
 	"èssere" vblex pri p3 sg
@@ -892,7 +892,7 @@
 "<in totue>"
 	"in totue" adv
 "<ma>"
-	"ma" cnjcoo
+	"ma" cnjcoo @cc
 "<no>"
 	"no" adv
 "<est>"
@@ -900,15 +900,15 @@
 "<resessende>"
 	"resèssere" vblex ger
 "<a>"
-	"a" pr
+	"a" pr @case
 "<agatare>"
 	"agatare" vblex inf
 "<a>"
-	"a" pr
+	"a" pr @case
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<A pustis>"
 	"a pustis" adv
@@ -927,11 +927,11 @@
 "<essidu>"
 	"essire" vblex pp m sg
 "<dae>"
-	"dae" pr
+	"dae" pr @case
 "<palas>"
 	"*palas"
 "<de>"
-	"de" pr
+	"de" pr @case
 "<s'>"
 	"su" det def mf sg
 "<àrbore>"
@@ -939,11 +939,11 @@
 "<mannu>"
 	"mannu" adj m sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<betzu>"
 	"betzu" adj m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Chi>"
 	"chi" cnjsub
@@ -952,7 +952,7 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<?>"
-	"?" sent
+	"?" sent @punct
 
 "<Torra>"
 	"torrare" vblex pri p3 sg
@@ -961,7 +961,7 @@
 "<sonu>"
 	"sonu" n m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Issa>"
 	"issu" prn tn p3 f sg
@@ -972,7 +972,7 @@
 "<cun atentu>"
 	"cun atentu" adv
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<No>"
 	"no" adv
@@ -983,7 +983,7 @@
 "<pugione>"
 	"pugione" n m sg
 "<o>"
-	"o" cnjcoo
+	"o" cnjcoo @cc
 "<un'>"
 	"unu" det ind mf sg
 "<àtera>"
@@ -991,7 +991,7 @@
 "<bèstia>"
 	"bèstia" n f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<L'>"
 	"lu" prn pro p3 m sg
@@ -1004,10 +1004,10 @@
 "<bene>"
 	"bene" adv
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<De>"
-	"de" pr
+	"de" pr @case
 "<seguru>"
 	"seguru" adj m sg
 "<est>"
@@ -1015,7 +1015,7 @@
 "<Giacomo>"
 	"Giacomo" np ant m sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<A pustis>"
 	"a pustis" adv
@@ -1024,13 +1024,13 @@
 "<bidet>"
 	"bìdere" vblex pri p3 sg
 "<finas>"
-	"finas" pr
+	"finas" pr @case
 "<una>"
 	"unu" det ind f sg
 "<manedda>"
 	"manedda" n f sg
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<cando>"
 	"cando" cnjadv
 "<s'>"
@@ -1044,7 +1044,7 @@
 "<bidet>"
 	"bìdere" vblex pri p3 sg
 "<finas>"
-	"finas" pr
+	"finas" pr @case
 "<sa>"
 	"su" det def f sg
 "<conca>"
@@ -1052,18 +1052,18 @@
 "<sua>"
 	"suo" adj pos f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Si>"
 	"si" prn pro ref p3 mf sp
 "<ponet>"
 	"pònnere" vblex pri p3 sg
 "<a>"
-	"a" pr
+	"a" pr @case
 "<rìere>"
 	"rìere" vblex inf
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<narat>"
 	"nàrrere" vblex pri p3 sg
 "<“>"
@@ -1077,7 +1077,7 @@
 "<”>"
 	"”" rquot
 "<.>"
-	"." sent
+	"." sent @punct
 
 "<Sunt>"
 	"èssere" vblex pri p3 pl
@@ -1092,7 +1092,7 @@
 "<,>"
 	"," cm
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<si>"
 	"si" prn pro ref p3 mf sp
 "<nch'>"
@@ -1100,7 +1100,7 @@
 "<andant>"
 	"andare" vblex pri p3 pl
 "<a>"
-	"a" pr
+	"a" pr @case
 "<domo>"
 	"domo" n f sg
 "<,>"
@@ -1112,17 +1112,17 @@
 "<ora>"
 	"ora" n f sg
 "<de>"
-	"de" pr
+	"de" pr @case
 "<mandigare>"
 	"mandigare" vblex inf
 "<e>"
-	"e" cnjcoo
+	"e" cnjcoo @cc
 "<de>"
-	"de" pr
+	"de" pr @case
 "<bufare>"
 	"bufare" vblex inf
 "<abba>"
 	"abba" n f sg
 "<.>"
-	"." sent
+	"." sent @punct
 
