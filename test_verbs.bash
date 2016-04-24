@@ -2,13 +2,21 @@
 
 
 #verb='èssere'
-verb='tènnere'
-verb='bàlere'
-verb='bòlere'
-verb='pònnere'
-verb='bènnere'
-verb='pàrrere'
-verb='abèrrere'
+
+# model K
+#verb='tènnere'
+#verb='bàlere'
+#verb='bòlere'
+#verb='pònnere'
+#verb='bènnere'
+#verb='pàrrere'
+#verb='abèrrere'
+
+# model H
+#verb='dare'
+
+verb='segare'
+verb='trucare'
 
 
 s="^$verb<vblex><inf>$"
