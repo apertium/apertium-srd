@@ -7,10 +7,9 @@ verb='bàlere'
 verb='bòlere'
 verb='pònnere'
 verb='bènnere'
+verb='pàrrere'
+verb='abèrrere'
 
-verb='tènnere'
-verb='bàlere'
-verb='pònnere'
 
 s="^$verb<vblex><inf>$"
 echo "$s" | lt-proc -g srd.autogen.bin
