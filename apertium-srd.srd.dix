@@ -1374,54 +1374,58 @@
     </pardef>
 
 
-    <pardef n="p/ònnere__vblex" c="p.42">
-      <e r="LR"><p><l>onner</l><r>ònnere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>ònnere</l><r>ònnere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ònnere</l><r>ònnere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
-      <e r="LR"><p><l>onendi</l><r>ònnere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>onendi</l><r>ònnere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>onende</l><r>ònnere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>onende</l><r>ònnere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+    <pardef n="pòn/nere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'pones' -->
+      <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
-      <e>       <p><l>òngio</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ones</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onet</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onimus</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onides</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onent</l><r>ònnere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>gio</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
-      <e>       <p><l>onia</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onias</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oniat</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oniamus</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>oniais</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onaiant</l><r>ònnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>gia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>gias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
 
-      <e>       <p><l>òngia</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>òngias</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ongiat</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>òngiat</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>ongiamus</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ongiais</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ongiant</l><r>ònnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
 
-      <e>       <p><l>onnere</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onneres</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onneret</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>onneremus</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onnereis</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onnerent</l><r>ònnere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+    <pardef n="po/nes__vblex" c="p.42">
+      <e r="LR"><p><l>nendi</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>nendi</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+      <e>       <p><l>nende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>nende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
-      <e>       <p><l>òne</l><r>ònnere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ongiat</l><r>ònnere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ongiamus</l><r>ònnere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>onide</l><r>ònnere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>òngiant</l><r>ònnere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nes</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>net</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>nimus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>ostu</l><r>ònnere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>osta</l><r>ònnere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ostos</l><r>ònnere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ostas</l><r>ònnere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>nias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>niat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>niamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>niais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>niant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ngiat</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ngiamus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ngiais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ngiant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>nnere</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>nneres</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>nneret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>nneremus</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nnereis</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nnerent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ne</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ngiat</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ngiamus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>nide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ngiant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e> 
+
+      <e>       <p><l>stu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>sta</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>stos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>stas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="d/are__vblex" c="p.43">
@@ -5932,11 +5936,44 @@
     <e lm="tratènnere"><p><l>traten</l><r>tratènnere</r></p><par n="ten/es__vblex"/></e>
 
 
-    <e lm="pònnere"><i>p</i><par n="p/ònnere__vblex"/></e>
-    <e lm="impònnere"><i>imp</i><par n="p/ònnere__vblex"/></e>
-    <e lm="propònnere"><i>prop</i><par n="p/ònnere__vblex"/></e>
-    <e lm="cumpònnere"><i>cump</i><par n="p/ònnere__vblex"/></e>
-    <e lm="rispònnere"><i>risp</i><par n="p/ònnere__vblex"/></e>
+    <e lm="pònnere"><p><l>pòn</l><r>pònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="pònnere"><p><l>po</l><r>pònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="impònnere"><p><l>impòn</l><r>impònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="impònnere"><p><l>impo</l><r>impònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="propònnere"><p><l>propòn</l><r>propònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="propònnere"><p><l>propo</l><r>propònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="cumpònnere"><p><l>cumpòn</l><r>cumpònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="cumpònnere"><p><l>cumpo</l><r>cumpònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="rispònnere"><p><l>rispòn</l><r>rispònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="rispònnere"><p><l>rispo</l><r>rispònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="antepònnere"><p><l>antepòn</l><r>pònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="antepònnere"><p><l>antepo</l><r>pònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="apònnere"><p><l>pòn</l><r>apònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="apònnere"><p><l>po</l><r>apònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="contrapònnere"><p><l>pòn</l><r>contrapònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="contrapònnere"><p><l>po</l><r>contrapònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="cuntrapònnere"><p><l>pòn</l><r>cuntrapònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="cuntrapònnere"><p><l>po</l><r>cuntrapònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="depònnere"><p><l>pòn</l><r>depònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="depònnere"><p><l>po</l><r>depònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="dispònnere"><p><l>pòn</l><r>dispònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="dispònnere"><p><l>po</l><r>dispònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="espònnere"><p><l>pòn</l><r>espònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="espònnere"><p><l>po</l><r>espònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="ispònnere"><p><l>pòn</l><r>ispònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="ispònnere"><p><l>po</l><r>ispònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="opònnere"><p><l>pòn</l><r>opònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="opònnere"><p><l>po</l><r>opònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="predispònnere"><p><l>pòn</l><r>predispònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="predispònnere"><p><l>po</l><r>predispònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="presupònnere"><p><l>pòn</l><r>presupònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="presupònnere"><p><l>po</l><r>presupònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="suprapònnere"><p><l>pòn</l><r>suprapònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="suprapònnere"><p><l>po</l><r>suprapònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="supònnere"><p><l>pòn</l><r>supònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="supònnere"><p><l>po</l><r>supònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="sutapònnere"><p><l>pòn</l><r>sutapònnere</r></p><par n="pòn/nere__vblex"/></e>
+    <e lm="sutapònnere"><p><l>po</l><r>sutapònnere</r></p><par n="po/nes__vblex"/></e>
 
     <e lm="dare"><i>d</i><par n="d/are__vblex"/></e>
 
