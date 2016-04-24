@@ -15,8 +15,12 @@
 # model H
 #verb='dare'
 
-verb='segare'
-verb='trucare'
+# model g
+#verb='segare'
+#verb='trucare'
+
+# model G
+verb='còghere'
 
 
 s="^$verb<vblex><inf>$"

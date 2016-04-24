@@ -4087,6 +4087,7 @@
     <e lm="architetu" r="LR"><p><l>architeto</l><r>architetu</r></p><par n="pane__n"/></e>
 
     <e lm="traballadore"><i>traballador</i><par n="traballador/e__n"/></e>
+    <e lm="bividore"><i>bividor</i><par n="traballador/e__n"/></e>
 
     <e lm="ghennàrgiu"><i>ghennàrgi</i><par n="mac/u__n"/></e>
     <e lm="ghennàrgiu" r="LR"><p><l>ghennarz</l><r>ghennàrgi</r></p><par n="mac/u__n"/></e>
@@ -16613,6 +16614,7 @@
     <e lm="zorfare"><p><l>zorf</l><r>zorfare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="zubbare"><p><l>zubb</l><r>zubbare</r></p><par n="acabb/are__vblex"/></e>
 
+    <e lm="segare"><i>seg</i><par n="seg/are__vblex"/></e>
     <e lm="abbacare"><i>abbac</i><par n="seg/are__vblex"/></e>
     <e lm="abbucare"><i>abbuc</i><par n="seg/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="seg/are__vblex"/></e>
