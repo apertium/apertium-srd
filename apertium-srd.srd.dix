@@ -9394,6 +9394,13 @@
     <e lm="fàghere"><i>f</i><par n="f/àghere__vblex"/></e> 
     <e lm="fàghere parte"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parte</l><r><g><b/>parte</g></r></p></e> 
     <e lm="fàghere parte" r="LR"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parti</l><r><g><b/>parte</g></r></p></e> 
+    <e lm="contrafàghere"><i>contraf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="cunfàghere"><i>cunf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="disfàghere"><i>disf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="isfàghere"><i>isf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="satisfàghere"><i>satisf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="soddisfàghere"><i>soddisf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="subrafàghere"><i>subraf</i><par n="f/àghere__vblex"/></e> 
 
     <e lm="pòdere"><i>p</i><par n="p/òdere__vblex"/></e> 
     <e lm="pòdere"><i>p</i><par n="p/òdere__vbmod"/></e> 

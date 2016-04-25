@@ -21,6 +21,7 @@
 
 # model J
 verb='còghere'
+verb='fàghere'
 
 
 s="^$verb<vblex><inf>$"
