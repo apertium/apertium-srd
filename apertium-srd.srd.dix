@@ -1905,6 +1905,56 @@
       <e>       <p><l>ènnidas</l><r>ènnere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="n/àrrere__vblex" c="p.50">	<!-- modelo L curretore ortogràficu -->
+      <e r="LR"><p><l>arrer</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>arrere</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>àrrere</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>àrrere</l><r>àrrere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e r="LR"><p><l>arendi</l><r>àrrere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>arendi</l><r>àrrere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+      <e>       <p><l>arende</l><r>àrrere<s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>arende</l><r>àrrere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+
+      <e>       <p><l>aro</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aras</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arat</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aramus</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>arades</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>arant</l><r>àrrere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>araia</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>araias</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>araiat</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>araìamus</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>araiais</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>araiant</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>àrgia</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>àrgias</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>àrgiat</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>argiamus</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>argiais</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>àrgiant</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>arrere</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arreres</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arreret</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arreremus</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>arrereis</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>arrerent</l><r>àrrere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ara</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ara</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>àrgiat</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>argiamus</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>arade</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>àrgiant</l><r>àrrere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>aradu</l><r>àrrere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arada</l><r>àrrere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arados</l><r>àrrere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>aradas</l><r>àrrere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <!-- !!! Nuevo sistema de HUNSPELL !!! -->
 
@@ -9392,7 +9442,7 @@
     <e lm="bàlere"><p><l>bà</l><r>bàlere</r></p><par n="bò/lere__vblex"/></e>
     <e lm="bàlere"><p><l>ba</l><r>bàlere</r></p><par n="bo/les__vblex"/></e>
 
-<!--    <e lm="nàrrere"><i>n</i><par n="n/àrrere__vblex"/></e> -->
+    <e lm="nàrrere"><i>n</i><par n="n/àrrere__vblex"/></e>
 
     <e lm="pàrrere"><p><l>pàr</l><r>pàrrere</r></p><par n="pàr/rere__vblex"/></e>
     <e lm="pàrrere"><p><l>par</l><r>pàrrere</r></p><par n="par/es__vblex"/></e>

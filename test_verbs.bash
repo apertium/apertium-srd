@@ -27,13 +27,15 @@
 # model I  ENCARA NO REPASSAT
 #verb='tìnghere'
 #verb='disagradèssere'
-verb='sètzere'
+#verb='sètzere'
 
 # model M 3a conjugació
-verb='finire'
-verb='sighire'
-verb='ischire'
+#verb='finire'
+#verb='sighire'
+#verb='ischire'
 
+# model L (només nàrrere)
+verb='nàrrere'
 
 s="^$verb<vblex><inf>$"
 echo "$s" | lt-proc -g srd.autogen.bin
