@@ -19,7 +19,7 @@
 #verb='segare'
 #verb='trucare'
 
-# model G
+# model J
 verb='còghere'
 
 

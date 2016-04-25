@@ -1636,7 +1636,7 @@
       <e>       <p><l>adas</l><r>are<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="c/òghere__vblex" c="p.45">
+    <pardef n="c/òghere__vblex" c="p.45">	<!-- sigui el modelo /J del curretores ortográficu, pero las reglas parecen insuficientes, p.ex. para generar pri.p1.sg -->
       <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>oghendi</l><r>òghere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
@@ -1672,17 +1672,17 @@
       <e>       <p><l>oghereis</l><r>òghere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ogherent</l><r>òghere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>oge</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>oge</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>oghe</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>oghe</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
       <e>       <p><l>ogat</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>ogamus</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>oghide</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ogant</l><r>òghere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>atu</l><r>òghere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ata</l><r>òghere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>atos</l><r>òghere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>atas</l><r>òghere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>otu</l><r>òghere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ota</l><r>òghere<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>otos</l><r>òghere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>otas</l><r>òghere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="distin/ghere__vblex" c="p.45">
@@ -16614,7 +16614,6 @@
     <e lm="zorfare"><p><l>zorf</l><r>zorfare</r></p><par n="acabb/are__vblex"/></e>
     <e lm="zubbare"><p><l>zubb</l><r>zubbare</r></p><par n="acabb/are__vblex"/></e>
 
-    <e lm="segare"><i>seg</i><par n="seg/are__vblex"/></e>
     <e lm="abbacare"><i>abbac</i><par n="seg/are__vblex"/></e>
     <e lm="abbucare"><i>abbuc</i><par n="seg/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="seg/are__vblex"/></e>
@@ -17054,6 +17053,7 @@
     <e lm="vengare"><i>veng</i><par n="seg/are__vblex"/></e>
     <e lm="zingare"><i>zing</i><par n="seg/are__vblex"/></e>
     <e lm="zungare"><i>zung</i><par n="seg/are__vblex"/></e>
+
 
     <!-- SECTION: I Coniugatzione in -are
 
