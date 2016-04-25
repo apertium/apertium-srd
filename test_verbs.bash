@@ -20,8 +20,19 @@
 #verb='trucare'
 
 # model J
-verb='còghere'
-verb='fàghere'
+#verb='còghere'
+#verb='fàghere'
+#verb='pòdere'
+
+# model I  ENCARA NO REPASSAT
+#verb='tìnghere'
+#verb='disagradèssere'
+verb='sètzere'
+
+# model M 3a conjugació
+verb='finire'
+verb='sighire'
+verb='ischire'
 
 
 s="^$verb<vblex><inf>$"
