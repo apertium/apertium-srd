@@ -11,7 +11,7 @@
 #verb='bènnere'
 #verb='pàrrere'
 #verb='abèrrere'
-verb='chèrrere'
+#verb='chèrrere'
 
 # model H
 #verb='dare'
@@ -19,6 +19,9 @@ verb='chèrrere'
 # model g
 #verb='segare'
 #verb='trucare'
+verb='cantare'
+verb='acabbare'
+verb='modificare'
 
 # model J
 #verb='còghere'
