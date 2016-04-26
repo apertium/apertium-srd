@@ -22,6 +22,7 @@
 verb='cantare'
 verb='acabbare'
 verb='modificare'
+verb='comunicare'
 
 # model J
 #verb='còghere'
