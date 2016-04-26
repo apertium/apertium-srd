@@ -33,9 +33,11 @@
 # model I  ENCARA NO REPASSAT
 #verb='tìmere'
 #verb='tìnghere'
+#verb='aèschere'
 #verb='disagradèssere'
 #verb='sètzere'
-verb='règere'
+#verb='règere'
+verb='frìere'
 
 # model M 3a conjugació
 #verb='finire'
