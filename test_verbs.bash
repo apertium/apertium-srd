@@ -19,10 +19,11 @@
 # model g
 #verb='segare'
 #verb='trucare'
-verb='cantare'
+#verb='cantare'
 #verb='acabbare'
 #verb='modificare'
 #verb='comunicare'
+verb='trobogiare'
 
 # model J
 #verb='còghere'
@@ -30,6 +31,7 @@ verb='cantare'
 #verb='pòdere'
 
 # model I  ENCARA NO REPASSAT
+#verb='tìmere'
 #verb='tìnghere'
 #verb='disagradèssere'
 #verb='sètzere'
