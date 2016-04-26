@@ -11,6 +11,7 @@
 #verb='bènnere'
 #verb='pàrrere'
 #verb='abèrrere'
+verb='chèrrere'
 
 # model H
 #verb='dare'
@@ -35,7 +36,7 @@
 #verb='ischire'
 
 # model L (només nàrrere)
-verb='nàrrere'
+#verb='nàrrere'
 
 s="^$verb<vblex><inf>$"
 echo "$s" | lt-proc -g srd.autogen.bin

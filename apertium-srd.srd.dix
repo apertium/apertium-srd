@@ -9450,6 +9450,8 @@
     <e lm="cumpàrrere"><p><l>cumpar</l><r>cumpàrrere</r></p><par n="par/es__vblex"/></e>
     <e lm="iscumpàrrere"><p><l>iscumpàr</l><r>iscumpàrrere</r></p><par n="pàr/rere__vblex"/></e>
     <e lm="iscumpàrrere"><p><l>iscumpar</l><r>iscumpàrrere</r></p><par n="par/es__vblex"/></e>
+    <e lm="chèrrere"><p><l>chèr</l><r>chèrrere</r></p><par n="pàr/rere__vblex"/></e>
+    <e lm="chèrrere"><p><l>cher</l><r>chèrrere</r></p><par n="par/es__vblex"/></e>
     <e lm="rechèrrere"><p><l>rechèr</l><r>rechèrrere</r></p><par n="pàr/rere__vblex"/></e>
     <e lm="rechèrrere"><p><l>recher</l><r>rechèrrere</r></p><par n="par/es__vblex"/></e>
 
@@ -9472,8 +9474,6 @@
     <e lm="prefèrrere"><p><l>prefer</l><r>prefèrrere</r></p><par n="aber/is__vblex"/></e>
     <e lm="refèrrere"><p><l>refèr</l><r>refèrrere</r></p><par n="abèr/rere__vblex"/></e>
     <e lm="refèrrere"><p><l>refer</l><r>refèrrere</r></p><par n="aber/is__vblex"/></e>
-    <e lm="chèrrere"><p><l>chèr</l><r>chèrrere</r></p><par n="abèr/rere__vblex"/></e>
-    <e lm="chèrrere"><p><l>cher</l><r>chèrrere</r></p><par n="aber/is__vblex"/></e>
 
     <!-- SECTION: Abbreviations -->
 
