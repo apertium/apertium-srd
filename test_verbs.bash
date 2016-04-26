@@ -20,9 +20,9 @@
 #verb='segare'
 #verb='trucare'
 verb='cantare'
-verb='acabbare'
-verb='modificare'
-verb='comunicare'
+#verb='acabbare'
+#verb='modificare'
+#verb='comunicare'
 
 # model J
 #verb='còghere'
