@@ -23,7 +23,7 @@
 #verb='acabbare'
 #verb='modificare'
 #verb='comunicare'
-verb='trobogiare'
+#verb='trobogiare'
 
 # model J
 #verb='còghere'
@@ -35,6 +35,7 @@ verb='trobogiare'
 #verb='tìnghere'
 #verb='disagradèssere'
 #verb='sètzere'
+verb='règere'
 
 # model M 3a conjugació
 #verb='finire'

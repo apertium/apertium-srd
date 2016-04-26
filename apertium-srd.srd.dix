@@ -24070,26 +24070,8 @@
     <e lm="elèghere"><p><l>elègh</l><r>elèghere</r></p><par n="sètz/ere__vblex"/></e>
     <e lm="elèghere"><p><l>eleg</l><r>elèghere</r></p><par n="setz/o__vblex"/></e>
 
-    <e lm="currègere"><p><l>currèg</l><r>currègere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="currègere"><p><l>curreg</l><r>currègere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="dirìgere"><p><l>dirìg</l><r>dirìgere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="dirìgere"><p><l>dirig</l><r>dirìgere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="elègere"><p><l>elèg</l><r>elègere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="elègere"><p><l>eleg</l><r>elègere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="esìgere"><p><l>esìg</l><r>esìgere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="esìgere"><p><l>esig</l><r>esìgere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="ispòrgere"><p><l>ispòrg</l><r>ispòrgere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="ispòrgere"><p><l>isporg</l><r>ispòrgere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="pòngere"><p><l>pòng</l><r>pòngere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="pòngere"><p><l>pong</l><r>pòngere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="pòrgere"><p><l>pòrg</l><r>pòrgere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="pòrgere"><p><l>porg</l><r>pòrgere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="protègere"><p><l>protèg</l><r>protègere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="protègere"><p><l>proteg</l><r>protègere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="règere"><p><l>règ</l><r>règere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="règere"><p><l>reg</l><r>règere</r></p><par n="règ/ere__vblex"/></e>
-    <e lm="risòrgere"><p><l>risòrg</l><r>risòrgere</r></p><par n="reg/o__vblex"/></e>
-    <e lm="risòrgere"><p><l>risorg</l><r>risòrgere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="règere"><p><l>règ</l><r>règere</r></p><par n="règ/ere__vblex"/></e>
+    <e lm="règere"><p><l>reg</l><r>règere</r></p><par n="reg/o__vblex"/></e>
 
     <!--
 
