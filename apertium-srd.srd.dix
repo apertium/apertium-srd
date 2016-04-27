@@ -2074,6 +2074,14 @@
       <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>idos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>idas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>itu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ita</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>itos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>itas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ittu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>itta</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ittos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ittas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="setz/o__vblex">
@@ -3127,6 +3135,181 @@
     <e lm="situatzione"><i>situatzion</i><par n="region/e__n"/></e>
     <e lm="situatzione" r="LR"><p><l>situazion</l><r>situatzion</r></p><par n="region/e__n"/></e>
     <e lm="trasformatzione"><i>trasformatzion</i><par n="region/e__n"/></e>
+
+    <e lm="contraventzione"><i>contraventzion</i><par n="region/e__n"/></e>
+    <e lm="negotziatzione"><i>negotziatzion</i><par n="region/e__n"/></e>
+    <e lm="abdicatzione"><i>abdicatzion</i><par n="region/e__n"/></e>
+    <e lm="agiudicatzione"><i>agiudicatzion</i><par n="region/e__n"/></e>
+    <e lm="edificatzione"><i>edificatzion</i><par n="region/e__n"/></e>
+    <e lm="pianificatzione"><i>pianificatzion</i><par n="region/e__n"/></e>
+    <e lm="identificatzione"><i>identificatzion</i><par n="region/e__n"/></e>
+    <e lm="tzertificatzione"><i>tzertificatzion</i><par n="region/e__n"/></e>
+    <e lm="fortificatzione"><i>fortificatzion</i><par n="region/e__n"/></e>
+    <e lm="duplicatzione"><i>duplicatzion</i><par n="region/e__n"/></e>
+    <e lm="autenticatzione"><i>autenticatzion</i><par n="region/e__n"/></e>
+    <e lm="licuidatzione"><i>licuidatzion</i><par n="region/e__n"/></e>
+    <e lm="balneatzione"><i>balneatzion</i><par n="region/e__n"/></e>
+    <e lm="delegatzione"><i>delegatzion</i><par n="region/e__n"/></e>
+    <e lm="obligatzione"><i>obligatzion</i><par n="region/e__n"/></e>
+    <e lm="divulgatzione"><i>divulgatzion</i><par n="region/e__n"/></e>
+    <e lm="catalogatzione"><i>catalogatzion</i><par n="region/e__n"/></e>
+    <e lm="abrogatzione"><i>abrogatzion</i><par n="region/e__n"/></e>
+    <e lm="interrogatzione"><i>interrogatzion</i><par n="region/e__n"/></e>
+    <e lm="mediatzione"><i>mediatzion</i><par n="region/e__n"/></e>
+    <e lm="contziliatzione"><i>contziliatzion</i><par n="region/e__n"/></e>
+    <e lm="espropriatzione"><i>espropriatzion</i><par n="region/e__n"/></e>
+    <e lm="abbreviatzione"><i>abbreviatzion</i><par n="region/e__n"/></e>
+    <e lm="diferentziatzione"><i>diferentziatzion</i><par n="region/e__n"/></e>
+    <e lm="negotziatzione"><i>negotziatzion</i><par n="region/e__n"/></e>
+    <e lm="installatzione"><i>installatzion</i><par n="region/e__n"/></e>
+    <e lm="immatriculatzione"><i>immatriculatzion</i><par n="region/e__n"/></e>
+    <e lm="articolatzione"><i>articolatzion</i><par n="region/e__n"/></e>
+    <e lm="istimulatzione"><i>istimulatzion</i><par n="region/e__n"/></e>
+    <e lm="simulatzione"><i>simulatzion</i><par n="region/e__n"/></e>
+    <e lm="formulatzione"><i>formulatzion</i><par n="region/e__n"/></e>
+    <e lm="legitimatzione"><i>legitimatzion</i><par n="region/e__n"/></e>
+    <e lm="programmatzione"><i>programmatzion</i><par n="region/e__n"/></e>
+    <e lm="assegnatzione"><i>assegnatzion</i><par n="region/e__n"/></e>
+    <e lm="dessinnatzione"><i>dessinnatzion</i><par n="region/e__n"/></e>
+    <e lm="immaginatzione"><i>immaginatzion</i><par n="region/e__n"/></e>
+    <e lm="dominatzione"><i>dominatzion</i><par n="region/e__n"/></e>
+    <e lm="determinatzione"><i>determinatzion</i><par n="region/e__n"/></e>
+    <e lm="destinatzione"><i>destinatzion</i><par n="region/e__n"/></e>
+    <e lm="donatzione"><i>donatzion</i><par n="region/e__n"/></e>
+    <e lm="antitzipatzione"><i>antitzipatzion</i><par n="region/e__n"/></e>
+    <e lm="deliberatzione"><i>deliberatzion</i><par n="region/e__n"/></e>
+    <e lm="cunfederatzione"><i>cunfederatzion</i><par n="region/e__n"/></e>
+    <e lm="remuneratzione"><i>remuneratzion</i><par n="region/e__n"/></e>
+    <e lm="infratzione"><i>infratzion</i><par n="region/e__n"/></e>
+    <e lm="emigratzione"><i>emigratzion</i><par n="region/e__n"/></e>
+    <e lm="immigratzione"><i>immigratzion</i><par n="region/e__n"/></e>
+    <e lm="asseguratzione"><i>asseguratzion</i><par n="region/e__n"/></e>
+    <e lm="configuratzione"><i>configuratzion</i><par n="region/e__n"/></e>
+    <e lm="transatzione"><i>transatzion</i><par n="region/e__n"/></e>
+    <e lm="cumpensatzione"><i>cumpensatzion</i><par n="region/e__n"/></e>
+    <e lm="sensatzione"><i>sensatzion</i><par n="region/e__n"/></e>
+    <e lm="cassatzione"><i>cassatzion</i><par n="region/e__n"/></e>
+    <e lm="vegetatzione"><i>vegetatzion</i><par n="region/e__n"/></e>
+    <e lm="regulamentatzione"><i>regulamentatzion</i><par n="region/e__n"/></e>
+    <e lm="isperimentatzione"><i>isperimentatzion</i><par n="region/e__n"/></e>
+    <e lm="frammentatzione"><i>frammentatzion</i><par n="region/e__n"/></e>
+    <e lm="documentatzione"><i>documentatzion</i><par n="region/e__n"/></e>
+    <e lm="dotatzione"><i>dotatzion</i><par n="region/e__n"/></e>
+    <e lm="rotatzione"><i>rotatzion</i><par n="region/e__n"/></e>
+    <e lm="cuotatzione"><i>cuotatzion</i><par n="region/e__n"/></e>
+    <e lm="votatzione"><i>votatzion</i><par n="region/e__n"/></e>
+    <e lm="importatzione"><i>importatzion</i><par n="region/e__n"/></e>
+    <e lm="esportatzione"><i>esportatzion</i><par n="region/e__n"/></e>
+    <e lm="ispetzione"><i>ispetzion</i><par n="region/e__n"/></e>
+    <e lm="seletzione"><i>seletzion</i><par n="region/e__n"/></e>
+    <e lm="istatzione"><i>istatzion</i><par n="region/e__n"/></e>
+    <e lm="istatzione" r="LR" c="!LSC"><p><l>istassion</l><r>istatzion</r></p><par n="region/e__n"/></e>
+    <e lm="prestatzione"><i>prestatzion</i><par n="region/e__n"/></e>
+    <e lm="atestatzione"><i>atestatzion</i><par n="region/e__n"/></e>
+    <e lm="revalutatzione"><i>revalutatzion</i><par n="region/e__n"/></e>
+    <e lm="individuatzione"><i>individuatzion</i><par n="region/e__n"/></e>
+    <e lm="atuatzione"><i>atuatzion</i><par n="region/e__n"/></e>
+    <e lm="ativatzione"><i>ativatzion</i><par n="region/e__n"/></e>
+    <e lm="innovatzione"><i>innovatzion</i><par n="region/e__n"/></e>
+    <e lm="aprovatzione"><i>aprovatzion</i><par n="region/e__n"/></e>
+    <e lm="sotzializatzione"><i>sotzializatzion</i><par n="region/e__n"/></e>
+    <e lm="armonizatzione"><i>armonizatzion</i><par n="region/e__n"/></e>
+    <e lm="valorizatzione"><i>valorizatzion</i><par n="region/e__n"/></e>
+    <e lm="autorizatzione"><i>autorizatzion</i><par n="region/e__n"/></e>
+    <e lm="lotizatzione"><i>lotizatzion</i><par n="region/e__n"/></e>
+    <e lm="setzione"><i>setzion</i><par n="region/e__n"/></e>
+    <e lm="proibitzione"><i>proibitzion</i><par n="region/e__n"/></e>
+    <e lm="abolitzione"><i>abolitzion</i><par n="region/e__n"/></e>
+    <e lm="demolitzione"><i>demolitzion</i><par n="region/e__n"/></e>
+    <e lm="descritzione"><i>descritzion</i><par n="region/e__n"/></e>
+    <e lm="tzircumiscrìtzione"><i>tzircumiscrìtzion</i><par n="region/e__n"/></e>
+    <e lm="rechisitzione"><i>rechisitzion</i><par n="region/e__n"/></e>
+    <e lm="cumpositzione"><i>cumpositzion</i><par n="region/e__n"/></e>
+    <e lm="espositzione"><i>espositzion</i><par n="region/e__n"/></e>
+    <e lm="partitzione"><i>partitzion</i><par n="region/e__n"/></e>
+    <e lm="fruitzione"><i>fruitzion</i><par n="region/e__n"/></e>
+    <e lm="esentzione"><i>esentzion</i><par n="region/e__n"/></e>
+    <e lm="detentzione"><i>detentzion</i><par n="region/e__n"/></e>
+    <e lm="estintzione"><i>estintzion</i><par n="region/e__n"/></e>
+    <e lm="motzione"><i>motzion</i><par n="region/e__n"/></e>
+    <e lm="rimotzione"><i>rimotzion</i><par n="region/e__n"/></e>
+    <e lm="optzione"><i>optzion</i><par n="region/e__n"/></e>
+    <e lm="isproportzione"><i>isproportzion</i><par n="region/e__n"/></e>
+    <e lm="retributzione"><i>retributzion</i><par n="region/e__n"/></e>
+    <e lm="atributzione"><i>atributzion</i><par n="region/e__n"/></e>
+    <e lm="dedutzione"><i>dedutzion</i><par n="region/e__n"/></e>
+    <e lm="assolutzione"><i>assolutzion</i><par n="region/e__n"/></e>
+    <e lm="devolutzione"><i>devolutzion</i><par n="region/e__n"/></e>
+    <e lm="diminutzione"><i>diminutzion</i><par n="region/e__n"/></e>
+    <e lm="interrutzione"><i>interrutzion</i><par n="region/e__n"/></e>
+    <e lm="destitutzione"><i>destitutzion</i><par n="region/e__n"/></e>
+    <e lm="delegificatzione"><i>delegificatzion</i><par n="region/e__n"/></e>
+    <e lm="autotzertificatzione"><i>autotzertificatzion</i><par n="region/e__n"/></e>
+    <e lm="avocatzione"><i>avocatzion</i><par n="region/e__n"/></e>
+    <e lm="oblatzione"><i>oblatzion</i><par n="region/e__n"/></e>
+    <e lm="prelatzione"><i>prelatzion</i><par n="region/e__n"/></e>
+    <e lm="impugnatzione"><i>impugnatzion</i><par n="region/e__n"/></e>
+    <e lm="cumpartetzipatzione"><i>cumpartetzipatzion</i><par n="region/e__n"/></e>
+    <e lm="esageratzione"><i>esageratzion</i><par n="region/e__n"/></e>
+    <e lm="detratzione"><i>detratzion</i><par n="region/e__n"/></e>
+    <e lm="litzitatzione"><i>litzitatzion</i><par n="region/e__n"/></e>
+    <e lm="esercitatzione"><i>esercitatzion</i><par n="region/e__n"/></e>
+    <e lm="forestatzione"><i>forestatzion</i><par n="region/e__n"/></e>
+    <e lm="intertzetatzione"><i>intertzetatzion</i><par n="region/e__n"/></e>
+    <e lm="vebalizatzione"><i>vebalizatzion</i><par n="region/e__n"/></e>
+    <e lm="depenalizatzione"><i>depenalizatzion</i><par n="region/e__n"/></e>
+    <e lm="regionalizatzione"><i>regionalizatzion</i><par n="region/e__n"/></e>
+    <e lm="iscolarizatzione"><i>iscolarizatzion</i><par n="region/e__n"/></e>
+    <e lm="interditzione"><i>interditzion</i><par n="region/e__n"/></e>
+    <e lm="etzetzione"><i>etzetzion</i><par n="region/e__n"/></e>
+    <e lm="atzetatzione"><i>atzetatzion</i><par n="region/e__n"/></e>
+    <e lm="patzificatzione"><i>patzificatzion</i><par n="region/e__n"/></e>
+    <e lm="simplificatzione"><i>simplificatzion</i><par n="region/e__n"/></e>
+    <e lm="notificatzione"><i>notificatzion</i><par n="region/e__n"/></e>
+    <e lm="cunvocatzione"><i>cunvocatzion</i><par n="region/e__n"/></e>
+    <e lm="rateatzione"><i>rateatzion</i><par n="region/e__n"/></e>
+    <e lm="satisfatzione"><i>satisfatzion</i><par n="region/e__n"/></e>
+    <e lm="ispiegatzione"><i>ispiegatzion</i><par n="region/e__n"/></e>
+    <e lm="espiatzione"><i>espiatzion</i><par n="region/e__n"/></e>
+    <e lm="ispropriatzione"><i>ispropriatzion</i><par n="region/e__n"/></e>
+    <e lm="sinnalatzione"><i>sinnalatzion</i><par n="region/e__n"/></e>
+    <e lm="dilatzione"><i>dilatzion</i><par n="region/e__n"/></e>
+    <e lm="sistematzione"><i>sistematzion</i><par n="region/e__n"/></e>
+    <e lm="intimatzione"><i>intimatzion</i><par n="region/e__n"/></e>
+    <e lm="inclinatzione"><i>inclinatzion</i><par n="region/e__n"/></e>
+    <e lm="denumenatzione"><i>denumenatzion</i><par n="region/e__n"/></e>
+    <e lm="separatzione"><i>separatzion</i><par n="region/e__n"/></e>
+    <e lm="estratzione"><i>estratzion</i><par n="region/e__n"/></e>
+    <e lm="restruturatzione"><i>restruturatzion</i><par n="region/e__n"/></e>
+    <e lm="ristruturatzione"><i>ristruturatzion</i><par n="region/e__n"/></e>
+    <e lm="tassatzione"><i>tassatzion</i><par n="region/e__n"/></e>
+    <e lm="abilitatzione"><i>abilitatzion</i><par n="region/e__n"/></e>
+    <e lm="prenotatzione"><i>prenotatzion</i><par n="region/e__n"/></e>
+    <e lm="annotatzione"><i>annotatzion</i><par n="region/e__n"/></e>
+    <e lm="valutatzione"><i>valutatzion</i><par n="region/e__n"/></e>
+    <e lm="pertzetzione"><i>pertzetzion</i><par n="region/e__n"/></e>
+    <e lm="prescritzione"><i>prescritzion</i><par n="region/e__n"/></e>
+    <e lm="achisitzione"><i>achisitzion</i><par n="region/e__n"/></e>
+    <e lm="impositzione"><i>impositzion</i><par n="region/e__n"/></e>
+    <e lm="predispositzione"><i>predispositzion</i><par n="region/e__n"/></e>
+    <e lm="manutentzione"><i>manutentzion</i><par n="region/e__n"/></e>
+    <e lm="preventzione"><i>preventzion</i><par n="region/e__n"/></e>
+    <e lm="impositzione"><i>impositzion</i><par n="region/e__n"/></e>
+    <e lm="notzione"><i>notzion</i><par n="region/e__n"/></e>
+    <e lm="cautzione"><i>cautzion</i><par n="region/e__n"/></e>
+    <e lm="redutzione"><i>redutzion</i><par n="region/e__n"/></e>
+    <e lm="restitutzione"><i>restitutzion</i><par n="region/e__n"/></e>
+    <e lm="ricostitutzione"><i>ricostitutzion</i><par n="region/e__n"/></e>
+    <e lm="sostitutzione"><i>sostitutzion</i><par n="region/e__n"/></e>
+    <e lm="cualificatzione"><i>cualificatzion</i><par n="region/e__n"/></e>
+    <e lm="notificatzione"><i>notificatzion</i><par n="region/e__n"/></e>
+    <e lm="retificatzione"><i>retificatzion</i><par n="region/e__n"/></e>
+    <e lm="derogatzione"><i>derogatzion</i><par n="region/e__n"/></e>
+    <e lm="curretzione"><i>curretzion</i><par n="region/e__n"/></e>
+    <e lm="deliberatzione"><i>deliberatzion</i><par n="region/e__n"/></e>
+    <e lm="abiuratzione"><i>abiuratzion</i><par n="region/e__n"/></e>
+    <e lm="acusatzione"><i>acusatzion</i><par n="region/e__n"/></e>
+
 
     <e lm="atualidade"><i>atualidad</i><par n="identidad/e__n"/></e>
     <e lm="finalidade"><i>finalidad</i><par n="identidad/e__n"/></e>
@@ -9200,7 +9383,6 @@
     <e lm="ghiare"><i>ghi</i><par n="cant/are__vblex"/></e>
     <e lm="limitare"><i>limit</i><par n="cant/are__vblex"/></e>
     <e lm="tutelare"><i>tutel</i><par n="cant/are__vblex"/></e>
-    <e lm="intrare"><i>intr</i><par n="cant/are__vblex"/></e>
     <e lm="isperimentare"><i>isperiment</i><par n="cant/are__vblex"/></e>
     <e lm="cundennare"><i>cundenn</i><par n="cant/are__vblex"/></e>
     <e lm="cundennare" r="LR"><p><l>cundann</l><r>cundenn</r></p><par n="cant/are__vblex"/></e>
