@@ -241,6 +241,7 @@
 	    <pardef n="/de__pr" c="">
 	      <e r="LR"><p><l>de</l><r>de<s n="pr"/></r></p></e>
 	      <e r="LR"><p><l>'e</l><r>de<s n="pr"/></r></p></e>
+	      <e r="LR"><p><l>di</l><r>de<s n="pr"/></r></p></e>
 	      <e r="RL"><p><l><a/>de</l><r>de<s n="pr"/></r></p></e>
 	    </pardef>
 
@@ -896,6 +897,7 @@
 	      <e>       <p><l>ais</l><r>àere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
 	      <e>       <p><l>ant</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 	      <e r="LR"><p><l>ana</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>an</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
 	      <e>       <p><l>aia</l><r>àere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
 	      <e>       <p><l>aias</l><r>àere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -905,11 +907,13 @@
 	      <e r="LR"><p><l>iat</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
 	      <e r="LR"><p><l>ari</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
 	      <e>       <p><l>aiat</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>aìat</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
 
 	      <e>       <p><l>aìamus</l><r>àere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
 	      <e>       <p><l>aiais</l><r>àere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
 	      <e>       <p><l>aiant</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 	      <e r="LR"><p><l>aian</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>aìan</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
 	      <e>       <p><l>apa</l><r>àere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
 	      <e>       <p><l>apas</l><r>àere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2340,6 +2344,7 @@
 
     <e lm="po"><i>po</i><par n="a__pr"/></e> <!-- pro(?) -->
     <e lm="fintzas"><i>fintzas</i><par n="a__pr"/></e>
+    <e lm="fintzas" r="LR" c="!LSC"><p><l>fìntzas</l><r>fintzas</r></p><par n="a__pr"/></e>
     <e lm="finas"><i>finas</i><par n="a__pr"/></e>
 
     <e lm="suta"><i>suta</i><par n="a__pr"/></e>
@@ -3687,10 +3692,12 @@
     <e lm="otimismu"><i>otimismu</i><par n="anarchismu__n"/></e>
 
     <e lm="nord"><i>nord</i><par n="nord__n"/></e>
+    <e lm="nord" r="LR" c="!LSC"><p><l>norti</l><r>nord</r></p><par n="nord__n"/></e>
     <e lm="sud"><i>sud</i><par n="nord__n"/></e>
     <e lm="otzidente"><i>otzidente</i><par n="nord__n"/></e>
     <e lm="otzidente" r="LR"><p><l>occidente</l><r>otzidente</r></p><par n="nord__n"/></e>
     <e lm="ovest"><i>ovest</i><par n="nord__n"/></e>
+    <e lm="ovest" r="LR" c="!LSC"><p><l>uestu</l><r>ovest</r></p><par n="nord__n"/></e>
     <e lm="oriente"><i>oriente</i><par n="pane__n"/></e>
 
 
