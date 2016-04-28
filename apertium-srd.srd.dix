@@ -2643,6 +2643,17 @@
     <e lm="noranta"><i>noranta</i><par n="tres__num"/></e>
     <e lm="chentu"><i>chentu</i><par n="tres__num"/></e>
 
+    <e lm="treghentos"><i>treghentos</i><par n="tres__num"/></e>
+    <e lm="setighentos"><i>setighentos</i><par n="tres__num"/></e>
+    <e lm="seschentos"><i>seschentos</i><par n="tres__num"/></e>
+    <e lm="chimbighentos"><i>chimbighentos</i><par n="tres__num"/></e>
+    <e lm="dughentos"><i>dughentos</i><par n="tres__num"/></e>
+    <e lm="duamìgia"><i>duamìgia</i><par n="tres__num"/></e>
+    <e lm="noighentos"><i>noighentos</i><par n="tres__num"/></e>
+    <e lm="batorghentos"><i>batorghentos</i><par n="tres__num"/></e>
+
+
+    <e lm="I"><i>I</i><par n="XIII__num"/></e>
     <e lm="II"><i>II</i><par n="XIII__num"/></e>
     <e lm="III"><i>III</i><par n="XIII__num"/></e>
     <e lm="IV"><i>IV</i><par n="XIII__num"/></e>
@@ -2662,6 +2673,7 @@
     <e lm="XVIII"><i>XVIII</i><par n="XIII__num"/></e>
     <e lm="XIX"><i>XIX</i><par n="XIII__num"/></e>
     <e lm="XX"><i>XX</i><par n="XIII__num"/></e>
+    <e lm="XXI"><i>XXI</i><par n="XIII__num"/></e>
 
     <e lm="milli"><i>m</i><par n="m/illi__num"/></e>
     <e lm="millione"><i>millione</i><par n="pane__n"/></e>
