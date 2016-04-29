@@ -10323,7 +10323,6 @@
     <e lm="reclamare"><i>reclam</i><par n="cant/are__vblex"/></e>
     <e lm="ritziclare"><i>ritzicl</i><par n="cant/are__vblex"/></e>
     <e lm="ruinare"><i>ruin</i><par n="cant/are__vblex"/></e>
-    <e lm="sessare"><i>sess</i><par n="cant/are__vblex"/></e>
     <e lm="triunfare"><i>triunf</i><par n="cant/are__vblex"/></e>
     <e lm="passigiare"><i>passigi</i><par n="cant/are__vblex"/></e>
     <e lm="semplificare"><i>semplific</i><par n="seg/are__vblex"/></e>
@@ -10333,7 +10332,6 @@
     <e lm="imbiare"><i>imbi</i><par n="cant/are__vblex"/></e>
     <e lm="istare a sa muda"><i>ist</i><par n="cant/are__vblex"/><p><l><b/>a<b/>sa<b/>muda</l><r><g><b/>a<b/>sa<b/>muda</g></r></p></e>
     <e lm="elìminare"><i>elìmin</i><par n="cant/are__vblex"/></e>
-    <e lm="cantzellare"><i>cantzell</i><par n="cant/are__vblex"/></e>
 
 
     <e lm="implicare"><i>implic</i><par n="seg/are__vblex"/></e>
@@ -10342,20 +10340,10 @@
     <e lm="ismanniare"><i>ismanni</i><par n="cant/are__vblex"/></e>
     <e lm="ismanniare" r="LR"><p><l>ismani</l><r>ismanni</r></p><par n="cant/are__vblex"/></e>
 
-    <e lm="abbreviare"><i>abbrevi</i><par n="cant/are__vblex"/></e>
     <e lm="isdebilitare"><i>isdebilit</i><par n="cant/are__vblex"/></e>
     <e lm="acabare"><i>acab</i><par n="cant/are__vblex"/></e>
     <e lm="situare"><i>situ</i><par n="cant/are__vblex"/></e>
-    <e lm="tzelebrare"><i>tzelebr</i><par n="cant/are__vblex"/></e>
-    <e lm="artziare"><i>artzi</i><par n="cant/are__vblex"/></e>
-    <e lm="aviare"><i>avi</i><par n="cant/are__vblex"/></e>
-    <e lm="aviare" r="LR"><p><l>avvi</l><r>avi</r></p><par n="cant/are__vblex"/></e>
-    <e lm="basare"><i>bas</i><par n="cant/are__vblex"/></e>
     <e lm="betare"><i>bet</i><par n="cant/are__vblex"/></e>
-    <e lm="bisitare"><i>bisit</i><par n="cant/are__vblex"/></e>
-    <e lm="bisitare" r="LR"><p><l>visit</l><r>bisit</r></p><par n="cant/are__vblex"/></e>
-    <e lm="bolare"><i>bol</i><par n="cant/are__vblex"/></e>
-    <e lm="burrare"><i>burr</i><par n="cant/are__vblex"/></e>
     <!--<e lm="calare"><i>cal</i><par n="cant/are__vblex"/></e>-->
     <e lm="castiare"><i>casti</i><par n="cant/are__vblex"/></e>
     <e lm="chistionare"><i>chistion</i><par n="cant/are__vblex"/></e>
@@ -10365,10 +10353,8 @@
     <e lm="cumportare"><i>cumport</i><par n="cant/are__vblex"/></e>
     <e lm="curare"><i>cur</i><par n="cant/are__vblex"/></e>
     <e lm="defensare"><i>defens</i><par n="cant/are__vblex"/></e>
-    <e lm="firmare"><i>firm</i><par n="cant/are__vblex"/></e>
     <e lm="frecuentare"><i>frecuent</i><par n="cant/are__vblex"/></e>
     <e lm="imbetzare"><i>imbetz</i><par n="cant/are__vblex"/></e>
-    <e lm="isetare"><i>iset</i><par n="cant/are__vblex"/></e>
     <e lm="ocupare"><i>ocup</i><par n="cant/are__vblex"/></e>
     <e lm="disocupare"><i>disocup</i><par n="cant/are__vblex"/></e>
     <e lm="pertocare"><i>pertoc</i><par n="seg/are__vblex"/></e>
@@ -10390,8 +10376,6 @@
     <e lm="criticare"><i>critic</i><par n="seg/are__vblex"/></e>
     <e lm="mudare"><i>mud</i><par n="cant/are__vblex"/></e>
     <e lm="classificare"><i>classific</i><par n="seg/are__vblex"/></e>
-    <e lm="tzertificare"><i>tzertific</i><par n="seg/are__vblex"/></e>
-    <e lm="tzertificare" r="LR"><p><l>certific</l><r>tzertific</r></p><par n="seg/are__vblex"/></e>
     <e lm="tzerriare"><i>tzerri</i><par n="cant/are__vblex"/></e>
     <e lm="girare"><i>gir</i><par n="cant/are__vblex"/></e>
     <e lm="girare" r="LR"><p><l>zir</l><r>gir</r></p><par n="cant/are__vblex"/></e>
@@ -10441,7 +10425,6 @@
     <e lm="cojuare"><i>coju</i><par n="cant/are__vblex"/></e>
     <e lm="regulare"><i>regul</i><par n="cant/are__vblex"/></e>
     <e lm="regularizare"><i>regulariz</i><par n="cant/are__vblex"/></e>
-    <e lm="votare"><i>vot</i><par n="cant/are__vblex"/></e>
     <e lm="assigurare"><i>assigur</i><par n="cant/are__vblex"/></e>
     <e lm="assigurare" r="LR"><p><l>assegur</l><r>assigur</r></p><par n="cant/are__vblex"/></e>
     <e lm="trasformare"><i>trasform</i><par n="cant/are__vblex"/></e>
@@ -10461,7 +10444,6 @@
     <e lm="determinare"><i>determin</i><par n="cant/are__vblex"/></e>
     <e lm="esaminare"><i>esamin</i><par n="cant/are__vblex"/></e>
     <e lm="valutare"><i>valut</i><par n="cant/are__vblex"/></e>
-    <e lm="avantzare"><i>avantz</i><par n="cant/are__vblex"/></e>
     <e lm="decrarare"><i>decrar</i><par n="cant/are__vblex"/></e>
     <e lm="evacuare"><i>evacu</i><par n="cant/are__vblex"/></e>
     <e lm="assòtziare"><i>assòtzi</i><par n="cant/are__vblex"/></e>
@@ -10502,7 +10484,6 @@
     <e lm="defìnire"><i>defìn</i><par n="fin/ire__vblex"/></e>
     <e lm="defìnire" r="LR"><p><l>defin</l><r>defìn</r></p><par n="fin/ire__vblex"/></e>
     <e lm="faddire"><i>fadd</i><par n="fin/ire__vblex"/></e>
-    <e lm="mutire"><i>mut</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
     <e lm="costruire"><i>costru</i><par n="fin/ire__vblex"/></e>
     <e lm="cunstituire"><i>cunstitu</i><par n="fin/ire__vblex"/></e>
@@ -10511,7 +10492,6 @@
     <e lm="contribuire"><i>contribu</i><par n="fin/ire__vblex"/></e> <!-- cuntribuìre-->
     <e lm="godire"><i>god</i><par n="fin/ire__vblex"/></e>
     <e lm="favorire"><i>favor</i><par n="fin/ire__vblex"/></e>
-    <e lm="aderire"><i>ader</i><par n="fin/ire__vblex"/></e>
     <e lm="consumire"><i>consum</i><par n="fin/ire__vblex"/></e>
     <e lm="coesistire"><i>coesist</i><par n="fin/ire__vblex"/></e>
     <e lm="servire"><i>serv</i><par n="fin/ire__vblex"/></e>
@@ -18574,6 +18554,7 @@
     <e lm="avelenare"><i>avelen</i><par n="cant/are__vblex"/></e>
     <e lm="avesare"><i>aves</i><par n="cant/are__vblex"/></e>
     <e lm="aviare"><i>avi</i><par n="cant/are__vblex"/></e>
+    <e lm="aviare" r="LR"><p><l>avvi</l><r>avi</r></p><par n="cant/are__vblex"/></e>
     <e lm="avisare"><i>avis</i><par n="cant/are__vblex"/></e>
     <e lm="avolotare"><i>avolot</i><par n="cant/are__vblex"/></e>
     <e lm="avoretare"><i>avoret</i><par n="cant/are__vblex"/></e>
@@ -21770,6 +21751,7 @@
     <e lm="tzarracare"><i>tzarrac</i><par n="seg/are__vblex"/></e>
     <e lm="tzeracare"><i>tzerac</i><par n="seg/are__vblex"/></e>
     <e lm="tzertificare"><i>tzertific</i><par n="seg/are__vblex"/></e>
+    <e lm="tzertificare" r="LR"><p><l>certific</l><r>tzertific</r></p><par n="seg/are__vblex"/></e>
     <e lm="tzicare"><i>tzic</i><par n="seg/are__vblex"/></e>
     <e lm="tzilibecare"><i>tzilibec</i><par n="seg/are__vblex"/></e>
     <e lm="tzilibircare"><i>tzilibirc</i><par n="seg/are__vblex"/></e>
@@ -21933,6 +21915,7 @@
     <e lm="bischitzare"><p><l>bìschitz</l><r>bischitzare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="bisitare"><p><l>bisit</l><r>bisitare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="bisitare"><p><l>bìsit</l><r>bisitare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="bisitare" r="LR"><p><l>visit</l><r>bisit</r></p><par n="cant/are__vblex"/></e>
     <e lm="boidare"><p><l>boid</l><r>boidare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="boidare"><p><l>bòid</l><r>boidare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="bombitare"><p><l>bombit</l><r>bombitare</r></p><par n="vigil/are__vblex"/></e>
@@ -22876,6 +22859,7 @@
     <e lm="abbranchiare"><p><l>abbrànch</l><r>abbranchiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="abbreviare"><p><l>abbrev</l><r>abbreviare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="abbreviare"><p><l>abbrèv</l><r>abbreviare</r></p><par n="acùrtz/io__vblex"/></e>
+    <e lm="abbreviare" r="LR" c="!LSC"><i>abbrevi</i><par n="cant/are__vblex"/></e>
     <e lm="abisongiare"><p><l>abisong</l><r>abisongiare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="abisongiare"><p><l>abisòng</l><r>abisongiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="acanargiare"><p><l>acanarg</l><r>acanargiare</r></p><par n="acurtz/iare__vblex"/></e>
@@ -23024,6 +23008,7 @@
     <e lm="artimingiare"><p><l>artimìng</l><r>artimingiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="artziare"><p><l>artz</l><r>artziare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="artziare"><p><l>àrtz</l><r>artziare</r></p><par n="acùrtz/io__vblex"/></e>
+    <e lm="artziare" r="LR" c="!LSC"><i>artzi</i><par n="cant/are__vblex"/></e>
     <e lm="assachiare"><p><l>assach</l><r>assachiare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="assachigiare"><p><l>assachig</l><r>assachigiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="assachigiare"><p><l>assachìg</l><r>assachigiare</r></p><par n="acurtz/iare__vblex"/></e>
@@ -23112,6 +23097,8 @@
     <e lm="calunniare"><p><l>calùnn</l><r>calunniare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambiare"><p><l>camb</l><r>cambiare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="cambiare"><p><l>càmb</l><r>cambiare</r></p><par n="acùrtz/io__vblex"/></e>
+    <e lm="cambiare" r="LR" c="!LSC"><p><l>giamb</l><r>cambiare</r></p><par n="acurtz/iare__vblex"/></e>
+    <e lm="cambiare" r="LR" c="!LSC"><p><l>giàmb</l><r>cambiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambigiare"><p><l>cambig</l><r>cambigiare</r></p><par n="acùrtz/io__vblex"/></e>
     <e lm="cambigiare"><p><l>cambìg</l><r>cambigiare</r></p><par n="acurtz/iare__vblex"/></e>
     <e lm="campaniare"><p><l>campan</l><r>campaniare</r></p><par n="acurtz/iare__vblex"/></e>
