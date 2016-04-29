@@ -27,9 +27,9 @@
 
 # model G  ENCARA NO REPASSAT
 #verb='agitare'
-verb='acapiare'
+#verb='acapiare'
 #verb='aplicare'
-#verb='apogiare'
+verb='apogiare'
 
 # model J
 #verb='còghere'
