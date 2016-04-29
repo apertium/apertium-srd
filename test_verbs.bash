@@ -44,10 +44,11 @@
 #verb='disagradèssere'
 #verb='sètzere'
 #verb='règere'
+#verb='rìere'
+
 verb='frìere'
-verb='iscrìere'
-verb='bìere'
-verb='rìere'
+#verb='iscrìere'
+#verb='bìere'
 #verb='ochìere'
 
 # model M 3a conjugació
