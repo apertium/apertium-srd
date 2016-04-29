@@ -26,10 +26,10 @@
 #verb='trobogiare'
 
 # model G  ENCARA NO REPASSAT
-verb='agitare'
-verb='aplicare'
-verb='apogiare'
-verb='acapiare'
+#verb='agitare'
+#verb='aplicare'
+#verb='apogiare'
+#verb='acapiare'
 
 # model J
 #verb='còghere'
@@ -45,7 +45,7 @@ verb='acapiare'
 #verb='sètzere'
 #verb='règere'
 #verb='frìere'
-#verb='iscrìere'
+verb='iscrìere'
 
 # model M 3a conjugació
 #verb='finire'

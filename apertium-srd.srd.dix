@@ -2245,6 +2245,53 @@
     </pardef>
 
 
+    <pardef n="descrì/ere__vblex">	<!-- verbos irregulares, teóricamente según el paradigma I -->
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+    </pardef>
+
+    <pardef n="descri/o__vblex">
+      <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>mus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>tia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eres</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>eremus</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ereis</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>erent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>e</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>tu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ta</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+
     <pardef n="frì/ere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
@@ -24759,8 +24806,8 @@
     <e lm="derrùere"><p><l>derru</l><r>derrùere</r></p><par n="tim/o__vblex"/></e>
     <e lm="descadèssere"><p><l>descadèss</l><r>descadèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="descadèssere"><p><l>descadess</l><r>descadèssere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="descrìere"><p><l>descrì</l><r>descrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="descrìere"><p><l>descri</l><r>descrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="descrìere"><p><l>descrì</l><r>descrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="descrìere"><p><l>descri</l><r>descrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="deslùghere"><p><l>deslùg</l><r>deslùghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="deslùghere"><p><l>deslug</l><r>deslùghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="deslùghere"><p><l>deslu</l><r>deslùghere</r></p><par n="tin/tu__vblex"/></e>
@@ -24969,8 +25016,8 @@
     <e lm="iscrarèssere"><p><l>iscraress</l><r>iscrarèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="iscrèere"><p><l>iscrè</l><r>iscrèere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="iscrèere"><p><l>iscre</l><r>iscrèere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="iscrìere"><p><l>iscrì</l><r>iscrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="iscrìere"><p><l>iscri</l><r>iscrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="iscrìere"><p><l>iscrì</l><r>iscrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="iscrìere"><p><l>iscri</l><r>iscrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="iscrùfere"><p><l>iscrùf</l><r>iscrùfere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="iscrùfere"><p><l>iscruf</l><r>iscrùfere</r></p><par n="tim/o__vblex"/></e>
     <e lm="iscùdere"><p><l>iscùd</l><r>iscùdere</r></p><par n="tìm/ere__vblex"/></e>
@@ -25143,8 +25190,8 @@
     <e lm="prènere"><p><l>pren</l><r>prènere</r></p><par n="tim/o__vblex"/></e>
     <e lm="prescìndere"><p><l>prescìnd</l><r>prescìndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="prescìndere"><p><l>prescind</l><r>prescìndere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="prescrìere"><p><l>prescrì</l><r>prescrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="prescrìere"><p><l>prescri</l><r>prescrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="prescrìere"><p><l>prescrì</l><r>prescrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="prescrìere"><p><l>prescri</l><r>prescrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="prescrìvere"><p><l>prescrìv</l><r>prescrìvere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="prescrìvere"><p><l>prescriv</l><r>prescrìvere</r></p><par n="tim/o__vblex"/></e>
     <e lm="presèdere"><p><l>presèd</l><r>presèdere</r></p><par n="tìm/ere__vblex"/></e>
@@ -25318,8 +25365,8 @@
     <e lm="sussìstere"><p><l>sussist</l><r>sussìstere</r></p><par n="tim/o__vblex"/></e>
     <e lm="sutamìtere"><p><l>sutamìt</l><r>sutamìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="sutamìtere"><p><l>sutamit</l><r>sutamìtere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="sutascrìere"><p><l>sutascrì</l><r>sutascrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="sutascrìere"><p><l>sutascri</l><r>sutascrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="sutascrìere"><p><l>sutascrì</l><r>sutascrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="sutascrìere"><p><l>sutascri</l><r>sutascrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="sutràere"><p><l>sutrà</l><r>sutràere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="sutràere"><p><l>sutra</l><r>sutràere</r></p><par n="tim/o__vblex"/></e>
     <e lm="tànghere"><p><l>tàng</l><r>tànghere</r></p><par n="tìng/here__vblex"/></e>
@@ -25354,8 +25401,8 @@
     <e lm="tralùghere"><p><l>tralu</l><r>tralùghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="tramìtere"><p><l>tramìt</l><r>tramìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="tramìtere"><p><l>tramit</l><r>tramìtere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="trascrìere"><p><l>trascrì</l><r>trascrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="trascrìere"><p><l>trascri</l><r>trascrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="trascrìere"><p><l>trascrì</l><r>trascrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="trascrìere"><p><l>trascri</l><r>trascrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="trascùrrere"><p><l>trascùrr</l><r>trascùrrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="trascùrrere"><p><l>trascurr</l><r>trascùrrere</r></p><par n="tim/o__vblex"/></e>
     <e lm="trasèndere"><p><l>trasènd</l><r>trasèndere</r></p><par n="tìm/ere__vblex"/></e>
@@ -25383,8 +25430,8 @@
     <e lm="tzèdere"><p><l>tzed</l><r>tzèdere</r></p><par n="tim/o__vblex"/></e>
     <e lm="tzintzigannènnere"><p><l>tzintzigannènn</l><r>tzintzigannènnere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="tzintzigannènnere"><p><l>tzintzigannenn</l><r>tzintzigannènnere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="tzircuscrìere"><p><l>tzircuscrì</l><r>tzircuscrìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="tzircuscrìere"><p><l>tzircuscri</l><r>tzircuscrìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="tzircunscrìere"><p><l>tzircunscrì</l><r>tzircunscrìere</r></p><par n="descrì/ere__vblex"/></e>
+    <e lm="tzircunscrìere"><p><l>tzircunscri</l><r>tzircunscrìere</r></p><par n="descri/o__vblex"/></e>
     <e lm="umedèssere"><p><l>umedèss</l><r>umedèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="umedèssere"><p><l>umedess</l><r>umedèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="ùmprere"><p><l>ùmpr</l><r>ùmprere</r></p><par n="tìm/ere__vblex"/></e>
