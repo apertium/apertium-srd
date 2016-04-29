@@ -730,6 +730,12 @@
 	      <e>       <p><l>as</l><r>u<s n="adj"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
 	    </pardef>
 
+	    <pardef n="cale__adj" c="">
+	      <e>       <p><l></l><r><s n="adj"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
+
+
 
 	    <pardef n="frantzes/u__adj" c="p.10 / 105">
 	      <e r="LR"><p><l>o</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -9141,6 +9147,8 @@
     <e lm="penùrtimu"><i>penùrtim</i><par n="prim/u__adj"/></e>
     <e lm="penùrtimu"><p><l>penurtim</l><r>penùrtim</r></p><par n="prim/u__adj"/></e>
 
+    <e lm="cale"><i>cale</i><par n="cale__adj"/></e>
+
     <e lm="federadu"><i>federad</i><par n="frantzes/u__adj"/></e>
     <e lm="bassu"><i>bass</i><par n="frantzes/u__adj"/></e>
     <e lm="cunfederadu"><i>cunfederad</i><par n="frantzes/u__adj"/></e>
@@ -9534,7 +9542,13 @@
     <e lm="socialista"><i>socialista</i><par n="meda__adj"/></e>
     <e lm="generalista"><i>generalista</i><par n="meda__adj"/></e>
     <e lm="populista"><i>populista</i><par n="meda__adj"/></e>
+    <e lm="realista"><i>realista</i><par n="meda__adj"/></e>
+    <e lm="autonomista"><i>autonomista</i><par n="meda__adj"/></e>
+    <e lm="comunista"><i>comunista</i><par n="meda__adj"/></e>
+    <e lm="egoista"><i>egoista</i><par n="meda__adj"/></e>
 
+    <e lm="cabale"><i>cabal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aguale"><i>agual</i><par n="fàtzil/e__adj"/></e>
     <e lm="fàtzile"><i>fàtzil</i><par n="fàtzil/e__adj"/></e>
     <e lm="fàtzile" r="LR"><p><l>facil</l><r>fàtzil</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="territoriale"><i>territorial</i><par n="fàtzil/e__adj"/></e>
@@ -10092,6 +10106,19 @@
     <e lm="istendardu"><i>istendard</i><par n="frantzes/u__adj"/></e>
     <e lm="atmosfèricu"><i>atmosfèric</i><par n="frantzes/u__adj"/></e>
  
+    <e lm="pellegrinu"><i>pellegrin</i><par n="frantzes/u__adj"/></e>
+    <e lm="acchidadu"><i>acchidad</i><par n="frantzes/u__adj"/></e>
+    <e lm="primàrgiu"><i>primàrgi</i><par n="frantzes/u__adj"/></e>
+    <e lm="garbosu"><i>garbos</i><par n="frantzes/u__adj"/></e>
+    <e lm="inatzivu"><i>inatziv</i><par n="frantzes/u__adj"/></e>
+    <e lm="plùrimu"><i>plùrim</i><par n="frantzes/u__adj"/></e>
+
+    <e lm="imbeniente"><i>imbenient</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispentumante"><i>ispentumant</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parente"><i>parent</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imponente"><i>imponent</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parebare"><i>parebar</i><par n="fàtzil/e__adj"/></e>
+    <e lm="serente"><i>serent</i><par n="fàtzil/e__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
