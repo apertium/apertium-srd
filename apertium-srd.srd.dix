@@ -3079,7 +3079,7 @@
     <e lm="agricultura"><i>agricultura</i><par n="mesa__n"/></e>
     <e lm="agricultura" r="LR"><p><l>agricurtura</l><r>agricultura</r></p><par n="mesa__n"/></e>
     <e lm="arte"><i>arte</i><par n="mesa__n"/></e>
-    <e lm="arte de coghinare"><i>arte</i><par n="mesa__n"/><p><l><b/>de<b/>coghinare</l><r><g><b/>de<b/>coghinare</g></r></p></e>
+    <e lm="gastronomia"><i>gastronomia</i><par n="mesa__n"/><p><l><b/>de<b/>coghinare</l><r><g><b/>de<b/>coghinare</g></r></p></e>
     <e lm="ora"><i>ora</i><par n="mesa__n"/></e>
     <e lm="impressadora"><i>impressadora</i><par n="mesa__n"/></e>
     <e lm="infrastrutura"><i>infrastrutura</i><par n="mesa__n"/></e>
@@ -4064,6 +4064,7 @@
     <e lm="cunformista"><i>cunformista</i><par n="dentista__n"/></e>
     <e lm="dentista"><i>dentista</i><par n="dentista__n"/></e>
     <e lm="economista"><i>economista</i><par n="dentista__n"/></e>
+    <e lm="escursionista"><i>escursionista</i><par n="dentista__n"/></e>
     <e lm="esorcista"><i>esorcista</i><par n="dentista__n"/></e>
     <e lm="evangelista"><i>evangelista</i><par n="dentista__n"/></e>
     <e lm="fatalista"><i>fatalista</i><par n="dentista__n"/></e>
@@ -4580,6 +4581,7 @@
 
     <e lm="traballadore"><i>traballador</i><par n="traballador/e__n"/></e>
     <e lm="bividore"><i>bividor</i><par n="traballador/e__n"/></e>
+    <e lm="ammajadore"><i>ammajador</i><par n="traballador/e__n"/></e>
 
     <e lm="ghennàrgiu"><i>ghennàrgi</i><par n="mac/u__n"/></e>
     <e lm="ghennàrgiu" r="LR"><p><l>ghennarz</l><r>ghennàrgi</r></p><par n="mac/u__n"/></e>
@@ -9088,6 +9090,7 @@
     <e lm="caraterìsticu" r="LR"><p><l>carateristi</l><r>caraterìsti</r></p><par n="linguìsti/cu__adj"/></e>
 
     <e lm="ricu"><i>ri</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="dolomìticu"><i>ri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="geogràficu"><i>geogràfi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="archeològicu"><i>archeològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tecnològicu"><i>tecnològi</i><par n="linguìsti/cu__adj"/></e>
@@ -9565,6 +9568,7 @@
     <e lm="minore"><i>minor</i><par n="fàtzil/e__adj"/></e>
     <e lm="minore" r="LR"><p><l>mìnor</l><r>minor</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="mòbile"><i>mòbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="escursionista"><i>escursionist</i><par n="natzionalista__adj"/></e>
     <e lm="ecuivalente"><i>ecuivalent</i><par n="fàtzil/e__adj"/></e>
     <e lm="fichete"><i>fichet</i><par n="fàtzil/e__adj"/></e>
     <e lm="sèmplitze"><i>sèmplitz</i><par n="fàtzil/e__adj"/></e>
