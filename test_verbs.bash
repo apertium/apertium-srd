@@ -26,10 +26,10 @@
 #verb='trobogiare'
 
 # model G  ENCARA NO REPASSAT
-#verb='agitare'
+verb='agitare'
 #verb='acapiare'
 #verb='aplicare'
-verb='apogiare'
+#verb='apogiare'
 
 # model J
 #verb='còghere'
