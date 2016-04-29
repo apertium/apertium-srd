@@ -2245,29 +2245,24 @@
     </pardef>
 
 
-    <pardef n="frì/ere__vblex">	<!-- paradigma I per a verbs en ìere (no utilizado por ahora, porque no está claro) -->
+    <pardef n="frì/ere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-
-      <e>       <p><l>intu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>inta</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>intos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>intas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="fri/o__vblex">
       <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>imus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>timus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>ides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>ia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>iat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2290,6 +2285,10 @@
       <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ssu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ssa</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ssos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ssas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -24878,8 +24877,8 @@
     <e lm="frànghere"><p><l>fràng</l><r>frànghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="frànghere"><p><l>frang</l><r>frànghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="frànghere"><p><l>fran</l><r>frànghere</r></p><par n="tin/tu__vblex"/></e>
-    <e lm="frìere"><p><l>frì</l><r>frìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="frìere"><p><l>fri</l><r>frìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="frìere"><p><l>frì</l><r>frìere</r></p><par n="frì/ere__vblex"/></e>
+    <e lm="frìere"><p><l>fri</l><r>frìere</r></p><par n="fri/o__vblex"/></e>
     <e lm="frìnghere"><p><l>frìng</l><r>frìnghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="frìnghere"><p><l>fring</l><r>frìnghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="frìnghere"><p><l>frin</l><r>frìnghere</r></p><par n="tin/tu__vblex"/></e>
