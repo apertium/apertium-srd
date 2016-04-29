@@ -25,12 +25,18 @@
 #verb='comunicare'
 #verb='trobogiare'
 
+# model G  ENCARA NO REPASSAT
+verb='agitare'
+verb='aplicare'
+verb='apogiare'
+verb='acapiare'
+
 # model J
 #verb='còghere'
 #verb='fàghere'
 #verb='pòdere'
 
-# model I  ENCARA NO REPASSAT
+# model I
 #verb='tìmere'
 #verb='tìnghere'
 #verb='frìnghere'
@@ -38,7 +44,7 @@
 #verb='disagradèssere'
 #verb='sètzere'
 #verb='règere'
-verb='frìere'
+#verb='frìere'
 #verb='iscrìere'
 
 # model M 3a conjugació
