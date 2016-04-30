@@ -53,8 +53,9 @@ verb='agitare'
 
 # model M 3a conjugació
 #verb='finire'
-#verb='sighire'
+verb='sighire'
 #verb='ischire'
+#verb='afigire'
 
 # model L (només nàrrere)
 #verb='nàrrere'
