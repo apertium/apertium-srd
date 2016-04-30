@@ -376,6 +376,10 @@
 	      <e>       <p><l></l><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
 	    </pardef>
 
+	    <pardef n="cussu__prn">
+	      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+	    </pardef>
+
 	    <pardef n="àter/u__prn" c="p.27 /105">
 	      <e>       <p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 	      <e>       <p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
@@ -2785,6 +2789,7 @@
     <e lm="unu àteru"><i>un</i><par n="un/u_àteru__prn"/></e>
     <e lm="cadaunu"><i>cadaun</i><par n="àter/u__prn"/></e>
     <e lm="cussu"><i>cuss</i><par n="àter/u__prn"/></e>
+    <e lm="cussu"><i>cussu</i><par n="cussu__prn"/></e>
     <e lm="totu"><i>tot</i><par n="àter/u__prn"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__prn"/></e>
@@ -10625,7 +10630,6 @@
     <e lm="chistionare"><i>chistion</i><par n="cant/are__vblex"/></e>
     <e lm="collocare"><i>colloc</i><par n="seg/are__vblex"/></e>
     <e lm="collocare" r="LR"><p><l>còlloc</l><r>colloc</r></p><par n="seg/are__vblex"/></e>
-    <e lm="costare"><i>cost</i><par n="cant/are__vblex"/></e>
     <e lm="cumportare"><i>cumport</i><par n="cant/are__vblex"/></e>
     <e lm="curare"><i>cur</i><par n="cant/are__vblex"/></e>
     <e lm="defensare"><i>defens</i><par n="cant/are__vblex"/></e>
