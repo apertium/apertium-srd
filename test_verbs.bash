@@ -3,19 +3,6 @@
 
 #verb='èssere'
 
-# model K
-#verb='tènnere'
-#verb='bàlere'
-#verb='bòlere'
-#verb='pònnere'
-#verb='bènnere'
-#verb='pàrrere'
-#verb='abèrrere'
-#verb='chèrrere'
-
-# model H
-#verb='dare'
-
 # model g
 #verb='segare'
 #verb='trucare'
@@ -30,6 +17,9 @@ verb='agitare'
 #verb='acapiare'
 #verb='aplicare'
 #verb='apogiare'
+
+# model H
+#verb='dare'
 
 # model J
 #verb='còghere'
@@ -49,7 +39,23 @@ verb='agitare'
 
 #verb='descrìere'
 #verb='bìere'
-verb='ochìere'
+#verb='ochìere'
+
+# model J
+#verb='fàghere'
+#verb='pòdere'
+verb='còghere'
+#verb='contrapònnere'
+
+# model K
+#verb='tènnere'
+#verb='bàlere'
+#verb='bòlere'
+#verb='pònnere'
+#verb='bènnere'
+#verb='pàrrere'
+#verb='abèrrere'
+#verb='chèrrere'
 
 # model M 3a conjugació
 #verb='finire'
