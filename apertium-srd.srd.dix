@@ -2255,7 +2255,7 @@
     </pardef>
 
 
-    <pardef n="descrì/ere__vblex">	<!-- verbos irregulares, teóricamente según el paradigma I -->
+    <pardef n="descrì/ere__vblex">	<!-- verbos irregulares, teóricamente según el paradigma I; según modelo de Diegu Corràine, 30.04.2016 -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
 
@@ -2263,16 +2263,22 @@
       <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>mus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>imus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>ides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>tia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>tias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>tiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>tìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>tiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>tiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ìais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>tia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>tias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>tiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>tìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>tiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>tiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2392,28 +2398,35 @@
     </pardef>
 
 
-    <pardef n="b/ìere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I -->
+    <pardef n="b/ìere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I, según paradigma de Dièu Corràine, 30.04.2016 -->
       <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
 
-      <e>       <p><l>idende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>idos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>idas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>idende</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>ìidu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ìida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ìidos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ìidas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e>       <p><l>io</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ies</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>iet</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>imus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iimus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>iides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ient</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>idia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>idias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>idiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>idìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>idiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>idiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iìais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>idia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>idias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>idiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>idìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>idiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>idiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -25677,8 +25690,7 @@
     <e lm="nòghere"><p><l>no</l><r>nòghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="obedèssere"><p><l>obedèss</l><r>obedèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="obedèssere"><p><l>obedess</l><r>obedèssere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="ochìere"><p><l>ochì</l><r>ochìere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="ochìere"><p><l>ochi</l><r>ochìere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="ochìere"><p><l>och</l><r>ochìere</r></p><par n="b/ìere__vblex"/></e>
     <e lm="ocùrrere"><p><l>ocùrr</l><r>ocùrrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="ocùrrere"><p><l>ocurr</l><r>ocùrrere</r></p><par n="tim/o__vblex"/></e>
     <e lm="ofèndere"><p><l>ofènd</l><r>ofèndere</r></p><par n="tìm/ere__vblex"/></e>

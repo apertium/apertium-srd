@@ -49,12 +49,12 @@ verb='agitare'
 
 #verb='descrìere'
 #verb='bìere'
-#verb='ochìere'
+verb='ochìere'
 
 # model M 3a conjugació
 #verb='finire'
 #verb='sighire'
-verb='ischire'
+#verb='ischire'
 #verb='afigire'
 
 # model L (només nàrrere)
