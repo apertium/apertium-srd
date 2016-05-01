@@ -2897,7 +2897,8 @@
     <e lm="nemos"><i>nemos</i><par n="nemos__prn"/></e>
 
     <e lm="nde"><i>nde</i><par n="nde__prn"/></e>
-    <e lm="bi"><i>bi</i><par n="nde__prn"/></e>
+    <e lm="bi" r="LR"><i>bi</i><par n="nde__prn"/></e>
+    <e lm="bi" r="RL"><p><l><a/>bi</l><r>bi</r></p><par n="nde__prn"/></e>
     <e lm="nde" r="LR"><p><l>ndi</l><r>nde</r></p><par n="nde__prn"/></e>
     <e lm="nche"><i>nche</i><par n="nde__prn"/></e>
 
