@@ -30,7 +30,7 @@ verb='agitare'
 #verb='tìmere'
 #verb='tìnghere'
 #verb='frìnghere'
-#verb='aèschere'
+verb='aèschere'
 #verb='disagradèssere'
 #verb='sètzere'
 #verb='règere'
@@ -44,8 +44,7 @@ verb='agitare'
 # model J
 #verb='fàghere'
 #verb='pòdere'
-verb='còghere'
-#verb='contrapònnere'
+#verb='còghere'
 
 # model K
 #verb='tènnere'
