@@ -823,14 +823,15 @@
     <!-- SECTION: Verbs -->
 
     <pardef n="/èssere__vblex">
+      <e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>esser</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>essere</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e>
-	<e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>essende</l><r>èssere<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>essende</l><r>èssere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>essendi</l><r>èssere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>essendi</l><r>èssere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>essende</l><r>èssere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>essende</l><r>èssere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>so</l><r>èssere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ses</l><r>èssere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -892,13 +893,14 @@
     </pardef>
 
     <pardef n="/àere__vblex">
-      <e r="LR"><p><l>aer</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>àere</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>àere</l><r>àere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e r="LR"><p><l>aer</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>aendi</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>aendi</l><r>àere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>apo</l><r>àere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>àere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -950,13 +952,14 @@
     </pardef>
 
     <pardef n="/àere__vbmod">
-      <e r="LR"><p><l>aer</l><r>àere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>àere</l><r>àere<s n="vbmod"/><s n="inf"/></r></p></e>
       <e>       <p><l>àere</l><r>àere<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e r="LR"><p><l>aer</l><r>àere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>aende</l><r>àere<s n="vbmod"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>aende</l><r>àere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>aendi</l><r>àere<s n="vbmod"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>aendi</l><r>àere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>aende</l><r>àere<s n="vbmod"/><s n="ger"/></r></p></e>
-      <e>       <p><l>aende</l><r>àere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>apo</l><r>àere<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>àere<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1003,10 +1006,11 @@
     <pardef n="costum/are__vblex" c="p.39">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>o</l><r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1043,13 +1047,14 @@
     </pardef>
 
     <pardef n="dèp/ere__vbmod" c="p.40">
-      <e r="LR"><p><l>er</l><r>ere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>ere</l><r>ere<s n="vbmod"/><s n="inf"/></r></p></e>
       <e>       <p><l>ere</l><r>ere<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e r="LR"><p><l>er</l><r>ere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>ende</l><r>ere<s n="vbmod"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>ere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ere<s n="vbmod"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>ere<s n="vbmod"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>ere<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>o</l><r>ere<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>ere<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1089,10 +1094,11 @@
     <pardef n="bisogni/are__vblex" c="">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>at</l><r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>ant</l><r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -1115,10 +1121,11 @@
     <pardef n="cant/are__vblex" c="p.39">	<!-- modelo g excepto para verbos acabados en [cg]are y [cg]iare -->
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>o</l><r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1170,10 +1177,11 @@
     <pardef n="assing/iare__vblex">	<!-- modelo g excepto para verbos acabados en [cg]iare -->
       <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>iare<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>iare<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>io</l><r>iare<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r>iare<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1223,13 +1231,14 @@
     </pardef>
 
     <pardef n="tim/ere__vblex" c="p.40">
-      <e r="LR"><p><l>er</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>ere</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>ere</l><r>ere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+      <e r="LR"><p><l>er</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>ende</l><r>ere<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>ere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>ere<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>ere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>o</l><r>ere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>ere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1274,10 +1283,11 @@
     <pardef n="fin/ire__vblex" c="p.41">
       <e>       <p><l>ire</l><r>ire<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>ire</l><r>ire<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
+
+      <e>       <p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ire<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r>ire<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>o</l><r>ire<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>is</l><r>ire<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1319,6 +1329,7 @@
       <e>       <p><l>idas</l><r>ire<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="tèn/nere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'tenes' -->
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1335,10 +1346,10 @@
     </pardef>
 
     <pardef n="ten/es__vblex" c="p.42">
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>it</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -1374,6 +1385,7 @@
       <e>       <p><l>tas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="bò/lere__vbsuf" c="p.50">	<!-- según modelo K del curretore ortogràficu con pp específico para bàlere y bòlere -->
       <e>       <p><l>lere</l><r><s n="inf"/></r></p></e>
       <e>       <p><l>lere</l><r><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1397,10 +1409,10 @@
     </pardef>
 
     <pardef n="bo/les__vbsuf" c="p.50">
+      <e>       <p><l>lende</l><r><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>lende</l><r><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>lendi</l><r><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>lendi</l><r><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>lende</l><r><s n="ger"/></r></p></e>
-      <e>       <p><l>lende</l><r><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>les</l><r><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>lit</l><r><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -1465,10 +1477,10 @@
     </pardef>
 
     <pardef n="po/nes__vblex" c="p.42">
+      <e>       <p><l>nende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>nende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>nendi</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>nendi</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>nende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>nende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>nes</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>net</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -1503,6 +1515,7 @@
       <e>       <p><l>stas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="pàr/rere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'res' -->
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1519,10 +1532,10 @@
     </pardef>
 
     <pardef n="par/es__vblex" c="p.42">
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>it</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -1558,6 +1571,7 @@
       <e>       <p><l>tas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="abèr/rere__vblex" c="p.51">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'ris' -->
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1574,10 +1588,10 @@
     </pardef>
 
     <pardef n="aber/is__vblex" c="p.51">
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e r="LR"><p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>endi</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
 
       <e>       <p><l>is</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>it</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -1611,6 +1625,7 @@
       <e>       <p><l>tos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>tas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+
 
     <pardef n="d/are__vblex" c="p.43">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
