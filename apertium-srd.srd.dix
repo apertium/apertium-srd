@@ -57,6 +57,7 @@
     <sdef n="prs"    c="Present subjunctive"/> 
     <sdef n="pii"    c="Imperfect indicative"/> 
     <sdef n="pis"    c="Imperfect subjunctive"/> 
+    <sdef n="ifi"    c="Passatu remotu"/> <!-- @!LSC -->
     <sdef n="pp"     c="Past participle"/> 
     <sdef n="ger"    c="Gerund"/> 
     <sdef n="inf"    c="Infinitive"/> 
@@ -1125,6 +1126,7 @@
       <e>       <p><l>adas</l><r>are<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="cant/are__vblex" c="p.39">	<!-- modelo g excepto para verbos acabados en [cg]are y [cg]iare -->
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1148,6 +1150,13 @@
       <e r="LR"><p><l>aiamus</l><r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>aiais</l><r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>aiant</l><r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>ei</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>e</l><r>are<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>are<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1182,6 +1191,7 @@
       <e>       <p><l>adas</l><r>are<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
     <pardef n="assing/iare__vblex">	<!-- modelo g excepto para verbos acabados en [cg]iare -->
       <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -1205,6 +1215,13 @@
       <e r="LR"><p><l>iaiamus</l><r>iare<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iaiais</l><r>iare<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>iaiant</l><r>iare<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>ei</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>iare<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>e</l><r>iare<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>iare<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1238,6 +1255,7 @@
       <e r="LR"><p><l>iaus</l><r>iare<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iadas</l><r>iare<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+
 
     <pardef n="tim/ere__vblex" c="p.40">
       <e>       <p><l>ere</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e>
@@ -1279,6 +1297,13 @@
       <e>       <p><l>ereis</l><r>ere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>erent</l><r>ere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>ei</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>ere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>e</l><r>ere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>at</l><r>ere<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>amus</l><r>ere<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -1295,6 +1320,7 @@
       <e>       <p><l>idos</l><r>ere<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>idas</l><r>ere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+
 
     <pardef n="fin/ire__vblex" c="p.41">
       <e>       <p><l>ire</l><r>ire<s n="vblex"/><s n="inf"/></r></p></e>
@@ -1320,6 +1346,13 @@
       <e>       <p><l>iais</l><r>ire<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>ìais</l><r>ire<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>aiant</l><r>ire<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>ei</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>ire<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>a</l><r>ire<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>ire<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1392,6 +1425,13 @@
       <e r="LR"><p><l>ìais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>gei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>gemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>giamus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>giais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
@@ -1458,6 +1498,13 @@
       <e r="LR"><p><l>liamus</l><r><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>liais</l><r><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>liant</l><r><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>lgei</l><r><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>lgeis</l><r><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>lgeit</l><r><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>lgemus</l><r><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>lgeis</l><r><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>lgeint</l><r><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>giamus</l><r><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>giais</l><r><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -1532,6 +1579,13 @@
       <e>       <p><l>niais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>niant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>ngei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ngeis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ngeit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ngemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ngeis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ngeint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>ngiamus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>ngiais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
@@ -1595,6 +1649,13 @@
       <e r="LR"><p><l>ìais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>gei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>gemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>giamus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>giais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
@@ -1657,6 +1718,13 @@
       <e r="LR"><p><l>ìais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>gei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>gemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>geint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>giamus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>giais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
 
@@ -1704,6 +1772,13 @@
       <e r="LR"><p><l>aiamus</l><r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>aiais</l><r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>aiant</l><r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>ei</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ia</l><r>are<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r>are<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1760,6 +1835,13 @@
       <e r="LR"><p><l>aiamus</l><r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>aiais</l><r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>aiant</l><r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>hei</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>he</l><r>are<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>hes</l><r>are<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1823,6 +1905,13 @@
       <e>       <p><l>aghiais</l><r>àghere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>aghiant</l><r>àghere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>aghian</l><r>àghere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e r="LR"><p><l>aghei</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>agheis</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>agheit</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>aghemus</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>agheis</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>agheint</l><r>àghere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>atza</l><r>àghere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>atzas</l><r>àghere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -1932,6 +2021,7 @@
       <e>       <p><l></l><r>òdere<s n="vbmod"/></r></p><par n="p/òdere"/></e>
     </pardef>
 
+
     <pardef n="c/òghere__vblex">
       <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -2010,6 +2100,13 @@
       <e>       <p><l>eniais</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>eniant</l><r>ènnere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>engei</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>engeis</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>engeit</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>engemus</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>engeis</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>engeint</l><r>ènnere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>èngia</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>èngias</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>èngiat</l><r>ènnere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2068,6 +2165,13 @@
       <e r="LR"><p><l>araiamus</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>araiais</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>araiant</l><r>àrrere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>argei</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>argeis</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>argeit</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>argemus</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>argeis</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>argeint</l><r>àrrere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>àrgia</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>àrgias</l><r>àrrere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2177,6 +2281,13 @@
       <e>       <p><l>iaiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>iaiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>ei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>e</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>et</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2237,6 +2348,13 @@
 
       <e>       <p><l>hemus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>heis</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>hei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>are</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ares</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2316,6 +2434,13 @@
       <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>ei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2366,6 +2491,13 @@
       <e r="LR"><p><l>hiamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>hiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>hiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>hei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2444,6 +2576,13 @@
       <e>       <p><l>hiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>hiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>hei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2501,6 +2640,13 @@
       <e r="LR"><p><l>tìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>tiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>tiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e r="LR"><p><l>ei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2564,6 +2710,13 @@
       <e>       <p><l>eiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>eiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>iei</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>iemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>ia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>iat</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2617,6 +2770,13 @@
       <e r="LR"><p><l>itiamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>itiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>itiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>iei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>iemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2681,6 +2841,13 @@
       <e r="LR"><p><l>idiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>idiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
+      <e r="LR"><p><l>iei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>iemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ieint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>ia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>iat</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2727,6 +2894,13 @@
       <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>ei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2761,6 +2935,7 @@
       <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
     </pardef>
 
+
     <pardef n="afig/ire__vblex">		<!-- paradigma M curretore ortogràficu: [cg]ire -->
       <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
@@ -2779,6 +2954,13 @@
       <e r="LR"><p><l>iamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>ei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>emus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ia</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ias</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2839,6 +3021,13 @@
       <e>       <p><l>hiais</l><r>hire<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>hiant</l><r>hire<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e r="LR"><p><l>hei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
       <e>       <p><l>a</l><r>hire<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>hire<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>at</l><r>hire<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -2893,6 +3082,13 @@
       <e>       <p><l>eìais</l><r>èere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>eiais</l><r>èere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>eiant</l><r>èere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>eei</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eeis</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eeit</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eemus</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eeis</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eeint</l><r>èere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>etza</l><r>èere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>etzas</l><r>èere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
