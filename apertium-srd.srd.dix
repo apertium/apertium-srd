@@ -3131,6 +3131,11 @@
       <e r="LR"><p><l>z</l><r>tz</r></p></e> <!-- @!LSC -->
     </pardef>
 
+    <pardef n="cun/con">
+      <e>       <p><l>cun</l><r>cun</r></p></e>
+      <e r="LR"><p><l>con</l><r>cun</r></p></e> <!-- @!LSC -->
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -3579,7 +3584,7 @@
     <e lm="dovere"><i>dovere</i><par n="pane__n"/></e>
     <e lm="dovere" r="LR"><p><l>devere</l><r>dovere</r></p><par n="pane__n"/></e>
     <e lm="fundadore"><i>fundadore</i><par n="pane__n"/></e>
-    <e lm="cunsumadore"><i>cunsumadore</i><par n="pane__n"/></e>
+    <e lm="cunsumadore"><par n="cun/con"/><i>sumadore</i><par n="pane__n"/></e>
     <e lm="ricercadore"><i>ricercadore</i><par n="pane__n"/></e>
     <e lm="èssere"><i>èssere</i><par n="pane__n"/></e>
     <e lm="mare"><i>mare</i><par n="pane__n"/></e>
@@ -3604,7 +3609,7 @@
     <e lm="operadore"><i>operadore</i><par n="pane__n"/></e>
     <e lm="onore"><i>onore</i><par n="pane__n"/></e>
     <e lm="òrdine"><i>òrdine</i><par n="pane__n"/></e>
-    <e lm="cunsonante"><i>cunsonante</i><par n="pane__n"/></e>
+    <e lm="cunsonante"><par n="cun/con"/><i>sonante</i><par n="pane__n"/></e>
     <e lm="panorama"><i>panorama</i><par n="pane__n"/></e>
     <e lm="programma"><i>programma</i><par n="pane__n"/></e>
     <e lm="programma" r="LR"><p><l>programa</l><r>programma</r></p><par n="pane__n"/></e>
@@ -3697,7 +3702,7 @@
     <e lm="gente"><i>gente</i><par n="mesa__n"/></e>
     <e lm="gente" r="LR"><p><l>zente</l><r>gente</r></p><par n="mesa__n"/></e>
     <e lm="gente" r="LR"><p><l>genti</l><r>gente</r></p><par n="mesa__n"/></e>
-    <e lm="cuntierra"><i>cuntierra</i><par n="mesa__n"/></e>
+    <e lm="cuntierra"><par n="cun/con"/><i>tierra</i><par n="mesa__n"/></e>
     <e lm="azienda"><i>azienda</i><par n="mesa__n"/></e>
     <e lm="pranta"><i>pranta</i><par n="mesa__n"/></e>
     <e lm="pranta" r="LR"><p><l>planta</l><r>pranta</r></p><par n="mesa__n"/></e>
@@ -3941,8 +3946,8 @@
     <e lm="bisione"><i>bision</i><par n="region/e__n"/></e>
     <e lm="coesione"><i>coesion</i><par n="region/e__n"/></e>
     <e lm="cumissione"><i>cumission</i><par n="region/e__n"/></e>
-    <e lm="cunfusione"><i>cunfusion</i><par n="region/e__n"/></e>
-    <e lm="cuntzessione"><i>cuntzession</i><par n="region/e__n"/></e>
+    <e lm="cunfusione"><par n="cun/con"/><i>fusion</i><par n="region/e__n"/></e>
+    <e lm="cuntzessione"><par n="cun/con"/><i>tzession</i><par n="region/e__n"/></e>
     <e lm="dimensione"><i>dimension</i><par n="region/e__n"/></e>
     <e lm="dimissione"><i>dimission</i><par n="region/e__n"/></e>
     <e lm="discussione"><i>discussion</i><par n="region/e__n"/></e>
@@ -4001,7 +4006,7 @@
     <e lm="prepositzione"><i>preposi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="tentatzione"><i>tenta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="articulatzione"><i>articula</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunversione"><i>cunversion</i><par n="region/e__n"/></e>
+    <e lm="cunversione"><par n="cun/con"/><i>version</i><par n="region/e__n"/></e>
     <e lm="manipulatzione"><i>manipula</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="composizione"><i>composizion</i><par n="region/e__n"/></e>
     <e lm="opinione"><i>opinion</i><par n="region/e__n"/></e>
@@ -4035,7 +4040,7 @@
     <e lm="cooperatzione"><i>coopera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="corrutzione"><i>corru</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="costitutzione"><i>costitu</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunditzione"><i>cundi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="cunditzione"><par n="cun/con"/><i>di</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="definitzione"><i>defini</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="modificatzione"><i>modifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="evolutzione"><i>evolu</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -4097,7 +4102,7 @@
     <e lm="donatzione"><i>dona</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="antitzipatzione"><i>antitzipa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="deliberatzione"><i>delibera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunfederatzione"><i>cunfedera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="cunfederatzione"><par n="cun/con"/><i>federa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="remuneratzione"><i>remunera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="infratzione"><i>infra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="emigratzione"><i>emigra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -4186,7 +4191,7 @@
     <e lm="patzificatzione"><i>patzifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="simplificatzione"><i>simplifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="notificatzione"><i>notifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunvocatzione"><i>cunvoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="cunvocatzione"><par n="cun/con"/><i>voca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="rateatzione"><i>ratea</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="satisfatzione"><i>satisfa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ispiegatzione"><i>ispiega</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -4249,7 +4254,7 @@
     <e lm="consulèntzia"><i>consul</i><par n="difer/èntzia__n"/></e>
     <e lm="cumbenièntzia"><i>cumbeni</i><par n="difer/èntzia__n"/></e>
     <e lm="cumbivèntzia"><i>cumbiv</i><par n="difer/èntzia__n"/></e>
-    <e lm="cunvivèntzia"><i>cunviv</i><par n="difer/èntzia__n"/></e>
+    <e lm="cunvivèntzia"><par n="cun/con"/><i>viv</i><par n="difer/èntzia__n"/></e>
     <e lm="decadèntzia"><i>decad</i><par n="difer/èntzia__n"/></e>
     <e lm="dutèntzia"><i>dut</i><par n="difer/èntzia__n"/></e>
     <e lm="efitzèntzia"><i>efitz</i><par n="difer/èntzia__n"/></e>
@@ -4309,7 +4314,7 @@
     <e lm="potèntzia"><i>pot</i><par n="difer/èntzia__n"/></e>
     <e lm="currespundèntzia"><i>currespund</i><par n="difer/èntzia__n"/></e>
     <e lm="avertèntzia"><i>avert</i><par n="difer/èntzia__n"/></e>
-    <e lm="cunfessione"><i>cunfession</i><par n="region/e__n"/></e>
+    <e lm="cunfessione"><par n="cun/con"/><i>fession</i><par n="region/e__n"/></e>
     <e lm="gioventude"><i>gioventude</i><par n="mesa__n"/></e>
     <e lm="maturidad"><i>maturidad</i><par n="identidad/e__n"/></e>
     <e lm="densidad"><i>densidad</i><par n="identidad/e__n"/></e>
@@ -4333,7 +4338,7 @@
     <e lm="sapièntzia"><i>sapi</i><par n="difer/èntzia__n"/></e>
     <e lm="penitèntzia"><i>penit</i><par n="difer/èntzia__n"/></e>
     <e lm="disubidièntzia"><i>disubidi</i><par n="difer/èntzia__n"/></e>
-    <e lm="cunsighèntzia"><i>cunsigh</i><par n="difer/èntzia__n"/></e>
+    <e lm="cunsighèntzia"><par n="cun/con"/><i>sigh</i><par n="difer/èntzia__n"/></e>
     <e lm="sequèntzia"><i>sequ</i><par n="difer/èntzia__n"/></e>
     <e lm="reverèntzia"><i>rever</i><par n="difer/èntzia__n"/></e>
     <e lm="referèntzia"><i>refer</i><par n="difer/èntzia__n"/></e>
@@ -4361,10 +4366,10 @@
     <e lm="garàntzia" r="LR"><p><l>garantia</l><r>garàntzia</r></p><par n="mesa__n"/></e>
 
     <e lm="mancàntzia"><i>manc</i><par n="import/àntzia__n"/></e>
-    <e lm="cunferèntzia"><i>cunfer</i><par n="difer/èntzia__n"/></e>
-    <e lm="cuncurrèntzia"><i>cuncurr</i><par n="difer/èntzia__n"/></e>
+    <e lm="cunferèntzia"><par n="cun/con"/><i>fer</i><par n="difer/èntzia__n"/></e>
+    <e lm="cuncurrèntzia"><par n="cun/con"/><i>curr</i><par n="difer/èntzia__n"/></e>
     <e lm="presidèntzia"><i>presid</i><par n="difer/èntzia__n"/></e>
-    <e lm="cunseguèntzia"><i>cunsegu</i><par n="difer/èntzia__n"/></e>
+    <e lm="cunseguèntzia"><par n="cun/con"/><i>segu</i><par n="difer/èntzia__n"/></e>
     <e lm="assistèntzia"><i>assist</i><par n="difer/èntzia__n"/></e>
     <e lm="urgèntzia"><i>urg</i><par n="difer/èntzia__n"/></e>
     <e lm="cumpetèntzia"><i>cumpet</i><par n="difer/èntzia__n"/></e>
@@ -4486,7 +4491,7 @@
     <e lm="notazione"><i>notazion</i><par n="region/e__n"/></e>
     <e lm="manifestazione"><i>manifestazion</i><par n="region/e__n"/></e>
     <e lm="violatzione"><i>viola</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunventzione"><i>cunven</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="cunventzione"><par n="cun/con"/><i>ven</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="letzione"><i>le</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="detzisione"><i>detzision</i><par n="region/e__n"/></e>
     <e lm="istruzione"><i>istruzion</i><par n="region/e__n"/></e>
@@ -4524,7 +4529,7 @@
     <e lm="denominatzione"><i>denomina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="declaratzione"><i>declara</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="declaratzione" r="LR"><p><l>decraratzion</l><r>declaratzion</r></p><par n="region/e__n"/></e>
-    <e lm="cunfetzione"><i>cunfe</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="cunfetzione"><par n="cun/con"/><i>fe</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="creatzione"><i>crea</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="convintzione"><i>convin</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="contrazione"><i>contrazion</i><par n="region/e__n"/></e>
@@ -4747,7 +4752,7 @@
     <e lm="corista"><i>corista</i><par n="dentista__n"/></e>
     <e lm="cronichista"><i>cronichista</i><par n="dentista__n"/></e>
     <e lm="cronista"><i>cronista</i><par n="dentista__n"/></e>
-    <e lm="cunformista"><i>cunformista</i><par n="dentista__n"/></e>
+    <e lm="cunformista"><par n="cun/con"/><i>formista</i><par n="dentista__n"/></e>
     <e lm="dentista"><i>dentista</i><par n="dentista__n"/></e>
     <e lm="economista"><i>economista</i><par n="dentista__n"/></e>
     <e lm="escursionista"><i>escursionista</i><par n="dentista__n"/></e>
@@ -4824,7 +4829,7 @@
     <e lm="imperialismu"><i>imperialismu</i><par n="anarchismu__n"/></e>
     <e lm="nazismu"><i>nazismu</i><par n="anarchismu__n"/></e>
     <e lm="islamismu"><i>islamismu</i><par n="anarchismu__n"/></e>
-    <e lm="cunformismu"><i>cunformismu</i><par n="anarchismu__n"/></e>
+    <e lm="cunformismu"><par n="cun/con"/><i>formismu</i><par n="anarchismu__n"/></e>
     <e lm="ratzismu"><i>ra</i><par n="tz/z"/><i>ismu</i><par n="anarchismu__n"/></e>
     <e lm="neoliberalismu"><i>neoliberalismu</i><par n="anarchismu__n"/></e>
     <e lm="antisemitismu"><i>antisemitismu</i><par n="anarchismu__n"/></e>
@@ -4855,7 +4860,7 @@
     <e lm="vocabulàriu" r="LR"><p><l>bocabulari</l><r>vocabulàri</r></p><par n="mac/u__n"/></e>
     <e lm="vocabulàriu" r="LR"><p><l>vocabulari</l><r>vocabulàri</r></p><par n="mac/u__n"/></e>
 
-    <e lm="cunservatoriu"><i>cunservatori</i><par n="mac/u__n"/></e>
+    <e lm="cunservatoriu"><par n="cun/con"/><i>servatori</i><par n="mac/u__n"/></e>
     <e lm="seminàriu"><i>seminàri</i><par n="mac/u__n"/></e>
     <e lm="glossàriu"><i>glossàri</i><par n="mac/u__n"/></e>
     <e lm="dibàtidu"><i>dibàtid</i><par n="mac/u__n"/></e>
@@ -4987,7 +4992,7 @@
     <e lm="istatutu"><i>istatut</i><par n="mac/u__n"/></e>
     <e lm="salariu"><i>salari</i><par n="mac/u__n"/></e>
     <e lm="estuariu"><i>estuari</i><par n="mac/u__n"/></e>
-    <e lm="cunsideru"><i>cunsider</i><par n="mac/u__n"/></e>
+    <e lm="cunsideru"><par n="cun/con"/><i>sider</i><par n="mac/u__n"/></e>
     <e lm="assòtziu"><i>assòtzi</i><par n="mac/u__n"/></e>
     <e lm="impreu"><i>impre</i><par n="mac/u__n"/></e>
     <e lm="impreu" r="LR"><p><l>imper</l><r>impre</r></p><par n="mac/u__n"/></e>
@@ -5070,7 +5075,7 @@
     <e lm="acordu"><i>acord</i><par n="mac/u__n"/></e>
     <e lm="acordu" r="LR"><p><l>acordi</l><r>acord</r></p><par n="mac/u__n"/></e>
     <e lm="acordu" r="LR"><p><l>acòrdi</l><r>acord</r></p><par n="mac/u__n"/></e>
-    <e lm="cunflitu"><i>cunflit</i><par n="mac/u__n"/></e>
+    <e lm="cunflitu"><par n="cun/con"/><i>flit</i><par n="mac/u__n"/></e>
     <e lm="livellu"><i>livell</i><par n="mac/u__n"/></e>
     <e lm="membru"><i>membr</i><par n="mac/u__n"/></e>
     <e lm="benefìtziu"><i>benefìtzi</i><par n="mac/u__n"/></e>
@@ -5143,7 +5148,7 @@
     <e lm="ciclu"><i>cicl</i><par n="mac/u__n"/></e>
     <e lm="dollaru" r="LR"><p><l>dòllar</l><r>dollar</r></p><par n="mac/u__n"/></e>
     <e lm="modu"><i>mod</i><par n="mac/u__n"/></e>
-    <e lm="cungressu"><i>cungress</i><par n="mac/u__n"/></e>
+    <e lm="cungressu"><par n="cun/con"/><i>gress</i><par n="mac/u__n"/></e>
     <e lm="cungressu" r="LR"><p><l>congress</l><r>cungress</r></p><par n="mac/u__n"/></e>
     <e lm="relogiu"><i>relogi</i><par n="mac/u__n"/></e>
     <e lm="àmbitu"><i>àmbit</i><par n="mac/u__n"/></e>
@@ -5158,7 +5163,7 @@
     <e lm="misconnoschimentu"><i>misconnoschiment</i><par n="mac/u__n"/></e>
     <e lm="dispretziu"><i>dispretzi</i><par n="mac/u__n"/></e>
     <e lm="monasteriu"><i>monasteri</i><par n="mac/u__n"/></e>
-    <e lm="cuntestu"><i>cuntest</i><par n="mac/u__n"/></e>
+    <e lm="cuntestu"><par n="cun/con"/><i>test</i><par n="mac/u__n"/></e>
     <e lm="asilu"><i>asil</i><par n="mac/u__n"/></e>
     <e lm="registru"><i>registr</i><par n="mac/u__n"/></e>
     <e lm="càlculu"><i>càlcul</i><par n="mac/u__n"/></e>
@@ -5369,9 +5374,9 @@
     <e lm="coja"><i>coja</i><par n="mesa__n"/></e>
     <e lm="colovra"><i>colovra</i><par n="mesa__n"/></e>
     <e lm="cumanda"><i>cumanda</i><par n="mesa__n"/></e>
-    <e lm="cuncàmbia"><i>cuncàmbia</i><par n="mesa__n"/></e>
-    <e lm="cundenna"><i>cundenna</i><par n="mesa__n"/></e>
-    <e lm="cunfiàntzia"><i>cunfiàntzia</i><par n="mesa__n"/></e>
+    <e lm="cuncàmbia"><par n="cun/con"/><i>càmbia</i><par n="mesa__n"/></e>
+    <e lm="cundenna"><par n="cun/con"/><i>denna</i><par n="mesa__n"/></e>
+    <e lm="cunfiàntzia"><par n="cun/con"/><i>fiàntzia</i><par n="mesa__n"/></e>
     <e lm="cura"><i>cura</i><par n="mesa__n"/></e>
     <e lm="dèlega"><i>dèlega</i><par n="mesa__n"/></e>
     <e lm="dereta"><i>dereta</i><par n="mesa__n"/></e>
@@ -5456,7 +5461,7 @@
     <e lm="crititzidade"><i>crititzidad</i><par n="identidad/e__n"/></e>
     <e lm="crudelidade"><i>crudelidad</i><par n="identidad/e__n"/></e>
     <e lm="cumpatibilidade"><i>cumpatibilidad</i><par n="identidad/e__n"/></e>
-    <e lm="cunformidade"><i>cunformidad</i><par n="identidad/e__n"/></e>
+    <e lm="cunformidade"><par n="cun/con"/><i>formidad</i><par n="identidad/e__n"/></e>
     <e lm="curiosidade"><i>curiosidad</i><par n="identidad/e__n"/></e>
     <e lm="dinnidade"><i>dinnidad</i><par n="identidad/e__n"/></e>
     <e lm="discapassidade"><i>discapassidad</i><par n="identidad/e__n"/></e>
@@ -9733,7 +9738,7 @@
 
     <e lm="federadu"><i>federad</i><par n="frantzes/u__adj"/></e>
     <e lm="bassu"><i>bass</i><par n="frantzes/u__adj"/></e>
-    <e lm="cunfederadu"><i>cunfederad</i><par n="frantzes/u__adj"/></e>
+    <e lm="cunfederadu"><par n="cun/con"/><i>federad</i><par n="frantzes/u__adj"/></e>
 
     <e lm="mèdiu"><i>mèdi</i><par n="frantzes/u__adj"/></e>
 
@@ -9977,7 +9982,7 @@
     <e lm="giustu"><i>giust</i><par n="frantzes/u__adj"/></e>
     <e lm="giustu" r="LR"><p><l>zust</l><r>giust</r></p><par n="frantzes/u__adj"/></e>
     <e lm="distintu"><i>distint</i><par n="frantzes/u__adj"/></e>
-    <e lm="cuntentu"><i>cuntent</i><par n="frantzes/u__adj"/></e>
+    <e lm="cuntentu"><par n="cun/con"/><i>tent</i><par n="frantzes/u__adj"/></e>
     <e lm="santu"><i>sant</i><par n="frantzes/u__adj"/></e>
     <e lm="seguru"><i>segur</i><par n="frantzes/u__adj"/></e>
     <e lm="giurìdicu"><i>giurìdi</i><par n="linguìsti/cu__adj"/></e>
@@ -10166,7 +10171,7 @@
     <e lm="difìtzile"><i>difìtzil</i><par n="fàtzil/e__adj"/></e>
     <e lm="difìtzile" r="LR"><p><l>difizil</l><r>difìtzil</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="forte"><i>fort</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cuntzetuale"><i>cuntzetual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntzetuale"><par n="cun/con"/><i>tzetual</i><par n="fàtzil/e__adj"/></e>
     <e lm="cuntzetuale" r="LR"><p><l>concettual</l><r>cuntzetual</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="evidente"><i>evident</i><par n="fàtzil/e__adj"/></e>
     <e lm="culturale"><i>cultural</i><par n="fàtzil/e__adj"/></e>
@@ -10341,13 +10346,13 @@
     <e lm="cumpatìbile"><i>cumpatìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="cumponìbile"><i>cumponìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="cumprensìbile"><i>cumprensìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cuncurrente"><i>cuncurrent</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cunforme"><i>cunform</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cunfrontàbile"><i>cunfrontàbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cuntenìbile"><i>cuntenìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cuntestuale"><i>cuntestual</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cuntratuale"><i>cuntratual</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cunvivente"><i>cunvivent</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuncurrente"><par n="cun/con"/><i>current</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunforme"><par n="cun/con"/><i>form</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunfrontàbile"><par n="cun/con"/><i>frontàbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntenìbile"><par n="cun/con"/><i>tenìbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntestuale"><par n="cun/con"/><i>testual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntratuale"><par n="cun/con"/><i>tratual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunvivente"><par n="cun/con"/><i>vivent</i><par n="fàtzil/e__adj"/></e>
     <e lm="cussorgiale"><i>cussorgial</i><par n="fàtzil/e__adj"/></e>
     <e lm="dàbile"><i>dàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="dèbile"><i>dèbil</i><par n="fàtzil/e__adj"/></e>
@@ -10533,8 +10538,8 @@
     <e lm="cuadradu"><i>cuadrad</i><par n="frantzes/u__adj"/></e>
     <e lm="cumbeniosu"><i>cumbenios</i><par n="frantzes/u__adj"/></e>
     <e lm="cumpostu"><i>cumpost</i><par n="frantzes/u__adj"/></e>
-    <e lm="cuntentziosu"><i>cuntentzios</i><par n="frantzes/u__adj"/></e>
-    <e lm="cuntràriu"><i>cuntràri</i><par n="frantzes/u__adj"/></e>
+    <e lm="cuntentziosu"><par n="cun/con"/><i>tentzios</i><par n="frantzes/u__adj"/></e>
+    <e lm="cuntràriu"><par n="cun/con"/><i>tràri</i><par n="frantzes/u__adj"/></e>
     <e lm="currègidu"><i>currègid</i><par n="frantzes/u__adj"/></e>
     <e lm="denegadu"><i>denegad</i><par n="frantzes/u__adj"/></e>
     <e lm="derivadu"><i>derivad</i><par n="frantzes/u__adj"/></e>
@@ -10813,7 +10818,7 @@
     <e lm="a fortza"><i>a<b/>fortza</i><par n="bene__adv"/></e>
     <!--<e lm="in curtzu"><i>in<b/>curtzu</i><par n="bene__adv"/></e>-->
     <e lm="in cara"><i>in<b/>cara</i><par n="bene__adv"/></e>
-    <!--<e lm="cunforma a"><i>cunforma<b/>a</i><par n="bene__adv"/></e>-->
+    <!--<e lm="cunforma a"><par n="cun/con"/><i>forma<b/>a</i><par n="bene__adv"/></e>-->
     <e lm="pro esempru"><i>pro<b/>esempru</i><par n="bene__adv"/></e>
     <e lm="a malu"><i>a<b/>malu</i><par n="bene__adv"/></e>
 
@@ -10964,8 +10969,8 @@
     <e lm="che a"><i>che<b/>a</i><par n="bene__adv"/></e>
     <e lm="chi esumet"><i>chi<b/>esumet</i><par n="bene__adv"/></e>
     <e lm="chissai"><i>chissai</i><par n="bene__adv"/></e>
-    <e lm="cunforma a"><i>cunforma<b/>a</i><par n="bene__adv"/></e>
-    <e lm="cunforma"><i>cunforma</i><par n="bene__adv"/></e>
+    <e lm="cunforma a"><par n="cun/con"/><i>forma<b/>a</i><par n="bene__adv"/></e>
+    <e lm="cunforma"><par n="cun/con"/><i>forma</i><par n="bene__adv"/></e>
     <e lm="cun preferèntzia"><i>cun<b/>preferèntzia</i><par n="bene__adv"/></e>
     <e lm="curre·curre"><i>curre·curre</i><par n="bene__adv"/></e>
     <e lm="curreta"><i>curreta</i><par n="bene__adv"/></e>
@@ -11111,8 +11116,7 @@
 
     <e lm="abbandonare" r="LR"><p><l>abandon</l><r>abbandon</r></p><par n="cant/are__vblex"/></e>
 
-    <e lm="cunchistare"><i>cunchist</i><par n="cant/are__vblex"/></e>
-    <e lm="cunchistare" r="LR"><p><l>conchist</l><r>cunchist</r></p><par n="cant/are__vblex"/></e>
+    <e lm="cunchistare"><par n="cun/con"/><i>chist</i><par n="cant/are__vblex"/></e>
     <e lm="neutralizare"><i>neutraliz</i><par n="cant/are__vblex"/></e>
     <e lm="ordinare"><i>ordin</i><par n="cant/are__vblex"/></e>
     <e lm="osservare"><i>osserv</i><par n="cant/are__vblex"/></e>
@@ -11168,7 +11172,7 @@
     <e lm="megiorare" r="LR"><p><l>mezor</l><r>megior</r></p><par n="cant/are__vblex"/></e>
     <e lm="invitare"><i>invit</i><par n="cant/are__vblex"/></e>
     <e lm="cumbidare"><i>cumbid</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfinare"><i>cunfin</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfinare"><par n="cun/con"/><i>fin</i><par n="cant/are__vblex"/></e>
     <e lm="dedicare"><i>dedic</i><par n="seg/are__vblex"/></e>
     <e lm="criticare"><i>critic</i><par n="seg/are__vblex"/></e>
     <e lm="mudare"><i>mud</i><par n="cant/are__vblex"/></e>
@@ -11197,7 +11201,7 @@
     <e lm="ghiare"><i>ghi</i><par n="cant/are__vblex"/></e>
     <e lm="limitare"><i>limit</i><par n="cant/are__vblex"/></e>
     <e lm="isperimentare"><i>isperiment</i><par n="cant/are__vblex"/></e>
-    <e lm="cundennare"><i>cundenn</i><par n="cant/are__vblex"/></e>
+    <e lm="cundennare"><par n="cun/con"/><i>denn</i><par n="cant/are__vblex"/></e>
     <e lm="cundennare" r="LR"><p><l>cundann</l><r>cundenn</r></p><par n="cant/are__vblex"/></e>
     <e lm="progettare"><i>progett</i><par n="cant/are__vblex"/></e>
     <e lm="relatare"><i>relat</i><par n="cant/are__vblex"/></e>
@@ -11208,7 +11212,7 @@
     <e lm="ispirare"><i>ispir</i><par n="cant/are__vblex"/></e>
     <e lm="ispirare" r="LR"><p><l>inspir</l><r>ispir</r></p><par n="cant/are__vblex"/></e>
     <e lm="restare"><i>rest</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntestare"><i>cuntest</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntestare"><par n="cun/con"/><i>test</i><par n="cant/are__vblex"/></e>
     <e lm="prestare"><i>prest</i><par n="cant/are__vblex"/></e>
     <e lm="espressare"><i>espress</i><par n="cant/are__vblex"/></e>
     <e lm="finantziare"><i>finantzi</i><par n="cant/are__vblex"/></e>
@@ -11237,7 +11241,7 @@
     <e lm="bastare"><i>bast</i><par n="cant/are__vblex"/></e>
     <e lm="superare"><i>super</i><par n="cant/are__vblex"/></e>
     <e lm="procurare"><i>procur</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfrontare"><i>cunfront</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfrontare"><par n="cun/con"/><i>front</i><par n="cant/are__vblex"/></e>
     <e lm="determinare"><i>determin</i><par n="cant/are__vblex"/></e>
     <e lm="esaminare"><i>esamin</i><par n="cant/are__vblex"/></e>
     <e lm="valutare"><i>valut</i><par n="cant/are__vblex"/></e>
@@ -11246,7 +11250,7 @@
     <e lm="assòtziare"><i>assòtzi</i><par n="cant/are__vblex"/></e>
     <e lm="filmare"><i>film</i><par n="cant/are__vblex"/></e>
     <e lm="obrigare"><i>obrig</i><par n="seg/are__vblex"/></e>
-    <e lm="cunformare"><i>cunform</i><par n="cant/are__vblex"/></e>
+    <e lm="cunformare"><par n="cun/con"/><i>form</i><par n="cant/are__vblex"/></e>
 
 
     <e lm="comunicare"><i>comunic</i><par n="seg/are__vblex"/></e>
@@ -11283,8 +11287,7 @@
     <e lm="faddire"><i>fadd</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
     <e lm="costruire"><i>costru</i><par n="fin/ire__vblex"/></e>
-    <e lm="cunstituire"><i>cunstitu</i><par n="fin/ire__vblex"/></e>
-    <e lm="cunstituire" r="LR"><p><l>constitu</l><r>cunstitu</r></p><par n="fin/ire__vblex"/></e>
+    <e lm="cunstituire"><par n="cun/con"/><i>stitu</i><par n="fin/ire__vblex"/></e>
     <e lm="trasferire"><i>trasfer</i><par n="fin/ire__vblex"/></e>
     <e lm="contribuire"><i>contribu</i><par n="fin/ire__vblex"/></e> <!-- cuntribuìre-->
     <e lm="godire"><i>god</i><par n="fin/ire__vblex"/></e>
@@ -11388,7 +11391,7 @@
     <e lm="fàghere parte"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parte</l><r><g><b/>parte</g></r></p></e> 
     <e lm="fàghere parte" r="LR"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parti</l><r><g><b/>parte</g></r></p></e> 
     <e lm="contrafàghere"><i>contraf</i><par n="f/àghere__vblex"/></e> 
-    <e lm="cunfàghere"><i>cunf</i><par n="f/àghere__vblex"/></e> 
+    <e lm="cunfàghere"><par n="cun/con"/><i>f</i><par n="f/àghere__vblex"/></e> 
     <e lm="disfàghere"><i>disf</i><par n="f/àghere__vblex"/></e> 
     <e lm="isfàghere"><i>isf</i><par n="f/àghere__vblex"/></e> 
     <e lm="satisfàghere"><i>satisf</i><par n="f/àghere__vblex"/></e> 
@@ -13420,63 +13423,63 @@
     <e lm="cumprou"><i>cumpro</i><par n="mac/u__n"/></e>
     <e lm="cumprovu"><i>cumprov</i><par n="mac/u__n"/></e>
     <e lm="cùmulu"><i>cùmul</i><par n="mac/u__n"/></e>
-    <e lm="cuncàmbiu"><i>cuncàmbi</i><par n="mac/u__n"/></e>
-    <e lm="cuncordu"><i>cuncord</i><par n="mac/u__n"/></e>
-    <e lm="cundennu"><i>cundenn</i><par n="mac/u__n"/></e>
-    <e lm="cundimentu"><i>cundiment</i><par n="mac/u__n"/></e>
-    <e lm="cundìngiu"><i>cundìngi</i><par n="mac/u__n"/></e>
-    <e lm="cundiolu"><i>cundiol</i><par n="mac/u__n"/></e>
-    <e lm="cunditzionamentu"><i>cundi</i><par n="tz/z"/><i>ionament</i><par n="mac/u__n"/></e>
-    <e lm="cundonu"><i>cundon</i><par n="mac/u__n"/></e>
-    <e lm="cundutu"><i>cundut</i><par n="mac/u__n"/></e>
-    <e lm="cuneddu"><i>cunedd</i><par n="mac/u__n"/></e>
-    <e lm="cunfaghimentu"><i>cunfaghiment</i><par n="mac/u__n"/></e>
-    <e lm="cunferimentu"><i>cunferiment</i><par n="mac/u__n"/></e>
-    <e lm="cunfidu"><i>cunfid</i><par n="mac/u__n"/></e>
-    <e lm="cunfinu"><i>cunfin</i><par n="mac/u__n"/></e>
-    <e lm="cunfirmu"><i>cunfirm</i><par n="mac/u__n"/></e>
-    <e lm="cunfrontu"><i>cunfront</i><par n="mac/u__n"/></e>
-    <e lm="cunfutzianèsimu"><i>cunfutzianèsim</i><par n="mac/u__n"/></e>
-    <e lm="cungedu"><i>cunged</i><par n="mac/u__n"/></e>
-    <e lm="cungiadeddu"><i>cungiadedd</i><par n="mac/u__n"/></e>
-    <e lm="cungiaresu"><i>cungiares</i><par n="mac/u__n"/></e>
-    <e lm="cungiatinu"><i>cungiatin</i><par n="mac/u__n"/></e>
-    <e lm="cungiatolu"><i>cungiatol</i><par n="mac/u__n"/></e>
-    <e lm="cungimìngiu"><i>cungimìngi</i><par n="mac/u__n"/></e>
-    <e lm="cungiòngiu"><i>cungiòngi</i><par n="mac/u__n"/></e>
-    <e lm="cunigiolu"><i>cunigiol</i><par n="mac/u__n"/></e>
-    <e lm="cunìlliu"><i>cunìlli</i><par n="mac/u__n"/></e>
-    <e lm="cunnugrassu"><i>cunnugrass</i><par n="mac/u__n"/></e>
-    <e lm="cunsensu"><i>cunsens</i><par n="mac/u__n"/></e>
-    <e lm="cunsentimentu"><i>cunsentiment</i><par n="mac/u__n"/></e>
-    <e lm="cunsertu"><i>cunsert</i><par n="mac/u__n"/></e>
-    <e lm="cunsessu"><i>cunsess</i><par n="mac/u__n"/></e>
-    <e lm="cunsighimentu"><i>cunsighiment</i><par n="mac/u__n"/></e>
-    <e lm="cunsolidamentu"><i>cunsolidament</i><par n="mac/u__n"/></e>
-    <e lm="cunsonu"><i>cunson</i><par n="mac/u__n"/></e>
-    <e lm="cunsòrtziu"><i>cunsòrtzi</i><par n="mac/u__n"/></e>
-    <e lm="cuntatu"><i>cuntat</i><par n="mac/u__n"/></e>
-    <e lm="cuntemplu"><i>cuntempl</i><par n="mac/u__n"/></e>
-    <e lm="cuntenimentu"><i>cunteniment</i><par n="mac/u__n"/></e>
-    <e lm="cuntentziosu"><i>cuntentzios</i><par n="mac/u__n"/></e>
-    <e lm="cuntenutu"><i>cuntenut</i><par n="mac/u__n"/></e>
-    <e lm="cuntornu"><i>cuntorn</i><par n="mac/u__n"/></e>
-    <e lm="cuntrasteddu"><i>cuntrastedd</i><par n="mac/u__n"/></e>
-    <e lm="cuntrastu"><i>cuntrast</i><par n="mac/u__n"/></e>
-    <e lm="cuntratu"><i>cuntrat</i><par n="mac/u__n"/></e>
-    <e lm="cuntributu"><i>cuntribut</i><par n="mac/u__n"/></e>
-    <e lm="cuntzentramentu"><i>cuntzentrament</i><par n="mac/u__n"/></e>
-    <e lm="cuntzertu"><i>cuntzert</i><par n="mac/u__n"/></e>
-    <e lm="cuntzessionàriu"><i>cuntzessionàri</i><par n="mac/u__n"/></e>
-    <e lm="cuntzetualismu"><i>cuntzetualism</i><par n="mac/u__n"/></e>
-    <e lm="cuntzetu"><i>cuntzet</i><par n="mac/u__n"/></e>
-    <e lm="cuntzìliu"><i>cuntzìli</i><par n="mac/u__n"/></e>
-    <e lm="cuntzinu"><i>cuntzin</i><par n="mac/u__n"/></e>
-    <e lm="cuntzistoru"><i>cuntzistor</i><par n="mac/u__n"/></e>
-    <e lm="cunvegnu"><i>cunvegn</i><par n="mac/u__n"/></e>
-    <e lm="cunvertimentu"><i>cunvertiment</i><par n="mac/u__n"/></e>
-    <e lm="cunvitu"><i>cunvit</i><par n="mac/u__n"/></e>
-    <e lm="cunviu"><i>cunvi</i><par n="mac/u__n"/></e>
+    <e lm="cuncàmbiu"><par n="cun/con"/><i>càmbi</i><par n="mac/u__n"/></e>
+    <e lm="cuncordu"><par n="cun/con"/><i>cord</i><par n="mac/u__n"/></e>
+    <e lm="cundennu"><par n="cun/con"/><i>denn</i><par n="mac/u__n"/></e>
+    <e lm="cundimentu"><par n="cun/con"/><i>diment</i><par n="mac/u__n"/></e>
+    <e lm="cundìngiu"><par n="cun/con"/><i>dìngi</i><par n="mac/u__n"/></e>
+    <e lm="cundiolu"><par n="cun/con"/><i>diol</i><par n="mac/u__n"/></e>
+    <e lm="cunditzionamentu"><par n="cun/con"/><i>di</i><par n="tz/z"/><i>ionament</i><par n="mac/u__n"/></e>
+    <e lm="cundonu"><par n="cun/con"/><i>don</i><par n="mac/u__n"/></e>
+    <e lm="cundutu"><par n="cun/con"/><i>dut</i><par n="mac/u__n"/></e>
+    <e lm="cuneddu"><par n="cun/con"/><i>edd</i><par n="mac/u__n"/></e>
+    <e lm="cunfaghimentu"><par n="cun/con"/><i>faghiment</i><par n="mac/u__n"/></e>
+    <e lm="cunferimentu"><par n="cun/con"/><i>feriment</i><par n="mac/u__n"/></e>
+    <e lm="cunfidu"><par n="cun/con"/><i>fid</i><par n="mac/u__n"/></e>
+    <e lm="cunfinu"><par n="cun/con"/><i>fin</i><par n="mac/u__n"/></e>
+    <e lm="cunfirmu"><par n="cun/con"/><i>firm</i><par n="mac/u__n"/></e>
+    <e lm="cunfrontu"><par n="cun/con"/><i>front</i><par n="mac/u__n"/></e>
+    <e lm="cunfutzianèsimu"><par n="cun/con"/><i>futzianèsim</i><par n="mac/u__n"/></e>
+    <e lm="cungedu"><par n="cun/con"/><i>ged</i><par n="mac/u__n"/></e>
+    <e lm="cungiadeddu"><par n="cun/con"/><i>giadedd</i><par n="mac/u__n"/></e>
+    <e lm="cungiaresu"><par n="cun/con"/><i>giares</i><par n="mac/u__n"/></e>
+    <e lm="cungiatinu"><par n="cun/con"/><i>giatin</i><par n="mac/u__n"/></e>
+    <e lm="cungiatolu"><par n="cun/con"/><i>giatol</i><par n="mac/u__n"/></e>
+    <e lm="cungimìngiu"><par n="cun/con"/><i>gimìngi</i><par n="mac/u__n"/></e>
+    <e lm="cungiòngiu"><par n="cun/con"/><i>giòngi</i><par n="mac/u__n"/></e>
+    <e lm="cunigiolu"><par n="cun/con"/><i>igiol</i><par n="mac/u__n"/></e>
+    <e lm="cunìlliu"><par n="cun/con"/><i>ìlli</i><par n="mac/u__n"/></e>
+    <e lm="cunnugrassu"><par n="cun/con"/><i>nugrass</i><par n="mac/u__n"/></e>
+    <e lm="cunsensu"><par n="cun/con"/><i>sens</i><par n="mac/u__n"/></e>
+    <e lm="cunsentimentu"><par n="cun/con"/><i>sentiment</i><par n="mac/u__n"/></e>
+    <e lm="cunsertu"><par n="cun/con"/><i>sert</i><par n="mac/u__n"/></e>
+    <e lm="cunsessu"><par n="cun/con"/><i>sess</i><par n="mac/u__n"/></e>
+    <e lm="cunsighimentu"><par n="cun/con"/><i>sighiment</i><par n="mac/u__n"/></e>
+    <e lm="cunsolidamentu"><par n="cun/con"/><i>solidament</i><par n="mac/u__n"/></e>
+    <e lm="cunsonu"><par n="cun/con"/><i>son</i><par n="mac/u__n"/></e>
+    <e lm="cunsòrtziu"><par n="cun/con"/><i>sòrtzi</i><par n="mac/u__n"/></e>
+    <e lm="cuntatu"><par n="cun/con"/><i>tat</i><par n="mac/u__n"/></e>
+    <e lm="cuntemplu"><par n="cun/con"/><i>templ</i><par n="mac/u__n"/></e>
+    <e lm="cuntenimentu"><par n="cun/con"/><i>teniment</i><par n="mac/u__n"/></e>
+    <e lm="cuntentziosu"><par n="cun/con"/><i>tentzios</i><par n="mac/u__n"/></e>
+    <e lm="cuntenutu"><par n="cun/con"/><i>tenut</i><par n="mac/u__n"/></e>
+    <e lm="cuntornu"><par n="cun/con"/><i>torn</i><par n="mac/u__n"/></e>
+    <e lm="cuntrasteddu"><par n="cun/con"/><i>trastedd</i><par n="mac/u__n"/></e>
+    <e lm="cuntrastu"><par n="cun/con"/><i>trast</i><par n="mac/u__n"/></e>
+    <e lm="cuntratu"><par n="cun/con"/><i>trat</i><par n="mac/u__n"/></e>
+    <e lm="cuntributu"><par n="cun/con"/><i>tribut</i><par n="mac/u__n"/></e>
+    <e lm="cuntzentramentu"><par n="cun/con"/><i>tzentrament</i><par n="mac/u__n"/></e>
+    <e lm="cuntzertu"><par n="cun/con"/><i>tzert</i><par n="mac/u__n"/></e>
+    <e lm="cuntzessionàriu"><par n="cun/con"/><i>tzessionàri</i><par n="mac/u__n"/></e>
+    <e lm="cuntzetualismu"><par n="cun/con"/><i>tzetualism</i><par n="mac/u__n"/></e>
+    <e lm="cuntzetu"><par n="cun/con"/><i>tzet</i><par n="mac/u__n"/></e>
+    <e lm="cuntzìliu"><par n="cun/con"/><i>tzìli</i><par n="mac/u__n"/></e>
+    <e lm="cuntzinu"><par n="cun/con"/><i>tzin</i><par n="mac/u__n"/></e>
+    <e lm="cuntzistoru"><par n="cun/con"/><i>tzistor</i><par n="mac/u__n"/></e>
+    <e lm="cunvegnu"><par n="cun/con"/><i>vegn</i><par n="mac/u__n"/></e>
+    <e lm="cunvertimentu"><par n="cun/con"/><i>vertiment</i><par n="mac/u__n"/></e>
+    <e lm="cunvitu"><par n="cun/con"/><i>vit</i><par n="mac/u__n"/></e>
+    <e lm="cunviu"><par n="cun/con"/><i>vi</i><par n="mac/u__n"/></e>
     <e lm="cupigheddu"><i>cupighedd</i><par n="mac/u__n"/></e>
     <e lm="cuponatzu"><i>cuponatz</i><par n="mac/u__n"/></e>
     <e lm="cupu"><i>cup</i><par n="mac/u__n"/></e>
@@ -19700,43 +19703,43 @@
     <e lm="cumproare"><i>cumpro</i><par n="cant/are__vblex"/></e>
     <e lm="cumprovare"><i>cumprov</i><par n="cant/are__vblex"/></e>
     <e lm="cumpudare"><i>cumpud</i><par n="cant/are__vblex"/></e>
-    <e lm="cuncordare"><i>cuncord</i><par n="cant/are__vblex"/></e>
-    <e lm="cundennare"><i>cundenn</i><par n="cant/are__vblex"/></e>
-    <e lm="cundensare"><i>cundens</i><par n="cant/are__vblex"/></e>
-    <e lm="cunditzionare"><i>cundi</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
-    <e lm="cunferentziare"><i>cunferentzi</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfessare"><i>cunfess</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfetare"><i>cunfet</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfetzionare"><i>cunfe</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfiare"><i>cunfi</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfidare"><i>cunfid</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfigurare"><i>cunfigur</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfinare"><i>cunfin</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfirmare"><i>cunfirm</i><par n="cant/are__vblex"/></e>
-    <e lm="cunformare"><i>cunform</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfortare"><i>cunfort</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfrontare"><i>cunfront</i><par n="cant/are__vblex"/></e>
-    <e lm="cunfusionare"><i>cunfusion</i><par n="cant/are__vblex"/></e>
-    <e lm="cungedare"><i>cunged</i><par n="cant/are__vblex"/></e>
-    <e lm="cungelare"><i>cungel</i><par n="cant/are__vblex"/></e>
-    <e lm="cungiolvare"><i>cungiolv</i><par n="cant/are__vblex"/></e>
-    <e lm="cunnemare"><i>cunnem</i><par n="cant/are__vblex"/></e>
-    <e lm="cunsagrare"><i>cunsagr</i><par n="cant/are__vblex"/></e>
-    <e lm="cunsertare"><i>cunsert</i><par n="cant/are__vblex"/></e>
-    <e lm="cunservare"><i>cunserv</i><par n="cant/are__vblex"/></e>
-    <e lm="cunsignare"><i>cunsign</i><par n="cant/are__vblex"/></e>
-    <e lm="cunsonare"><i>cunson</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntemplare"><i>cuntempl</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntentare"><i>cuntent</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntestare"><i>cuntest</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntierrare"><i>cuntierr</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntrastare"><i>cuntrast</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntratare"><i>cuntrat</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntrobare"><i>cuntrob</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntzentrare"><i>cuntzentr</i><par n="cant/are__vblex"/></e>
-    <e lm="cuntzertare"><i>cuntzert</i><par n="cant/are__vblex"/></e>
-    <e lm="cunventzionare"><i>cunven</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
-    <e lm="cunviare"><i>cunvi</i><par n="cant/are__vblex"/></e>
+    <e lm="cuncordare"><par n="cun/con"/><i>cord</i><par n="cant/are__vblex"/></e>
+    <e lm="cundennare"><par n="cun/con"/><i>denn</i><par n="cant/are__vblex"/></e>
+    <e lm="cundensare"><par n="cun/con"/><i>dens</i><par n="cant/are__vblex"/></e>
+    <e lm="cunditzionare"><par n="cun/con"/><i>di</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
+    <e lm="cunferentziare"><par n="cun/con"/><i>ferentzi</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfessare"><par n="cun/con"/><i>fess</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfetare"><par n="cun/con"/><i>fet</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfetzionare"><par n="cun/con"/><i>fe</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfiare"><par n="cun/con"/><i>fi</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfidare"><par n="cun/con"/><i>fid</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfigurare"><par n="cun/con"/><i>figur</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfinare"><par n="cun/con"/><i>fin</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfirmare"><par n="cun/con"/><i>firm</i><par n="cant/are__vblex"/></e>
+    <e lm="cunformare"><par n="cun/con"/><i>form</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfortare"><par n="cun/con"/><i>fort</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfrontare"><par n="cun/con"/><i>front</i><par n="cant/are__vblex"/></e>
+    <e lm="cunfusionare"><par n="cun/con"/><i>fusion</i><par n="cant/are__vblex"/></e>
+    <e lm="cungedare"><par n="cun/con"/><i>ged</i><par n="cant/are__vblex"/></e>
+    <e lm="cungelare"><par n="cun/con"/><i>gel</i><par n="cant/are__vblex"/></e>
+    <e lm="cungiolvare"><par n="cun/con"/><i>giolv</i><par n="cant/are__vblex"/></e>
+    <e lm="cunnemare"><par n="cun/con"/><i>nem</i><par n="cant/are__vblex"/></e>
+    <e lm="cunsagrare"><par n="cun/con"/><i>sagr</i><par n="cant/are__vblex"/></e>
+    <e lm="cunsertare"><par n="cun/con"/><i>sert</i><par n="cant/are__vblex"/></e>
+    <e lm="cunservare"><par n="cun/con"/><i>serv</i><par n="cant/are__vblex"/></e>
+    <e lm="cunsignare"><par n="cun/con"/><i>sign</i><par n="cant/are__vblex"/></e>
+    <e lm="cunsonare"><par n="cun/con"/><i>son</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntemplare"><par n="cun/con"/><i>templ</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntentare"><par n="cun/con"/><i>tent</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntestare"><par n="cun/con"/><i>test</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntierrare"><par n="cun/con"/><i>tierr</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntrastare"><par n="cun/con"/><i>trast</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntratare"><par n="cun/con"/><i>trat</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntrobare"><par n="cun/con"/><i>trob</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntzentrare"><par n="cun/con"/><i>tzentr</i><par n="cant/are__vblex"/></e>
+    <e lm="cuntzertare"><par n="cun/con"/><i>tzert</i><par n="cant/are__vblex"/></e>
+    <e lm="cunventzionare"><par n="cun/con"/><i>ven</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
+    <e lm="cunviare"><par n="cun/con"/><i>vi</i><par n="cant/are__vblex"/></e>
     <e lm="cuotare"><i>cuot</i><par n="cant/are__vblex"/></e>
     <e lm="cupare"><i>cup</i><par n="cant/are__vblex"/></e>
     <e lm="curare"><i>cur</i><par n="cant/are__vblex"/></e>
@@ -22200,8 +22203,8 @@
     <e lm="crancare"><i>cranc</i><par n="seg/are__vblex"/></e>
     <e lm="crazugare"><i>crazug</i><par n="seg/are__vblex"/></e>
     <e lm="cucare"><i>cuc</i><par n="seg/are__vblex"/></e>
-    <e lm="cunfiscare"><i>cunfisc</i><par n="seg/are__vblex"/></e>
-    <e lm="cunvocare"><i>cunvoc</i><par n="seg/are__vblex"/></e>
+    <e lm="cunfiscare"><par n="cun/con"/><i>fisc</i><par n="seg/are__vblex"/></e>
+    <e lm="cunvocare"><par n="cun/con"/><i>voc</i><par n="seg/are__vblex"/></e>
     <e lm="curcurigare"><i>curcurig</i><par n="seg/are__vblex"/></e>
     <e lm="denegare"><i>deneg</i><par n="seg/are__vblex"/></e>
     <e lm="dengare"><i>deng</i><par n="seg/are__vblex"/></e>
@@ -26652,7 +26655,7 @@
     <e lm="cunferire"><p><l>cunfer</l><r>cunferire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="cunfìgire"><p><l>cunfìg</l><r>cunfìgire</r></p><par n="afig/ire__vblex"/></e>
     <e lm="cunsentire"><p><l>cunsent</l><r>cunsentire</r></p><par n="ped/ire__vblex"/></e>
-    <e lm="cunsighire"><i>cunsig</i><par n="sig/hire__vblex"/></e>
+    <e lm="cunsighire"><par n="cun/con"/><i>sig</i><par n="sig/hire__vblex"/></e>
     <e lm="cuntribuire"><p><l>cuntribu</l><r>cuntribuire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="cuntzebire"><p><l>cuntzeb</l><r>cuntzebire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="cuntzepire"><p><l>cuntzep</l><r>cuntzepire</r></p><par n="ped/ire__vblex"/></e>
