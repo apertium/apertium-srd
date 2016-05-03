@@ -628,7 +628,7 @@
     <pardef n="linguìsti/ca__n">
       <e>       <p><l>ca</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>cas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>g</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ga</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>gas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
     </pardef>
  
@@ -3121,6 +3121,11 @@
       <e>       <p><l>èidas</l><r>èere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="tz/c">
+      <e>       <p><l>tz</l><r>tz</r></p></e>
+      <e r="LR"><p><l>c</l><r>tz</r></p></e> <!-- @!LSC -->
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -3361,7 +3366,7 @@
     <e lm="àteru" r="LR" c="!LSC"><p><l>artr</l><r>àter</r></p><par n="àter/u__det"/></e>
     <e lm="àteru" r="LR" c="!LSC"><p><l>atter</l><r>àter</r></p><par n="àter/u__det"/></e>
 
-    <e lm="tzertu"><i>tzert</i><par n="àter/u__det"/></e>
+    <e lm="tzertu"><par n="tz/c"/><i>ert</i><par n="àter/u__det"/></e>
     <e lm="diversu"><i>divers</i><par n="àter/u__det"/></e>
     <e lm="nisciunu"><i>nisciun</i><par n="àter/u__det"/></e>
     <e lm="niunu"><i>niun</i><par n="àter/u__det"/></e>
@@ -3607,7 +3612,7 @@
 
     <e lm="istemma"><i>istemma</i><par n="pane__n"/></e>
 
-    <e lm="tzìnema"><i>tzìnema</i><par n="pane__n"/></e>
+    <e lm="tzìnema"><par n="tz/c"/><i>ìnema</i><par n="pane__n"/></e>
     <e lm="tzìnema" r="LR"><p><l>cinema</l><r>tzìnema</r></p><par n="pane__n"/></e>
     <e lm="tzìnema" r="LR"><p><l>cìnema</l><r>tzìnema</r></p><par n="pane__n"/></e>
     <e lm="tzìnema" r="LR"><p><l>tzinema</l><r>tzìnema</r></p><par n="pane__n"/></e>
@@ -3834,7 +3839,7 @@
     <e lm="sensibilidade"><i>sensibilidad</i><par n="identidad/e__n"/></e>
     <e lm="possibilidade"><i>possibilidad</i><par n="identidad/e__n"/></e>
     <e lm="possibilidade" r="LR"><p><l>possibillidad</l><r>possibilidad</r></p><par n="identidad/e__n"/></e>
-    <e lm="tzivilidade"><i>tzivilidad</i><par n="identidad/e__n"/></e>
+    <e lm="tzivilidade"><par n="tz/c"/><i>ivilidad</i><par n="identidad/e__n"/></e>
     <e lm="tranquillidade"><i>tranquillidad</i><par n="identidad/e__n"/></e>
     <e lm="sustenibilidade"><i>sustenibilidad</i><par n="identidad/e__n"/></e>
     <e lm="responsabilidade"><i>responsabilidad</i><par n="identidad/e__n"/></e>
@@ -3918,7 +3923,7 @@
     <e lm="paràula" r="LR"><p><l>paraula</l><r>paràula</r></p><par n="mesa__n"/></e>
     <e lm="paràula" r="LR"><p><l>parola</l><r>paràula</r></p><par n="mesa__n"/></e>
 
-    <e lm="tzitade"><i>tzitade</i><par n="mesa__n"/></e>
+    <e lm="tzitade"><par n="tz/c"/><i>itade</i><par n="mesa__n"/></e>
     <e lm="tzitade" r="LR" c="!LSC"><p><l>tzidade</l><r>tzitade</r></p><par n="mesa__n"/></e>
     <e lm="tzitade" r="LR" c="!LSC"><p><l>tzitadi</l><r>tzitade</r></p><par n="mesa__n"/></e>
     <e lm="tzitade" r="LR" c="!LSC"><p><l>tzittade</l><r>tzitade</r></p><par n="mesa__n"/></e>
@@ -3981,7 +3986,7 @@
     <e lm="ammiratzione"><i>ammiratzion</i><par n="region/e__n"/></e>
     <e lm="publicatzione"><i>publicatzion</i><par n="region/e__n"/></e>
     <e lm="prostitutzione"><i>prostitutzion</i><par n="region/e__n"/></e>
-    <e lm="tzircoscritzione"><i>tzircoscritzion</i><par n="region/e__n"/></e>
+    <e lm="tzircoscritzione"><par n="tz/c"/><i>ircoscritzion</i><par n="region/e__n"/></e>
     <e lm="generatzione"><i>generatzion</i><par n="region/e__n"/></e>
     <e lm="corporatzione"><i>corporatzion</i><par n="region/e__n"/></e>
     <e lm="collaboratzione"><i>collaboratzion</i><par n="region/e__n"/></e>
@@ -4054,7 +4059,7 @@
     <e lm="edificatzione"><i>edificatzion</i><par n="region/e__n"/></e>
     <e lm="pianificatzione"><i>pianificatzion</i><par n="region/e__n"/></e>
     <e lm="identificatzione"><i>identificatzion</i><par n="region/e__n"/></e>
-    <e lm="tzertificatzione"><i>tzertificatzion</i><par n="region/e__n"/></e>
+    <e lm="tzertificatzione"><par n="tz/c"/><i>ertificatzion</i><par n="region/e__n"/></e>
     <e lm="fortificatzione"><i>fortificatzion</i><par n="region/e__n"/></e>
     <e lm="duplicatzione"><i>duplicatzion</i><par n="region/e__n"/></e>
     <e lm="autenticatzione"><i>autenticatzion</i><par n="region/e__n"/></e>
@@ -4134,7 +4139,7 @@
     <e lm="abolitzione"><i>abolitzion</i><par n="region/e__n"/></e>
     <e lm="demolitzione"><i>demolitzion</i><par n="region/e__n"/></e>
     <e lm="descritzione"><i>descritzion</i><par n="region/e__n"/></e>
-    <e lm="tzircumiscrìtzione"><i>tzircumiscrìtzion</i><par n="region/e__n"/></e>
+    <e lm="tzircumiscrìtzione"><par n="tz/c"/><i>ircumiscrìtzion</i><par n="region/e__n"/></e>
     <e lm="rechisitzione"><i>rechisitzion</i><par n="region/e__n"/></e>
     <e lm="cumpositzione"><i>cumpositzion</i><par n="region/e__n"/></e>
     <e lm="espositzione"><i>espositzion</i><par n="region/e__n"/></e>
@@ -4348,8 +4353,7 @@
     <e lm="osservàntzia"><i>osserv</i><par n="import/àntzia__n"/></e>
     <e lm="distàntzia"><i>dist</i><par n="import/àntzia__n"/></e>
     <e lm="sustàntzia"><i>sust</i><par n="import/àntzia__n"/></e>
-    <e lm="tzitadinàntzia"><i>tzitadin</i><par n="import/àntzia__n"/></e>
-    <e lm="tzitadinàntzia" r="LR"><p><l>citadin</l><r>tzitadin</r></p><par n="import/àntzia__n"/></e>
+    <e lm="tzitadinàntzia"><par n="tz/c"/><i>itadin</i><par n="import/àntzia__n"/></e>
     <e lm="garàntzia"><i>gar</i><par n="import/àntzia__n"/></e>
     <e lm="garàntzia" r="LR"><p><l>garantia</l><r>garàntzia</r></p><par n="mesa__n"/></e>
 
@@ -4434,8 +4438,9 @@
     <e lm="classificatzione"><i>classificatzion</i><par n="region/e__n"/></e>
     <e lm="atzione"><i>atzion</i><par n="region/e__n"/></e>
     <e lm="associatzione"><i>associatzion</i><par n="region/e__n"/></e>
+    <e lm="tzivilizatzione"><par n="tz/c"/><i>ivilizatzion</i><par n="region/e__n"/></e>
     <e lm="tzivilizatzione"><i>tzivilizatzion</i><par n="region/e__n"/></e>
-    <e lm="tzelebratzione"><i>tzelebratzion</i><par n="region/e__n"/></e>
+    <e lm="tzelebratzione"><par n="tz/c"/><i>elebratzion</i><par n="region/e__n"/></e>
     <e lm="celebratzione" r="LR"><p><l>celebratzion</l><r>tzelebratzion</r></p><par n="region/e__n"/></e>
     <e lm="stratificazione"><i>stratificazion</i><par n="region/e__n"/></e>
     <e lm="sezione"><i>sezion</i><par n="region/e__n"/></e>
@@ -4785,7 +4790,7 @@
     <e lm="capitalista"><i>capitalista</i><par n="dentista__n"/></e>
     <e lm="pacifista"><i>pacifista</i><par n="dentista__n"/></e>
     <e lm="camionista"><i>camionista</i><par n="dentista__n"/></e>
-    <e lm="tziclista"><i>tziclista</i><par n="dentista__n"/></e>
+    <e lm="tziclista"><par n="tz/c"/><i>iclista</i><par n="dentista__n"/></e>
     <e lm="anestesista"><i>anestesista</i><par n="dentista__n"/></e>
     <e lm="giornalista"><i>giornalista</i><par n="dentista__n"/></e>
     <e lm="giornalista" r="LR"><p><l>ziornalista</l><r>giornalista</r></p><par n="dentista__n"/></e>
@@ -5054,7 +5059,7 @@
     <e lm="interessu"><i>interess</i><par n="mac/u__n"/></e>
     <e lm="arrestu"><i>arrest</i><par n="mac/u__n"/></e>
     <e lm="acumpangiamentu"><i>acumpangiament</i><par n="mac/u__n"/></e>
-    <e lm="tzircuidu"><i>tzircuid</i><par n="mac/u__n"/></e>
+    <e lm="tzircuidu"><par n="tz/c"/><i>ircuid</i><par n="mac/u__n"/></e>
     <e lm="acumprimentu"><i>acumpriment</i><par n="mac/u__n"/></e>
     <!--<e lm="acuntessimentu"><i>acuntessiment</i><par n="mac/u__n"/></e>-->
     <e lm="argumentu"><i>argument</i><par n="mac/u__n"/></e>
@@ -5162,7 +5167,7 @@
     <e lm="deretu" r="LR"><p><l>dirit</l><r>deret</r></p><par n="mac/u__n"/></e>
     <e lm="deretu" r="LR"><p><l>diritt</l><r>deret</r></p><par n="mac/u__n"/></e>
     <e lm="respetu"><i>respet</i><par n="mac/u__n"/></e>
-    <e lm="tzentru"><i>tzentr</i><par n="mac/u__n"/></e>
+    <e lm="tzentru"><par n="tz/c"/><i>entr</i><par n="mac/u__n"/></e>
     <e lm="tzentru" r="LR"><p><l>zentr</l><r>tzentr</r></p><par n="mac/u__n"/></e>
     <e lm="resurtadu"><i>resurtad</i><par n="mac/u__n"/></e>
     <e lm="misconnoschimentu"><i>misconnoschiment</i><par n="mac/u__n"/></e>
@@ -5260,7 +5265,7 @@
     <e lm="patronu"><i>patron</i><par n="amig/u__n"/></e>
     <e lm="gatu"><i>gat</i><par n="amig/u__n"/></e>
     <e lm="ministru"><i>ministr</i><par n="amig/u__n"/></e>
-    <e lm="tzitadinu"><i>tzitadin</i><par n="amig/u__n"/></e>
+    <e lm="tzitadinu"><par n="tz/c"/><i>itadin</i><par n="amig/u__n"/></e>
     <e lm="istràngiu"><i>istràngi</i><par n="amig/u__n"/></e>
     <e lm="mastru"><i>mastr</i><par n="amig/u__n"/></e>
     <e lm="isposu"><i>ispos</i><par n="amig/u__n"/></e>
@@ -5444,7 +5449,7 @@
     <e lm="coghina"><i>coghina</i><par n="mesa__n"/></e>
     <e lm="costa"><i>costa</i><par n="mesa__n"/></e>
     <e lm="tintura"><i>tintura</i><par n="mesa__n"/></e>
-    <e lm="tzèlula"><i>tzèlula</i><par n="mesa__n"/></e>
+    <e lm="tzèlula"><par n="tz/c"/><i>èlula</i><par n="mesa__n"/></e>
     <e lm="tzèlula" r="LR"><p><l>tzèllula</l><r>tzèlula</r></p><par n="mesa__n"/></e>
     <e lm="tzèlula" r="LR"><p><l>tzellula</l><r>tzèlula</r></p><par n="mesa__n"/></e>
     <e lm="tzèlula" r="LR"><p><l>cellula</l><r>tzèlula</r></p><par n="mesa__n"/></e>
@@ -9900,7 +9905,7 @@
     <e lm="indianu"><i>indian</i><par n="frantzes/u__adj"/></e>
     <e lm="americanu"><i>american</i><par n="frantzes/u__adj"/></e>
     <e lm="sirianu"><i>sirian</i><par n="frantzes/u__adj"/></e>
-    <e lm="tzinesu"><i>tzines</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzinesu"><par n="tz/c"/><i>ines</i><par n="frantzes/u__adj"/></e>
     <e lm="tzinesu" r="LR"><p><l>xines</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
     <e lm="tzinesu" r="LR"><p><l>cines</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
     <e lm="tzinesu" r="LR"><p><l>tzinès</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
@@ -10071,7 +10076,7 @@
     <e lm="mecanicu"><i>mecani</i><par n="linguìsti/cu__adj"/></e>
     <e lm="mecanicu" r="LR"><p><l>meccani</l><r>mecani</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="numericu"><i>numeri</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="tzinematograficu"><i>tzinematografi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="tzinematograficu"><par n="tz/c"/><i>inematografi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="numerosu"><i>numeros</i><par n="frantzes/u__adj"/></e>
     <e lm="violentu"><i>violent</i><par n="frantzes/u__adj"/></e>
     <e lm="negativu"><i>negativ</i><par n="frantzes/u__adj"/></e>
@@ -10226,7 +10231,7 @@
     <e lm="generale" r="LR"><p><l>zeneral</l><r>general</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="otzidentale"><i>otzidental</i><par n="fàtzil/e__adj"/></e>
     <e lm="otzidentale" r="LR"><p><l>occidental</l><r>otzidental</r></p><par n="fàtzil/e__adj"/></e>
-    <e lm="tzentrale"><i>tzentral</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzentrale"><par n="tz/c"/><i>entral</i><par n="fàtzil/e__adj"/></e>
     <e lm="ispetziale"><i>ispetzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="bastante"><i>bastant</i><par n="fàtzil/e__adj"/></e>
     <e lm="atuale"><i>atual</i><par n="fàtzil/e__adj"/></e>
@@ -10244,7 +10249,7 @@
     <e lm="originale"><i>original</i><par n="fàtzil/e__adj"/></e>
     <e lm="naturale"><i>natural</i><par n="fàtzil/e__adj"/></e>
     <e lm="cardinale"><i>cardinal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="tzivile"><i>tzivil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzivile"><par n="tz/c"/><i>ivil</i><par n="fàtzil/e__adj"/></e>
     <e lm="tzivile" r="LR"><p><l>zivil</l><r>tzivil</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="universale"><i>universal</i><par n="fàtzil/e__adj"/></e>
     <e lm="crudele"><i>crudel</i><par n="fàtzil/e__adj"/></e>
@@ -10475,8 +10480,8 @@
     <e lm="transparente"><i>transparent</i><par n="fàtzil/e__adj"/></e>
     <e lm="trasversale"><i>trasversal</i><par n="fàtzil/e__adj"/></e>
     <e lm="tsensuràbile"><i>tsensuràbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="tzedìbile"><i>tzedìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="tzertificàbile"><i>tzertificàbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzedìbile"><par n="tz/c"/><i>edìbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzertificàbile"><par n="tz/c"/><i>ertificàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="ùmile"><i>ùmil</i><par n="fàtzil/e__adj"/></e>
     <e lm="verbale"><i>verbal</i><par n="fàtzil/e__adj"/></e>
     <e lm="vigente"><i>vigent</i><par n="fàtzil/e__adj"/></e>
@@ -11185,7 +11190,7 @@
     <e lm="criticare"><i>critic</i><par n="seg/are__vblex"/></e>
     <e lm="mudare"><i>mud</i><par n="cant/are__vblex"/></e>
     <e lm="classificare"><i>classific</i><par n="seg/are__vblex"/></e>
-    <e lm="tzerriare"><i>tzerri</i><par n="cant/are__vblex"/></e>
+    <e lm="tzerriare"><par n="tz/c"/><i>erri</i><par n="cant/are__vblex"/></e>
     <e lm="girare"><i>gir</i><par n="cant/are__vblex"/></e>
     <e lm="girare" r="LR"><p><l>zir</l><r>gir</r></p><par n="cant/are__vblex"/></e>
     <e lm="bortare"><i>bort</i><par n="cant/are__vblex"/></e>
@@ -18592,134 +18597,134 @@
     <e lm="tzaulòngiu"><i>tzaulòngi</i><par n="mac/u__n"/></e>
     <e lm="tzàulu"><i>tzàul</i><par n="mac/u__n"/></e>
     <e lm="tzàviu"><i>tzàvi</i><par n="mac/u__n"/></e>
-    <e lm="tzedimentu"><i>tzediment</i><par n="mac/u__n"/></e>
-    <e lm="tzeliamentu"><i>tzeliament</i><par n="mac/u__n"/></e>
-    <e lm="tzèmbalu"><i>tzèmbal</i><par n="mac/u__n"/></e>
-    <e lm="tzèmiu"><i>tzèmi</i><par n="mac/u__n"/></e>
-    <e lm="tzensimentu"><i>tzensiment</i><par n="mac/u__n"/></e>
-    <e lm="tzensu"><i>tzens</i><par n="mac/u__n"/></e>
-    <e lm="tzentàuru"><i>tzentàur</i><par n="mac/u__n"/></e>
-    <e lm="tzentèsimu"><i>tzentèsim</i><par n="mac/u__n"/></e>
-    <e lm="tzentìmetru"><i>tzentìmetr</i><par n="mac/u__n"/></e>
-    <e lm="tzentralinu"><i>tzentralin</i><par n="mac/u__n"/></e>
-    <e lm="tzentralismu"><i>tzentralism</i><par n="mac/u__n"/></e>
-    <e lm="tzeparatzu"><i>tzeparatz</i><par n="mac/u__n"/></e>
-    <e lm="tzeperàrgiu"><i>tzeperàrgi</i><par n="mac/u__n"/></e>
-    <e lm="tzeracatzu"><i>tzeracatz</i><par n="mac/u__n"/></e>
-    <e lm="tzerachiu"><i>tzerachi</i><par n="mac/u__n"/></e>
-    <e lm="tzèrberu"><i>tzèrber</i><par n="mac/u__n"/></e>
-    <e lm="tzerdatzu"><i>tzerdatz</i><par n="mac/u__n"/></e>
-    <e lm="tzestru"><i>tzestr</i><par n="mac/u__n"/></e>
-    <e lm="tzetu"><i>tzet</i><par n="mac/u__n"/></e>
-    <e lm="tzibbiamentu"><i>tzibbiament</i><par n="mac/u__n"/></e>
-    <e lm="tzibbotu"><i>tzibbot</i><par n="mac/u__n"/></e>
-    <e lm="tzicheddu"><i>tzichedd</i><par n="mac/u__n"/></e>
-    <e lm="tzichiarriamentu"><i>tzichiarriament</i><par n="mac/u__n"/></e>
-    <e lm="tzichignu"><i>tzichign</i><par n="mac/u__n"/></e>
-    <e lm="tzichirriolu"><i>tzichirriol</i><par n="mac/u__n"/></e>
-    <e lm="tzicrinu"><i>tzicrin</i><par n="mac/u__n"/></e>
-    <e lm="tziculidu"><i>tziculid</i><par n="mac/u__n"/></e>
-    <e lm="tziddu"><i>tzidd</i><par n="mac/u__n"/></e>
-    <e lm="tzieddu"><i>tziedd</i><par n="mac/u__n"/></e>
-    <e lm="tzìfrinu"><i>tzìfrin</i><par n="mac/u__n"/></e>
-    <e lm="tzignu"><i>tzign</i><par n="mac/u__n"/></e>
-    <e lm="tzilibricu"><i>tzilibric</i><par n="mac/u__n"/></e>
-    <e lm="tzilibriu"><i>tzilibri</i><par n="mac/u__n"/></e>
-    <e lm="tziligugu"><i>tziligug</i><par n="mac/u__n"/></e>
-    <e lm="tzilimbrinu"><i>tzilimbrin</i><par n="mac/u__n"/></e>
-    <e lm="tzilindramentu"><i>tzilindrament</i><par n="mac/u__n"/></e>
-    <e lm="tzilindru"><i>tzilindr</i><par n="mac/u__n"/></e>
-    <e lm="tzilingheddu"><i>tzilinghedd</i><par n="mac/u__n"/></e>
-    <e lm="tzilingru"><i>tzilingr</i><par n="mac/u__n"/></e>
-    <e lm="tzilingu"><i>tziling</i><par n="mac/u__n"/></e>
-    <e lm="tzilìtziu"><i>tzilìtzi</i><par n="mac/u__n"/></e>
-    <e lm="tzìliu"><i>tzìli</i><par n="mac/u__n"/></e>
-    <e lm="tzilleraju"><i>tzilleraj</i><par n="mac/u__n"/></e>
-    <e lm="tzilonaju"><i>tzilonaj</i><par n="mac/u__n"/></e>
-    <e lm="tzilonàrgiu"><i>tzilonàrgi</i><par n="mac/u__n"/></e>
-    <e lm="tzimbòriu"><i>tzimbòri</i><par n="mac/u__n"/></e>
-    <e lm="tzimentu"><i>tziment</i><par n="mac/u__n"/></e>
-    <e lm="tzimitòriu"><i>tzimitòri</i><par n="mac/u__n"/></e>
-    <e lm="tzìnchinu"><i>tzìnchin</i><par n="mac/u__n"/></e>
-    <e lm="tzinematògrafu"><i>tzinematògraf</i><par n="mac/u__n"/></e>
-    <e lm="tzinghilitu"><i>tzinghilit</i><par n="mac/u__n"/></e>
-    <e lm="tzinguladu"><i>tzingulad</i><par n="mac/u__n"/></e>
-    <e lm="tzìngulu"><i>tzìngul</i><par n="mac/u__n"/></e>
-    <e lm="tzinìberu"><i>tzinìber</i><par n="mac/u__n"/></e>
-    <e lm="tzinismu"><i>tzinism</i><par n="mac/u__n"/></e>
-    <e lm="tzinnigàrgiu"><i>tzinnigàrgi</i><par n="mac/u__n"/></e>
-    <e lm="tzintòrgiu"><i>tzintòrgi</i><par n="mac/u__n"/></e>
-    <e lm="tzintu"><i>tzint</i><par n="mac/u__n"/></e>
-    <e lm="tzintzariolu"><i>tzintzariol</i><par n="mac/u__n"/></e>
-    <e lm="tzìntzaru"><i>tzìntzar</i><par n="mac/u__n"/></e>
-    <e lm="tzintzicorru"><i>tzintzicorr</i><par n="mac/u__n"/></e>
-    <e lm="tzintzideddu"><i>tzintzidedd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzieddu"><i>tzintziedd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzimurreddu"><i>tzintzimurredd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzimurru"><i>tzintzimurr</i><par n="mac/u__n"/></e>
-    <e lm="tzintzireddu"><i>tzintziredd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzirigheddu"><i>tzintzirighedd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzirigu"><i>tzintzirig</i><par n="mac/u__n"/></e>
-    <e lm="tzintzirriolu"><i>tzintzirriol</i><par n="mac/u__n"/></e>
-    <e lm="tzintzirru"><i>tzintzirr</i><par n="mac/u__n"/></e>
-    <e lm="tzìntzulu"><i>tzìntzul</i><par n="mac/u__n"/></e>
-    <e lm="tzintzureddu"><i>tzintzuredd</i><par n="mac/u__n"/></e>
-    <e lm="tzintzurriolu"><i>tzintzurriol</i><par n="mac/u__n"/></e>
-    <e lm="tzioddu"><i>tziodd</i><par n="mac/u__n"/></e>
-    <e lm="tziorcu"><i>tziorc</i><par n="mac/u__n"/></e>
-    <e lm="tzipiràrgiu"><i>tzipiràrgi</i><par n="mac/u__n"/></e>
-    <e lm="tziporràrgiu"><i>tziporràrgi</i><par n="mac/u__n"/></e>
-    <e lm="tzipressu"><i>tzipress</i><par n="mac/u__n"/></e>
-    <e lm="tzipu"><i>tzip</i><par n="mac/u__n"/></e>
-    <e lm="tzircu"><i>tzirc</i><par n="mac/u__n"/></e>
-    <e lm="tzircùitu"><i>tzircùit</i><par n="mac/u__n"/></e>
-    <e lm="tzìrculu"><i>tzìrcul</i><par n="mac/u__n"/></e>
-    <e lm="tzircundàriu"><i>tzircundàri</i><par n="mac/u__n"/></e>
-    <e lm="tziribìculu"><i>tziribìcul</i><par n="mac/u__n"/></e>
-    <e lm="tziribìddulu"><i>tziribìddul</i><par n="mac/u__n"/></e>
-    <e lm="tziricu"><i>tziric</i><par n="mac/u__n"/></e>
-    <e lm="tziricùculu"><i>tziricùcul</i><par n="mac/u__n"/></e>
-    <e lm="tzirigheddu"><i>tzirighedd</i><par n="mac/u__n"/></e>
-    <e lm="tzìrigu"><i>tzìrig</i><par n="mac/u__n"/></e>
-    <e lm="tziriolu"><i>tziriol</i><par n="mac/u__n"/></e>
-    <e lm="tziriotu"><i>tziriot</i><par n="mac/u__n"/></e>
-    <e lm="tziroddu"><i>tzirodd</i><par n="mac/u__n"/></e>
-    <e lm="tzirolitu"><i>tzirolit</i><par n="mac/u__n"/></e>
-    <e lm="tzirriajolu"><i>tzirriajol</i><par n="mac/u__n"/></e>
-    <e lm="tzirriamentu"><i>tzirriament</i><par n="mac/u__n"/></e>
-    <e lm="tzirriolu"><i>tzirriol</i><par n="mac/u__n"/></e>
-    <e lm="tzìrriu"><i>tzìrri</i><par n="mac/u__n"/></e>
-    <e lm="tziruliu"><i>tziruli</i><par n="mac/u__n"/></e>
-    <e lm="tzirumàulu"><i>tzirumàul</i><par n="mac/u__n"/></e>
-    <e lm="tzistu"><i>tzist</i><par n="mac/u__n"/></e>
-    <e lm="tzistupu"><i>tzistup</i><par n="mac/u__n"/></e>
-    <e lm="tzitizeddu"><i>tzitizedd</i><par n="mac/u__n"/></e>
-    <e lm="tzitòfonu"><i>tzitòfon</i><par n="mac/u__n"/></e>
-    <e lm="tzitu"><i>tzit</i><par n="mac/u__n"/></e>
-    <e lm="tzitzereddu"><i>tzitzeredd</i><par n="mac/u__n"/></e>
-    <e lm="tzitzicorraju"><i>tzitzicorraj</i><par n="mac/u__n"/></e>
-    <e lm="tzitzicorru"><i>tzitzicorr</i><par n="mac/u__n"/></e>
-    <e lm="tzitzieddu"><i>tzitziedd</i><par n="mac/u__n"/></e>
-    <e lm="tzitzigorru"><i>tzitzigorr</i><par n="mac/u__n"/></e>
-    <e lm="tzitzigru"><i>tzitzigr</i><par n="mac/u__n"/></e>
-    <e lm="tzitzilibentu"><i>tzitzilibent</i><par n="mac/u__n"/></e>
-    <e lm="tzitzìligu"><i>tzitzìlig</i><par n="mac/u__n"/></e>
-    <e lm="tzitzìlliu"><i>tzitzìlli</i><par n="mac/u__n"/></e>
-    <e lm="tzitzimurreddu"><i>tzitzimurredd</i><par n="mac/u__n"/></e>
-    <e lm="tzitziolu"><i>tzitziol</i><par n="mac/u__n"/></e>
-    <e lm="tzitzirilloddu"><i>tzitzirillodd</i><par n="mac/u__n"/></e>
-    <e lm="tzitzirriolu"><i>tzitzirriol</i><par n="mac/u__n"/></e>
-    <e lm="tzitzisbeu"><i>tzitzisbe</i><par n="mac/u__n"/></e>
-    <e lm="tzitzitzuliu"><i>tzitzitzuli</i><par n="mac/u__n"/></e>
-    <e lm="tzitziubeddu"><i>tzitziubedd</i><par n="mac/u__n"/></e>
-    <e lm="tzitziucojuadu"><i>tzitziucojuad</i><par n="mac/u__n"/></e>
-    <e lm="tzitzoladu"><i>tzitzolad</i><par n="mac/u__n"/></e>
-    <e lm="tzitzolu"><i>tzitzol</i><par n="mac/u__n"/></e>
-    <e lm="tzitzu"><i>tzitz</i><par n="mac/u__n"/></e>
-    <e lm="tzitzubeddu"><i>tzitzubedd</i><par n="mac/u__n"/></e>
-    <e lm="tzìulu"><i>tzìul</i><par n="mac/u__n"/></e>
-    <e lm="tzivimentu"><i>tziviment</i><par n="mac/u__n"/></e>
-    <e lm="tzivismu"><i>tzivism</i><par n="mac/u__n"/></e>
+    <e lm="tzedimentu"><par n="tz/c"/><i>ediment</i><par n="mac/u__n"/></e>
+    <e lm="tzeliamentu"><par n="tz/c"/><i>eliament</i><par n="mac/u__n"/></e>
+    <e lm="tzèmbalu"><par n="tz/c"/><i>èmbal</i><par n="mac/u__n"/></e>
+    <e lm="tzèmiu"><par n="tz/c"/><i>èmi</i><par n="mac/u__n"/></e>
+    <e lm="tzensimentu"><par n="tz/c"/><i>ensiment</i><par n="mac/u__n"/></e>
+    <e lm="tzensu"><par n="tz/c"/><i>ens</i><par n="mac/u__n"/></e>
+    <e lm="tzentàuru"><par n="tz/c"/><i>entàur</i><par n="mac/u__n"/></e>
+    <e lm="tzentèsimu"><par n="tz/c"/><i>entèsim</i><par n="mac/u__n"/></e>
+    <e lm="tzentìmetru"><par n="tz/c"/><i>entìmetr</i><par n="mac/u__n"/></e>
+    <e lm="tzentralinu"><par n="tz/c"/><i>entralin</i><par n="mac/u__n"/></e>
+    <e lm="tzentralismu"><par n="tz/c"/><i>entralism</i><par n="mac/u__n"/></e>
+    <e lm="tzeparatzu"><par n="tz/c"/><i>eparatz</i><par n="mac/u__n"/></e>
+    <e lm="tzeperàrgiu"><par n="tz/c"/><i>eperàrgi</i><par n="mac/u__n"/></e>
+    <e lm="tzeracatzu"><par n="tz/c"/><i>eracatz</i><par n="mac/u__n"/></e>
+    <e lm="tzerachiu"><par n="tz/c"/><i>erachi</i><par n="mac/u__n"/></e>
+    <e lm="tzèrberu"><par n="tz/c"/><i>èrber</i><par n="mac/u__n"/></e>
+    <e lm="tzerdatzu"><par n="tz/c"/><i>erdatz</i><par n="mac/u__n"/></e>
+    <e lm="tzestru"><par n="tz/c"/><i>estr</i><par n="mac/u__n"/></e>
+    <e lm="tzetu"><par n="tz/c"/><i>et</i><par n="mac/u__n"/></e>
+    <e lm="tzibbiamentu"><par n="tz/c"/><i>ibbiament</i><par n="mac/u__n"/></e>
+    <e lm="tzibbotu"><par n="tz/c"/><i>ibbot</i><par n="mac/u__n"/></e>
+    <e lm="tzicheddu"><par n="tz/c"/><i>ichedd</i><par n="mac/u__n"/></e>
+    <e lm="tzichiarriamentu"><par n="tz/c"/><i>ichiarriament</i><par n="mac/u__n"/></e>
+    <e lm="tzichignu"><par n="tz/c"/><i>ichign</i><par n="mac/u__n"/></e>
+    <e lm="tzichirriolu"><par n="tz/c"/><i>ichirriol</i><par n="mac/u__n"/></e>
+    <e lm="tzicrinu"><par n="tz/c"/><i>icrin</i><par n="mac/u__n"/></e>
+    <e lm="tziculidu"><par n="tz/c"/><i>iculid</i><par n="mac/u__n"/></e>
+    <e lm="tziddu"><par n="tz/c"/><i>idd</i><par n="mac/u__n"/></e>
+    <e lm="tzieddu"><par n="tz/c"/><i>iedd</i><par n="mac/u__n"/></e>
+    <e lm="tzìfrinu"><par n="tz/c"/><i>ìfrin</i><par n="mac/u__n"/></e>
+    <e lm="tzignu"><par n="tz/c"/><i>ign</i><par n="mac/u__n"/></e>
+    <e lm="tzilibricu"><par n="tz/c"/><i>ilibric</i><par n="mac/u__n"/></e>
+    <e lm="tzilibriu"><par n="tz/c"/><i>ilibri</i><par n="mac/u__n"/></e>
+    <e lm="tziligugu"><par n="tz/c"/><i>iligug</i><par n="mac/u__n"/></e>
+    <e lm="tzilimbrinu"><par n="tz/c"/><i>ilimbrin</i><par n="mac/u__n"/></e>
+    <e lm="tzilindramentu"><par n="tz/c"/><i>ilindrament</i><par n="mac/u__n"/></e>
+    <e lm="tzilindru"><par n="tz/c"/><i>ilindr</i><par n="mac/u__n"/></e>
+    <e lm="tzilingheddu"><par n="tz/c"/><i>ilinghedd</i><par n="mac/u__n"/></e>
+    <e lm="tzilingru"><par n="tz/c"/><i>ilingr</i><par n="mac/u__n"/></e>
+    <e lm="tzilingu"><par n="tz/c"/><i>iling</i><par n="mac/u__n"/></e>
+    <e lm="tzilìtziu"><par n="tz/c"/><i>ilìtzi</i><par n="mac/u__n"/></e>
+    <e lm="tzìliu"><par n="tz/c"/><i>ìli</i><par n="mac/u__n"/></e>
+    <e lm="tzilleraju"><par n="tz/c"/><i>illeraj</i><par n="mac/u__n"/></e>
+    <e lm="tzilonaju"><par n="tz/c"/><i>ilonaj</i><par n="mac/u__n"/></e>
+    <e lm="tzilonàrgiu"><par n="tz/c"/><i>ilonàrgi</i><par n="mac/u__n"/></e>
+    <e lm="tzimbòriu"><par n="tz/c"/><i>imbòri</i><par n="mac/u__n"/></e>
+    <e lm="tzimentu"><par n="tz/c"/><i>iment</i><par n="mac/u__n"/></e>
+    <e lm="tzimitòriu"><par n="tz/c"/><i>imitòri</i><par n="mac/u__n"/></e>
+    <e lm="tzìnchinu"><par n="tz/c"/><i>ìnchin</i><par n="mac/u__n"/></e>
+    <e lm="tzinematògrafu"><par n="tz/c"/><i>inematògraf</i><par n="mac/u__n"/></e>
+    <e lm="tzinghilitu"><par n="tz/c"/><i>inghilit</i><par n="mac/u__n"/></e>
+    <e lm="tzinguladu"><par n="tz/c"/><i>ingulad</i><par n="mac/u__n"/></e>
+    <e lm="tzìngulu"><par n="tz/c"/><i>ìngul</i><par n="mac/u__n"/></e>
+    <e lm="tzinìberu"><par n="tz/c"/><i>inìber</i><par n="mac/u__n"/></e>
+    <e lm="tzinismu"><par n="tz/c"/><i>inism</i><par n="mac/u__n"/></e>
+    <e lm="tzinnigàrgiu"><par n="tz/c"/><i>innigàrgi</i><par n="mac/u__n"/></e>
+    <e lm="tzintòrgiu"><par n="tz/c"/><i>intòrgi</i><par n="mac/u__n"/></e>
+    <e lm="tzintu"><par n="tz/c"/><i>int</i><par n="mac/u__n"/></e>
+    <e lm="tzintzariolu"><par n="tz/c"/><i>intzariol</i><par n="mac/u__n"/></e>
+    <e lm="tzìntzaru"><par n="tz/c"/><i>ìntzar</i><par n="mac/u__n"/></e>
+    <e lm="tzintzicorru"><par n="tz/c"/><i>intzicorr</i><par n="mac/u__n"/></e>
+    <e lm="tzintzideddu"><par n="tz/c"/><i>intzidedd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzieddu"><par n="tz/c"/><i>intziedd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzimurreddu"><par n="tz/c"/><i>intzimurredd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzimurru"><par n="tz/c"/><i>intzimurr</i><par n="mac/u__n"/></e>
+    <e lm="tzintzireddu"><par n="tz/c"/><i>intziredd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzirigheddu"><par n="tz/c"/><i>intzirighedd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzirigu"><par n="tz/c"/><i>intzirig</i><par n="mac/u__n"/></e>
+    <e lm="tzintzirriolu"><par n="tz/c"/><i>intzirriol</i><par n="mac/u__n"/></e>
+    <e lm="tzintzirru"><par n="tz/c"/><i>intzirr</i><par n="mac/u__n"/></e>
+    <e lm="tzìntzulu"><par n="tz/c"/><i>ìntzul</i><par n="mac/u__n"/></e>
+    <e lm="tzintzureddu"><par n="tz/c"/><i>intzuredd</i><par n="mac/u__n"/></e>
+    <e lm="tzintzurriolu"><par n="tz/c"/><i>intzurriol</i><par n="mac/u__n"/></e>
+    <e lm="tzioddu"><par n="tz/c"/><i>iodd</i><par n="mac/u__n"/></e>
+    <e lm="tziorcu"><par n="tz/c"/><i>iorc</i><par n="mac/u__n"/></e>
+    <e lm="tzipiràrgiu"><par n="tz/c"/><i>ipiràrgi</i><par n="mac/u__n"/></e>
+    <e lm="tziporràrgiu"><par n="tz/c"/><i>iporràrgi</i><par n="mac/u__n"/></e>
+    <e lm="tzipressu"><par n="tz/c"/><i>ipress</i><par n="mac/u__n"/></e>
+    <e lm="tzipu"><par n="tz/c"/><i>ip</i><par n="mac/u__n"/></e>
+    <e lm="tzircu"><par n="tz/c"/><i>irc</i><par n="mac/u__n"/></e>
+    <e lm="tzircùitu"><par n="tz/c"/><i>ircùit</i><par n="mac/u__n"/></e>
+    <e lm="tzìrculu"><par n="tz/c"/><i>ìrcul</i><par n="mac/u__n"/></e>
+    <e lm="tzircundàriu"><par n="tz/c"/><i>ircundàri</i><par n="mac/u__n"/></e>
+    <e lm="tziribìculu"><par n="tz/c"/><i>iribìcul</i><par n="mac/u__n"/></e>
+    <e lm="tziribìddulu"><par n="tz/c"/><i>iribìddul</i><par n="mac/u__n"/></e>
+    <e lm="tziricu"><par n="tz/c"/><i>iric</i><par n="mac/u__n"/></e>
+    <e lm="tziricùculu"><par n="tz/c"/><i>iricùcul</i><par n="mac/u__n"/></e>
+    <e lm="tzirigheddu"><par n="tz/c"/><i>irighedd</i><par n="mac/u__n"/></e>
+    <e lm="tzìrigu"><par n="tz/c"/><i>ìrig</i><par n="mac/u__n"/></e>
+    <e lm="tziriolu"><par n="tz/c"/><i>iriol</i><par n="mac/u__n"/></e>
+    <e lm="tziriotu"><par n="tz/c"/><i>iriot</i><par n="mac/u__n"/></e>
+    <e lm="tziroddu"><par n="tz/c"/><i>irodd</i><par n="mac/u__n"/></e>
+    <e lm="tzirolitu"><par n="tz/c"/><i>irolit</i><par n="mac/u__n"/></e>
+    <e lm="tzirriajolu"><par n="tz/c"/><i>irriajol</i><par n="mac/u__n"/></e>
+    <e lm="tzirriamentu"><par n="tz/c"/><i>irriament</i><par n="mac/u__n"/></e>
+    <e lm="tzirriolu"><par n="tz/c"/><i>irriol</i><par n="mac/u__n"/></e>
+    <e lm="tzìrriu"><par n="tz/c"/><i>ìrri</i><par n="mac/u__n"/></e>
+    <e lm="tziruliu"><par n="tz/c"/><i>iruli</i><par n="mac/u__n"/></e>
+    <e lm="tzirumàulu"><par n="tz/c"/><i>irumàul</i><par n="mac/u__n"/></e>
+    <e lm="tzistu"><par n="tz/c"/><i>ist</i><par n="mac/u__n"/></e>
+    <e lm="tzistupu"><par n="tz/c"/><i>istup</i><par n="mac/u__n"/></e>
+    <e lm="tzitizeddu"><par n="tz/c"/><i>itizedd</i><par n="mac/u__n"/></e>
+    <e lm="tzitòfonu"><par n="tz/c"/><i>itòfon</i><par n="mac/u__n"/></e>
+    <e lm="tzitu"><par n="tz/c"/><i>it</i><par n="mac/u__n"/></e>
+    <e lm="tzitzereddu"><par n="tz/c"/><i>itzeredd</i><par n="mac/u__n"/></e>
+    <e lm="tzitzicorraju"><par n="tz/c"/><i>itzicorraj</i><par n="mac/u__n"/></e>
+    <e lm="tzitzicorru"><par n="tz/c"/><i>itzicorr</i><par n="mac/u__n"/></e>
+    <e lm="tzitzieddu"><par n="tz/c"/><i>itziedd</i><par n="mac/u__n"/></e>
+    <e lm="tzitzigorru"><par n="tz/c"/><i>itzigorr</i><par n="mac/u__n"/></e>
+    <e lm="tzitzigru"><par n="tz/c"/><i>itzigr</i><par n="mac/u__n"/></e>
+    <e lm="tzitzilibentu"><par n="tz/c"/><i>itzilibent</i><par n="mac/u__n"/></e>
+    <e lm="tzitzìligu"><par n="tz/c"/><i>itzìlig</i><par n="mac/u__n"/></e>
+    <e lm="tzitzìlliu"><par n="tz/c"/><i>itzìlli</i><par n="mac/u__n"/></e>
+    <e lm="tzitzimurreddu"><par n="tz/c"/><i>itzimurredd</i><par n="mac/u__n"/></e>
+    <e lm="tzitziolu"><par n="tz/c"/><i>itziol</i><par n="mac/u__n"/></e>
+    <e lm="tzitzirilloddu"><par n="tz/c"/><i>itzirillodd</i><par n="mac/u__n"/></e>
+    <e lm="tzitzirriolu"><par n="tz/c"/><i>itzirriol</i><par n="mac/u__n"/></e>
+    <e lm="tzitzisbeu"><par n="tz/c"/><i>itzisbe</i><par n="mac/u__n"/></e>
+    <e lm="tzitzitzuliu"><par n="tz/c"/><i>itzitzuli</i><par n="mac/u__n"/></e>
+    <e lm="tzitziubeddu"><par n="tz/c"/><i>itziubedd</i><par n="mac/u__n"/></e>
+    <e lm="tzitziucojuadu"><par n="tz/c"/><i>itziucojuad</i><par n="mac/u__n"/></e>
+    <e lm="tzitzoladu"><par n="tz/c"/><i>itzolad</i><par n="mac/u__n"/></e>
+    <e lm="tzitzolu"><par n="tz/c"/><i>itzol</i><par n="mac/u__n"/></e>
+    <e lm="tzitzu"><par n="tz/c"/><i>itz</i><par n="mac/u__n"/></e>
+    <e lm="tzitzubeddu"><par n="tz/c"/><i>itzubedd</i><par n="mac/u__n"/></e>
+    <e lm="tzìulu"><par n="tz/c"/><i>ìul</i><par n="mac/u__n"/></e>
+    <e lm="tzivimentu"><par n="tz/c"/><i>iviment</i><par n="mac/u__n"/></e>
+    <e lm="tzivismu"><par n="tz/c"/><i>ivism</i><par n="mac/u__n"/></e>
     <e lm="tzocamentu"><i>tzocament</i><par n="mac/u__n"/></e>
     <e lm="tzocheddu"><i>tzochedd</i><par n="mac/u__n"/></e>
     <e lm="tzòchidu"><i>tzòchid</i><par n="mac/u__n"/></e>
@@ -22009,37 +22014,37 @@
     <e lm="tzascotare"><i>tzascot</i><par n="cant/are__vblex"/></e>
     <e lm="tzatzareddare"><i>tzatzaredd</i><par n="cant/are__vblex"/></e>
     <e lm="tzatzarreddare"><i>tzatzarredd</i><par n="cant/are__vblex"/></e>
-    <e lm="tzeguare"><i>tzegu</i><par n="cant/are__vblex"/></e>
-    <e lm="tzelare"><i>tzel</i><par n="cant/are__vblex"/></e>
-    <e lm="tzensurare"><i>tzensur</i><par n="cant/are__vblex"/></e>
-    <e lm="tzerbonare"><i>tzerbon</i><par n="cant/are__vblex"/></e>
-    <e lm="tzessare"><i>tzess</i><par n="cant/are__vblex"/></e>
-    <e lm="tzibare"><i>tzib</i><par n="cant/are__vblex"/></e>
-    <e lm="tzicatrizare"><i>tzicatriz</i><par n="cant/are__vblex"/></e>
-    <e lm="tzichetare"><i>tzichet</i><par n="cant/are__vblex"/></e>
-    <e lm="tzifrare"><i>tzifr</i><par n="cant/are__vblex"/></e>
-    <e lm="tzilighertare"><i>tzilighert</i><par n="cant/are__vblex"/></e>
-    <e lm="tzilindronare"><i>tzilindron</i><par n="cant/are__vblex"/></e>
-    <e lm="tzillerare"><i>tziller</i><par n="cant/are__vblex"/></e>
-    <e lm="tzincavesare"><i>tzincaves</i><par n="cant/are__vblex"/></e>
-    <e lm="tzinghirinare"><i>tzinghirin</i><par n="cant/are__vblex"/></e>
-    <e lm="tzinghitare"><i>tzinghit</i><par n="cant/are__vblex"/></e>
-    <e lm="tzinnare"><i>tzinn</i><par n="cant/are__vblex"/></e>
-    <e lm="tzintzigorrare"><i>tzintzigorr</i><par n="cant/are__vblex"/></e>
-    <e lm="tzintzirrolare"><i>tzintzirrol</i><par n="cant/are__vblex"/></e>
-    <e lm="tzintzuare"><i>tzintzu</i><par n="cant/are__vblex"/></e>
-    <e lm="tzipiroddare"><i>tzipirodd</i><par n="cant/are__vblex"/></e>
-    <e lm="tzirare"><i>tzir</i><par n="cant/are__vblex"/></e>
-    <e lm="tzirolitare"><i>tzirolit</i><par n="cant/are__vblex"/></e>
-    <e lm="tzirulitare"><i>tzirulit</i><par n="cant/are__vblex"/></e>
-    <e lm="tzispare"><i>tzisp</i><par n="cant/are__vblex"/></e>
-    <e lm="tzistare"><i>tzist</i><par n="cant/are__vblex"/></e>
-    <e lm="tzitare"><i>tzit</i><par n="cant/are__vblex"/></e>
-    <e lm="tzitzieddare"><i>tzitziedd</i><par n="cant/are__vblex"/></e>
-    <e lm="tzitzillonare"><i>tzitzillon</i><par n="cant/are__vblex"/></e>
-    <e lm="tzitzisbeare"><i>tzitzisbe</i><par n="cant/are__vblex"/></e>
-    <e lm="tzivilizare"><i>tziviliz</i><par n="cant/are__vblex"/></e>
-    <e lm="tzivineddare"><i>tzivinedd</i><par n="cant/are__vblex"/></e>
+    <e lm="tzeguare"><par n="tz/c"/><i>egu</i><par n="cant/are__vblex"/></e>
+    <e lm="tzelare"><par n="tz/c"/><i>el</i><par n="cant/are__vblex"/></e>
+    <e lm="tzensurare"><par n="tz/c"/><i>ensur</i><par n="cant/are__vblex"/></e>
+    <e lm="tzerbonare"><par n="tz/c"/><i>erbon</i><par n="cant/are__vblex"/></e>
+    <e lm="tzessare"><par n="tz/c"/><i>ess</i><par n="cant/are__vblex"/></e>
+    <e lm="tzibare"><par n="tz/c"/><i>ib</i><par n="cant/are__vblex"/></e>
+    <e lm="tzicatrizare"><par n="tz/c"/><i>icatriz</i><par n="cant/are__vblex"/></e>
+    <e lm="tzichetare"><par n="tz/c"/><i>ichet</i><par n="cant/are__vblex"/></e>
+    <e lm="tzifrare"><par n="tz/c"/><i>ifr</i><par n="cant/are__vblex"/></e>
+    <e lm="tzilighertare"><par n="tz/c"/><i>ilighert</i><par n="cant/are__vblex"/></e>
+    <e lm="tzilindronare"><par n="tz/c"/><i>ilindron</i><par n="cant/are__vblex"/></e>
+    <e lm="tzillerare"><par n="tz/c"/><i>iller</i><par n="cant/are__vblex"/></e>
+    <e lm="tzincavesare"><par n="tz/c"/><i>incaves</i><par n="cant/are__vblex"/></e>
+    <e lm="tzinghirinare"><par n="tz/c"/><i>inghirin</i><par n="cant/are__vblex"/></e>
+    <e lm="tzinghitare"><par n="tz/c"/><i>inghit</i><par n="cant/are__vblex"/></e>
+    <e lm="tzinnare"><par n="tz/c"/><i>inn</i><par n="cant/are__vblex"/></e>
+    <e lm="tzintzigorrare"><par n="tz/c"/><i>intzigorr</i><par n="cant/are__vblex"/></e>
+    <e lm="tzintzirrolare"><par n="tz/c"/><i>intzirrol</i><par n="cant/are__vblex"/></e>
+    <e lm="tzintzuare"><par n="tz/c"/><i>intzu</i><par n="cant/are__vblex"/></e>
+    <e lm="tzipiroddare"><par n="tz/c"/><i>ipirodd</i><par n="cant/are__vblex"/></e>
+    <e lm="tzirare"><par n="tz/c"/><i>ir</i><par n="cant/are__vblex"/></e>
+    <e lm="tzirolitare"><par n="tz/c"/><i>irolit</i><par n="cant/are__vblex"/></e>
+    <e lm="tzirulitare"><par n="tz/c"/><i>irulit</i><par n="cant/are__vblex"/></e>
+    <e lm="tzispare"><par n="tz/c"/><i>isp</i><par n="cant/are__vblex"/></e>
+    <e lm="tzistare"><par n="tz/c"/><i>ist</i><par n="cant/are__vblex"/></e>
+    <e lm="tzitare"><par n="tz/c"/><i>it</i><par n="cant/are__vblex"/></e>
+    <e lm="tzitzieddare"><par n="tz/c"/><i>itziedd</i><par n="cant/are__vblex"/></e>
+    <e lm="tzitzillonare"><par n="tz/c"/><i>itzillon</i><par n="cant/are__vblex"/></e>
+    <e lm="tzitzisbeare"><par n="tz/c"/><i>itzisbe</i><par n="cant/are__vblex"/></e>
+    <e lm="tzivilizare"><par n="tz/c"/><i>iviliz</i><par n="cant/are__vblex"/></e>
+    <e lm="tzivineddare"><par n="tz/c"/><i>ivinedd</i><par n="cant/are__vblex"/></e>
     <e lm="tzoare"><i>tzo</i><par n="cant/are__vblex"/></e>
     <e lm="tzocheddare"><i>tzochedd</i><par n="cant/are__vblex"/></e>
     <e lm="tzoddare"><i>tzodd</i><par n="cant/are__vblex"/></e>
@@ -22534,14 +22539,13 @@
     <e lm="tzancare"><i>tzanc</i><par n="seg/are__vblex"/></e>
     <e lm="tzannigare"><i>tzannig</i><par n="seg/are__vblex"/></e>
     <e lm="tzarracare"><i>tzarrac</i><par n="seg/are__vblex"/></e>
-    <e lm="tzeracare"><i>tzerac</i><par n="seg/are__vblex"/></e>
-    <e lm="tzertificare"><i>tzertific</i><par n="seg/are__vblex"/></e>
-    <e lm="tzertificare" r="LR"><p><l>certific</l><r>tzertific</r></p><par n="seg/are__vblex"/></e>
-    <e lm="tzicare"><i>tzic</i><par n="seg/are__vblex"/></e>
-    <e lm="tzilibecare"><i>tzilibec</i><par n="seg/are__vblex"/></e>
-    <e lm="tzilibircare"><i>tzilibirc</i><par n="seg/are__vblex"/></e>
-    <e lm="tzintzirigare"><i>tzintzirig</i><par n="seg/are__vblex"/></e>
-    <e lm="tziribecare"><i>tziribec</i><par n="seg/are__vblex"/></e>
+    <e lm="tzeracare"><par n="tz/c"/><i>erac</i><par n="seg/are__vblex"/></e>
+    <e lm="tzertificare"><par n="tz/c"/><i>ertific</i><par n="seg/are__vblex"/></e>
+    <e lm="tzicare"><par n="tz/c"/><i>ic</i><par n="seg/are__vblex"/></e>
+    <e lm="tzilibecare"><par n="tz/c"/><i>ilibec</i><par n="seg/are__vblex"/></e>
+    <e lm="tzilibircare"><par n="tz/c"/><i>ilibirc</i><par n="seg/are__vblex"/></e>
+    <e lm="tzintzirigare"><par n="tz/c"/><i>intzirig</i><par n="seg/are__vblex"/></e>
+    <e lm="tziribecare"><par n="tz/c"/><i>iribec</i><par n="seg/are__vblex"/></e>
     <e lm="tzocare"><i>tzoc</i><par n="seg/are__vblex"/></e>
     <e lm="tzoncare"><i>tzonc</i><par n="seg/are__vblex"/></e>
     <e lm="tzucare"><i>tzuc</i><par n="seg/are__vblex"/></e>
