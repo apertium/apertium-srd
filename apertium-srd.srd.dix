@@ -298,6 +298,11 @@
       <e>       <p><l>as</l><r>u<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="vostè__prn">
+      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>s</l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="nois__prn">
       <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
@@ -354,6 +359,10 @@
     <pardef n="si__prn" c="p.20 / 105">
       <e r="LR"><p><l>si</l><r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l><a/>si</l><r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="sese__prn" c="p.28">
+      <e><p><l></l><r><s n="prn"/><s n="tn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="nde__prn">
@@ -3295,21 +3304,25 @@
     <e lm="deo"><i>deo</i><par n="deo__prn"/></e>
     <e lm="deo" r="LR"><p><l>eo</l><r>deo</r></p><par n="deo__prn"/></e> <!-- @!LSC -->
     <e lm="mene"><i>mene</i><par n="deo__prn"/></e>
+    <e lm="mene" r="LR"><p><l>me</l><r>mene</r></p><par n="deo__prn"/></e>
     <e lm="mie"><i>mie</i><par n="deo__prn"/></e>
     <e lm="megus"><i>megus</i><par n="deo__prn"/></e>
 
     <e lm="tue"><i>tue</i><par n="tue__prn"/></e>
     <e lm="tene"><i>tene</i><par n="tue__prn"/></e>
+    <e lm="tene" r="LR"><p><l>te</l><r>tene</r></p><par n="tue__prn"/></e>
     <e lm="tie"><i>tie</i><par n="tue__prn"/></e>
     <e lm="tegus"><i>tegus</i><par n="tue__prn"/></e>
 
     <e lm="issu"><i>iss</i><par n="iss/u__prn"/></e>
+    <e lm="vostè"><i>vostè</i><par n="vostè__prn"/></e>
     <e lm="nois"><i>nois</i><par n="nois__prn"/></e>
     <e lm="bois"><i>bois</i><par n="bois__prn"/></e>
 
     <e lm="mi"><i>mi</i><par n="mi__prn"/></e>
     <e lm="ti"><i></i><par n="ti__prn"/></e>
     <e lm="si"><i></i><par n="si__prn"/></e>
+    <e lm="sese"><i></i><par n="sese__prn"/></e>
 
     <e lm="bi"><i>bi</i><par n="bi__prn"/></e>
 
