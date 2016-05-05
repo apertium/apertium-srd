@@ -583,8 +583,10 @@
     <pardef n="poet/a__n">
       <e>       <p><l>a</l><r>a<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>as</l><r>a<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>essa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>issa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>essa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC (CROS) -->
     </pardef>
 
     <pardef n="cont/e__n">
@@ -618,6 +620,10 @@
       <e>       <p><l>èntzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>entzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>entzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ènzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ènzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>enzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>enzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
     </pardef>
  
     <pardef n="import/àntzia__n">
@@ -625,6 +631,10 @@
       <e>       <p><l>àntzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>antzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>antzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ànzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ànzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>anzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>anzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
     </pardef>
  
     <pardef n="region/e__n">
