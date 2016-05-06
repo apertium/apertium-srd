@@ -3354,6 +3354,7 @@
 
     <e lm="unu àteru"><i>un</i><par n="un/u_àteru__prn"/></e>
     <e lm="cadaunu"><i>cadaun</i><par n="àter/u__prn"/></e>
+    <e lm="ognunu"><i>ognun</i><par n="àter/u__prn"/></e>
     <e lm="cussu"><i>cuss</i><par n="àter/u__prn"/></e>
     <e lm="cussu"><i>cussu</i><par n="cussu__prn"/></e>
     <e lm="totu"><i>tot</i><par n="àter/u__prn"/></e>
@@ -3422,6 +3423,7 @@
     <e lm="carchi"><i>carchi</i><par n="carchi__det"/></e>
     <e lm="carchi" r="LR"><p><l>calchi</l><r>carchi</r></p><par n="carchi__det"/></e>
     <e lm="carchi" r="LR"><p><l>charchi</l><r>carchi</r></p><par n="carchi__det"/></e>
+    <e lm="carchi" r="LR"><p><l>archi</l><r>carchi</r></p><par n="carchi__det"/></e>
     <e lm="tale"><i>tale</i><par n="tale__det"/></e>
 
     <e lm="unu àteru"><i>un</i><par n="un/u_àteru__det"/></e>
@@ -4720,6 +4722,7 @@
     <e lm="polìtica"><i>polìti</i><par n="linguìsti/ca__n"/></e>
     <e lm="polìtica" r="LR"><p><l>politi</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="polìtica" r="LR"><p><l>pòliti</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
+    <e lm="polìticu"><i>polìti</i><par n="amig/u__n"/></e>
     <e lm="bibbia"><i>bibbia</i><par n="mesa__n"/></e>
     <e lm="tirannia"><i>tirannia</i><par n="mesa__n"/></e>
     <e lm="mariposa"><i>mariposa</i><par n="mesa__n"/></e>
@@ -9830,7 +9833,6 @@
     <e lm="unìvocu"><i>unìvo</i><par n="linguìsti/cu__adj"/></e>
     <e lm="friscu"><i>fris</i><par n="linguìsti/cu__adj"/></e>
     <e lm="pedantescu"><i>pedantes</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
     <e lm="realìsticu"><i>realìsti</i><par n="linguìsti/cu__adj"/></e>
 
 
@@ -9872,34 +9874,27 @@
 
     <e lm="metropolitanu"><i>metropolitan</i><par n="frantzes/u__adj"/></e>
     <e lm="repubricanu"><i>repubrican</i><par n="frantzes/u__adj"/></e>
-    <e lm="anglicanu"><i>anglican</i><par n="frantzes/u__adj"/></e>
     <e lm="mudu"><i>mud</i><par n="frantzes/u__adj"/></e>
     <e lm="urbanu"><i>urban</i><par n="frantzes/u__adj"/></e>
     <e lm="telefònicu"><i>telefòni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="telefònicu" r="LR"><p><l>telefoni</l><r>telefòni</r></p><par n="linguìsti/cu__adj"/></e>
-    <e lm="polacu"><i>pola</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="polacu" r="LR"><p><l>polacc</l><r>polac</r></p><par n="frantzes/u__adj"/></e>
     <e lm="biancu"><i>bianc</i><par n="frantzes/u__adj"/></e>
     <e lm="nieddu"><i>niedd</i><par n="frantzes/u__adj"/></e>
     <e lm="nieddu" r="LR"><p><l>ner</l><r>niedd</r></p><par n="frantzes/u__adj"/></e>
     <e lm="istraordinariu"><i>istraordinari</i><par n="frantzes/u__adj"/></e>
-    <e lm="aragonesu"><i>aragones</i><par n="frantzes/u__adj"/></e>
-    <e lm="basciu"><i>basci</i><par n="frantzes/u__adj"/></e>
     <e lm="atòmicu"><i>atòmi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="còmicu"><i>còmi</i><par n="linguìsti/cu__adj"/></e>
+
+    <e lm="anglicanu"><i>anglican</i><par n="frantzes/u__adj"/></e>
+    <e lm="polacu"><i>pola</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="polacu" r="LR"><p><l>polacc</l><r>polac</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="aragonesu"><i>aragones</i><par n="frantzes/u__adj"/></e>
+    <e lm="basciu"><i>basci</i><par n="frantzes/u__adj"/></e>
     <e lm="giapponesu"><i>giappones</i><par n="frantzes/u__adj"/></e>
     <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
     <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="melodiosu"><i>melodios</i><par n="frantzes/u__adj"/></e>
-    <e lm="pretziosu"><i>pretzios</i><par n="frantzes/u__adj"/></e>
     <e lm="svedesu"><i>svedes</i><par n="frantzes/u__adj"/></e>
     <e lm="svedesu" r="LR"><p><l>ivedes</l><r>svedes</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="domesticu"><i>domesti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="morfològicu"><i>morfològi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="sistemàticu"><i>sistemàti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="automàticu"><i>automàti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="dramàticu"><i>dramàti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="alfabèticu"><i>alfabèti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="frantzesu"><i>frantzes</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu"><i>ingles</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="frantzes/u__adj"/></e>
@@ -9922,30 +9917,18 @@
     <e lm="tzinesu" r="LR"><p><l>xines</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
     <e lm="tzinesu" r="LR"><p><l>cines</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
     <e lm="tzinesu" r="LR"><p><l>tzinès</l><r>tzines</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="solu"><i>sol</i><par n="frantzes/u__adj"/></e>
-    <e lm="modernu"><i>modern</i><par n="frantzes/u__adj"/></e>
-    <e lm="patzìficu"><i>patzìfi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="arbanesu"><i>arbanes</i><par n="frantzes/u__adj"/></e>
-    <e lm="arbanesu" r="LR"><p><l>albanes</l><r>arbanes</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="arbanese"><i>arbanes</i><par n="fàtzil/e__adj"/></e>
-    <e lm="arbanese" r="LR"><p><l>albanes</l><r>arbanes</r></p><par n="fàtzil/e__adj"/></e>
+    <e lm="albanesu"><i>albanes</i><par n="frantzes/u__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanesu" r="LR"><p><l>arbanes</l><r>albanes</r></p><par n="frantzes/u__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanese"><i>albanes</i><par n="fàtzil/e__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanese" r="LR"><p><l>arbanes</l><r>albanes</r></p><par n="fàtzil/e__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
     <e lm="italianu"><i>italian</i><par n="frantzes/u__adj"/></e>
     <e lm="latinu"><i>latin</i><par n="frantzes/u__adj"/></e>
     <e lm="sardu"><i>sard</i><par n="frantzes/u__adj"/></e>
-    <e lm="felitze"><i>felitz</i><par n="fàtzil/e__adj"/></e>
-    <e lm="capitale"><i>capital</i><par n="fàtzil/e__adj"/></e>
-    <e lm="orizontale"><i>orizontal</i><par n="fàtzil/e__adj"/></e>
-
     <e lm="castiglianu"><i>castiglian</i><par n="frantzes/u__adj"/></e>
-
     <e lm="ispagnolu"><i>ispagnol</i><par n="frantzes/u__adj"/></e>
     <e lm="ispagnolu" r="LR"><p><l>ispannol</l><r>ispagnol</r></p><par n="frantzes/u__adj"/></e>
     <e lm="ispagnolu" r="LR"><p><l>ispannyol</l><r>ispagnol</r></p><par n="frantzes/u__adj"/></e>
     <e lm="ispagnolu" r="LR"><p><l>spanniol</l><r>ispagnol</r></p><par n="frantzes/u__adj"/></e>
-
-    <e lm="istudiosu"><i>istudios</i><par n="frantzes/u__adj"/></e>
-    <e lm="istudiosu" r="LR"><p><l>istuidios</l><r>istudios</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="logudoresu"><i>logudores</i><par n="frantzes/u__adj"/></e>
     <e lm="libanesu"><i>libanes</i><par n="frantzes/u__adj"/></e>
     <e lm="aligeresu"><i>aligeres</i><par n="frantzes/u__adj"/></e>
     <e lm="aligeresu" r="LR"><p><l>aligares</l><r>aligeres</r></p><par n="frantzes/u__adj"/></e>
@@ -9953,37 +9936,80 @@
     <e lm="catalanu"><i>catalan</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadelan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="complessu"><i>compless</i><par n="frantzes/u__adj"/></e>
     <e lm="tedescu"><i>tedesc</i><par n="frantzes/u__adj"/></e>
-    <e lm="autònomu"><i>autònom</i><par n="frantzes/u__adj"/></e>
     <e lm="àrabu"><i>àrab</i><par n="frantzes/u__adj"/></e>
     <e lm="àrabu" r="LR"><p><l>arab</l><r>àrab</r></p><par n="frantzes/u__adj"/></e>
     <e lm="napuletanu"><i>napuletan</i><par n="frantzes/u__adj"/></e>
     <e lm="africanu"><i>african</i><par n="frantzes/u__adj"/></e>
-    <e lm="literàriu"><i>literàri</i><par n="frantzes/u__adj"/></e>
     <e lm="turcu"><i>turc</i><par n="frantzes/u__adj"/></e>
-    <e lm="obrigatoriu"><i>obrigatori</i><par n="frantzes/u__adj"/></e>
-    <e lm="sistèmicu"><i>sistèmi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="ebraicu"><i>ebrai</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="prenu"><i>pren</i><par n="frantzes/u__adj"/></e>
-    <e lm="prenu" r="LR"><p><l>pien</l><r>pren</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="cumpletu"><i>cumplet</i><par n="frantzes/u__adj"/></e>
-    <e lm="enclìticu"><i>enclìti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="sitzilianu"><i>sitzilian</i><par n="frantzes/u__adj"/></e>
-    <e lm="proclìticu"><i>proclìti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="dòpiu"><i>dòpi</i><par n="frantzes/u__adj"/></e>
-    <e lm="inumanu"><i>inuman</i><par n="frantzes/u__adj"/></e>
     <e lm="ebreu"><i>ebre</i><par n="frantzes/u__adj"/></e>
-    <e lm="antologicu"><i>antologi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="russu"><i>russ</i><par n="frantzes/u__adj"/></e>
     <e lm="gallesu"><i>galles</i><par n="frantzes/u__adj"/></e>
-    <e lm="alternativu"><i>alternativ</i><par n="frantzes/u__adj"/></e>
-    <e lm="normativu"><i>normativ</i><par n="frantzes/u__adj"/></e>
     <e lm="gregu"><i>greg</i><par n="frantzes/u__adj"/></e>
     <e lm="gregu" r="LR"><p><l>areg</l><r>greg</r></p><par n="frantzes/u__adj"/></e>
     <e lm="mandarinu"><i>mandarin</i><par n="frantzes/u__adj"/></e>
     <e lm="olandesu"><i>olandes</i><par n="frantzes/u__adj"/></e>
     <e lm="cristianu"><i>cristian</i><par n="frantzes/u__adj"/></e>
+    <e lm="sitzilianu"><i>sitzilian</i><par n="frantzes/u__adj"/></e>
+    <e lm="ucrainu"><i>ucrain</i><par n="frantzes/u__adj"/></e>
+    <e lm="catolicu"><i>catoli</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="milanesu"><i>milanes</i><par n="frantzes/u__adj"/></e>
+    <e lm="saharianu"><i>saharian</i><par n="frantzes/u__adj"/></e>
+    <e lm="argentinu"><i>argentin</i><par n="frantzes/u__adj"/></e>
+    <e lm="palestinesu"><i>palestines</i><par n="frantzes/u__adj"/></e>
+    <e lm="europeu"><i>europe</i><par n="frantzes/u__adj"/></e>
+    <e lm="piemontesu"><i>piemontes</i><par n="frantzes/u__adj"/></e>
+    <e lm="otzitanu"><i>otzitan</i><par n="frantzes/u__adj"/></e>
+    <e lm="sub-saharianu"><i>sub-saharian</i><par n="frantzes/u__adj"/></e>
+    <e lm="sub-saharianu" r="LR"><p><l>subsaharian</l><r>sub-saharian</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="israelianu"><i>israelian</i><par n="frantzes/u__adj"/></e>
+    <e lm="coreanu"><i>corean</i><par n="frantzes/u__adj"/></e>
+    <e lm="colombianu"><i>colombian</i><par n="frantzes/u__adj"/></e>
+    <e lm="corsu"><i>cors</i><par n="frantzes/u__adj"/></e>
+    <e lm="corsicanu"><i>corsican</i><par n="frantzes/u__adj"/></e>
+    <e lm="nordcoreanu"><i>nordcorean</i><par n="frantzes/u__adj"/></e>
+    <e lm="bascu"><i>basc</i><par n="frantzes/u__adj"/></e>
+    <e lm="rumenu"><i>rumen</i><par n="frantzes/u__adj"/></e>
+    <e lm="galitzianu"><i>galitzian</i><par n="frantzes/u__adj"/></e>
+    <e lm="venetzianu"><i>venetzian</i><par n="frantzes/u__adj"/></e>
+    <e lm="toscanu"><i>venetzian</i><par n="frantzes/u__adj"/></e>
+    <e lm="logudoresu"><i>logudores</i><par n="frantzes/u__adj"/></e>
+    <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
+
+
+    <e lm="felitze"><i>felitz</i><par n="fàtzil/e__adj"/></e>
+    <e lm="capitale"><i>capital</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orizontale"><i>orizontal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="domesticu"><i>domesti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="morfològicu"><i>morfològi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="sistemàticu"><i>sistemàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="automàticu"><i>automàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="dramàticu"><i>dramàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="alfabèticu"><i>alfabèti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="solu"><i>sol</i><par n="frantzes/u__adj"/></e>
+    <e lm="modernu"><i>modern</i><par n="frantzes/u__adj"/></e>
+    <e lm="patzìficu"><i>patzìfi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="melodiosu"><i>melodios</i><par n="frantzes/u__adj"/></e>
+    <e lm="pretziosu"><i>pretzios</i><par n="frantzes/u__adj"/></e>
+    <e lm="complessu"><i>compless</i><par n="frantzes/u__adj"/></e>
+    <e lm="istudiosu"><i>istudios</i><par n="frantzes/u__adj"/></e>
+    <e lm="istudiosu" r="LR"><p><l>istuidios</l><r>istudios</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="literàriu"><i>literàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="autònomu"><i>autònom</i><par n="frantzes/u__adj"/></e>
+
+    <e lm="ebraicu"><i>ebrai</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="obrigatoriu"><i>obrigatori</i><par n="frantzes/u__adj"/></e>
+    <e lm="sistèmicu"><i>sistèmi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="prenu"><i>pren</i><par n="frantzes/u__adj"/></e>
+    <e lm="prenu" r="LR"><p><l>pien</l><r>pren</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="cumpletu"><i>cumplet</i><par n="frantzes/u__adj"/></e>
+    <e lm="enclìticu"><i>enclìti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="proclìticu"><i>proclìti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="dòpiu"><i>dòpi</i><par n="frantzes/u__adj"/></e>
+    <e lm="inumanu"><i>inuman</i><par n="frantzes/u__adj"/></e>
+    <e lm="alternativu"><i>alternativ</i><par n="frantzes/u__adj"/></e>
+    <e lm="normativu"><i>normativ</i><par n="frantzes/u__adj"/></e>
+    <e lm="antologicu"><i>antologi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="gregorianu"><i>gregorian</i><par n="frantzes/u__adj"/></e>
     <e lm="diversu"><i>divers</i><par n="frantzes/u__adj"/></e>
     <e lm="divinu"><i>divin</i><par n="frantzes/u__adj"/></e>
@@ -9992,7 +10018,6 @@
     <e lm="religiosu" r="LR"><p><l>relizios</l><r>religios</r></p><par n="frantzes/u__adj"/></e>
     <e lm="religiosu" r="LR"><p><l>arreligios</l><r>religios</r></p><par n="frantzes/u__adj"/></e>
     <e lm="sanscritu"><i>sanscrit</i><par n="frantzes/u__adj"/></e>
-    <e lm="ucrainu"><i>ucrain</i><par n="frantzes/u__adj"/></e>
     <e lm="turisticu"><i>turisti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="istràngiu"><i>istràngi</i><par n="frantzes/u__adj"/></e>
     <e lm="istràngiu" r="LR"><p><l>istranz</l><r>istràngi</r></p><par n="frantzes/u__adj"/></e>
@@ -10012,27 +10037,19 @@
     <e lm="giurìdicu" r="LR"><p><l>zurìdi</l><r>giurìdi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="sinistru"><i>sinistr</i><par n="frantzes/u__adj"/></e>
     <e lm="lestru"><i>lestr</i><par n="frantzes/u__adj"/></e>
-    <e lm="catolicu"><i>catoli</i><par n="linguìsti/cu__adj"/></e>
     <e lm="contrariu"><i>contrari</i><par n="frantzes/u__adj"/></e>
     <e lm="mediterràneu"><i>mediterràne</i><par n="frantzes/u__adj"/></e>
     <e lm="mediterràneu" r="LR"><p><l>mediterrane</l><r>mediterràne</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="famosu"><i>famos</i><par n="frantzes/u__adj"/></e>
-    <e lm="milanesu"><i>milanes</i><par n="frantzes/u__adj"/></e>
     <e lm="idènticu"><i>idènti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="saharianu"><i>saharian</i><par n="frantzes/u__adj"/></e>
+    <e lm="famosu"><i>famos</i><par n="frantzes/u__adj"/></e>
     <e lm="etimològicu"><i>etimològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="comicu"><i>comi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="satiricu"><i>satiri</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="argentinu"><i>argentin</i><par n="frantzes/u__adj"/></e>
-    <e lm="palestinesu"><i>palestines</i><par n="frantzes/u__adj"/></e>
     <e lm="positivu"><i>positiv</i><par n="frantzes/u__adj"/></e>
     <e lm="educativu"><i>educativ</i><par n="frantzes/u__adj"/></e>
     <e lm="progressivu"><i>progressiv</i><par n="frantzes/u__adj"/></e>
     <e lm="contràriu"><i>contràri</i><par n="frantzes/u__adj"/></e>
     <e lm="arbitràriu"><i>arbitràri</i><par n="frantzes/u__adj"/></e>
-    <e lm="europeu"><i>europe</i><par n="frantzes/u__adj"/></e>
-    <e lm="piemontesu"><i>piemontes</i><par n="frantzes/u__adj"/></e>
-    <e lm="otzitanu"><i>otzitan</i><par n="frantzes/u__adj"/></e>
     <e lm="grisu"><i>gris</i><par n="frantzes/u__adj"/></e>
 
     <e lm="metàllicu"><i>metàlli</i><par n="linguìsti/cu__adj"/></e>
@@ -10040,8 +10057,6 @@
     <e lm="polìticu"><i>polìti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="polìticu" r="LR"><p><l>politi</l><r>polìti</r></p><par n="linguìsti/cu__adj"/></e>
 
-    <e lm="sub-saharianu"><i>sub-saharian</i><par n="frantzes/u__adj"/></e>
-    <e lm="sub-saharianu" r="LR"><p><l>subsaharian</l><r>sub-saharian</r></p><par n="frantzes/u__adj"/></e>
     <e lm="artisticu"><i>artisti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="artisticu" r="LR"><p><l>artìsti</l><r>artisti</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="istòricu"><i>istòri</i><par n="linguìsti/cu__adj"/></e>
@@ -10056,14 +10071,8 @@
     <e lm="antigu"><i>antig</i><par n="frantzes/u__adj"/></e>
     <e lm="binariu"><i>binari</i><par n="frantzes/u__adj"/></e>
     <e lm="poderosu"><i>poderos</i><par n="frantzes/u__adj"/></e>
-    <e lm="israelianu"><i>israelian</i><par n="frantzes/u__adj"/></e>
-    <e lm="coreanu"><i>corean</i><par n="frantzes/u__adj"/></e>
     <e lm="fritu"><i>frit</i><par n="frantzes/u__adj"/></e>
-    <e lm="colombianu"><i>colombian</i><par n="frantzes/u__adj"/></e>
-    <e lm="corsu"><i>cors</i><par n="frantzes/u__adj"/></e>
-    <e lm="corsicanu"><i>corsican</i><par n="frantzes/u__adj"/></e>
     <e lm="minoritàriu"><i>minoritàri</i><par n="frantzes/u__adj"/></e>
-    <e lm="nordcoreanu"><i>nordcorean</i><par n="frantzes/u__adj"/></e>
     <e lm="tìpicu"><i>tìpi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tìpicu" r="LR"><p><l>tipi</l><r>tìpi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="esternu"><i>estern</i><par n="frantzes/u__adj"/></e>
@@ -10079,11 +10088,7 @@
     <e lm="lògicu"><i>lògi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="lògicu" r="LR"><p><l>lòzi</l><r>lògi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="caru"><i>car</i><par n="frantzes/u__adj"/></e>
-    <e lm="bascu"><i>basc</i><par n="frantzes/u__adj"/></e>
-    <e lm="rumenu"><i>rumen</i><par n="frantzes/u__adj"/></e>
     <e lm="completu"><i>complet</i><par n="frantzes/u__adj"/></e>
-    <e lm="galitzianu"><i>galitzian</i><par n="frantzes/u__adj"/></e>
-    <e lm="venetzianu"><i>venetzian</i><par n="frantzes/u__adj"/></e>
     <e lm="intensivu"><i>intensiv</i><par n="frantzes/u__adj"/></e>
     <e lm="romanicu"><i>romani</i><par n="linguìsti/cu__adj"/></e>
     <e lm="mecanicu"><i>mecani</i><par n="linguìsti/cu__adj"/></e>
