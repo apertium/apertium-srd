@@ -417,8 +417,8 @@
     </pardef>
 
     <pardef n="perun/u__prn" c="">
-      <e r="LR"><p><l>nu</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nu</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
@@ -519,14 +519,14 @@
     </pardef>
 
     <pardef n="perun/u__det" c="">
-      <e r="LR"><p><l>nu</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>u</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nu</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>a</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="cust/u__det" c="p.30">
-      <e r="LR"><p><l>e</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>u</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>e</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>a</l><r>u<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>os</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
@@ -691,6 +691,13 @@
       <e>       <p><l>as</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
  
+    <pardef n="albanes/e__n" c="!@LSC">
+      <e>       <p><l>e</l><r>e<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>i</l><r>e<s n="n"/><s n="mf"/><s n="sg"/></r></p></e> <!-- !@LSC -->
+      <e>       <p><l>es</l><r>e<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>is</l><r>e<s n="n"/><s n="mf"/><s n="pl"/></r></p></e> <!-- !@LSC -->
+    </pardef>
+ 
     <!-- SECTION: Proper nouns -->
 
     <pardef n="Etiòpia__np">
@@ -791,10 +798,10 @@
     </pardef>
 
     <pardef n="fàtzil/e__adj" c="p.10 / 105">
-      <e r="LR"><p><l>i</l><r>e<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e> <!-- !@LSC -->
       <e>       <p><l>e</l><r>e<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>is</l><r>e<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e> <!-- !@LSC -->
+      <e r="LR"><p><l>i</l><r>e<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e> <!-- !@LSC -->
       <e>       <p><l>es</l><r>e<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>is</l><r>e<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e> <!-- !@LSC -->
     </pardef>
  
     <pardef n="linguìsti/cu__adj">
@@ -9976,6 +9983,97 @@
     <e lm="logudoresu"><i>logudores</i><par n="frantzes/u__adj"/></e>
     <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
 
+    <e lm="anglicanu"><i>anglican</i><par n="amig/u__n"/></e>
+    <e lm="polacu"><i>pola</i><par n="amig/u__n"/></e>
+    <e lm="polacu" r="LR"><p><l>polacc</l><r>polac</r></p><par n="amig/u__n"/></e>
+    <e lm="aragonesu"><i>aragones</i><par n="amig/u__n"/></e>
+    <e lm="basciu"><i>basci</i><par n="amig/u__n"/></e>
+    <e lm="giapponesu"><i>giappones</i><par n="amig/u__n"/></e>
+    <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
+    <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
+    <e lm="svedesu"><i>svedes</i><par n="amig/u__n"/></e>
+    <e lm="svedesu" r="LR"><p><l>ivedes</l><r>svedes</r></p><par n="amig/u__n"/></e>
+    <e lm="frantzesu"><i>frantzes</i><par n="amig/u__n"/></e>
+    <e lm="inglesu"><i>ingles</i><par n="amig/u__n"/></e>
+    <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="amig/u__n"/></e>
+    <e lm="armenu"><i>armen</i><par n="amig/u__n"/></e>
+    <e lm="ungheresu"><i>ungheres</i><par n="amig/u__n"/></e>
+    <e lm="persianu"><i>persian</i><par n="amig/u__n"/></e>
+    <e lm="iscotzesu"><i>iscotzes</i><par n="amig/u__n"/></e>
+    <e lm="irlandesu"><i>irlandes</i><par n="amig/u__n"/></e>
+    <e lm="iranianu"><i>iranian</i><par n="amig/u__n"/></e>
+    <e lm="aranesu"><i>aranes</i><par n="amig/u__n"/></e>
+    <e lm="romanu"><i>roman</i><par n="amig/u__n"/></e>
+    <e lm="romanu" r="LR"><p><l>romun</l><r>roman</r></p><par n="amig/u__n"/></e>
+    <e lm="indonesianu"><i>indonesian</i><par n="amig/u__n"/></e>
+    <e lm="australianu"><i>australian</i><par n="amig/u__n"/></e>
+    <e lm="brasilianu"><i>brasilian</i><par n="amig/u__n"/></e>
+    <e lm="indianu"><i>indian</i><par n="amig/u__n"/></e>
+    <e lm="americanu"><i>american</i><par n="amig/u__n"/></e>
+    <e lm="sirianu"><i>sirian</i><par n="amig/u__n"/></e>
+    <e lm="tzinesu"><par n="tz/c"/><i>ines</i><par n="amig/u__n"/></e>
+    <e lm="tzinesu" r="LR"><p><l>xines</l><r>tzines</r></p><par n="amig/u__n"/></e>
+    <e lm="tzinesu" r="LR"><p><l>cines</l><r>tzines</r></p><par n="amig/u__n"/></e>
+    <e lm="tzinesu" r="LR"><p><l>tzinès</l><r>tzines</r></p><par n="amig/u__n"/></e>
+    <e lm="albanesu"><i>albanes</i><par n="amig/u__n"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanesu" r="LR"><p><l>arbanes</l><r>albanes</r></p><par n="amig/u__n"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanese"><i>albanes</i><par n="albanes/e__n"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="albanese" r="LR"><p><l>arbanes</l><r>albanes</r></p><par n="albanes/e__n"/></e>	<!-- CROS reconoce sólo albanes- -->
+    <e lm="italianu"><i>italian</i><par n="amig/u__n"/></e>
+    <e lm="latinu"><i>latin</i><par n="amig/u__n"/></e>
+    <e lm="sardu"><i>sard</i><par n="amig/u__n"/></e>
+    <e lm="castiglianu"><i>castiglian</i><par n="amig/u__n"/></e>
+    <e lm="ispagnolu"><i>ispagnol</i><par n="amig/u__n"/></e>
+    <e lm="ispagnolu" r="LR"><p><l>ispannol</l><r>ispagnol</r></p><par n="amig/u__n"/></e>
+    <e lm="ispagnolu" r="LR"><p><l>ispannyol</l><r>ispagnol</r></p><par n="amig/u__n"/></e>
+    <e lm="ispagnolu" r="LR"><p><l>spanniol</l><r>ispagnol</r></p><par n="amig/u__n"/></e>
+    <e lm="libanesu"><i>libanes</i><par n="amig/u__n"/></e>
+    <e lm="aligeresu"><i>aligeres</i><par n="amig/u__n"/></e>
+    <e lm="aligeresu" r="LR"><p><l>aligares</l><r>aligeres</r></p><par n="amig/u__n"/></e>
+    <e lm="portughesu"><i>portughes</i><par n="amig/u__n"/></e>
+    <e lm="catalanu"><i>catalan</i><par n="amig/u__n"/></e>
+    <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="amig/u__n"/></e>
+    <e lm="catalanu" r="LR"><p><l>cadelan</l><r>catalan</r></p><par n="amig/u__n"/></e>
+    <e lm="tedescu"><i>tedesc</i><par n="amig/u__n"/></e>
+    <e lm="àrabu"><i>àrab</i><par n="amig/u__n"/></e>
+    <e lm="àrabu" r="LR"><p><l>arab</l><r>àrab</r></p><par n="amig/u__n"/></e>
+    <e lm="napuletanu"><i>napuletan</i><par n="amig/u__n"/></e>
+    <e lm="africanu"><i>african</i><par n="amig/u__n"/></e>
+    <e lm="turcu"><i>turc</i><par n="amig/u__n"/></e>
+    <e lm="ebreu"><i>ebre</i><par n="amig/u__n"/></e>
+    <e lm="russu"><i>russ</i><par n="amig/u__n"/></e>
+    <e lm="gallesu"><i>galles</i><par n="amig/u__n"/></e>
+    <e lm="gregu"><i>greg</i><par n="amig/u__n"/></e>
+    <e lm="gregu" r="LR"><p><l>areg</l><r>greg</r></p><par n="amig/u__n"/></e>
+    <e lm="mandarinu"><i>mandarin</i><par n="amig/u__n"/></e>
+    <e lm="olandesu"><i>olandes</i><par n="amig/u__n"/></e>
+    <e lm="cristianu"><i>cristian</i><par n="amig/u__n"/></e>
+    <e lm="sitzilianu"><i>sitzilian</i><par n="amig/u__n"/></e>
+    <e lm="ucrainu"><i>ucrain</i><par n="amig/u__n"/></e>
+    <e lm="catolicu"><i>catoli</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="milanesu"><i>milanes</i><par n="amig/u__n"/></e>
+    <e lm="saharianu"><i>saharian</i><par n="amig/u__n"/></e>
+    <e lm="argentinu"><i>argentin</i><par n="amig/u__n"/></e>
+    <e lm="palestinesu"><i>palestines</i><par n="amig/u__n"/></e>
+    <e lm="europeu"><i>europe</i><par n="amig/u__n"/></e>
+    <e lm="piemontesu"><i>piemontes</i><par n="amig/u__n"/></e>
+    <e lm="otzitanu"><i>otzitan</i><par n="amig/u__n"/></e>
+    <e lm="sub-saharianu"><i>sub-saharian</i><par n="amig/u__n"/></e>
+    <e lm="sub-saharianu" r="LR"><p><l>subsaharian</l><r>sub-saharian</r></p><par n="amig/u__n"/></e>
+    <e lm="israelianu"><i>israelian</i><par n="amig/u__n"/></e>
+    <e lm="coreanu"><i>corean</i><par n="amig/u__n"/></e>
+    <e lm="colombianu"><i>colombian</i><par n="amig/u__n"/></e>
+    <e lm="corsu"><i>cors</i><par n="amig/u__n"/></e>
+    <e lm="corsicanu"><i>corsican</i><par n="amig/u__n"/></e>
+    <e lm="nordcoreanu"><i>nordcorean</i><par n="amig/u__n"/></e>
+    <e lm="bascu"><i>basc</i><par n="amig/u__n"/></e>
+    <e lm="rumenu"><i>rumen</i><par n="amig/u__n"/></e>
+    <e lm="galitzianu"><i>galitzian</i><par n="amig/u__n"/></e>
+    <e lm="venetzianu"><i>venetzian</i><par n="amig/u__n"/></e>
+    <e lm="toscanu"><i>venetzian</i><par n="amig/u__n"/></e>
+    <e lm="logudoresu"><i>logudores</i><par n="amig/u__n"/></e>
+    <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
+
 
     <e lm="felitze"><i>felitz</i><par n="fàtzil/e__adj"/></e>
     <e lm="capitale"><i>capital</i><par n="fàtzil/e__adj"/></e>
@@ -10790,6 +10888,7 @@
     <e lm="pois"><i>pois</i><par n="bene__adv"/></e>
     <e lm="meda"><i>meda</i><par n="bene__adv"/></e>
     <e lm="posca"><i>posca</i><par n="bene__adv"/></e>
+    <e lm="s'in casu mai"><i>s'in<b/>casu<b/>mai</i><par n="bene__adv"/></e>
     <!--<e lm="a beru"><i>a<b/>beru</i><par n="bene__adv"/></e>-->
 
     <e lm="puru"><i>puru</i><par n="bene__adv"/></e>
