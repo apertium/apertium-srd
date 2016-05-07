@@ -566,6 +566,10 @@
       <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="càmbaras__n">
+      <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    </pardef>
+
     <pardef n="PNB__n">
       <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
