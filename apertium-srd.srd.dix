@@ -805,11 +805,6 @@
       <e>       <p><l>as</l><r>e<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
  
-    <pardef n="natzionalista__adj" c="">
-      <e>       <p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="meda__adj" c="">
       <e>       <p><l></l><r><s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>s</l><r><s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -4763,23 +4758,32 @@
     <e lm="ciclista"><i>ciclista</i><par n="dentista__n"/></e>
     <e lm="buddista"><i>buddista</i><par n="dentista__n"/></e>
     <e lm="buddista" r="LR"><p><l>buddhista</l><r>buddista</r></p><par n="dentista__n"/></e>
+    <e lm="buddista"><i>buddista</i><par n="meda__adj"/></e>
+    <e lm="buddista" r="LR"><p><l>buddhista</l><r>buddista</r></p><par n="meda__adj"/></e>
     <!--<e lm="nazista"><i>nazista</i><par n="dentista__n"/></e>-->
     <e lm="gesuita"><i>gesuita</i><par n="dentista__n"/></e>
+    <e lm="gesuita"><i>gesuita</i><par n="meda__adj"/></e>
     <e lm="islamista"><i>islamista</i><par n="dentista__n"/></e>
+    <e lm="islamista"><i>islamista</i><par n="meda__adj"/></e>
     <e lm="progressista"><i>progressista</i><par n="dentista__n"/></e>
+    <e lm="progressista"><i>progressista</i><par n="meda__adj"/></e>
     <e lm="marxista"><i>marxista</i><par n="dentista__n"/></e>
+    <e lm="marxista"><i>marxista</i><par n="meda__adj"/></e>
     <e lm="laburista"><i>laburista</i><par n="dentista__n"/></e>
+    <e lm="laburista"><i>laburista</i><par n="meda__adj"/></e>
     <e lm="ispetzialista"><i>ispetzialista</i><par n="dentista__n"/></e>
     <e lm="autista"><i>autista</i><par n="dentista__n"/></e>
 
     <e lm="emigrante"><i>emigrante</i><par n="dentista__n"/></e>
     <e lm="militante"><i>militante</i><par n="dentista__n"/></e>
     <e lm="protestante"><i>protestante</i><par n="dentista__n"/></e>
+    <e lm="protestante"><i>protestante</i><par n="meda__adj"/></e>
     <e lm="abitante"><i>abitante</i><par n="dentista__n"/></e>
     <e lm="cantante"><i>cantante</i><par n="dentista__n"/></e>
     <e lm="campione"><i>campione</i><par n="dentista__n"/></e>
     <e lm="attivista"><i>attivista</i><par n="dentista__n"/></e>
     <e lm="terrorista"><i>terrorista</i><par n="dentista__n"/></e>
+    <e lm="terrorista"><i>terrorista</i><par n="meda__adj"/></e>
     <e lm="dentista"><i>dentista</i><par n="dentista__n"/></e>
     <e lm="chitarrista"><i>chitarrista</i><par n="dentista__n"/></e>
     <e lm="artista"><i>artista</i><par n="dentista__n"/></e>
@@ -4797,13 +4801,17 @@
     <e lm="escursionista"><i>escursionista</i><par n="dentista__n"/></e>
     <e lm="esorcista"><i>esorcista</i><par n="dentista__n"/></e>
     <e lm="evangelista"><i>evangelista</i><par n="dentista__n"/></e>
+    <e lm="evangelista"><i>evangelista</i><par n="meda__adj"/></e>
     <e lm="fatalista"><i>fatalista</i><par n="dentista__n"/></e>
+    <e lm="fatalista"><i>fatalista</i><par n="meda__adj"/></e>
     <e lm="fatista"><i>fatista</i><par n="dentista__n"/></e>
     <e lm="florista"><i>florista</i><par n="dentista__n"/></e>
     <e lm="formalista"><i>formalista</i><par n="dentista__n"/></e>
+    <e lm="formalista"><i>formalista</i><par n="meda__adj"/></e>
     <e lm="giurista"><i>giurista</i><par n="dentista__n"/></e>
     <e lm="macchinista"><i>macchinista</i><par n="dentista__n"/></e>
     <e lm="monopolista"><i>monopolista</i><par n="dentista__n"/></e>
+    <e lm="monopolista"><i>monopolista</i><par n="meda__adj"/></e>
     <e lm="naturalista"><i>naturalista</i><par n="dentista__n"/></e>
     <e lm="oculista"><i>oculista</i><par n="dentista__n"/></e>
     <e lm="organista"><i>organista</i><par n="dentista__n"/></e>
@@ -4817,9 +4825,12 @@
     <e lm="protagonista"><i>protagonista</i><par n="dentista__n"/></e>
     <e lm="comunista"><i>comunista</i><par n="dentista__n"/></e>
     <e lm="capitalista"><i>capitalista</i><par n="dentista__n"/></e>
+    <e lm="capitalista"><i>capitalista</i><par n="meda__adj"/></e>
     <e lm="pacifista"><i>pacifista</i><par n="dentista__n"/></e>
+    <e lm="pacifista"><i>pacifista</i><par n="meda__adj"/></e>
     <e lm="camionista"><i>camionista</i><par n="dentista__n"/></e>
     <e lm="tziclista"><par n="tz/c"/><i>iclista</i><par n="dentista__n"/></e>
+    <e lm="tziclista"><par n="tz/c"/><i>iclista</i><par n="meda__adj"/></e>
     <e lm="anestesista"><i>anestesista</i><par n="dentista__n"/></e>
     <e lm="giornalista"><i>giornalista</i><par n="dentista__n"/></e>
     <e lm="giornalista" r="LR"><p><l>ziornalista</l><r>giornalista</r></p><par n="dentista__n"/></e>
@@ -10320,7 +10331,7 @@
     <e lm="minore"><i>minor</i><par n="fàtzil/e__adj"/></e>
     <e lm="minore" r="LR"><p><l>mìnor</l><r>minor</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="mòbile"><i>mòbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="escursionista"><i>escursionist</i><par n="natzionalista__adj"/></e>
+    <e lm="escursionista"><i>escursionist</i><par n="meda__adj"/></e>
     <e lm="escursionista"><i>escursionist</i><par n="dentista__n"/></e>
     <e lm="ecuivalente"><i>ecuivalent</i><par n="fàtzil/e__adj"/></e>
     <e lm="fichete"><i>fichet</i><par n="fàtzil/e__adj"/></e>
@@ -10350,9 +10361,9 @@
     <e lm="natzionale"><i>na</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
     <e lm="internatzionale"><i>interna</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
 
-    <e lm="natzionalista"><i>na</i><par n="tz/z"/><i>ionalista</i><par n="natzionalista__adj"/></e>
+    <e lm="natzionalista"><i>na</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
     <e lm="natzionalista"><i>na</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
-    <e lm="sotzialista"><i>so</i><par n="tz/z"/><i>ialista</i><par n="natzionalista__adj"/></e>
+    <e lm="sotzialista"><i>so</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="sotzialista"><i>so</i><par n="tz/z"/><i>ialista</i><par n="dentista__n"/></e>
 
     <e lm="abbreviàbile"><i>abbreviàbil</i><par n="fàtzil/e__adj"/></e>
@@ -37072,6 +37083,1264 @@
     <e lm="vitzeministru"><i>vitzeministr</i><par n="amig/u__n"/></e>
     <e lm="zirigheddu"><i>zirighedd</i><par n="amig/u__n"/></e>
 
+	<!-- SECTION: adjetivos extraídos de CROS a partir de los paradigmas /A, /B, /b, /C, y /c -->
+
+    <e lm="abballiantee"><i>abballiante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="àbbilee"><i>àbbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abbreviàbilee"><i>abbreviàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abbundantee"><i>abbundante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abdicàbilee"><i>abdicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="àbilee"><i>àbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abilitàbilee"><i>abilitàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abitualee"><i>abituale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="abrogàbilee"><i>abrogàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="absidalee"><i>absidale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="acaràbilee"><i>acaràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="achietu"><i>achiet</i><par n="frantzes/u__adj"/></e>
+    <e lm="achirìbilee"><i>achirìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="achistàbilee"><i>achistàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="acostagiàbilee"><i>acostagiàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="acreditàbilee"><i>acreditàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="additzionàbilee"><i>addi</i><par n="tz/z"/><i>ionàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="additzionalee"><i>addi</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="adecuàbilee"><i>adecuàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="adeguàbilee"><i>adeguàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aderentee"><i>aderente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="adotàbilee"><i>adotàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aeroportualee"><i>aeroportuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aerostàticu"><i>aerostàtic</i><par n="frantzes/u__adj"/></e>
+    <e lm="afatantee"><i>afatante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="afitèvolee"><i>afitèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agèvolee"><i>agèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agìbilee"><i>agìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agiornàbilee"><i>agiornàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agiudicàbilee"><i>agiudicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agradàbilee"><i>agradàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agrestee"><i>agreste</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agrudurchee"><i>agrudurche</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agrupàbilee"><i>agrupàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="agualee"><i>aguale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="alienàbilee"><i>alienàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="alimentaree"><i>alimentare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="alternàbilee"><i>alternàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="alveolaree"><i>alveolare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amàbilee"><i>amàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amatorialee"><i>amatoriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ambientalee"><i>ambientale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ambivalentee"><i>ambivalente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amigalee"><i>amigale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amministràbilee"><i>amministràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ammiràbilee"><i>ammiràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ammissìbilee"><i>ammissìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ammoniacalee"><i>ammoniacale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amnistiàbilee"><i>amnistiàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="amorfu"><i>amorf</i><par n="frantzes/u__adj"/></e>
+    <e lm="amorìvilee"><i>amorìvile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="analee"><i>anale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="analfabeta"><i>analfabeta</i><par n="meda__adj"/></e>
+    <e lm="analizàbilee"><i>analizàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="angularee"><i>angulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="annualee"><i>annuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="antalee"><i>antale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="anticlericalee"><i>anticlericale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="antifeudalee"><i>antifeudale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="antigalee"><i>antigale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="antimàfia"><i>antimàfia</i><par n="meda__adj"/></e>
+    <e lm="antitraditzionalista"><i>antitradi</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="antitzipadoree"><i>antitzipadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="apaltàbilee"><i>apaltàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aparentee"><i>aparente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aplicàbilee"><i>aplicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aprovàbilee"><i>aprovàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="arbitràbilee"><i>arbitràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="arborinu"><i>arborin</i><par n="frantzes/u__adj"/></e>
+    <e lm="archiviàbilee"><i>archiviàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ardentee"><i>ardente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="arrestàbilee"><i>arrestàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="artesanalee"><i>artesanale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="artifitzialee"><i>artifitziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="asseguràbilee"><i>asseguràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="assimigiantee"><i>assimigiante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="assorbentee"><i>assorbente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="assumìbilee"><i>assumìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="astralee"><i>astrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atendìbilee"><i>atendìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atenuantee"><i>atenuante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atlèticu"><i>atlètic</i><par n="frantzes/u__adj"/></e>
+    <e lm="atogadoree"><i>atogadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atongilee"><i>atongile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atribuìbilee"><i>atribuìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atritzulonee"><i>atritzulone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atuàbilee"><i>atuàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atualee"><i>atuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atzetàbilee"><i>atzetàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="atzidentalee"><i>atzidentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ausiliaree"><i>ausiliare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="auspicàbilee"><i>auspicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="australee"><i>australe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="autenticàbilee"><i>autenticàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="autodidata"><i>autodidata</i><par n="meda__adj"/></e>
+    <e lm="autorèvolee"><i>autorèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="autorizàbilee"><i>autorizàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="autosufitzientee"><i>autosufitziente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="avantzosu"><i>avantzos</i><par n="frantzes/u__adj"/></e>
+    <e lm="averbialee"><i>averbiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="averiguàbilee"><i>averiguàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="aziendalee"><i>aziendale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="balentee"><i>balente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="balnearee"><i>balneare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="balorosu"><i>baloros</i><par n="frantzes/u__adj"/></e>
+    <e lm="banalee"><i>banale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="banderadu"><i>banderad</i><par n="frantzes/u__adj"/></e>
+    <e lm="bantageri"><i>bantageri</i><par n="meda__adj"/></e>
+    <e lm="baronalee"><i>baronale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="basilaree"><i>basilare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="batesimalee"><i>batesimale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="batista"><i>batista</i><par n="meda__adj"/></e>
+    <e lm="belga"><i>belga</i><par n="meda__adj"/></e>
+    <e lm="benientee"><i>beniente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="beranilee"><i>beranile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="berbeghilee"><i>berbeghile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="berrilee"><i>berrile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bestialee"><i>bestiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bidiretzionalee"><i>bidire</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bìdrinu"><i>bìdrin</i><par n="frantzes/u__adj"/></e>
+    <e lm="bifocalee"><i>bifocale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bilateralee"><i>bilaterale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bilìnguee"><i>bilìngue</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bimestralee"><i>bimestrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="birbantee"><i>birbante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="birdee"><i>birde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="biscioncu"><i>biscionc</i><par n="frantzes/u__adj"/></e>
+    <e lm="borealee"><i>boreale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="brigatista"><i>brigatista</i><par n="meda__adj"/></e>
+    <e lm="brillantee"><i>brillante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="brilliadoree"><i>brilliadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bronchialee"><i>bronchiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="brutalee"><i>brutale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bundantee"><i>bundante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="burràbilee"><i>burràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cabalee"><i>cabale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cabitzuda"><i>cabitzuda</i><par n="meda__adj"/></e>
+    <e lm="cacuminalee"><i>cacuminale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="càdara"><i>càdara</i><par n="meda__adj"/></e>
+    <e lm="caentee"><i>caente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="caghinu"><i>caghin</i><par n="frantzes/u__adj"/></e>
+    <e lm="calantee"><i>calante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="callentee"><i>callente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="callenturientee"><i>callenturiente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="campanilista"><i>campanilista</i><par n="meda__adj"/></e>
+    <e lm="cannìbalee"><i>cannìbale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cansidu"><i>cansid</i><par n="frantzes/u__adj"/></e>
+    <e lm="capatzee"><i>capatze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="capìbilee"><i>capìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cardìacu"><i>cardìac</i><par n="frantzes/u__adj"/></e>
+    <e lm="cardinalee"><i>cardinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="caresimalee"><i>caresimale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="carrafalee"><i>carrafale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="carralee"><i>carrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="carrotzàbilee"><i>carrotzàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cartzelletee"><i>cartzellete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="casalee"><i>casale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="casualee"><i>casuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="catastalee"><i>catastale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cau"><i>ca</i><par n="frantzes/u__adj"/></e>
+    <e lm="causalee"><i>causale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cervantista"><i>cervantista</i><par n="meda__adj"/></e>
+    <e lm="chìdrinu"><i>chìdrin</i><par n="frantzes/u__adj"/></e>
+    <e lm="chinisalee"><i>chinisale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="chircantee"><i>chircante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="clandestinu"><i>clandestin</i><par n="frantzes/u__adj"/></e>
+    <e lm="classitzista"><i>classitzista</i><par n="meda__adj"/></e>
+    <e lm="clericalee"><i>clericale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="codificàbilee"><i>codificàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="coerentee"><i>coerente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="collegialee"><i>collegiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="collientee"><i>colliente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="collochialee"><i>collochiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="colonialee"><i>coloniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="colossalee"><i>colossale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="colpèvolee"><i>colpèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="combustìbilee"><i>combustìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="computatzionalee"><i>computa</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="comunalee"><i>comunale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="comunee"><i>comune</i><par n="fàtzil/e__adj"/></e>
+    <e lm="concruìbilee"><i>concruìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="conflitualee"><i>conflituale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="conformista"><i>conformista</i><par n="meda__adj"/></e>
+    <e lm="coniugalee"><i>coniugale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="connatzionalee"><i>conna</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="connetìbilee"><i>connetìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="consustantzialee"><i>consustantziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="contàbilee"><i>contàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="contagiolu"><i>contagiol</i><par n="frantzes/u__adj"/></e>
+    <e lm="contestàbilee"><i>contestàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="continentalee"><i>continentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="controllàbilee"><i>controllàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="contumatzee"><i>contumatze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="coràbilee"><i>coràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="coralee"><i>corale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="còrcovee"><i>còrcove</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cordialee"><i>cordiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="corimoddee"><i>corimodde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="corporalee"><i>corporale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="corregionalee"><i>corregionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cosmopolita"><i>cosmopolita</i><par n="meda__adj"/></e>
+    <e lm="costantee"><i>costante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="costituentee"><i>costituente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="costituìbilee"><i>costituìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="costitutzionalee"><i>costitu</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cotimista"><i>cotimista</i><par n="meda__adj"/></e>
+    <e lm="credìbilee"><i>credìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="criadurinu"><i>criadurin</i><par n="frantzes/u__adj"/></e>
+    <e lm="criminalee"><i>criminale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="crudelee"><i>crudele</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cruelee"><i>cruele</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuadrangularee"><i>cuadrangulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuadru"><i>cuadr</i><par n="frantzes/u__adj"/></e>
+    <e lm="cubitalee"><i>cubitale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuddee"><i>cudde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuenteri"><i>cuenteri</i><par n="meda__adj"/></e>
+    <e lm="cullegialee"><i>cullegiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="culpàbilee"><i>culpàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="culturalee"><i>culturale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumbenientee"><i>cumbeniente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cummertzialee"><i>cummertziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumonalee"><i>cumonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumpartimentalee"><i>cumpartimentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumpartzìbilee"><i>cumpartzìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumpatìbilee"><i>cumpatìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumpetentee"><i>cumpetente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumplementaree"><i>cumplementare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumplimentaree"><i>cumplimentare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumponìbilee"><i>cumponìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumportamentalee"><i>cumportamentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cumprensìbilee"><i>cumprensìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuncambiàbilee"><par n="cun/con"/><i>cambiàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuncurrentee"><par n="cun/con"/><i>currente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunditzionalee"><i>cundi</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunfederalee"><par n="cun/con"/><i>federale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunferìbilee"><par n="cun/con"/><i>ferìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunfescionalee"><par n="cun/con"/><i>fescionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunfidentzialee"><par n="cun/con"/><i>fidentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunformee"><par n="cun/con"/><i>forme</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunfrontàbilee"><par n="cun/con"/><i>frontàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cungedàbilee"><par n="cun/con"/><i>gedàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cungendàbilee"><par n="cun/con"/><i>gendàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunnatzionalee"><i>cunna</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunsighentee"><par n="cun/con"/><i>sighente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunsistentee"><par n="cun/con"/><i>sistente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunsorgialee"><par n="cun/con"/><i>sorgiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunsortziàbilee"><par n="cun/con"/><i>sortziàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunssorgialee"><par n="cun/con"/><i>ssorgiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntemplativu"><par n="cun/con"/><i>templativ</i><par n="frantzes/u__adj"/></e>
+    <e lm="cuntenìbilee"><par n="cun/con"/><i>tenìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntestàbilee"><par n="cun/con"/><i>testàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntestualee"><par n="cun/con"/><i>testuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntraentee"><par n="cun/con"/><i>traente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntrastàbilee"><par n="cun/con"/><i>trastàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntratàbilee"><par n="cun/con"/><i>tratàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntratualee"><par n="cun/con"/><i>tratuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntzedentee"><par n="cun/con"/><i>tzedente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntzetista"><par n="cun/con"/><i>tzetista</i><par n="meda__adj"/></e>
+    <e lm="cuntzetualee"><par n="cun/con"/><i>tzetuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunventualee"><par n="cun/con"/><i>ventuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunventzionalee"><i>cunven</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunvergentee"><par n="cun/con"/><i>vergente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cunviventee"><par n="cun/con"/><i>vivente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="curialee"><i>curiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="currentee"><i>currente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="currèntilee"><i>currèntile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="curricularee"><i>curriculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="currispondentee"><i>currispondente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cursivu"><i>cursiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="curtzetee"><i>curtzete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cussee"><i>cusse</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cussentee"><i>cussente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cussorgialee"><i>cussorgiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="custee"><i>custe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dàbilee"><i>dàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dannificantee"><i>dannificante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dannigalee"><i>dannigale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="datàbilee"><i>datàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ddoddoi"><i>ddoddoi</i><par n="meda__adj"/></e>
+    <e lm="debbee"><i>debbe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dèbilee"><i>dèbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="debilitadoree"><i>debilitadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="decadentista"><i>decadentista</i><par n="meda__adj"/></e>
+    <e lm="deduìbilee"><i>deduìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dedutzìbilee"><i>dedutzìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="deghìbilee"><i>deghìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="deghilee"><i>deghile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="deista"><i>deista</i><par n="meda__adj"/></e>
+    <e lm="delegàbilee"><i>delegàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="delegantee"><i>delegante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="deliberàbilee"><i>deliberàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="delincuentee"><i>delincuente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="demanialee"><i>demaniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dentalee"><i>dentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="denuntziàbilee"><i>denuntziàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="depositàbilee"><i>depositàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="derivatzionalee"><i>deriva</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="derogàbilee"><i>derogàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="desempradu"><i>desemprad</i><par n="frantzes/u__adj"/></e>
+    <e lm="designàbilee"><i>designàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="detenìbilee"><i>detenìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="determinàbilee"><i>determinàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="determinantee"><i>determinante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="detzentee"><i>detzente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="detzisionalee"><i>detzisionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="deverbalee"><i>deverbale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dialetalee"><i>dialetale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dibatìbilee"><i>dibatìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="diferentee"><i>diferente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="diferentzialista"><i>diferentzialista</i><par n="meda__adj"/></e>
+    <e lm="difidentee"><i>difidente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="difìtzilee"><i>difìtzile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="difitzileddu"><i>difitziledd</i><par n="frantzes/u__adj"/></e>
+    <e lm="digerentee"><i>digerente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="digitalee"><i>digitale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dilatàbilee"><i>dilatàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="diletantee"><i>diletante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dipartimentalee"><i>dipartimentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dipendentee"><i>dipendente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="disàbilee"><i>disàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="disciplinaree"><i>disciplinare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="discoidadu"><i>discoidad</i><par n="frantzes/u__adj"/></e>
+    <e lm="discutìbilee"><i>discutìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dìspari"><i>dìspari</i><par n="meda__adj"/></e>
+    <e lm="disponìbilee"><i>disponìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="distretualee"><i>distretuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="distruidoree"><i>distruidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="divisìbilee"><i>divisìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="divulgàbilee"><i>divulgàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="documentàbilee"><i>documentàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dolentee"><i>dolente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dominantee"><i>dominante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="domitziliàbilee"><i>domitziliàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dorsalee"><i>dorsale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dotoralee"><i>dotorale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="drollee"><i>drolle</i><par n="fàtzil/e__adj"/></e>
+    <e lm="dultzee"><i>dultze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="duraghee"><i>duraghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="durchee"><i>durche</i><par n="fàtzil/e__adj"/></e>
+    <e lm="durchigheddu"><i>durchighedd</i><par n="frantzes/u__adj"/></e>
+    <e lm="echilibràbilee"><i>echilibràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eclesialee"><i>eclesiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="economitzista"><i>economitzista</i><par n="meda__adj"/></e>
+    <e lm="ecuànimee"><i>ecuànime</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ecuatorialee"><i>ecuatoriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ecuestree"><i>ecuestre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ecuidistantee"><i>ecuidistante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ecuivalentee"><i>ecuivalente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="edificantee"><i>edificante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="edilee"><i>edile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eficatzee"><i>eficatze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="efitzientee"><i>efitziente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="elegantee"><i>elegante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="elegìbilee"><i>elegìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="elementaree"><i>elementare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eletoralee"><i>eletorale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="elicoidalee"><i>elicoidale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="embrionalee"><i>embrionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eminentee"><i>eminente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="enormee"><i>enorme</i><par n="fàtzil/e__adj"/></e>
+    <e lm="epocalee"><i>epocale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="erarialee"><i>erariale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eregee"><i>erege</i><par n="fàtzil/e__adj"/></e>
+    <e lm="errantee"><i>errante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esaminàbilee"><i>esaminàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esatorialee"><i>esatoriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esecutàbilee"><i>esecutàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esentee"><i>esente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esibitzionista"><i>esibi</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
+    <e lm="esigìbilee"><i>esigìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="essentzialee"><i>essentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="esterioree"><i>esteriore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="èstonee"><i>èstone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="estraìbilee"><i>estraìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="estremista"><i>estremista</i><par n="meda__adj"/></e>
+    <e lm="estremizàbilee"><i>estremizàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="etnitzista"><i>etnitzista</i><par n="meda__adj"/></e>
+    <e lm="etzetzionalee"><i>etze</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="europeista"><i>europeista</i><par n="meda__adj"/></e>
+    <e lm="evangèlicu"><i>evangèlic</i><par n="frantzes/u__adj"/></e>
+    <e lm="eventualee"><i>eventuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="evidentee"><i>evidente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="extrafamiliaree"><i>extrafamiliare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fabbricàbilee"><i>fabbricàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fabricàbilee"><i>fabricàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fachilee"><i>fachile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="familiaree"><i>familiare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="farsantee"><i>farsante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fatalee"><i>fatale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fatantee"><i>fatante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="faturàbilee"><i>faturàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="favoràbilee"><i>favoràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="favorèvolee"><i>favorèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fedalee"><i>fedale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="federalee"><i>federale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="federalista"><i>federalista</i><par n="meda__adj"/></e>
+    <e lm="femineri"><i>femineri</i><par n="meda__adj"/></e>
+    <e lm="feminilee"><i>feminile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ferialee"><i>feriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ferotzee"><i>ferotze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fèrtilee"><i>fèrtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="feudalee"><i>feudale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fichetee"><i>fichete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fidelee"><i>fidele</i><par n="fàtzil/e__adj"/></e>
+    <e lm="figurantee"><i>figurante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="filonee"><i>filone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="finee"><i>fine</i><par n="fàtzil/e__adj"/></e>
+    <e lm="finigonee"><i>finigone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fiscalee"><i>fiscale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fitònimu"><i>fitònim</i><par n="frantzes/u__adj"/></e>
+    <e lm="flessìbilee"><i>flessìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fluorescentee"><i>fluorescente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fogalee"><i>fogale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="forestalee"><i>forestale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="formalee"><i>formale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="formosu"><i>formos</i><par n="frantzes/u__adj"/></e>
+    <e lm="fràgilee"><i>fràgile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="franchista"><i>franchista</i><par n="meda__adj"/></e>
+    <e lm="fregnoculeddu"><i>fregnoculedd</i><par n="frantzes/u__adj"/></e>
+    <e lm="fregnòculu"><i>fregnòcul</i><par n="frantzes/u__adj"/></e>
+    <e lm="fresadoree"><i>fresadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="frisonee"><i>frisone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fritzantee"><i>fritzante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="frontalee"><i>frontale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="frutìvilee"><i>frutìvile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fuidosu"><i>fuidos</i><par n="frantzes/u__adj"/></e>
+    <e lm="fulminantee"><i>fulminante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fumàdigu"><i>fumàdig</i><par n="frantzes/u__adj"/></e>
+    <e lm="fumigonee"><i>fumigone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fundamentalee"><i>fundamentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="fùnebree"><i>fùnebre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="funtzionalee"><i>fun</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="funtzionalista"><i>fun</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="funtzionalìstica"><i>fun</i><par n="tz/z"/><i>ionalìstica</i><par n="meda__adj"/></e>
+    <e lm="furfantee"><i>furfante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="galantee"><i>galante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="gamada"><i>gamada</i><par n="meda__adj"/></e>
+    <e lm="gàstricu"><i>gàstric</i><par n="frantzes/u__adj"/></e>
+    <e lm="generatzionalee"><i>genera</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="genialee"><i>geniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="genitivu"><i>genitiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="gentilee"><i>gentile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="gestìbilee"><i>gestìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ghemèddighee"><i>ghemèddighe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ghenugrada"><i>ghenugrada</i><par n="meda__adj"/></e>
+    <e lm="gigantee"><i>gigante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ginnasialee"><i>ginnasiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giòrbinu"><i>giòrbin</i><par n="frantzes/u__adj"/></e>
+    <e lm="giuàbilee"><i>giuàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giudicàbilee"><i>giudicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giudicalee"><i>giudicale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giudicantee"><i>giudicante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giuditzialee"><i>giuditziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giuigàbilee"><i>giuigàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giuigalee"><i>giuigale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giuràbilee"><i>giuràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="giurisditzionalee"><i>giurisdi</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="globalee"><i>globale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="globalizantee"><i>globalizante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="goseri"><i>goseri</i><par n="meda__adj"/></e>
+    <e lm="gradualee"><i>graduale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="grammaticalee"><i>grammaticale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="gravee"><i>grave</i><par n="fàtzil/e__adj"/></e>
+    <e lm="gretzizantee"><i>gretzizante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="gulàtigu"><i>gulàtig</i><par n="frantzes/u__adj"/></e>
+    <e lm="gupu"><i>gup</i><par n="frantzes/u__adj"/></e>
+    <e lm="ierrilee"><i>ierrile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ignòbilee"><i>ignòbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ignorantee"><i>ignorante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="igresientee"><i>igresiente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="illegalee"><i>illegale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="illustradoree"><i>illustradore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imbidiàbilee"><i>imbidiàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immaginàbilee"><i>immaginàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immaterialee"><i>immateriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immòbilee"><i>immòbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immoralee"><i>immorale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immortalee"><i>immortale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="immunee"><i>immune</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impenetràbilee"><i>impenetràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imperialee"><i>imperiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imperialista"><i>imperialista</i><par n="meda__adj"/></e>
+    <e lm="impermeàbilee"><i>impermeàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impersonalee"><i>impersonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impertinentee"><i>impertinente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imponderàbilee"><i>imponderàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imponentee"><i>imponente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="imponìbilee"><i>imponìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="importantee"><i>importante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impossìbilee"><i>impossìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impotentee"><i>impotente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impraticàbilee"><i>impraticàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impresentàbilee"><i>impresentàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="impressionantee"><i>impressionante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="improbàbilee"><i>improbàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="improrogàbilee"><i>improrogàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inabilitàbilee"><i>inabilitàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inamovìbilee"><i>inamovìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inapellàbilee"><i>inapellàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inarrestàbilee"><i>inarrestàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incainadu"><i>incainad</i><par n="frantzes/u__adj"/></e>
+    <e lm="incapatzee"><i>incapatze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incòlumee"><i>incòlume</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incongruentee"><i>incongruente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inconsolàbilee"><i>inconsolàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incrarìbilee"><i>incrarìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incredìbilee"><i>incredìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incriminantee"><i>incriminante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incuadràbilee"><i>incuadràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incumpatìbilee"><i>incumpatìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incuràbilee"><i>incuràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incurregìbilee"><i>incurregìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inderogàbilee"><i>inderogàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indescrivìbilee"><i>indescrivìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indicàbilee"><i>indicàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indiferentee"><i>indiferente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indimenticàbilee"><i>indimenticàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indipendentee"><i>indipendente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indispensàbilee"><i>indispensàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="indistrutìbilee"><i>indistrutìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inditadoree"><i>inditadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="individuàbilee"><i>individuàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="individualee"><i>individuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="individualista"><i>individualista</i><par n="meda__adj"/></e>
+    <e lm="indivisìbilee"><i>indivisìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="industrialee"><i>industriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ineficatzee"><i>ineficatze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inelegìbilee"><i>inelegìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inertee"><i>inerte</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inesaurìbilee"><i>inesaurìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inesistentee"><i>inesistente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inestimàbilee"><i>inestimàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inevitàbilee"><i>inevitàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infallìbilee"><i>infallìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infamantee"><i>infamante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infamee"><i>infame</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infantilee"><i>infantile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infernalee"><i>infernale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infervorada"><i>infervorada</i><par n="meda__adj"/></e>
+    <e lm="infidelee"><i>infidele</i><par n="fàtzil/e__adj"/></e>
+    <e lm="infinitesimalee"><i>infinitesimale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inflessionalee"><i>inflessionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="influentee"><i>influente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="informalee"><i>informale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ingannilee"><i>ingannile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inguinalee"><i>inguinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="initzialee"><i>initziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="innegàbilee"><i>innegàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="innieddadu"><i>innieddad</i><par n="frantzes/u__adj"/></e>
+    <e lm="innotzentee"><i>innotzente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inolvidàbilee"><i>inolvidàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inossidàbilee"><i>inossidàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insanàbilee"><i>insanàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insensìbilee"><i>insensìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inseparàbilee"><i>inseparàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insignificantee"><i>insignificante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insinuantee"><i>insinuante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insolentee"><i>insolente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insufitzientee"><i>insufitziente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insularee"><i>insulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insuperàbilee"><i>insuperàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insuportàbilee"><i>insuportàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insurdidoree"><i>insurdidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="insurretzionalee"><i>insurre</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="integralee"><i>integrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="integrantee"><i>integrante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inteligentee"><i>inteligente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intellegìbilee"><i>intellegìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intelletualee"><i>intelletuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interessantee"><i>interessante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interioree"><i>interiore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interminàbilee"><i>interminàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intermitentee"><i>intermitente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="internatzionalee"><i>interna</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interpresonalee"><i>interpresonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interregionalee"><i>interregionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inteteradoree"><i>inteteradore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intollerantee"><i>intollerante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intransitivu"><i>intransitiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="intrantee"><i>intrante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intreveràbilee"><i>intreveràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intzivilee"><i>intzivile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="intzoddinadu"><i>intzoddinad</i><par n="frantzes/u__adj"/></e>
+    <e lm="inusualee"><i>inusuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inùtilee"><i>inùtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="invadentee"><i>invadente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inviolàbilee"><i>inviolàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="invisìbilee"><i>invisìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ipnotizadu"><i>ipnotizad</i><par n="frantzes/u__adj"/></e>
+    <e lm="ipòcrita"><i>ipòcrita</i><par n="meda__adj"/></e>
+    <e lm="irratzionalee"><i>irra</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irrealee"><i>irreale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irregularee"><i>irregulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irreparàbilee"><i>irreparàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irresistìbilee"><i>irresistìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irresponsàbilee"><i>irresponsàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irrevocàbilee"><i>irrevocàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="isanimadu"><i>isanimad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isbancarrutadu"><i>isbancarrutad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isbirgongiadu"><i>isbirgongiad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isbrilliadu"><i>isbrilliad</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscabitzadu"><i>iscabitzad</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscaretzìbilee"><i>iscaretzìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="iscarmentosu"><i>iscarmentos</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscarpeddadu"><i>iscarpeddad</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscartzadu"><i>iscartzad</i><par n="frantzes/u__adj"/></e>
+    <e lm="ischermidoree"><i>ischermidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="iscofada"><i>iscofada</i><par n="meda__adj"/></e>
+    <e lm="iscotu"><i>iscot</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscrillitantee"><i>iscrillitante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="isculafogu"><i>isculafog</i><par n="frantzes/u__adj"/></e>
+    <e lm="isculiamusca"><i>isculiamusca</i><par n="meda__adj"/></e>
+    <e lm="iscumentadu"><i>iscumentad</i><par n="frantzes/u__adj"/></e>
+    <e lm="iscuncordantee"><i>iscuncordante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="iscunfiantziosu"><i>iscunfiantzios</i><par n="frantzes/u__adj"/></e>
+    <e lm="isentee"><i>isente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="islealee"><i>isleale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ismoladu"><i>ismolad</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispàinu"><i>ispàin</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispantamata"><i>ispantamata</i><par n="meda__adj"/></e>
+    <e lm="ispantòsigu"><i>ispantòsig</i><par n="frantzes/u__adj"/></e>
+    <e lm="isparpalotzadu"><i>isparpalotzad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isparpeddadu"><i>isparpeddad</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispatzialee"><i>ispatziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispeddèntilee"><i>ispeddèntile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="isperimentalee"><i>isperimentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="isperosu"><i>isperos</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispetacularee"><i>ispetaculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispetralee"><i>ispetrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispetzialee"><i>ispetziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispìgiu"><i>ispìgi</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispiritualee"><i>ispirituale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ispiritualista"><i>ispiritualista</i><par n="meda__adj"/></e>
+    <e lm="isprenèticu"><i>isprenètic</i><par n="frantzes/u__adj"/></e>
+    <e lm="istadalee"><i>istadale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istangonee"><i>istangone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istatalee"><i>istatale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istatuàriu"><i>istatuàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="istèrilee"><i>istèrile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="isterrighinadu"><i>isterrighinad</i><par n="frantzes/u__adj"/></e>
+    <e lm="istiletee"><i>istilete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istipulàbilee"><i>istipulàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istitutzionalee"><i>istitu</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istòigu"><i>istòig</i><par n="frantzes/u__adj"/></e>
+    <e lm="istontonantee"><i>istontonante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istradalee"><i>istradale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istrambecu"><i>istrambec</i><par n="frantzes/u__adj"/></e>
+    <e lm="istravagantee"><i>istravagante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istrìgilee"><i>istrìgile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istrolicheddu"><i>istrolichedd</i><par n="frantzes/u__adj"/></e>
+    <e lm="istròlicu"><i>istròlic</i><par n="frantzes/u__adj"/></e>
+    <e lm="istrugnu"><i>istrugn</i><par n="frantzes/u__adj"/></e>
+    <e lm="istrumentalee"><i>istrumentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istruturàbilee"><i>istruturàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istruturalee"><i>istruturale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="istumbadu"><i>istumbad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isurcadu"><i>isurcad</i><par n="frantzes/u__adj"/></e>
+    <e lm="isventiadu"><i>isventiad</i><par n="frantzes/u__adj"/></e>
+    <e lm="labialee"><i>labiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lacanantee"><i>lacanante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lagunaree"><i>lagunare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="laitzista"><i>laitzista</i><par n="meda__adj"/></e>
+    <e lm="lampantee"><i>lampante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="làponee"><i>làpone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lateralee"><i>laterale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="latzialee"><i>latziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lavrisùtilee"><i>lavrisùtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lealee"><i>leale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ledìbilee"><i>ledìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="legalee"><i>legale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lessicalee"><i>lessicale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lètonee"><i>lètone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="levàtilee"><i>levàtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="levee"><i>leve</i><par n="fàtzil/e__adj"/></e>
+    <e lm="liberalee"><i>liberale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="licantee"><i>licante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="licuidàbilee"><i>licuidàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lighentee"><i>lighente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lìguree"><i>lìgure</i><par n="fàtzil/e__adj"/></e>
+    <e lm="limbichichi"><i>limbichichi</i><par n="meda__adj"/></e>
+    <e lm="limburi"><i>limburi</i><par n="meda__adj"/></e>
+    <e lm="linguista"><i>linguista</i><par n="meda__adj"/></e>
+    <e lm="liniaree"><i>liniare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lissialee"><i>lissiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="literalee"><i>literale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="litzealee"><i>litzeale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="loàbilee"><i>loàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="localee"><i>locale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lollee"><i>lolle</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lolloi"><i>lolloi</i><par n="meda__adj"/></e>
+    <e lm="longitudinalee"><i>longitudinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lubrificadoree"><i>lubrificadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lucràbilee"><i>lucràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lughendee"><i>lughende</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lughentee"><i>lughente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lutzighentee"><i>lutzighente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="magiorennee"><i>magiorenne</i><par n="fàtzil/e__adj"/></e>
+    <e lm="magistralee"><i>magistrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="malacuntentaree"><i>malacuntentare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="malefadadu"><i>malefadad</i><par n="frantzes/u__adj"/></e>
+    <e lm="malincaridu"><i>malincarid</i><par n="frantzes/u__adj"/></e>
+    <e lm="maliperdee"><i>maliperde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="malogradu"><i>malograd</i><par n="frantzes/u__adj"/></e>
+    <e lm="mamalee"><i>mamale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="manantialee"><i>manantiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mandamentalee"><i>mandamentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mangalloi"><i>mangalloi</i><par n="meda__adj"/></e>
+    <e lm="manghilloi"><i>manghilloi</i><par n="meda__adj"/></e>
+    <e lm="mangianilee"><i>mangianile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="manierista"><i>manierista</i><par n="meda__adj"/></e>
+    <e lm="manniosidadee"><i>manniosidade</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mannosu"><i>mannos</i><par n="frantzes/u__adj"/></e>
+    <e lm="manualee"><i>manuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="maori"><i>maori</i><par n="meda__adj"/></e>
+    <e lm="marginalee"><i>marginale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="marmòreu"><i>marmòre</i><par n="frantzes/u__adj"/></e>
+    <e lm="marraghee"><i>marraghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="martinedda"><i>martinedda</i><par n="meda__adj"/></e>
+    <e lm="martzialee"><i>martziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="maschilee"><i>maschile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="maschilista"><i>maschilista</i><par n="meda__adj"/></e>
+    <e lm="masentzialee"><i>masentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="massimamentee"><i>massimamente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="massimista"><i>massimista</i><par n="meda__adj"/></e>
+    <e lm="materialista"><i>materialista</i><par n="meda__adj"/></e>
+    <e lm="materiaree"><i>materiare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="matrimonialee"><i>matrimoniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="matzutzu"><i>matzutz</i><par n="frantzes/u__adj"/></e>
+    <e lm="medievalee"><i>medievale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="megalòmanee"><i>megalòmane</i><par n="fàtzil/e__adj"/></e>
+    <e lm="meguentee"><i>meguente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="meighinalee"><i>meighinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mèlica"><i>mèlica</i><par n="meda__adj"/></e>
+    <e lm="melòmanee"><i>melòmane</i><par n="fàtzil/e__adj"/></e>
+    <e lm="memoràbilee"><i>memoràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="menduladu"><i>mendulad</i><par n="frantzes/u__adj"/></e>
+    <e lm="mensilee"><i>mensile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mentalee"><i>mentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mentifinee"><i>mentifine</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mercantilee"><i>mercantile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="meridionalee"><i>meridionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="meschineddu"><i>meschinedd</i><par n="frantzes/u__adj"/></e>
+    <e lm="messiànicu"><i>messiànic</i><par n="frantzes/u__adj"/></e>
+    <e lm="miliaree"><i>miliare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="minimalista"><i>minimalista</i><par n="meda__adj"/></e>
+    <e lm="ministerialee"><i>ministeriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="minoraghee"><i>minoraghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="minoree"><i>minore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="minorennee"><i>minorenne</i><par n="fàtzil/e__adj"/></e>
+    <e lm="minorilee"><i>minorile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="miscredentee"><i>miscredente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="miseràbilee"><i>miseràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mòbilee"><i>mòbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="modalee"><i>modale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="moddee"><i>modde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="modernista"><i>modernista</i><par n="meda__adj"/></e>
+    <e lm="mòlliu"><i>mòlli</i><par n="frantzes/u__adj"/></e>
+    <e lm="moltèplitzee"><i>moltèplitze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="momentànea"><i>momentànea</i><par n="meda__adj"/></e>
+    <e lm="monumentalee"><i>monumentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mordaghee"><i>mordaghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="moristuda"><i>moristuda</i><par n="meda__adj"/></e>
+    <e lm="mortalee"><i>mortale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mortìferu"><i>mortìfer</i><par n="frantzes/u__adj"/></e>
+    <e lm="mortorgialee"><i>mortorgiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mortumalee"><i>mortumale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="moscovita"><i>moscovita</i><par n="meda__adj"/></e>
+    <e lm="mossigantee"><i>mossigante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mulìebree"><i>mulìebre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multicanalee"><i>multicanale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multicoloree"><i>multicolore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multiculturalee"><i>multiculturale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multiformee"><i>multiforme</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multilìnguee"><i>multilìngue</i><par n="fàtzil/e__adj"/></e>
+    <e lm="multimedialee"><i>multimediale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="mundialee"><i>mundiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="munitzipalee"><i>munitzipale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="muntonilee"><i>muntonile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="murrisutilee"><i>murrisutile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="muscularee"><i>musculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="musealee"><i>museale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="musicalee"><i>musicale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="narbonantee"><i>narbonante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nartzisista"><i>nartzisista</i><par n="meda__adj"/></e>
+    <e lm="nasalee"><i>nasale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nasifinee"><i>nasifine</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nasimoddee"><i>nasimodde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nasinu"><i>nasin</i><par n="frantzes/u__adj"/></e>
+    <e lm="nassalee"><i>nassale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="natzionalee"><i>na</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm=""><i></i><par n="meda__adj"/></e>
+    <e lm="navalee"><i>navale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="navigàbilee"><i>navigàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nazista"><i>nazista</i><par n="meda__adj"/></e>
+    <e lm="negatzionista"><i>nega</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
+    <e lm="negotziàbilee"><i>negotziàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="neoclassitzismu"><i>neoclassitzism</i><par n="frantzes/u__adj"/></e>
+    <e lm="neonazista"><i>neonazista</i><par n="meda__adj"/></e>
+    <e lm="nessunu"><i>nessun</i><par n="frantzes/u__adj"/></e>
+    <e lm="neuladoree"><i>neuladore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="neutralee"><i>neutrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nichilista"><i>nichilista</i><par n="meda__adj"/></e>
+    <e lm="nìdidu"><i>nìdid</i><par n="frantzes/u__adj"/></e>
+    <e lm="noàdilee"><i>noàdile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="noalee"><i>noale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nòbilee"><i>nòbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="noghilee"><i>noghile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nòmadee"><i>nòmade</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nominalee"><i>nominale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="normàbilee"><i>normàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="normalee"><i>normale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="notàbilee"><i>notàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="notàrgiu"><i>notàrgi</i><par n="frantzes/u__adj"/></e>
+    <e lm="notarialee"><i>notariale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="notarilee"><i>notarile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="notèvolee"><i>notèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="notzentee"><i>notzente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nuclearee"><i>nucleare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="numeralee"><i>numerale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nuosu"><i>nuos</i><par n="frantzes/u__adj"/></e>
+    <e lm="nùrtilee"><i>nùrtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nutrientee"><i>nutriente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nutzialee"><i>nutziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="obispalee"><i>obispale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ocupàbilee"><i>ocupàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ogrimoddee"><i>ogrimodde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="omenàgiu"><i>omenàgi</i><par n="frantzes/u__adj"/></e>
+    <e lm="omosessualee"><i>omosessuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ònnia"><i>ònnia</i><par n="meda__adj"/></e>
+    <e lm="onnipotentee"><i>onnipotente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="onoràbilee"><i>onoràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="operaista"><i>operaista</i><par n="meda__adj"/></e>
+    <e lm="oralee"><i>orale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orbicularee"><i>orbiculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ordinalee"><i>ordinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="organizàbilee"><i>organizàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orgialee"><i>orgiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orientalee"><i>orientale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orientalista"><i>orientalista</i><par n="meda__adj"/></e>
+    <e lm="originalee"><i>originale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orizontalee"><i>orizontale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ortalee"><i>ortale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ortogonalee"><i>ortogonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ossari"><i>ossari</i><par n="meda__adj"/></e>
+    <e lm="ossetu"><i>osset</i><par n="frantzes/u__adj"/></e>
+    <e lm="ostiensa"><i>ostiensa</i><par n="meda__adj"/></e>
+    <e lm="otagonalee"><i>otagonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="otimalee"><i>otimale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="otimista"><i>otimista</i><par n="meda__adj"/></e>
+    <e lm="otzidentalee"><i>otzidentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ovalee"><i>ovale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="padronalee"><i>padronale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pagiaghee"><i>pagiaghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="palatalee"><i>palatale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="palatoalveolaree"><i>palatoalveolare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="palimoddee"><i>palimodde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pampalucheri"><i>pampalucheri</i><par n="meda__adj"/></e>
+    <e lm="papalee"><i>papale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="papasoru"><i>papasor</i><par n="frantzes/u__adj"/></e>
+    <e lm="papatzinu"><i>papatzin</i><par n="frantzes/u__adj"/></e>
+    <e lm="paradossalee"><i>paradossale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="paranormalee"><i>paranormale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parderina"><i>parderina</i><par n="meda__adj"/></e>
+    <e lm="paree"><i>pare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parentilee"><i>parentile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pari"><i>pari</i><par n="meda__adj"/></e>
+    <e lm="parinalee"><i>parinale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parìvilee"><i>parìvile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parlamentaree"><i>parlamentare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parrochialee"><i>parrochiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="partetzipantee"><i>partetzipante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="particularee"><i>particulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="partzialee"><i>partziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="passatista"><i>passatista</i><par n="meda__adj"/></e>
+    <e lm="passentzilee"><i>passentzile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="passionalee"><i>passionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pastarragna"><i>pastarragna</i><par n="meda__adj"/></e>
+    <e lm="pastoralee"><i>pastorale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pastorilee"><i>pastorile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="paternalee"><i>paternale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="patriarcalee"><i>patriarcale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="patrimonialee"><i>patrimoniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="patzificadoree"><i>patzificadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="patzifista"><i>patzifista</i><par n="meda__adj"/></e>
+    <e lm="peculiaree"><i>peculiare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pedonalee"><i>pedonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pedralee"><i>pedrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="peimoddee"><i>peimodde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="penalee"><i>penale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pendentee"><i>pendente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pendentilee"><i>pendentile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="peninsularee"><i>peninsulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="penitentee"><i>penitente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pensadoree"><i>pensadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pènsilee"><i>pènsile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="peralee"><i>perale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="perennee"><i>perenne</i><par n="fàtzil/e__adj"/></e>
+    <e lm="perfetzionista"><i>perfe</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
+    <e lm="perimetralee"><i>perimetrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="permanentee"><i>permanente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="perparee"><i>perpare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pèrperee"><i>pèrpere</i><par n="fàtzil/e__adj"/></e>
+    <e lm="personalee"><i>personale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pertiatzu"><i>pertiatz</i><par n="frantzes/u__adj"/></e>
+    <e lm="pertinentee"><i>pertinente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pertocantee"><i>pertocante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pertuntu"><i>pertunt</i><par n="frantzes/u__adj"/></e>
+    <e lm="pesantee"><i>pesante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pessimista"><i>pessimista</i><par n="meda__adj"/></e>
+    <e lm="pestilentee"><i>pestilente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="petulantee"><i>petulante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="piberudu"><i>piberud</i><par n="frantzes/u__adj"/></e>
+    <e lm="picantee"><i>picante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="picochilee"><i>picochile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pigiàdilee"><i>pigiàdile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="piliaghee"><i>piliaghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pilicastàngia"><i>pilicastàngia</i><par n="meda__adj"/></e>
+    <e lm="pilimbessee"><i>pilimbesse</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pilioli"><i>pilioli</i><par n="meda__adj"/></e>
+    <e lm="pillietee"><i>pilliete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pinnàdilee"><i>pinnàdile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pintogadu"><i>pintogad</i><par n="frantzes/u__adj"/></e>
+    <e lm="piotu"><i>piot</i><par n="frantzes/u__adj"/></e>
+    <e lm="piramidalee"><i>piramidale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pirmu"><i>pirm</i><par n="frantzes/u__adj"/></e>
+    <e lm="pirodda"><i>pirodda</i><par n="meda__adj"/></e>
+    <e lm="piscajolu"><i>piscajol</i><par n="frantzes/u__adj"/></e>
+    <e lm="pisciacanee"><i>pisciacane</i><par n="fàtzil/e__adj"/></e>
+    <e lm="piscitonee"><i>piscitone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pisilee"><i>pisile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pisilinghitu"><i>pisilinghit</i><par n="frantzes/u__adj"/></e>
+    <e lm="pistiddentee"><i>pistiddente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="piulaghee"><i>piulaghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pluralee"><i>plurale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="plurilìnguee"><i>plurilìngue</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pluritzellularee"><i>pluritzellulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="polaree"><i>polare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="poliglota"><i>poliglota</i><par n="meda__adj"/></e>
+    <e lm="politeista"><i>politeista</i><par n="meda__adj"/></e>
+    <e lm="politicantee"><i>politicante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="popularee"><i>populare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="porralee"><i>porrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="portantee"><i>portante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="portàtilee"><i>portàtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="portualee"><i>portuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="possìbilee"><i>possìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="postalee"><i>postale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="posterioree"><i>posteriore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="postindustrialee"><i>postindustriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="postulantee"><i>postulante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="potàbilee"><i>potàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="potentee"><i>potente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="potentzialee"><i>potentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="praghilee"><i>praghile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="praneri"><i>praneri</i><par n="meda__adj"/></e>
+    <e lm="preesistentee"><i>preesistente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="preferentzialee"><i>preferentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="preferìbilee"><i>preferìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="preliminaree"><i>preliminare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prepalatalee"><i>prepalatale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prepositzionalee"><i>preposi</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prepotentee"><i>prepotente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="presentàbilee"><i>presentàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="presidentzialee"><i>presidentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pretista"><i>pretista</i><par n="meda__adj"/></e>
+    <e lm="pretzedentee"><i>pretzedente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prevalentee"><i>prevalente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="previdìbilee"><i>previdìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="primordialee"><i>primordiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prìngia"><i>prìngia</i><par n="meda__adj"/></e>
+    <e lm="printzipalee"><i>printzipale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="privilegiàbilee"><i>privilegiàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="probàbilee"><i>probàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proclamàbilee"><i>proclamàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="professionalee"><i>professionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="professionista"><i>professionista</i><par n="meda__adj"/></e>
+    <e lm="progetualee"><i>progetuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proilee"><i>proile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="projanu"><i>projan</i><par n="frantzes/u__adj"/></e>
+    <e lm="promotzionalee"><i>promo</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="promulgàbilee"><i>promulgàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pronominalee"><i>pronominale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pronumenalee"><i>pronumenale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proponìbilee"><i>proponìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proportzionalee"><i>propor</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prorogàbilee"><i>prorogàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="protestantee"><i>protestante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="provàntzulu"><i>provàntzul</i><par n="frantzes/u__adj"/></e>
+    <e lm="proventzalee"><i>proventzale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="providentzialee"><i>providentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="provintzialee"><i>provintziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="prudentee"><i>prudente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pudree"><i>pudre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="puntualee"><i>puntuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="puntzudu"><i>puntzud</i><par n="frantzes/u__adj"/></e>
+    <e lm="pùrilee"><i>pùrile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="purmonatzu"><i>purmonatz</i><par n="frantzes/u__adj"/></e>
+    <e lm="rabbietee"><i>rabbiete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rabicanu"><i>rabican</i><par n="frantzes/u__adj"/></e>
+    <e lm="radicalee"><i>radicale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ragionèvolee"><i>ragionèvole</i><par n="fàtzil/e__adj"/></e>
+    <e lm="raidòrgia"><i>raidòrgia</i><par n="meda__adj"/></e>
+    <e lm="raidu"><i>raid</i><par n="frantzes/u__adj"/></e>
+    <e lm="ramada"><i>ramada</i><par n="meda__adj"/></e>
+    <e lm="rampicantee"><i>rampicante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rasadoree"><i>rasadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rasentee"><i>rasente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rasigadoree"><i>rasigadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="raspadoree"><i>raspadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="raspignadoree"><i>raspignadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rastradoree"><i>rastradore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ratealee"><i>rateale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ratificàbilee"><i>ratificàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ratu"><i>rat</i><par n="frantzes/u__adj"/></e>
+    <e lm="ratzigadoree"><i>ratzigadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ratzigamuru"><i>ratzigamur</i><par n="frantzes/u__adj"/></e>
+    <e lm="ratzionalee"><i>ra</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="realee"><i>reale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rebechinadoree"><i>rebechinadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rebellee"><i>rebelle</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reberdee"><i>reberde</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reboteri"><i>reboteri</i><par n="meda__adj"/></e>
+    <e lm="rebuseri"><i>rebuseri</i><par n="meda__adj"/></e>
+    <e lm="recataju"><i>recataj</i><par n="frantzes/u__adj"/></e>
+    <e lm="reconnoschentee"><i>reconnoschente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="recuperàbilee"><i>recuperàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="redditìtziu"><i>redditìtzi</i><par n="frantzes/u__adj"/></e>
+    <e lm="reghentee"><i>reghente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="regionalee"><i>regionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="regollidoree"><i>regollidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="regollimentu"><i>regolliment</i><par n="frantzes/u__adj"/></e>
+    <e lm="regularee"><i>regulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="relatzionalee"><i>rela</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="remuneràbilee"><i>remuneràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="renalee"><i>renale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reoteri"><i>reoteri</i><par n="meda__adj"/></e>
+    <e lm="reparadoree"><i>reparadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reperìbilee"><i>reperìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="repicadoree"><i>repicadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="repitidoree"><i>repitidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reprenu"><i>repren</i><par n="frantzes/u__adj"/></e>
+    <e lm="residentzialee"><i>residentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="resistentee"><i>resistente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="responsàbilee"><i>responsàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="retangularee"><i>retangulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="retificadoree"><i>retificadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="retoralee"><i>retorale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reusadoree"><i>reusadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="reuseri"><i>reuseri</i><par n="meda__adj"/></e>
+    <e lm="reverentzialee"><i>reverentziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="revocàbilee"><i>revocàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ricatadoree"><i>ricatadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ricòngiu"><i>ricòngi</i><par n="frantzes/u__adj"/></e>
+    <e lm="ridondantee"><i>ridondante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rifletentee"><i>rifletente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rigeneratzionista"><i>rigenera</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
+    <e lm="rilevantee"><i>rilevante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rimovìbilee"><i>rimovìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rinnovàbilee"><i>rinnovàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="riordinàbilee"><i>riordinàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ripetentee"><i>ripetente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rìtmicu"><i>rìtmic</i><par n="frantzes/u__adj"/></e>
+    <e lm="ritzevibilidadee"><i>ritzevibilidade</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ritzevidoree"><i>ritzevidore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rivalee"><i>rivale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rocalee"><i>rocale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rudàrgiu"><i>rudàrgi</i><par n="frantzes/u__adj"/></e>
+    <e lm="rudee"><i>rude</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ruminantee"><i>ruminante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="rupestree"><i>rupestre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ruralee"><i>rurale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sacajalee"><i>sacajale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sacramentalee"><i>sacramentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sacrificalee"><i>sacrificale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sàligu"><i>sàlig</i><par n="frantzes/u__adj"/></e>
+    <e lm="sànscritu"><i>sànscrit</i><par n="frantzes/u__adj"/></e>
+    <e lm="santzionàbilee"><i>san</i><par n="tz/z"/><i>ionàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sardista"><i>sardista</i><par n="meda__adj"/></e>
+    <e lm="sartàrgia"><i>sartàrgia</i><par n="meda__adj"/></e>
+    <e lm="satànicu"><i>satànic</i><par n="frantzes/u__adj"/></e>
+    <e lm="satzerdotalee"><i>satzerdotale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="secularee"><i>seculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="segantee"><i>segante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="segnorilee"><i>segnorile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="segundàriu"><i>segundàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="sellentee"><i>sellente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="semianalfabeta"><i>semianalfabeta</i><par n="meda__adj"/></e>
+    <e lm="semitrasparentee"><i>semitrasparente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="semitzircularee"><i>semitzirculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sèmplitzee"><i>sèmplitze</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sensatzionalista"><i>sensa</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="sensìbilee"><i>sensìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sensualee"><i>sensuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sentimentalee"><i>sentimentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="separàbilee"><i>separàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="separatista"><i>separatista</i><par n="meda__adj"/></e>
+    <e lm="seralee"><i>serale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="serentee"><i>serente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sessualee"><i>sessuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="setentrionalee"><i>setentrionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="setimanalee"><i>setimanale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="setorialee"><i>setoriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sideralee"><i>siderale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sighentee"><i>sighente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="significantee"><i>significante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="silentee"><i>silente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="simigiantee"><i>simigiante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sìmilee"><i>sìmile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="simpree"><i>simpre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="simulàbilee"><i>simulàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sindacalee"><i>sindacale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="singularee"><i>singulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sionista"><i>sionista</i><par n="meda__adj"/></e>
+    <e lm="sofista"><i>sofista</i><par n="meda__adj"/></e>
+    <e lm="solaree"><i>solare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="solennee"><i>solenne</i><par n="fàtzil/e__adj"/></e>
+    <e lm="solùbilee"><i>solùbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sonantee"><i>sonante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="soporìfera"><i>soporìfera</i><par n="meda__adj"/></e>
+    <e lm="sorigadoree"><i>sorigadore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sostituìbilee"><i>sostituìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sotzialee"><i>sotziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sotzialista"><i>sotzialista</i><par n="meda__adj"/></e>
+    <e lm="sua"><i>sua</i><par n="meda__adj"/></e>
+    <e lm="sublimee"><i>sublime</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subliminalee"><i>subliminale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subrabbundantee"><i>subrabbundante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subradosee"><i>subradose</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subralocalee"><i>subralocale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subramunitzipalee"><i>subramunitzipale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subrastantee"><i>subrastante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="subravenìbilee"><i>subravenìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sufitzientee"><i>sufitziente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="summamentee"><i>summamente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="superfitzialee"><i>superfitziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="suplementaree"><i>suplementare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="suprimìbilee"><i>suprimìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="suscetìbilee"><i>suscetìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sussistentee"><i>sussistente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sustantzialee"><i>sustantziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sutamarinu"><i>sutamarin</i><par n="frantzes/u__adj"/></e>
+    <e lm="sutastantee"><i>sutastante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sutilee"><i>sutile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tangìbilee"><i>tangìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tassàbilee"><i>tassàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="teatralee"><i>teatrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="teista"><i>teista</i><par n="meda__adj"/></e>
+    <e lm="telluraghee"><i>telluraghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="temporalee"><i>temporale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tenorilee"><i>tenorile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="teologalee"><i>teologale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="termalee"><i>termale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="terminalee"><i>terminale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="terrestree"><i>terrestre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="terrìbilee"><i>terrìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="territorialee"><i>territoriale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tèssilee"><i>tèssile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="titibàchina"><i>titibàchina</i><par n="meda__adj"/></e>
+    <e lm="titularee"><i>titulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="titulee"><i>titule</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tocheddonee"><i>tocheddone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tònchinu"><i>tònchin</i><par n="frantzes/u__adj"/></e>
+    <e lm="traballantee"><i>traballante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="traditzionalee"><i>tradi</i><par n="tz/z"/><i>ionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="traditzionalista"><i>tradi</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="tralughentee"><i>tralughente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trancosu"><i>trancos</i><par n="frantzes/u__adj"/></e>
+    <e lm="trantulonee"><i>trantulone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trascendentalee"><i>trascendentale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trascuràbilee"><i>trascuràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trasmitentee"><i>trasmitente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trasparentee"><i>trasparente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trasversalee"><i>trasversale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trempista"><i>trempista</i><par n="meda__adj"/></e>
+    <e lm="triangularee"><i>triangulare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tricoloree"><i>tricolore</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tridimensionalee"><i>tridimensionale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="triennalee"><i>triennale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trigalee"><i>trigale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trilìnguee"><i>trilìngue</i><par n="fàtzil/e__adj"/></e>
+    <e lm="triponee"><i>tripone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="triunfalee"><i>triunfale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="trobealee"><i>trobeale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tropicalee"><i>tropicale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tua"><i>tua</i><par n="meda__adj"/></e>
+    <e lm="tupàdilee"><i>tupàdile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="turnista"><i>turnista</i><par n="meda__adj"/></e>
+    <e lm="tutelàbilee"><i>tutelàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tuvudu"><i>tuvud</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzacarretee"><i>tzacarrete</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzancutee"><i>tzancute</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzapadorinu"><i>tzapadorin</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzatzaraghee"><i>tzatzaraghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzedìbilee"><par n="tz/c"/><i>edìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzelestialee"><par n="tz/c"/><i>elestiale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzensuràbilee"><par n="tz/c"/><i>ensuràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzertificàbilee"><par n="tz/c"/><i>ertificàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzilestree"><par n="tz/c"/><i>ilestre</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzillanu"><par n="tz/c"/><i>illan</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzincavesu"><par n="tz/c"/><i>incaves</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzircularee"><par n="tz/c"/><i>irculare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzircustantzialee"><par n="tz/c"/><i>ircustantziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tziulaghee"><par n="tz/c"/><i>iulaghe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tziveta"><par n="tz/c"/><i>iveta</i><par n="meda__adj"/></e>
+    <e lm="tzivilee"><par n="tz/c"/><i>ivile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzugrudu"><i>tzugrud</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzutzunidu"><i>tzutzunid</i><par n="frantzes/u__adj"/></e>
+    <e lm="ubbidientee"><i>ubbidiente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ufitzialee"><i>ufitziale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ugualee"><i>uguale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="umanista"><i>umanista</i><par n="meda__adj"/></e>
+    <e lm="umbràdighee"><i>umbràdighe</i><par n="fàtzil/e__adj"/></e>
+    <e lm="umbràdilee"><i>umbràdile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="umbraditzu"><i>umbraditz</i><par n="frantzes/u__adj"/></e>
+    <e lm="umbrinee"><i>umbrine</i><par n="fàtzil/e__adj"/></e>
+    <e lm="umiliantee"><i>umiliante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="umorista"><i>umorista</i><par n="meda__adj"/></e>
+    <e lm="umpridu"><i>umprid</i><par n="frantzes/u__adj"/></e>
+    <e lm="unfronee"><i>unfrone</i><par n="fàtzil/e__adj"/></e>
+    <e lm="unipersonalee"><i>unipersonale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="universalee"><i>universale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="urgentee"><i>urgente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="uscentee"><i>uscente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="usualee"><i>usuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="ùtilee"><i>ùtile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="utopista"><i>utopista</i><par n="meda__adj"/></e>
+    <e lm="variàbilee"><i>variàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vegetalee"><i>vegetale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="veneràbilee"><i>veneràbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="venialee"><i>veniale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="verbalizantee"><i>verbalizante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="verista"><i>verista</i><par n="meda__adj"/></e>
+    <e lm="veritàbilee"><i>veritàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vertebralee"><i>vertebrale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="verticalee"><i>verticale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vidabidentee"><i>vidabidente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vidalee"><i>vidale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vietnamita"><i>vietnamita</i><par n="meda__adj"/></e>
+    <e lm="vigentee"><i>vigente</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vilee"><i>vile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vinculantee"><i>vinculante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="violàbilee"><i>violàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="viola"><i>viola</i><par n="meda__adj"/></e>
+    <e lm="vìrginee"><i>vìrgine</i><par n="fàtzil/e__adj"/></e>
+    <e lm="virilee"><i>virile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="virtualee"><i>virtuale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="visìbilee"><i>visìbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="visionàbilee"><i>visionàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vitalee"><i>vitale</i><par n="fàtzil/e__adj"/></e>
+    <e lm="volantee"><i>volante</i><par n="fàtzil/e__adj"/></e>
+    <e lm="volgaree"><i>volgare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="votàbilee"><i>votàbile</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vulgaree"><i>vulgare</i><par n="fàtzil/e__adj"/></e>
+    <e lm="zàulee"><i>zàule</i><par n="fàtzil/e__adj"/></e>
+    <e lm="zonalee"><i>zonale</i><par n="fàtzil/e__adj"/></e>
+
 	<!-- SECTION: adjetivos extraídos de CROS a partir de los paradigmas /D, /E, y /F -->
 
     <e lm="abaresu"><i>abares</i><par n="frantzes/u__adj"/></e>
@@ -40378,7 +41647,6 @@
     <e lm="isbeliadore"><i>isbeliador</i><par n="cunservador/e__adj"/></e>
     <e lm="isbeliadore"><i>isbeliador</i><par n="traballador/e__n"/></e>
     <e lm="isbianculidu"><i>isbianculid</i><par n="frantzes/u__adj"/></e>
-    <e lm="isbirgongiadu"><i>isbirgongiad</i><par n="frantzes/u__adj"/></e>
     <e lm="isbisogradu"><i>isbisograd</i><par n="frantzes/u__adj"/></e>
     <e lm="isbisuradu"><i>isbisurad</i><par n="frantzes/u__adj"/></e>
     <e lm="isbisuridu"><i>isbisurid</i><par n="frantzes/u__adj"/></e>
