@@ -412,275 +412,282 @@
       <e r="LR"><p><l>'àteru</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>u<b/>àteru</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>a<b/>àtera</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os<b/>àteros</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>as<b/>àteras</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	      <e>       <p><l>os<b/>àteros</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>as<b/>àteras</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="perun/u__prn" c="">
-      <e>       <p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>nu</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
+	    <pardef n="perun/u__prn" c="">
+	      <e>       <p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>nu</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+	    </pardef>
 
-    <pardef n="amb/os__prn" c="p.27 /105">
-      <e>       <p><l>os</l><r>os<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>as</l><r>os<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>aduas</l><r>os<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
+	    <pardef n="amb/os__prn" c="p.27 /105">
+	      <e>       <p><l>os</l><r>os<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>as</l><r>os<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>aduas</l><r>os<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
 
-    <pardef n="nemos__prn" c="p.27 /105">
-      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
+	    <pardef n="nemos__prn" c="p.27 /105">
+	      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+	    </pardef>
 
-    <pardef n="/su_chi__rel">
-      <e>       <p><l>su<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sa<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sos<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>sas<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>is<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="/su_chi__rel">
+	      <e>       <p><l>su<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>sa<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>sos<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>sas<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>is<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="/su_cale__rel">
-      <e>       <p><l>su<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sa<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sos<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>sas<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>is<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="/su_cale__rel">
+	      <e>       <p><l>su<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>sa<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>sos<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>sas<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>is<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="chi__rel">
-      <e>       <p><l></l><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
+	    <pardef n="chi__rel">
+	      <e>       <p><l></l><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+	    </pardef>
 
-    <pardef n="nudda__prn">
-      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
-    </pardef>
+	    <pardef n="nudda__prn">
+	      <e>       <p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+	    </pardef>
 
-    <pardef n="un/u__prn" c="">
-      <e><p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> 
-      <e><p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>os</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e> 
-      <e><p><l>as</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="un/u__prn" c="">
+	      <e><p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> 
+	      <e><p><l>a</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e><p><l>os</l><r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e> 
+	      <e><p><l>as</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
 
-    <!-- SECTION: Determiners -->
+	    <!-- SECTION: Determiners -->
 
-    <pardef n="/su__det" c="p.25">
-      <e r="RL"><p><l><a/>su</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l><a/>sa</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>su</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>sa</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sos</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>sas</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>is</l><r>su<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="/su__det" c="p.25">
+	      <e r="RL"><p><l><a/>su</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="RL"><p><l><a/>sa</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>su</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>sa</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>sos</l><r>su<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>sas</l><r>su<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>is</l><r>su<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="tot/u__predet" c="">
-      <e>       <p><l>u</l><r>u<s n="predet"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>a</l><r>u<s n="predet"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>us</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>os</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>as</l><r>u<s n="predet"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="tot/u__predet" c="">
+	      <e>       <p><l>u</l><r>u<s n="predet"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>a</l><r>u<s n="predet"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>us</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>os</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>as</l><r>u<s n="predet"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="/unu__det" c="p.25">
-      <e r="LR"><p><l>unu</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>d-una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="RL"><p><l><a/>unu</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l><a/>una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>unus</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>unos</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>unas</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="/unu__det" c="p.25">
+	      <e r="LR"><p><l>unu</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>d-una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="RL"><p><l><a/>unu</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="RL"><p><l><a/>una</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>unus</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>unos</l><r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>unas</l><r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="ogni__det" c="">
-      <e>       <p><l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
+	    <pardef n="ogni__det" c="">
+	      <e>       <p><l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+	    </pardef>
 
-    <pardef n="carchi__det" c="">
-      <e>       <p><l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
+	    <pardef n="carchi__det" c="">
+	      <e>       <p><l></l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+	    </pardef>
 
-    <pardef n="amb/os__det" c="p.27 /105">
-      <e>       <p><l>os</l><r>os<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>as</l><r>os<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>aduas</l><r>os<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
+	    <pardef n="amb/os__det" c="p.27 /105">
+	      <e>       <p><l>os</l><r>os<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>as</l><r>os<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>aduas</l><r>os<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
 
-    <pardef n="issoro__det" c="p.29">
-      <e>              <p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
+	    <pardef n="issoro__det" c="p.29">
+	      <e>              <p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+	    </pardef>
 
-    <pardef n="tale__det">
-      <e>              <p><l></l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>              <p><l>s</l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="tale__det">
+	      <e>              <p><l></l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+	      <e>              <p><l>s</l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="perun/u__det" c="">
-      <e>       <p><l>u</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>nu</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>a</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
+	    <pardef n="perun/u__det" c="">
+	      <e>       <p><l>u</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>nu</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>a</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	    </pardef>
 
-    <pardef n="cust/u__det" c="p.30">
-      <e>       <p><l>u</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>e</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>a</l><r>u<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>as</l><r>u<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="cust/u__det" c="p.30">
+	      <e>       <p><l>u</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>e</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>a</l><r>u<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>as</l><r>u<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="àter/u__det" c="">
-      <e>       <p><l>u</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>a</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>as</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="àter/u__det" c="">
+	      <e>       <p><l>u</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>a</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>as</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="un/u_àteru__det" c="">
-      <e r="LR"><p><l><b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>u<b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>a<b/>atera</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>os<b/>ateros</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>as<b/>ateras</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+	    <pardef n="un/u_àteru__det" c="">
+	      <e r="LR"><p><l><b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>u<b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>a<b/>atera</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e r="LR"><p><l>os<b/>ateros</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>as<b/>ateras</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
-      <e r="LR"><p><l><b/>àteru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>u<b/>àteru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>a<b/>àtera</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os<b/>àteros</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>as<b/>àteras</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <!-- SECTION: Nouns -->
+	      <e r="LR"><p><l><b/>àteru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>u<b/>àteru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>a<b/>àtera</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os<b/>àteros</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>as<b/>àteras</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <!-- SECTION: Nouns -->
 
-    <pardef n="pane__n">
-      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <pardef n="lapis__n">
-      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    </pardef>
+	    <pardef n="pane__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="lapis__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+	    </pardef>
 
-    <pardef n="càmbaras__n">
-      <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    </pardef>
+	    <pardef n="càmbaras__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+	    </pardef>
 
-    <pardef n="PNB__n">
-      <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
-    </pardef>
-  
-    <pardef n="àrbore__n">
-      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="PNB__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
+	    </pardef>
+	  
+	    <pardef n="àrbore__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="dentista__n">
-      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <pardef n="poet/a__n">
-      <e>       <p><l>a</l><r>a<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>as</l><r>a<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>issa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>essa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC (CROS) -->
-      <e r="LR"><p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC (CROS) -->
-    </pardef>
+	    <pardef n="dentista__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="poet/a__n">
+	      <e>       <p><l>a</l><r>a<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>as</l><r>a<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>issa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>essa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC (CROS) -->
+	      <e r="LR"><p><l>essas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC (CROS) -->
+	    </pardef>
 
-    <pardef n="cont/e__n">
-      <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="cont/e__n">
+	      <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="re__n">
-      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ina</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>inas</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <pardef n="mesa__n">
-      <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <pardef n="identidad/e__n">
-      <e>       <p><l>e</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>es</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>i</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>is</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
- 
-    <pardef n="difer/èntzia__n">
-      <e>       <p><l>èntzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>èntzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>entzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>entzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>ènzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>ènzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>enzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>enzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
- 
-    <pardef n="import/àntzia__n">
-      <e>       <p><l>àntzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>àntzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>antzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>antzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>ànzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>ànzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>anzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>anzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
- 
-    <pardef n="region/e__n">
-      <e>       <p><l>e</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>es</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>i</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>is</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
- 
-    <pardef n="linguìsti/ca__n">
-      <e>       <p><l>ca</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>cas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>ga</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
-      <e r="LR"><p><l>gas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
- 
-    <pardef n="mac/u__n">
-      <e>       <p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>us</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-    </pardef>
+	    <pardef n="re__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>ina</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>inas</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="mesa__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>s</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="identidad/e__n">
+	      <e>       <p><l>e</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>es</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>i</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>is</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
+	 
+	    <pardef n="difer/èntzia__n">
+	      <e>       <p><l>èntzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>èntzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>entzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>entzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>ènzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>ènzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>enzia</l><r>èntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>enzias</l><r>èntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
+	 
+	    <pardef n="import/àntzia__n">
+	      <e>       <p><l>àntzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>àntzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>antzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>antzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>ànzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>ànzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>anzia</l><r>àntzia<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>anzias</l><r>àntzia<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
+	 
+	    <pardef n="region/e__n">
+	      <e>       <p><l>e</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>es</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>i</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>is</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
+	 
+	    <pardef n="linguìsti/ca__n">
+	      <e>       <p><l>ca</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>cas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>ga</l><r>ca<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+	      <e r="LR"><p><l>gas</l><r>ca<s n="n"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
+	 
+	    <pardef n="mac/u__n">
+	      <e>       <p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>us</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	    </pardef>
 
-    <pardef n="anarchismu__n">
-      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
+	    <pardef n="anarchismu__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e r="RL"><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	    </pardef>
 
-    <pardef n="nord__n">
-      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    </pardef>
-  
-    <pardef n="temp/us__n">
-      <e>       <p><l>us</l><r>us<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os</l><r>us<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
- 
-    <pardef n="amig/u__n">
-      <e>       <p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>os</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>us</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-      <e>       <p><l>a</l><r>u<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>as</l><r>u<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	    <pardef n="nord__n">
+	      <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	    </pardef>
+	  
+	    <pardef n="temp/us__n">
+	      <e>       <p><l>us</l><r>us<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os</l><r>us<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="amig/u__n">
+	      <e>       <p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>os</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e r="LR"><p><l>us</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+	      <e>       <p><l>a</l><r>u<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>as</l><r>u<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	    </pardef>
+	 
+	    <pardef n="ingegner/i__n">
+	      <e>       <p><l>i</l><r>i<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+	      <e>       <p><l>is</l><r>i<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>a</l><r>i<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r>i<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
  
     <pardef n="man/u__n">
@@ -27016,6 +27023,7 @@
 
 
 	<!-- SECTION: sustantivos extraídos de CROS a partir de los paradigmos /A, /B, /b, /C y /c (versión provisional) -->
+
     <e lm="abatzia"><i>abatzia</i><par n="mesa__n"/></e>
     <e lm="abbacota"><i>abbacota</i><par n="mesa__n"/></e>
     <e lm="abbada"><i>abbada</i><par n="mesa__n"/></e>
@@ -36771,6 +36779,292 @@
     <e lm="zungada"><i>zungada</i><par n="mesa__n"/></e>
     <e lm="zunzella"><i>zunzella</i><par n="mesa__n"/></e>
 
+	<!-- SECTION: sustantivos extraídos de CROS a partir de los paradigmas /D, /E, y /F -->
+
+    <e lm="adiàforu"><i>adiàfor</i><par n="amig/u__n"/></e>
+    <e lm="adultu"><i>adult</i><par n="amig/u__n"/></e>
+    <e lm="aferèticu"><i>aferètic</i><par n="amig/u__n"/></e>
+    <e lm="agutzinu"><i>agutzin</i><par n="amig/u__n"/></e>
+    <e lm="aineddu"><i>ainedd</i><par n="amig/u__n"/></e>
+    <e lm="àinu"><i>àin</i><par n="amig/u__n"/></e>
+    <e lm="allenadore"><i>allenador</i><par n="traballador/e__n"/></e>
+    <e lm="allocutivu"><i>allocutiv</i><par n="amig/u__n"/></e>
+    <e lm="allòfonu"><i>allòfon</i><par n="amig/u__n"/></e>
+    <e lm="allògrafu"><i>allògraf</i><par n="amig/u__n"/></e>
+    <e lm="alunnu"><i>alunn</i><par n="amig/u__n"/></e>
+    <e lm="amministradore"><i>amministrador</i><par n="traballador/e__n"/></e>
+    <e lm="ammiradore"><i>ammirador</i><par n="traballador/e__n"/></e>
+    <e lm="annoadore"><i>annoador</i><par n="traballador/e__n"/></e>
+    <e lm="antepassadu"><i>antepassad</i><par n="amig/u__n"/></e>
+    <e lm="antropòlogu"><i>antropòlog</i><par n="amig/u__n"/></e>
+    <e lm="antzianu"><i>antzian</i><par n="amig/u__n"/></e>
+    <e lm="aorradore"><i>aorrador</i><par n="traballador/e__n"/></e>
+    <e lm="apòlogu"><i>apòlog</i><par n="amig/u__n"/></e>
+    <e lm="archeòlogu"><i>archeòlog</i><par n="amig/u__n"/></e>
+    <e lm="arrantzelu"><i>arrantzel</i><par n="amig/u__n"/></e>
+    <e lm="arrendadori"><i>arrendador</i><par n="ingegner/i__n"/></e>
+    <e lm="artesanu"><i>artesan</i><par n="amig/u__n"/></e>
+    <e lm="assessore"><i>assessor</i><par n="traballador/e__n"/></e>
+    <e lm="atore"><i>ator</i><par n="traballador/e__n"/></e>
+    <e lm="autore"><i>autor</i><par n="traballador/e__n"/></e>
+    <e lm="avu"><i>av</i><par n="amig/u__n"/></e>
+    <e lm="bagadiu"><i>bagadi</i><par n="amig/u__n"/></e>
+    <e lm="ballerinu"><i>ballerin</i><par n="amig/u__n"/></e>
+    <e lm="bardaneri"><i>bardaner</i><par n="ingegner/i__n"/></e>
+    <e lm="bendidore"><i>bendidor</i><par n="traballador/e__n"/></e>
+    <e lm="benduleri"><i>benduler</i><par n="ingegner/i__n"/></e>
+    <e lm="benedetinu"><i>benedetin</i><par n="amig/u__n"/></e>
+    <e lm="benefitziàriu"><i>benefitziàri</i><par n="amig/u__n"/></e>
+    <e lm="bentosu"><i>bentos</i><par n="amig/u__n"/></e>
+    <e lm="bertuleri"><i>bertuler</i><par n="ingegner/i__n"/></e>
+    <e lm="biagiadore"><i>biagiador</i><par n="traballador/e__n"/></e>
+    <e lm="bibliotecàriu"><i>bibliotecàri</i><par n="amig/u__n"/></e>
+    <e lm="biddaju"><i>biddaj</i><par n="amig/u__n"/></e>
+    <e lm="bighinu"><i>bighin</i><par n="amig/u__n"/></e>
+    <e lm="binchidore"><i>binchidor</i><par n="traballador/e__n"/></e>
+    <e lm="bipartidu"><i>bipartid</i><par n="amig/u__n"/></e>
+    <e lm="bisaju"><i>bisaj</i><par n="amig/u__n"/></e>
+    <e lm="bisitadore"><i>bisitador</i><par n="traballador/e__n"/></e>
+    <e lm="bruncaleddu"><i>bruncaledd</i><par n="amig/u__n"/></e>
+    <e lm="burricu"><i>burric</i><par n="amig/u__n"/></e>
+    <e lm="butegheri"><i>butegher</i><par n="ingegner/i__n"/></e>
+    <e lm="cabillu"><i>cabill</i><par n="amig/u__n"/></e>
+    <e lm="camareri"><i>camarer</i><par n="ingegner/i__n"/></e>
+    <e lm="camereri"><i>camerer</i><par n="ingegner/i__n"/></e>
+    <e lm="camerieri"><i>camerier</i><par n="ingegner/i__n"/></e>
+    <e lm="candidadu"><i>candidad</i><par n="amig/u__n"/></e>
+    <e lm="cantautore"><i>cantautor</i><par n="traballador/e__n"/></e>
+    <e lm="cantzellieri"><i>cantzellier</i><par n="ingegner/i__n"/></e>
+    <e lm="carnatzeri"><i>carnatzer</i><par n="ingegner/i__n"/></e>
+    <e lm="cassieri"><i>cassier</i><par n="ingegner/i__n"/></e>
+    <e lm="catedràticu"><i>catedràtic</i><par n="amig/u__n"/></e>
+    <e lm="cavalleritzu"><i>cavalleritz</i><par n="amig/u__n"/></e>
+    <e lm="coghidore"><i>coghidor</i><par n="traballador/e__n"/></e>
+    <e lm="coghineri"><i>coghiner</i><par n="ingegner/i__n"/></e>
+    <e lm="collaboradore"><i>collaborador</i><par n="traballador/e__n"/></e>
+    <e lm="commediògrafu"><i>commediògraf</i><par n="amig/u__n"/></e>
+    <e lm="comporadore"><i>comporador</i><par n="traballador/e__n"/></e>
+    <e lm="congiuradu"><i>congiurad</i><par n="amig/u__n"/></e>
+    <e lm="connadu"><i>connad</i><par n="amig/u__n"/></e>
+    <e lm="consigieri"><i>consigier</i><par n="ingegner/i__n"/></e>
+    <e lm="corrighinu"><i>corrighin</i><par n="amig/u__n"/></e>
+    <e lm="cortesanu"><i>cortesan</i><par n="amig/u__n"/></e>
+    <e lm="cosidore"><i>cosidor</i><par n="traballador/e__n"/></e>
+    <e lm="costritivu"><i>costritiv</i><par n="amig/u__n"/></e>
+    <e lm="cumpàngiu"><i>cumpàngi</i><par n="amig/u__n"/></e>
+    <e lm="cunfiantziàriu"><par n="cun/con"/><i>fiantziàri</i><par n="amig/u__n"/></e>
+    <e lm="curadore"><i>curador</i><par n="traballador/e__n"/></e>
+    <e lm="cussigeri"><i>cussiger</i><par n="ingegner/i__n"/></e>
+    <e lm="dantzadore"><i>dantzador</i><par n="traballador/e__n"/></e>
+    <e lm="datilògrafu"><i>datilògraf</i><par n="amig/u__n"/></e>
+    <e lm="designadore"><i>designador</i><par n="traballador/e__n"/></e>
+    <e lm="designatore"><i>designator</i><par n="traballador/e__n"/></e>
+    <e lm="didinu"><i>didin</i><par n="amig/u__n"/></e>
+    <e lm="dinnu"><i>dinn</i><par n="amig/u__n"/></e>
+    <e lm="dipintadore"><i>dipintador</i><par n="traballador/e__n"/></e>
+    <e lm="dipintore"><i>dipintor</i><par n="traballador/e__n"/></e>
+    <e lm="diretore"><i>diretor</i><par n="traballador/e__n"/></e>
+    <e lm="disegnadore"><i>disegnador</i><par n="traballador/e__n"/></e>
+    <e lm="divulgadore"><i>divulgador</i><par n="traballador/e__n"/></e>
+    <e lm="donnu"><i>donn</i><par n="amig/u__n"/></e>
+    <e lm="editore"><i>editor</i><par n="traballador/e__n"/></e>
+    <e lm="emisfèriu"><i>emisfèri</i><par n="amig/u__n"/></e>
+    <e lm="erbadore"><i>erbador</i><par n="traballador/e__n"/></e>
+    <e lm="erederi"><i>ereder</i><par n="ingegner/i__n"/></e>
+    <e lm="esaminadore"><i>esaminador</i><par n="traballador/e__n"/></e>
+    <e lm="esuridore"><i>esuridor</i><par n="traballador/e__n"/></e>
+    <e lm="eterònimu"><i>eterònim</i><par n="amig/u__n"/></e>
+    <e lm="fartadu"><i>fartad</i><par n="amig/u__n"/></e>
+    <e lm="fatugiadore"><i>fatugiador</i><par n="traballador/e__n"/></e>
+    <e lm="favoressidore"><i>favoressidor</i><par n="traballador/e__n"/></e>
+    <e lm="ferifogu"><i>ferifog</i><par n="amig/u__n"/></e>
+    <e lm="festadore"><i>festador</i><par n="traballador/e__n"/></e>
+    <e lm="festeri"><i>fester</i><par n="ingegner/i__n"/></e>
+    <e lm="fidantzadu"><i>fidantzad</i><par n="amig/u__n"/></e>
+    <e lm="fidutziàriu"><i>fidutziàri</i><par n="amig/u__n"/></e>
+    <e lm="figiastru"><i>figiastr</i><par n="amig/u__n"/></e>
+    <e lm="figieddu"><i>figiedd</i><par n="amig/u__n"/></e>
+    <e lm="figiolu"><i>figiol</i><par n="amig/u__n"/></e>
+    <e lm="filòlogu"><i>filòlog</i><par n="amig/u__n"/></e>
+    <e lm="finantziadore"><i>finantziador</i><par n="traballador/e__n"/></e>
+    <e lm="finghidore"><i>finghidor</i><par n="traballador/e__n"/></e>
+    <e lm="flessivu"><i>flessiv</i><par n="amig/u__n"/></e>
+    <e lm="fonetismu"><i>fonetism</i><par n="amig/u__n"/></e>
+    <e lm="fotògrafu"><i>fotògraf</i><par n="amig/u__n"/></e>
+    <e lm="frusadore"><i>frusador</i><par n="traballador/e__n"/></e>
+    <e lm="funtzionàriu"><i>fun</i><par n="tz/z"/><i>ionàri</i><par n="amig/u__n"/></e>
+    <e lm="gabelleri"><i>gabeller</i><par n="ingegner/i__n"/></e>
+    <e lm="geògrafu"><i>geògraf</i><par n="amig/u__n"/></e>
+    <e lm="geònimu"><i>geònim</i><par n="amig/u__n"/></e>
+    <e lm="ghiadore"><i>ghiador</i><par n="traballador/e__n"/></e>
+    <e lm="giaju"><i>giaj</i><par n="amig/u__n"/></e>
+    <e lm="giardineri"><i>giardiner</i><par n="ingegner/i__n"/></e>
+    <e lm="ginecòlogu"><i>ginecòlog</i><par n="amig/u__n"/></e>
+    <e lm="giogadore"><i>giogador</i><par n="traballador/e__n"/></e>
+    <e lm="gioghilleri"><i>gioghiller</i><par n="ingegner/i__n"/></e>
+    <e lm="gioguleri"><i>gioguler</i><par n="ingegner/i__n"/></e>
+    <e lm="giostraju"><i>giostraj</i><par n="amig/u__n"/></e>
+    <e lm="giùgiuru"><i>giùgiur</i><par n="amig/u__n"/></e>
+    <e lm="glotòlogu"><i>glotòlog</i><par n="amig/u__n"/></e>
+    <e lm="grameneddu"><i>gramenedd</i><par n="amig/u__n"/></e>
+    <e lm="gridadore"><i>gridador</i><par n="traballador/e__n"/></e>
+    <e lm="grifu"><i>grif</i><par n="amig/u__n"/></e>
+    <e lm="grongu"><i>grong</i><par n="amig/u__n"/></e>
+    <e lm="gùrpinu"><i>gùrpin</i><par n="amig/u__n"/></e>
+    <e lm="guvernadore"><i>guvernador</i><par n="traballador/e__n"/></e>
+    <e lm="illustrativu"><i>illustrativ</i><par n="amig/u__n"/></e>
+    <e lm="imbentore"><i>imbentor</i><par n="traballador/e__n"/></e>
+    <e lm="imbiadore"><i>imbiador</i><par n="traballador/e__n"/></e>
+    <e lm="imperadore"><i>imperador</i><par n="traballador/e__n"/></e>
+    <e lm="impitadore"><i>impitador</i><par n="traballador/e__n"/></e>
+    <e lm="incurpadore"><i>incurpador</i><par n="traballador/e__n"/></e>
+    <e lm="indovinu"><i>indovin</i><par n="amig/u__n"/></e>
+    <e lm="infermieri"><i>infermier</i><par n="ingegner/i__n"/></e>
+    <e lm="ingegneri"><i>ingegner</i><par n="ingegner/i__n"/></e>
+    <e lm="ingennieri"><i>ingennier</i><par n="ingegner/i__n"/></e>
+    <e lm="intermediàriu"><i>intermediàri</i><par n="amig/u__n"/></e>
+    <e lm="isbùfidu"><i>isbùfid</i><par n="amig/u__n"/></e>
+    <e lm="isbuidore"><i>isbuidor</i><par n="traballador/e__n"/></e>
+    <e lm="iscaleri"><i>iscaler</i><par n="ingegner/i__n"/></e>
+    <e lm="iscarteddaju"><i>iscarteddaj</i><par n="amig/u__n"/></e>
+    <e lm="ischivu"><i>ischiv</i><par n="amig/u__n"/></e>
+    <e lm="isciadore"><i>isciador</i><par n="traballador/e__n"/></e>
+    <e lm="iscientziadu"><i>iscientziad</i><par n="amig/u__n"/></e>
+    <e lm="iscolanu"><i>iscolan</i><par n="amig/u__n"/></e>
+    <e lm="iscracàlliu"><i>iscracàlli</i><par n="amig/u__n"/></e>
+    <e lm="iscritore"><i>iscritor</i><par n="traballador/e__n"/></e>
+    <e lm="iscucadu"><i>iscucad</i><par n="amig/u__n"/></e>
+    <e lm="isperradore"><i>isperrador</i><par n="traballador/e__n"/></e>
+    <e lm="ispurpamentu"><i>ispurpament</i><par n="amig/u__n"/></e>
+    <e lm="istancheri"><i>istancher</i><par n="ingegner/i__n"/></e>
+    <e lm="istoriògrafu"><i>istoriògraf</i><par n="amig/u__n"/></e>
+    <e lm="istridu"><i>istrid</i><par n="amig/u__n"/></e>
+    <e lm="istrutore"><i>istrutor</i><par n="traballador/e__n"/></e>
+    <e lm="lessicògrafu"><i>lessicògraf</i><par n="amig/u__n"/></e>
+    <e lm="lessicòlogu"><i>lessicòlog</i><par n="amig/u__n"/></e>
+    <e lm="letore"><i>letor</i><par n="traballador/e__n"/></e>
+    <e lm="libraju"><i>libraj</i><par n="amig/u__n"/></e>
+    <e lm="magasineri"><i>magasiner</i><par n="ingegner/i__n"/></e>
+    <e lm="maistru"><i>maistr</i><par n="amig/u__n"/></e>
+    <e lm="majàrgiu"><i>majàrgi</i><par n="amig/u__n"/></e>
+    <e lm="malefatore"><i>malefator</i><par n="traballador/e__n"/></e>
+    <e lm="manniosu"><i>mannios</i><par n="amig/u__n"/></e>
+    <e lm="mannu"><i>mann</i><par n="amig/u__n"/></e>
+    <e lm="marchesu"><i>marches</i><par n="amig/u__n"/></e>
+    <e lm="massaju"><i>massaj</i><par n="amig/u__n"/></e>
+    <e lm="massivu"><i>massiv</i><par n="amig/u__n"/></e>
+    <e lm="mèigu"><i>mèig</i><par n="amig/u__n"/></e>
+    <e lm="minadore"><i>minador</i><par n="traballador/e__n"/></e>
+    <e lm="mòngiu"><i>mòngi</i><par n="amig/u__n"/></e>
+    <e lm="moralizadore"><i>moralizador</i><par n="traballador/e__n"/></e>
+    <e lm="muschitu"><i>muschit</i><par n="amig/u__n"/></e>
+    <e lm="mustajone"><i>mustajon</i><par n="traballador/e__n"/></e>
+    <e lm="nadadore"><i>nadador</i><par n="traballador/e__n"/></e>
+    <e lm="narradore"><i>narrador</i><par n="traballador/e__n"/></e>
+    <e lm="nebote"><i>nebot</i><par n="traballador/e__n"/></e>
+    <e lm="nennu"><i>nenn</i><par n="amig/u__n"/></e>
+    <e lm="neoclàssicu"><i>neoclàssic</i><par n="amig/u__n"/></e>
+    <e lm="ninnu"><i>ninn</i><par n="amig/u__n"/></e>
+    <e lm="nonnu"><i>nonn</i><par n="amig/u__n"/></e>
+    <e lm="ofelleri"><i>ofeller</i><par n="ingegner/i__n"/></e>
+    <e lm="omòfonu"><i>omòfon</i><par n="amig/u__n"/></e>
+    <e lm="omoglossu"><i>omogloss</i><par n="amig/u__n"/></e>
+    <e lm="omògrafu"><i>omògraf</i><par n="amig/u__n"/></e>
+    <e lm="operaju"><i>operaj</i><par n="amig/u__n"/></e>
+    <e lm="oradore"><i>orador</i><par n="traballador/e__n"/></e>
+    <e lm="paneteri"><i>paneter</i><par n="ingegner/i__n"/></e>
+    <e lm="parlamentesu"><i>parlamentes</i><par n="amig/u__n"/></e>
+    <e lm="parrochianu"><i>parrochian</i><par n="amig/u__n"/></e>
+    <e lm="passegeri"><i>passeger</i><par n="ingegner/i__n"/></e>
+    <e lm="patriotu"><i>patriot</i><par n="amig/u__n"/></e>
+    <e lm="patrotzinadore"><i>patrotzinador</i><par n="traballador/e__n"/></e>
+    <e lm="pedidore"><i>pedidor</i><par n="traballador/e__n"/></e>
+    <e lm="pelucheri"><i>pelucher</i><par n="ingegner/i__n"/></e>
+    <e lm="pesoneri"><i>pesoner</i><par n="ingegner/i__n"/></e>
+    <e lm="pintore"><i>pintor</i><par n="traballador/e__n"/></e>
+    <e lm="pipiu"><i>pipi</i><par n="amig/u__n"/></e>
+    <e lm="piscadore"><i>piscador</i><par n="traballador/e__n"/></e>
+    <e lm="piseddu"><i>pisedd</i><par n="amig/u__n"/></e>
+    <e lm="pitzocu"><i>pitzoc</i><par n="amig/u__n"/></e>
+    <e lm="pivellu"><i>pivell</i><par n="amig/u__n"/></e>
+    <e lm="pobiddu"><i>pobidd</i><par n="amig/u__n"/></e>
+    <e lm="poleddu"><i>poledd</i><par n="amig/u__n"/></e>
+    <e lm="politològicu"><i>politològic</i><par n="amig/u__n"/></e>
+    <e lm="politòlogu"><i>politòlog</i><par n="amig/u__n"/></e>
+    <e lm="politziotu"><i>politziot</i><par n="amig/u__n"/></e>
+    <e lm="pontificadu"><i>pontificad</i><par n="amig/u__n"/></e>
+    <e lm="pòrticu"><i>pòrtic</i><par n="amig/u__n"/></e>
+    <e lm="portieri"><i>portier</i><par n="ingegner/i__n"/></e>
+    <e lm="postinu"><i>postin</i><par n="amig/u__n"/></e>
+    <e lm="preparativu"><i>preparativ</i><par n="amig/u__n"/></e>
+    <e lm="prepostu"><i>prepost</i><par n="amig/u__n"/></e>
+    <e lm="presoneri"><i>presoner</i><par n="ingegner/i__n"/></e>
+    <e lm="prestadore"><i>prestador</i><par n="traballador/e__n"/></e>
+    <e lm="produtore"><i>produtor</i><par n="traballador/e__n"/></e>
+    <e lm="professore"><i>professor</i><par n="traballador/e__n"/></e>
+    <e lm="protetore"><i>protetor</i><par n="traballador/e__n"/></e>
+    <e lm="proveditore"><i>proveditor</i><par n="traballador/e__n"/></e>
+    <e lm="psicòlogu"><i>psicòlog</i><par n="amig/u__n"/></e>
+    <e lm="puddu"><i>pudd</i><par n="amig/u__n"/></e>
+    <e lm="ragionieri"><i>ragionier</i><par n="ingegner/i__n"/></e>
+    <e lm="randadu"><i>randad</i><par n="amig/u__n"/></e>
+    <e lm="raseri"><i>raser</i><par n="ingegner/i__n"/></e>
+    <e lm="rasigamentu"><i>rasigament</i><par n="amig/u__n"/></e>
+    <e lm="reatore"><i>reator</i><par n="traballador/e__n"/></e>
+    <e lm="rebùfidu"><i>rebùfid</i><par n="amig/u__n"/></e>
+    <e lm="recadu"><i>recad</i><par n="amig/u__n"/></e>
+    <e lm="rechedidore"><i>rechedidor</i><par n="traballador/e__n"/></e>
+    <e lm="redatore"><i>redator</i><par n="traballador/e__n"/></e>
+    <e lm="reladore"><i>relador</i><par n="traballador/e__n"/></e>
+    <e lm="relatadore"><i>relatador</i><par n="traballador/e__n"/></e>
+    <e lm="rennoadore"><i>rennoador</i><par n="traballador/e__n"/></e>
+    <e lm="resegadu"><i>resegad</i><par n="amig/u__n"/></e>
+    <e lm="retoradu"><i>retorad</i><par n="amig/u__n"/></e>
+    <e lm="revisionadore"><i>revisionador</i><par n="traballador/e__n"/></e>
+    <e lm="ricu"><i>ric</i><par n="amig/u__n"/></e>
+    <e lm="risparmiadore"><i>risparmiador</i><par n="traballador/e__n"/></e>
+    <e lm="romanzieri"><i>romanzier</i><par n="ingegner/i__n"/></e>
+    <e lm="rubbone"><i>rubbon</i><par n="traballador/e__n"/></e>
+    <e lm="saldadore"><i>saldador</i><par n="traballador/e__n"/></e>
+    <e lm="sarvadore"><i>sarvador</i><par n="traballador/e__n"/></e>
+    <e lm="seberamentu"><i>seberament</i><par n="amig/u__n"/></e>
+    <e lm="segnore"><i>segnor</i><par n="traballador/e__n"/></e>
+    <e lm="segnoricu"><i>segnoric</i><par n="amig/u__n"/></e>
+    <e lm="segnorinu"><i>segnorin</i><par n="amig/u__n"/></e>
+    <e lm="segretàriu"><i>segretàri</i><par n="amig/u__n"/></e>
+    <e lm="senadore"><i>senador</i><par n="traballador/e__n"/></e>
+    <e lm="signorinu"><i>signorin</i><par n="amig/u__n"/></e>
+    <e lm="sogru"><i>sogr</i><par n="amig/u__n"/></e>
+    <e lm="sucurridore"><i>sucurridor</i><par n="traballador/e__n"/></e>
+    <e lm="sutascritu"><i>sutascrit</i><par n="amig/u__n"/></e>
+    <e lm="sutasegretàriu"><i>sutasegretàri</i><par n="amig/u__n"/></e>
+    <e lm="tacheri"><i>tacher</i><par n="ingegner/i__n"/></e>
+    <e lm="tanchitu"><i>tanchit</i><par n="amig/u__n"/></e>
+    <e lm="tastadore"><i>tastador</i><par n="traballador/e__n"/></e>
+    <e lm="tentadore"><i>tentador</i><par n="traballador/e__n"/></e>
+    <e lm="tesorieri"><i>tesorier</i><par n="ingegner/i__n"/></e>
+    <e lm="tessidore"><i>tessidor</i><par n="traballador/e__n"/></e>
+    <e lm="testimòngiu"><i>testimòngi</i><par n="amig/u__n"/></e>
+    <e lm="tirannu"><i>tirann</i><par n="amig/u__n"/></e>
+    <e lm="tradutore"><i>tradutor</i><par n="traballador/e__n"/></e>
+    <e lm="traesseri"><i>traesser</i><par n="ingegner/i__n"/></e>
+    <e lm="traitore"><i>traitor</i><par n="traballador/e__n"/></e>
+    <e lm="trallatzeri"><i>trallatzer</i><par n="ingegner/i__n"/></e>
+    <e lm="traspostu"><i>traspost</i><par n="amig/u__n"/></e>
+    <e lm="turronaju"><i>turronaj</i><par n="amig/u__n"/></e>
+    <e lm="tzampitadore"><i>tzampitador</i><par n="traballador/e__n"/></e>
+    <e lm="tzeracu"><par n="tz/c"/><i>erac</i><par n="amig/u__n"/></e>
+    <e lm="tzietu"><par n="tz/c"/><i>iet</i><par n="amig/u__n"/></e>
+    <e lm="tzilleràrgiu"><par n="tz/c"/><i>illeràrgi</i><par n="amig/u__n"/></e>
+    <e lm="tziu"><par n="tz/c"/><i>i</i><par n="amig/u__n"/></e>
+    <e lm="tziveteri"><par n="tz/c"/><i>iveter</i><par n="ingegner/i__n"/></e>
+    <e lm="ùrpinu"><i>ùrpin</i><par n="amig/u__n"/></e>
+    <e lm="ventaneri"><i>ventaner</i><par n="ingegner/i__n"/></e>
+    <e lm="veterinàriu"><i>veterinàri</i><par n="amig/u__n"/></e>
+    <e lm="vitzediretore"><i>vitzediretor</i><par n="traballador/e__n"/></e>
+    <e lm="vitzeisposu"><i>vitzeispos</i><par n="amig/u__n"/></e>
+    <e lm="vitzeministru"><i>vitzeministr</i><par n="amig/u__n"/></e>
+    <e lm="zirigheddu"><i>zirighedd</i><par n="amig/u__n"/></e>
 
 </section>
 
