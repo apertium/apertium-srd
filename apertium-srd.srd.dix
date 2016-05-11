@@ -482,11 +482,7 @@
 	    </pardef>
 
 	    <pardef n="tot/u__predet" c="">
-	      <e>       <p><l>u</l><r>u<s n="predet"/><s n="m"/><s n="sg"/></r></p></e>
-	      <e>       <p><l>a</l><r>u<s n="predet"/><s n="f"/><s n="sg"/></r></p></e>
-	      <e r="LR"><p><l>us</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
-	      <e>       <p><l>os</l><r>u<s n="predet"/><s n="m"/><s n="pl"/></r></p></e>
-	      <e>       <p><l>as</l><r>u<s n="predet"/><s n="f"/><s n="pl"/></r></p></e>
+	      <e>       <p><l>u</l><r>u<s n="predet"/><s n="mf"/><s n="sp"/></r></p></e>
 	    </pardef>
 
 	    <pardef n="/unu__det" c="p.25">
