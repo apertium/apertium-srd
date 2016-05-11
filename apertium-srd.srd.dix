@@ -401,6 +401,11 @@
       <e>       <p><l>as</l><r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="totu__prn">
+      <e>       <p><l>u</l><r>u<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>us</l><r>u<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="un/u_àteru__prn" c="">
       <e r="LR"><p><l><b/>ateru</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>u<b/>ateru</l><r>u<b/>àteru<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3375,7 +3380,7 @@
     <e lm="ognunu"><i>ognun</i><par n="àter/u__prn"/></e>
     <e lm="cussu"><i>cuss</i><par n="àter/u__prn"/></e>
     <e lm="cussu"><i>cussu</i><par n="cussu__prn"/></e>
-    <e lm="totu"><i>tot</i><par n="àter/u__prn"/></e>
+    <e lm="totu"><i>tot</i><par n="totu__prn"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__prn"/></e>
     <e lm="perunu"><i>perun</i><par n="perun/u__prn"/></e>
