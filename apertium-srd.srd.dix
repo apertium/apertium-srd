@@ -167,6 +167,10 @@
       <e r="LR"><p><l>·ddi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>·lis</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>·ddis</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>·bi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·bi"/></e>	<!-- Hack for italian :( -->
+      <e r="LR"><p><l>·bi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·bi"/></e>	<!-- Hack for italian :( -->
+      <e>       <p><l>·bi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·bi"/></e>
+
       <e>       <p><l>·lu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>·ddu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>·la</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
@@ -175,8 +179,6 @@
       <e r="LR"><p><l>·ddos</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>·las</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>·ddas</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>·bi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>·bi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·bi"/></e>
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
 
