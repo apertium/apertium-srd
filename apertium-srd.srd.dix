@@ -594,8 +594,10 @@
     <pardef n="cont/e__n">
       <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>essa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e>       <p><l>essas</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
     </pardef>
 
     <pardef n="re__n">
@@ -3690,6 +3692,7 @@
 
     <e lm="poeta"><i>poet</i><par n="poet/a__n"/></e>
     <e lm="conte"><i>cont</i><par n="cont/e__n"/></e>
+    <e lm="barone"><i>baron</i><par n="cont/e__n"/></e>
     <e lm="printzipe"><i>printzip</i><par n="cont/e__n"/></e>
     <e lm="atore"><i>ator</i><par n="cont/e__n"/></e>
     <e lm="atore" r="LR"><p><l>attor</l><r>ator</r></p><par n="cont/e__n"/></e>
@@ -27519,7 +27522,6 @@
     <e lm="barista"><i>barista</i><par n="dentista__n"/></e>
     <e lm="barochismu"><i>barochismu</i><par n="anarchismu__n"/></e>
     <e lm="barona"><i>barona</i><par n="mesa__n"/></e>
-    <e lm="baronessa"><i>baronessa</i><par n="mesa__n"/></e>
     <e lm="baronia"><i>baronia</i><par n="mesa__n"/></e>
     <e lm="barraca"><i>barraca</i><par n="mesa__n"/></e>
     <e lm="barra"><i>barra</i><par n="mesa__n"/></e>
