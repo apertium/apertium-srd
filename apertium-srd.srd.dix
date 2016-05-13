@@ -577,11 +577,6 @@
 	      <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
 	    </pardef>
 	  
-	    <pardef n="àrbore__n">
-	      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-	      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-	    </pardef>
-
 	    <pardef n="dentista__n">
 	      <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
 	      <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -5393,12 +5388,12 @@
     <e lm="eredade"><i>eredade</i><par n="mesa__n"/></e>
     <e lm="ammenta"><i>ammenta</i><par n="mesa__n"/></e>
 
-    <e lm="birde"><i>birde</i><par n="àrbore__n"/></e>
-    <e lm="àrbore"><i>àrbore</i><par n="àrbore__n"/></e>
-    <e lm="àrbore" r="LR"><p><l>àrvore</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
-    <e lm="àrbore" r="LR"><p><l>àrvure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
-    <e lm="àrbore" r="LR"><p><l>àrbure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
-    <e lm="àrbore" r="LR"><p><l>arvure</l><r>àrbore</r></p><par n="àrbore__n"/></e> <!-- @!LSC -->
+    <e lm="birde"><i>birde</i><par n="dentista__n"/></e>
+    <e lm="àrbore"><i>àrbore</i><par n="dentista__n"/></e>
+    <e lm="àrbore" r="LR"><p><l>àrvore</l><r>àrbore</r></p><par n="dentista__n"/></e> <!-- @!LSC -->
+    <e lm="àrbore" r="LR"><p><l>àrvure</l><r>àrbore</r></p><par n="dentista__n"/></e> <!-- @!LSC -->
+    <e lm="àrbore" r="LR"><p><l>àrbure</l><r>àrbore</r></p><par n="dentista__n"/></e> <!-- @!LSC -->
+    <e lm="àrbore" r="LR"><p><l>arvure</l><r>àrbore</r></p><par n="dentista__n"/></e> <!-- @!LSC -->
 
     <e lm="cabulogu"><i>cabulog</i><par n="mac/u__n"/></e>
     <e lm="capulogu" r="LR" c="!LSC"><p><l>capulog</l><r>cabulog</r></p><par n="mac/u__n"/></e>
@@ -35739,7 +35734,7 @@
     <e lm="tica"><i>tica</i><par n="mesa__n"/></e>
     <e lm="tidìngia"><i>tidìngia</i><par n="mesa__n"/></e>
     <e lm="tidòngia"><i>tidòngia</i><par n="mesa__n"/></e>
-    <e lm="tiellà"><i>tiellà</i><par n="àrbore__n"/></e>
+    <e lm="tiellà"><i>tiellà</i><par n="dentista__n"/></e>
     <e lm="tìgia"><i>tìgia</i><par n="mesa__n"/></e>
     <e lm="tigiola"><i>tigiola</i><par n="mesa__n"/></e>
     <e lm="tija"><i>tija</i><par n="mesa__n"/></e>
@@ -36035,7 +36030,7 @@
     <e lm="tretzena"><i>tretzena</i><par n="mesa__n"/></e>
     <e lm="tribidàrgia"><i>tribidàrgia</i><par n="mesa__n"/></e>
     <e lm="tribidòrgia"><i>tribidòrgia</i><par n="mesa__n"/></e>
-    <e lm="tribù"><i>tribù</i><par n="àrbore__n"/></e>
+    <e lm="tribù"><i>tribù</i><par n="dentista__n"/></e>
     <e lm="tribuladura"><i>tribuladura</i><par n="mesa__n"/></e>
     <e lm="tribulia"><i>tribulia</i><par n="mesa__n"/></e>
     <e lm="tribuna"><i>tribuna</i><par n="mesa__n"/></e>
