@@ -164,7 +164,6 @@
     <pardef n="S__cantare">
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
-      <e>       <p><l>·los</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="S__canta">
@@ -11105,7 +11104,6 @@
     <e lm="comintzare" r="LR"><p><l>cumèntz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="comintzare" r="LR"><p><l>cumintz</l><r>comintz</r></p><par n="cant/are__vblex"/></e>
     <e lm="partetzipare" r="LR"><p><l>partecip</l><r>partetzip</r></p><par n="cant/are__vblex"/></e>
-    <e lm="educare"><i>educ</i><par n="seg/are__vblex"/></e>
     <e lm="realizare" r="LR"><p><l>realizz</l><r>realiz</r></p><par n="cant/are__vblex"/></e>
     <e lm="caraterizare" r="LR"><p><l>caraterizz</l><r>carateriz</r></p><par n="cant/are__vblex"/></e>
     <e lm="caraterizare" r="LR"><p><l>caratterizz</l><r>carateriz</r></p><par n="cant/are__vblex"/></e>
