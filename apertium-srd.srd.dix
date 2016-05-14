@@ -157,6 +157,10 @@
       <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
     </pardef>
 
+    <pardef n="S__cantende·nche">
+      <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+    </pardef>
+
     <pardef n="S__cantare">
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
@@ -196,6 +200,7 @@
       <e>       <p><l>·bos</l><r>bos<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·bos"/></e>
 
       <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·nche"/></e>
       <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
     </pardef>
 
