@@ -351,19 +351,17 @@
       <e>       <p><l>s</l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="la__prn" c="p.18 / 105">
-      <e>       <p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>s</l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="/lu__prn" c="p.18 / 105">
       <e r="RL"><p><l><a/>lu</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>lu</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>ddu</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>ddui</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-
+      <e>       <p><l>la</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>dda</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>los</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>ddos</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>las</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ddas</l><r>lu<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="lu__prn" c="">
@@ -3311,8 +3309,6 @@
     <e lm="li"><i>li</i><par n="li__prn"/></e>
     <e lm="li" r="LR"><p><l>ddi</l><r>li</r></p><par n="li__prn"/></e>
 
-    <e lm="la"><i>la</i><par n="la__prn"/></e>
-    <e lm="la" r="LR"><p><l>dda</l><r>la</r></p><par n="la__prn"/></e>
     <e lm="lu"><i></i><par n="/lu__prn"/></e>
     <e lm="lu"><i>lu</i><par n="lu__prn"/></e>
 
@@ -9707,6 +9703,8 @@
     <e lm="geogràficu"><i>geogràfi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="archeològicu"><i>archeològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tecnològicu"><i>tecnològi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="tecnològicu"><i>tecnòlogi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="tecnològicu" r="LR"><p><l>tecnologi</l><r>tecnològi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="igiènicu"><i>igièni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="bàsicu"><i>bàsi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="acuàticu"><i>acuàti</i><par n="linguìsti/cu__adj"/></e>
@@ -10083,7 +10081,6 @@
     <e lm="diretu"><i>diret</i><par n="frantzes/u__adj"/></e>
     <e lm="germànicu"><i>germàni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="ortogràficu"><i>ortogràfi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="tecnològicu"><i>tecnòlogi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="megalìticu"><i>megalìti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="ètnicu"><i>ètni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="demogràficu"><i>demogràfi</i><par n="linguìsti/cu__adj"/></e>
@@ -11143,7 +11140,6 @@
     <e lm="reclamare"><i>reclam</i><par n="cant/are__vblex"/></e>
     <e lm="ritziclare"><i>ritzicl</i><par n="cant/are__vblex"/></e>
     <e lm="ruinare"><i>ruin</i><par n="cant/are__vblex"/></e>
-    <e lm="triunfare"><i>triunf</i><par n="cant/are__vblex"/></e>
     <e lm="passigiare"><i>passigi</i><par n="cant/are__vblex"/></e>
     <e lm="semplificare"><i>semplific</i><par n="seg/are__vblex"/></e>
 
@@ -21802,6 +21798,7 @@
     <e lm="terrare"><i>terr</i><par n="cant/are__vblex"/></e>
     <e lm="terremotare"><i>terremot</i><par n="cant/are__vblex"/></e>
     <e lm="testamentare"><i>testament</i><par n="cant/are__vblex"/></e>
+    <e lm="testare"><i>test</i><par n="cant/are__vblex"/></e>
     <e lm="tifare"><i>tif</i><par n="cant/are__vblex"/></e>
     <e lm="timbrare"><i>timbr</i><par n="cant/are__vblex"/></e>
     <e lm="tinnidare"><i>tinnid</i><par n="cant/are__vblex"/></e>
