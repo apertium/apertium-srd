@@ -3303,7 +3303,7 @@
     <e lm="si"><i></i><par n="si__prn"/></e>
     <e lm="sese"><i>sese</i><par n="sese__prn"/></e>
 
-    <e lm="bi"><i>bi</i><par n="bi__prn"/></e>
+    <!-- <e lm="bi"><i>bi</i><par n="bi__prn"/></e> -->
 
     <e lm="li"><i>li</i><par n="li__prn"/></e>
     <e lm="li" r="LR"><p><l>ddi</l><r>li</r></p><par n="li__prn"/></e>
@@ -4771,6 +4771,7 @@
     <e lm="violinista"><i>violinista</i><par n="dentista__n"/></e>
     <e lm="protagonista"><i>protagonista</i><par n="dentista__n"/></e>
     <e lm="comunista"><i>comunista</i><par n="dentista__n"/></e>
+    <e lm="esperantista"><i>esperantista</i><par n="dentista__n"/></e>
     <e lm="capitalista"><i>capitalista</i><par n="dentista__n"/></e>
     <e lm="capitalista"><i>capitalista</i><par n="meda__adj"/></e>
     <e lm="pacifista"><i>pacifista</i><par n="dentista__n"/></e>
@@ -4813,11 +4814,11 @@
     <e lm="colonialismu"><i>colonialismu</i><par n="anarchismu__n"/></e>
     <e lm="terrorismu"><i>terrorismu</i><par n="anarchismu__n"/></e>
     <e lm="assolutismu"><i>assolutismu</i><par n="anarchismu__n"/></e>
-
+    <e lm="esperanto"><i>esperanto</i><par n="anarchismu__n"/></e>
     <e lm="capitalismu"><i>capitalismu</i><par n="anarchismu__n"/></e>
     <e lm="natzionalismu"><i>na</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
     <e lm="sotzialismu"><i>so</i><par n="tz/z"/><i>ialismu</i><par n="anarchismu__n"/></e>
-    <e lm="mecanismu"><i>mecanismu</i><par n="anarchismu__n"/></e>
+    <e lm="mecanismu"><i>mecanism</i><par n="mac/u__n"/></e>
     <e lm="comunismu"><i>comunismu</i><par n="anarchismu__n"/></e>
     <e lm="liberalismu"><i>liberalismu</i><par n="anarchismu__n"/></e>
     <e lm="marxismu"><i>marxismu</i><par n="anarchismu__n"/></e>
@@ -10145,6 +10146,7 @@
     <e lm="autonomista"><i>autonomista</i><par n="meda__adj"/></e>
     <e lm="autonomista"><i>autonomista</i><par n="dentista__n"/></e>
     <e lm="comunista"><i>comunista</i><par n="meda__adj"/></e>
+    <e lm="esperantista"><i>esperantista</i><par n="meda__adj"/></e>
     <e lm="egoista"><i>egoista</i><par n="meda__adj"/></e>
     <e lm="egoista"><i>egoista</i><par n="dentista__n"/></e>
 
@@ -10976,7 +10978,6 @@
     <e lm="baddu"><i>baddu</i><par n="bene__adv"/></e>
     <e lm="bastante"><i>bastante</i><par n="bene__adv"/></e>
     <e lm="bighinu"><i>bighinu</i><par n="bene__adv"/></e>
-    <e lm="bi"><i>bi</i><par n="bene__adv"/></e>
     <e lm="casumai"><i>casumai</i><par n="bene__adv"/></e>
     <e lm="che a"><i>che<b/>a</i><par n="bene__adv"/></e>
     <e lm="chi esumet"><i>chi<b/>esumet</i><par n="bene__adv"/></e>
@@ -17672,7 +17673,6 @@
     <e lm="seddinu"><i>seddin</i><par n="mac/u__n"/></e>
     <e lm="seddu"><i>sedd</i><par n="mac/u__n"/></e>
     <e lm="seddutzu"><i>seddutz</i><par n="mac/u__n"/></e>
-    <e lm="sedentarismu"><i>sedentarism</i><par n="mac/u__n"/></e>
     <e lm="segafenu"><i>segafen</i><par n="mac/u__n"/></e>
     <e lm="segafogu"><i>segafog</i><par n="mac/u__n"/></e>
     <e lm="segaistèrgiu"><i>segaistèrgi</i><par n="mac/u__n"/></e>
@@ -18912,6 +18912,172 @@
     <e lm="zumiamentu"><i>zumiament</i><par n="mac/u__n"/></e>
     <e lm="zunzellu"><i>zunzell</i><par n="mac/u__n"/></e>
 
+    <e lm="buddhista"><i>buddhista</i><par n="dentista__n"/></e>
+    <e lm="buddhista" r="LR"><p><l>buddista</l><r>buddhista</r></p><par n="dentista__n"/></e>
+    <e lm="induista"><i>induista</i><par n="dentista__n"/></e>
+    <e lm="turista"><i>turista</i><par n="dentista__n"/></e>
+    <e lm="modernista"><i>modernista</i><par n="dentista__n"/></e>
+    <e lm="costruttivista"><i>costruttivista</i><par n="dentista__n"/></e>
+    <e lm="anarchista"><i>anarchista</i><par n="dentista__n"/></e>
+    <e lm="taoista"><i>taoista</i><par n="dentista__n"/></e>
+    <e lm="surrealista"><i>surrealista</i><par n="dentista__n"/></e>
+    <e lm="suprematista"><i>suprematista</i><par n="dentista__n"/></e>
+    <e lm="simbolista"><i>simbolista</i><par n="dentista__n"/></e>
+    <e lm="razionalista"><i>razionalista</i><par n="dentista__n"/></e>
+    <e lm="politeista"><i>politeista</i><par n="dentista__n"/></e>
+    <e lm="mototziclista"><i>mototziclista</i><par n="dentista__n"/></e>
+    <e lm="fascista"><i>fascista</i><par n="dentista__n"/></e>
+    <e lm="fascista" r="LR"><p><l>fassista</l><r>fascista</r></p><par n="dentista__n"/></e>
+    <e lm="eclettista"><i>eclettista</i><par n="dentista__n"/></e>
+    <e lm="dadaista"><i>dadaista</i><par n="dentista__n"/></e>
+    <e lm="colonialista"><i>colonialista</i><par n="dentista__n"/></e>
+    <e lm="assolutista"><i>assolutista</i><par n="dentista__n"/></e>
+    <e lm="liberalista"><i>liberalista</i><par n="dentista__n"/></e>
+    <e lm="unilateralista"><i>unilateralista</i><par n="dentista__n"/></e>
+    <e lm="imperialista"><i>imperialista</i><par n="dentista__n"/></e>
+    <e lm="ratzista"><i>ra</i><par n="tz/z"/><i>ista</i><par n="dentista__n"/></e>
+    <e lm="antisemita"><i>antisemita</i><par n="dentista__n"/></e>
+    <e lm="semita"><i>semita</i><par n="dentista__n"/></e>
+    <e lm="otimista"><i>otimista</i><par n="dentista__n"/></e>
+    <e lm="americanista"><i>americanista</i><par n="dentista__n"/></e>
+    <e lm="anglitzista"><i>anglitzista</i><par n="dentista__n"/></e>
+    <e lm="annessionista"><i>annessionista</i><par n="dentista__n"/></e>
+    <e lm="calvinista"><i>calvinista</i><par n="dentista__n"/></e>
+    <e lm="catalanista"><i>catalanista</i><par n="dentista__n"/></e>
+    <e lm="catechista"><i>catechista</i><par n="dentista__n"/></e>
+    <e lm="classitzista"><i>classitzista</i><par n="dentista__n"/></e>
+    <e lm="conformista"><i>conformista</i><par n="dentista__n"/></e>
+    <e lm="cubista"><i>cubista</i><par n="dentista__n"/></e>
+    <e lm="cuntzetualista"><par n="cun/con"/><i>tzetualista</i><par n="dentista__n"/></e>
+    <e lm="decadentista"><i>decadentista</i><par n="dentista__n"/></e>
+    <e lm="deista"><i>deista</i><par n="dentista__n"/></e>
+    <e lm="ebraista"><i>ebraista</i><par n="dentista__n"/></e>
+    <e lm="ecletista"><i>ecletista</i><par n="dentista__n"/></e>
+    <e lm="efetista"><i>efetista</i><par n="dentista__n"/></e>
+    <e lm="ermetista"><i>ermetista</i><par n="dentista__n"/></e>
+    <e lm="esortzista"><i>esortzista</i><par n="dentista__n"/></e>
+    <e lm="estremista"><i>estremista</i><par n="dentista__n"/></e>
+    <e lm="favista"><i>favista</i><par n="dentista__n"/></e>
+    <e lm="federalista"><i>federalista</i><par n="dentista__n"/></e>
+    <e lm="feminista"><i>feminista</i><par n="dentista__n"/></e>
+    <e lm="futurista"><i>futurista</i><par n="dentista__n"/></e>
+    <e lm="germanista"><i>germanista</i><par n="dentista__n"/></e>
+    <e lm="gretzista"><i>gretzista</i><par n="dentista__n"/></e>
+    <e lm="individualista"><i>individualista</i><par n="dentista__n"/></e>
+    <e lm="integrista"><i>integrista</i><par n="dentista__n"/></e>
+    <e lm="irredentista"><i>irredentista</i><par n="dentista__n"/></e>
+    <e lm="ispagnolista"><i>ispagnolista</i><par n="dentista__n"/></e>
+    <e lm="ispiritista"><i>ispiritista</i><par n="dentista__n"/></e>
+    <e lm="latinista"><i>latinista</i><par n="dentista__n"/></e>
+    <e lm="localista"><i>localista</i><par n="dentista__n"/></e>
+    <e lm="manierista"><i>manierista</i><par n="dentista__n"/></e>
+    <e lm="materialista"><i>materialista</i><par n="dentista__n"/></e>
+    <e lm="micronatzionalista"><i>microna</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
+    <e lm="moralista"><i>moralista</i><par n="dentista__n"/></e>
+    <e lm="nominalista"><i>nominalista</i><par n="dentista__n"/></e>
+    <e lm="panteista"><i>panteista</i><par n="dentista__n"/></e>
+    <e lm="pluralista"><i>pluralista</i><par n="dentista__n"/></e>
+    <e lm="presidentzialista"><i>presidentzialista</i><par n="dentista__n"/></e>
+    <e lm="propagandista"><i>propagandista</i><par n="dentista__n"/></e>
+    <e lm="ratzionalista"><i>ra</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
+    <e lm="regionalista"><i>regionalista</i><par n="dentista__n"/></e>
+    <e lm="sardista"><i>sardista</i><par n="dentista__n"/></e>
+    <e lm="sentimentalista"><i>sentimentalista</i><par n="dentista__n"/></e>
+    <e lm="separatista"><i>separatista</i><par n="dentista__n"/></e>
+    <e lm="sotzialista"><i>sotzialista</i><par n="dentista__n"/></e>
+    <e lm="sugetivista"><i>sugetivista</i><par n="dentista__n"/></e>
+    <e lm="tzentralista"><par n="tz/c"/><i>entralista</i><par n="dentista__n"/></e>
+    <e lm="tzinista"><par n="tz/c"/><i>inista</i><par n="dentista__n"/></e>
+    <e lm="vocalista"><i>vocalista</i><par n="dentista__n"/></e>
+    <e lm="cosmopolita"><i>cosmopolita</i><par n="dentista__n"/></e>
+    <e lm="patriota"><i>patriota</i><par n="dentista__n"/></e>
+    <e lm="romànticu"><i>romàntic</i><par n="amig/u__n"/></e>
+
+    <e lm="buddhista"><i>buddhista</i><par n="meda__adj"/></e>
+    <e lm="buddhista" r="LR"><p><l>buddista</l><r>buddhista</r></p><par n="meda__adj"/></e>
+    <e lm="induista"><i>induista</i><par n="meda__adj"/></e>
+    <e lm="modernista"><i>modernista</i><par n="meda__adj"/></e>
+    <e lm="costruttivista"><i>costruttivista</i><par n="meda__adj"/></e>
+    <e lm="anarchista"><i>anarchista</i><par n="meda__adj"/></e>
+    <e lm="taoista"><i>taoista</i><par n="meda__adj"/></e>
+    <e lm="surrealista"><i>surrealista</i><par n="meda__adj"/></e>
+    <e lm="suprematista"><i>suprematista</i><par n="meda__adj"/></e>
+    <e lm="simbolista"><i>simbolista</i><par n="meda__adj"/></e>
+    <e lm="razionalista"><i>razionalista</i><par n="meda__adj"/></e>
+    <e lm="politeista"><i>politeista</i><par n="meda__adj"/></e>
+    <e lm="fascista"><i>fascista</i><par n="meda__adj"/></e>
+    <e lm="fascista" r="LR"><p><l>fassista</l><r>fascista</r></p><par n="meda__adj"/></e>
+    <e lm="eclettista"><i>eclettista</i><par n="meda__adj"/></e>
+    <e lm="dadaista"><i>dadaista</i><par n="meda__adj"/></e>
+    <e lm="colonialista"><i>colonialista</i><par n="meda__adj"/></e>
+    <e lm="assolutista"><i>assolutista</i><par n="meda__adj"/></e>
+    <e lm="liberalista"><i>liberalista</i><par n="meda__adj"/></e>
+    <e lm="unilateralista"><i>unilateralista</i><par n="meda__adj"/></e>
+    <e lm="imperialista"><i>imperialista</i><par n="meda__adj"/></e>
+    <e lm="cunformista"><par n="cun/con"/><i>formista</i><par n="meda__adj"/></e>
+    <e lm="ratzista"><i>ra</i><par n="tz/z"/><i>ista</i><par n="meda__adj"/></e>
+    <e lm="antisemita"><i>antisemita</i><par n="meda__adj"/></e>
+    <e lm="semita"><i>semita</i><par n="meda__adj"/></e>
+    <e lm="otimista"><i>otimista</i><par n="meda__adj"/></e>
+    <e lm="americanista"><i>americanista</i><par n="meda__adj"/></e>
+    <e lm="anglitzista"><i>anglitzista</i><par n="meda__adj"/></e>
+    <e lm="annessionista"><i>annessionista</i><par n="meda__adj"/></e>
+    <e lm="autista"><i>autista</i><par n="meda__adj"/></e>
+    <e lm="calvinista"><i>calvinista</i><par n="meda__adj"/></e>
+    <e lm="catalanista"><i>catalanista</i><par n="meda__adj"/></e>
+    <e lm="catechista"><i>catechista</i><par n="meda__adj"/></e>
+    <e lm="classitzista"><i>classitzista</i><par n="meda__adj"/></e>
+    <e lm="conformista"><i>conformista</i><par n="meda__adj"/></e>
+    <e lm="cubista"><i>cubista</i><par n="meda__adj"/></e>
+    <e lm="cuntzetualista"><par n="cun/con"/><i>tzetualista</i><par n="meda__adj"/></e>
+    <e lm="decadentista"><i>decadentista</i><par n="meda__adj"/></e>
+    <e lm="deista"><i>deista</i><par n="meda__adj"/></e>
+    <e lm="ebraista"><i>ebraista</i><par n="meda__adj"/></e>
+    <e lm="ecletista"><i>ecletista</i><par n="meda__adj"/></e>
+    <e lm="efetista"><i>efetista</i><par n="meda__adj"/></e>
+    <e lm="ermetista"><i>ermetista</i><par n="meda__adj"/></e>
+    <e lm="escursionista"><i>escursionista</i><par n="meda__adj"/></e>
+    <e lm="esortzista"><i>esortzista</i><par n="meda__adj"/></e>
+    <e lm="estremista"><i>estremista</i><par n="meda__adj"/></e>
+    <e lm="favista"><i>favista</i><par n="meda__adj"/></e>
+    <e lm="federalista"><i>federalista</i><par n="meda__adj"/></e>
+    <e lm="feminista"><i>feminista</i><par n="meda__adj"/></e>
+    <e lm="futurista"><i>futurista</i><par n="meda__adj"/></e>
+    <e lm="germanista"><i>germanista</i><par n="meda__adj"/></e>
+    <e lm="gretzista"><i>gretzista</i><par n="meda__adj"/></e>
+    <e lm="individualista"><i>individualista</i><par n="meda__adj"/></e>
+    <e lm="integrista"><i>integrista</i><par n="meda__adj"/></e>
+    <e lm="irredentista"><i>irredentista</i><par n="meda__adj"/></e>
+    <e lm="ispagnolista"><i>ispagnolista</i><par n="meda__adj"/></e>
+    <e lm="ispiritista"><i>ispiritista</i><par n="meda__adj"/></e>
+    <e lm="latinista"><i>latinista</i><par n="meda__adj"/></e>
+    <e lm="localista"><i>localista</i><par n="meda__adj"/></e>
+    <e lm="manierista"><i>manierista</i><par n="meda__adj"/></e>
+    <e lm="materialista"><i>materialista</i><par n="meda__adj"/></e>
+    <e lm="micronatzionalista"><i>microna</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="moralista"><i>moralista</i><par n="meda__adj"/></e>
+    <e lm="naturalista"><i>naturalista</i><par n="meda__adj"/></e>
+    <e lm="nominalista"><i>nominalista</i><par n="meda__adj"/></e>
+    <e lm="organista"><i>organista</i><par n="meda__adj"/></e>
+    <e lm="panteista"><i>panteista</i><par n="meda__adj"/></e>
+    <e lm="pluralista"><i>pluralista</i><par n="meda__adj"/></e>
+    <e lm="presidentzialista"><i>presidentzialista</i><par n="meda__adj"/></e>
+    <e lm="propagandista"><i>propagandista</i><par n="meda__adj"/></e>
+    <e lm="ratzionalista"><i>ra</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="regionalista"><i>regionalista</i><par n="meda__adj"/></e>
+    <e lm="sardista"><i>sardista</i><par n="meda__adj"/></e>
+    <e lm="sentimentalista"><i>sentimentalista</i><par n="meda__adj"/></e>
+    <e lm="separatista"><i>separatista</i><par n="meda__adj"/></e>
+    <e lm="sotzialista"><i>sotzialista</i><par n="meda__adj"/></e>
+    <e lm="sugetivista"><i>sugetivista</i><par n="meda__adj"/></e>
+    <e lm="tzentralista"><par n="tz/c"/><i>entralista</i><par n="meda__adj"/></e>
+    <e lm="tzinista"><par n="tz/c"/><i>inista</i><par n="meda__adj"/></e>
+    <e lm="cosmopolita"><i>cosmopolita</i><par n="meda__adj"/></e>
+    <e lm="romànticu"><i>romànti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="mototziclìsticu"><i>mototziclìsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="giornalìsticu"><i>giornalìsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="giornalìsticu" r="LR"><p><l>ziornalìsti</l><r>giornalistic</r></p><par n="linguìsti/cu__adj"/></e>
+    <e lm="umorìsticu"><i>umorìsti</i><par n="linguìsti/cu__adj"/></e>
 
     <!-- SECTION: Verbs -->
 
@@ -27188,7 +27354,6 @@
     <e lm="ànima"><i>ànima</i><par n="mesa__n"/></e>
     <e lm="animedda"><i>animedda</i><par n="mesa__n"/></e>
     <e lm="animeta"><i>animeta</i><par n="mesa__n"/></e>
-    <e lm="anisomorfismu"><i>anisomorfismu</i><par n="anarchismu__n"/></e>
     <e lm="annada"><i>annada</i><par n="mesa__n"/></e>
     <e lm="annanta"><i>annanta</i><par n="mesa__n"/></e>
     <e lm="annessionismu"><i>annessionismu</i><par n="anarchismu__n"/></e>
@@ -28623,7 +28788,6 @@
     <e lm="collocadura"><i>collocadura</i><par n="mesa__n"/></e>
     <e lm="colmena"><i>colmena</i><par n="mesa__n"/></e>
     <e lm="colondra"><i>colondra</i><par n="mesa__n"/></e>
-    <e lm="colonialista"><i>colonialista</i><par n="dentista__n"/></e>
     <e lm="coloridura"><i>coloridura</i><par n="mesa__n"/></e>
     <e lm="colostru"><i>colostr</i><par n="mac/u__n"/></e>
     <e lm="coltura"><i>coltura</i><par n="mesa__n"/></e>
@@ -29045,7 +29209,6 @@
     <e lm="cubidina"><i>cubidina</i><par n="mesa__n"/></e>
     <e lm="cubighedda"><i>cubighedda</i><par n="mesa__n"/></e>
     <e lm="cubismu"><i>cubismu</i><par n="anarchismu__n"/></e>
-    <e lm="cubista"><i>cubista</i><par n="dentista__n"/></e>
     <e lm="cuca"><i>cuca</i><par n="mesa__n"/></e>
     <e lm="cuca·cuca"><i>cuca·cuca</i><par n="mesa__n"/></e>
     <e lm="cucacuca"><i>cucacuca</i><par n="mesa__n"/></e>
@@ -29114,7 +29277,6 @@
     <e lm="culiùrva"><i>culiùrva</i><par n="mesa__n"/></e>
     <e lm="cullera"><i>cullera</i><par n="mesa__n"/></e>
     <e lm="culpa"><i>culpa</i><par n="mesa__n"/></e>
-    <e lm="cultismu"><i>cultismu</i><par n="anarchismu__n"/></e>
     <e lm="culu"><i>cul</i><par n="mac/u__n"/></e>
     <e lm="culuebba"><i>culuebba</i><par n="mesa__n"/></e>
     <e lm="culumba"><i>culumba</i><par n="mesa__n"/></e>
@@ -29623,7 +29785,6 @@
     <e lm="emma"><i>emma</i><par n="mesa__n"/></e>
     <e lm="emorragia"><i>emorragia</i><par n="mesa__n"/></e>
     <e lm="empatia"><i>empatia</i><par n="mesa__n"/></e>
-    <e lm="endemismu"><i>endemismu</i><par n="anarchismu__n"/></e>
     <e lm="endogamia"><i>endogamia</i><par n="mesa__n"/></e>
     <e lm="enigma"><i>enigma</i><par n="mesa__n"/></e>
     <e lm="enna"><i>enna</i><par n="mesa__n"/></e>
@@ -29786,7 +29947,6 @@
     <e lm="fàscia"><i>fàscia</i><par n="mesa__n"/></e>
     <e lm="fasciculeddu"><i>fasciculedd</i><par n="mac/u__n"/></e>
     <e lm="fascìculu"><i>fascìcul</i><par n="mac/u__n"/></e>
-    <e lm="fascista"><i>fascista</i><par n="dentista__n"/></e>
     <e lm="fasolada"><i>fasolada</i><par n="mesa__n"/></e>
     <e lm="fasolu"><i>fasol</i><par n="mac/u__n"/></e>
     <e lm="fatadura"><i>fatadura</i><par n="mesa__n"/></e>
@@ -30322,7 +30482,6 @@
     <e lm="futa"><i>futa</i><par n="mesa__n"/></e>
     <e lm="futidura"><i>futidura</i><par n="mesa__n"/></e>
     <e lm="futurismu"><i>futurismu</i><par n="anarchismu__n"/></e>
-    <e lm="futurista"><i>futurista</i><par n="dentista__n"/></e>
     <e lm="gabba"><i>gabba</i><par n="mesa__n"/></e>
     <e lm="gabbanella"><i>gabbanella</i><par n="mesa__n"/></e>
     <e lm="gàbbia"><i>gàbbia</i><par n="mesa__n"/></e>
@@ -30650,7 +30809,6 @@
     <e lm="grefa"><i>grefa</i><par n="mesa__n"/></e>
     <e lm="grema"><i>grema</i><par n="mesa__n"/></e>
     <e lm="gretzismu"><i>gretzismu</i><par n="anarchismu__n"/></e>
-    <e lm="gretzista"><i>gretzista</i><par n="dentista__n"/></e>
     <e lm="greza"><i>greza</i><par n="mesa__n"/></e>
     <e lm="grìbbia"><i>grìbbia</i><par n="mesa__n"/></e>
     <e lm="grida"><i>grida</i><par n="mesa__n"/></e>
@@ -31350,7 +31508,6 @@
     <e lm="isnasada"><i>isnasada</i><par n="mesa__n"/></e>
     <e lm="isnodadura"><i>isnodadura</i><par n="mesa__n"/></e>
     <e lm="isoglossa"><i>isoglossa</i><par n="mesa__n"/></e>
-    <e lm="isomorfismu"><i>isomorfismu</i><par n="anarchismu__n"/></e>
     <e lm="ispabillesa"><i>ispabillesa</i><par n="mesa__n"/></e>
     <e lm="ispabilliada"><i>ispabilliada</i><par n="mesa__n"/></e>
     <e lm="ispabilliadura"><i>ispabilliadura</i><par n="mesa__n"/></e>
@@ -31785,7 +31942,6 @@
     <e lm="latiera"><i>latiera</i><par n="mesa__n"/></e>
     <e lm="làtiga"><i>làtiga</i><par n="mesa__n"/></e>
     <e lm="latinismu"><i>latinismu</i><par n="anarchismu__n"/></e>
-    <e lm="latinista"><i>latinista</i><par n="dentista__n"/></e>
     <e lm="latitàntzia"><i>latit</i><par n="import/àntzia__n"/></e>
     <e lm="latìtera"><i>latìtera</i><par n="mesa__n"/></e>
     <e lm="latitudinedda"><i>latitudinedda</i><par n="mesa__n"/></e>
@@ -32605,7 +32761,6 @@
     <e lm="microistrutura"><i>microistrutura</i><par n="mesa__n"/></e>
     <e lm="micromorfologia"><i>micromorfologia</i><par n="mesa__n"/></e>
     <e lm="micronatzionalismu"><i>microna</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
-    <e lm="microrganismu"><i>microrganismu</i><par n="anarchismu__n"/></e>
     <e lm="microtzitemia"><i>microtzitemia</i><par n="mesa__n"/></e>
     <e lm="mìgia"><i>mìgia</i><par n="mesa__n"/></e>
     <e lm="migiana"><i>migiana</i><par n="mesa__n"/></e>
@@ -32615,7 +32770,6 @@
     <e lm="mìllia"><i>mìllia</i><par n="mesa__n"/></e>
     <e lm="milliaja"><i>milliaja</i><par n="mesa__n"/></e>
     <e lm="millioria"><i>millioria</i><par n="mesa__n"/></e>
-    <e lm="mimetismu"><i>mimetismu</i><par n="anarchismu__n"/></e>
     <e lm="mìmica"><i>mìmica</i><par n="mesa__n"/></e>
     <e lm="miminita"><i>miminita</i><par n="mesa__n"/></e>
     <e lm="mimosa"><i>mimosa</i><par n="mesa__n"/></e>
@@ -32750,7 +32904,6 @@
     <e lm="montura"><i>montura</i><par n="mesa__n"/></e>
     <e lm="morada"><i>morada</i><par n="mesa__n"/></e>
     <e lm="moralismu"><i>moralismu</i><par n="anarchismu__n"/></e>
-    <e lm="moralista"><i>moralista</i><par n="dentista__n"/></e>
     <e lm="mordassa"><i>mordassa</i><par n="mesa__n"/></e>
     <e lm="mordidura"><i>mordidura</i><par n="mesa__n"/></e>
     <e lm="morfema"><i>morfema</i><par n="mesa__n"/></e>
@@ -32775,7 +32928,6 @@
     <e lm="motorista"><i>motorista</i><par n="dentista__n"/></e>
     <e lm="motosega"><i>motosega</i><par n="mesa__n"/></e>
     <e lm="mototzicleta"><i>mototzicleta</i><par n="mesa__n"/></e>
-    <e lm="mototziclista"><i>mototziclista</i><par n="dentista__n"/></e>
     <e lm="motzìllia"><i>motzìllia</i><par n="mesa__n"/></e>
     <e lm="movidura"><i>movidura</i><par n="mesa__n"/></e>
     <e lm="movitia"><i>movitia</i><par n="mesa__n"/></e>
@@ -33010,7 +33162,6 @@
     <e lm="nenneddu"><i>nennedd</i><par n="mac/u__n"/></e>
     <e lm="nenneria"><i>nenneria</i><par n="mesa__n"/></e>
     <e lm="neologia"><i>neologia</i><par n="mesa__n"/></e>
-    <e lm="neologismu"><i>neologismu</i><par n="anarchismu__n"/></e>
     <e lm="neonimia"><i>neonimia</i><par n="mesa__n"/></e>
     <e lm="neosardista"><i>neosardista</i><par n="dentista__n"/></e>
     <e lm="nèpida"><i>nèpida</i><par n="mesa__n"/></e>
@@ -33023,7 +33174,6 @@
     <e lm="nerviatza"><i>nerviatza</i><par n="mesa__n"/></e>
     <e lm="nervieddu"><i>nerviedd</i><par n="mac/u__n"/></e>
     <e lm="nèrviu"><i>nèrvi</i><par n="mac/u__n"/></e>
-    <e lm="nervosismu"><i>nervosismu</i><par n="anarchismu__n"/></e>
     <e lm="nervu"><i>nerv</i><par n="mac/u__n"/></e>
     <e lm="nèschia"><i>nèschia</i><par n="mesa__n"/></e>
     <e lm="nèsiga"><i>nèsiga</i><par n="mesa__n"/></e>
@@ -33204,7 +33354,6 @@
     <e lm="orfania"><i>orfania</i><par n="mesa__n"/></e>
     <e lm="orga"><i>orga</i><par n="mesa__n"/></e>
     <e lm="organigramma"><i>organigramma</i><par n="mesa__n"/></e>
-    <e lm="organismu"><i>organismu</i><par n="anarchismu__n"/></e>
     <e lm="organizadura"><i>organizadura</i><par n="mesa__n"/></e>
     <e lm="òrgia"><i>òrgia</i><par n="mesa__n"/></e>
     <e lm="orgiada"><i>orgiada</i><par n="mesa__n"/></e>
@@ -33465,7 +33614,6 @@
     <e lm="parmita"><i>parmita</i><par n="mesa__n"/></e>
     <e lm="parmutza"><i>parmutza</i><par n="mesa__n"/></e>
     <e lm="parodia"><i>parodia</i><par n="mesa__n"/></e>
-    <e lm="parossismu"><i>parossismu</i><par n="anarchismu__n"/></e>
     <e lm="parpadura"><i>parpadura</i><par n="mesa__n"/></e>
     <e lm="pàrpala"><i>pàrpala</i><par n="mesa__n"/></e>
     <e lm="parpedda"><i>parpedda</i><par n="mesa__n"/></e>
@@ -34284,7 +34432,6 @@
     <e lm="prontura"><i>prontura</i><par n="mesa__n"/></e>
     <e lm="propaganda"><i>propaganda</i><par n="mesa__n"/></e>
     <e lm="propagandismu"><i>propagandismu</i><par n="anarchismu__n"/></e>
-    <e lm="propagandista"><i>propagandista</i><par n="dentista__n"/></e>
     <e lm="propònnida"><i>propònnida</i><par n="mesa__n"/></e>
     <e lm="prorata"><i>prorata</i><par n="mesa__n"/></e>
     <e lm="prosa"><i>prosa</i><par n="mesa__n"/></e>
@@ -34461,7 +34608,6 @@
     <e lm="rabò"><i>rabò</i><par n="pane__n"/></e>
     <e lm="raca"><i>raca</i><par n="mesa__n"/></e>
     <e lm="racheta"><i>racheta</i><par n="mesa__n"/></e>
-    <e lm="rachitismu"><i>rachitismu</i><par n="anarchismu__n"/></e>
     <e lm="racontu"><i>racont</i><par n="mac/u__n"/></e>
     <e lm="racordadura"><i>racordadura</i><par n="mesa__n"/></e>
     <e lm="racumandada"><i>racumandada</i><par n="mesa__n"/></e>
@@ -34570,7 +34716,6 @@
     <e lm="ratzigheddu"><i>ratzighedd</i><par n="mac/u__n"/></e>
     <e lm="ràtzigu"><i>ràtzig</i><par n="mac/u__n"/></e>
     <e lm="ratzionalismu"><i>ra</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
-    <e lm="ratzionalista"><i>ra</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
     <e lm="ratzista"><i>ratzista</i><par n="dentista__n"/></e>
     <e lm="raungieddu"><i>raungiedd</i><par n="mac/u__n"/></e>
     <e lm="raùngiu"><i>raùngi</i><par n="mac/u__n"/></e>
@@ -34730,7 +34875,6 @@
     <e lm="retzeta"><i>retzeta</i><par n="mesa__n"/></e>
     <e lm="rèula"><i>rèula</i><par n="mesa__n"/></e>
     <e lm="reuledda"><i>reuledda</i><par n="mesa__n"/></e>
-    <e lm="reumatismu"><i>reumatismu</i><par n="anarchismu__n"/></e>
     <e lm="reusa"><i>reusa</i><par n="mesa__n"/></e>
     <e lm="revessidudinedda"><i>revessidudinedda</i><par n="mesa__n"/></e>
     <e lm="revessumeneddu"><i>revessumenedd</i><par n="mac/u__n"/></e>
@@ -35128,7 +35272,6 @@
     <e lm="sementosa"><i>sementosa</i><par n="mesa__n"/></e>
     <e lm="sementza"><i>sementza</i><par n="mesa__n"/></e>
     <e lm="semicolunna"><i>semicolunna</i><par n="mesa__n"/></e>
-    <e lm="semicultismu"><i>semicultismu</i><par n="anarchismu__n"/></e>
     <e lm="sèmida"><i>sèmida</i><par n="mesa__n"/></e>
     <e lm="seminàgia"><i>seminàgia</i><par n="mesa__n"/></e>
     <e lm="semireta"><i>semireta</i><par n="mesa__n"/></e>
@@ -35140,7 +35283,6 @@
     <e lm="sennora"><i>sennora</i><par n="mesa__n"/></e>
     <e lm="sentidu"><i>sentid</i><par n="mac/u__n"/></e>
     <e lm="sentimentalismu"><i>sentimentalismu</i><par n="anarchismu__n"/></e>
-    <e lm="sentimentalista"><i>sentimentalista</i><par n="dentista__n"/></e>
     <e lm="sentina"><i>sentina</i><par n="mesa__n"/></e>
     <e lm="sentinella"><i>sentinella</i><par n="mesa__n"/></e>
     <e lm="sentzìllia"><i>sentzìllia</i><par n="mesa__n"/></e>
@@ -36165,7 +36307,6 @@
     <e lm="turbiana"><i>turbiana</i><par n="mesa__n"/></e>
     <e lm="turbina"><i>turbina</i><par n="mesa__n"/></e>
     <e lm="turchina"><i>turchina</i><par n="mesa__n"/></e>
-    <e lm="turista"><i>turista</i><par n="dentista__n"/></e>
     <e lm="turmentadura"><i>turmentadura</i><par n="mesa__n"/></e>
     <e lm="turrada"><i>turrada</i><par n="mesa__n"/></e>
     <e lm="turradura"><i>turradura</i><par n="mesa__n"/></e>
@@ -40809,7 +40950,6 @@
     <e lm="chinisale"><i>chinisal</i><par n="fàtzil/e__adj"/></e>
     <e lm="chircante"><i>chircant</i><par n="fàtzil/e__adj"/></e>
     <e lm="clandestinu"><i>clandestin</i><par n="frantzes/u__adj"/></e>
-    <e lm="classitzista"><i>classitzista</i><par n="meda__adj"/></e>
     <e lm="clericale"><i>clerical</i><par n="fàtzil/e__adj"/></e>
     <e lm="collegiale"><i>collegial</i><par n="fàtzil/e__adj"/></e>
     <e lm="colliente"><i>collient</i><par n="fàtzil/e__adj"/></e>
@@ -40820,7 +40960,6 @@
     <e lm="computatzionale"><i>computa</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
     <e lm="concruìbile"><i>concruìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="conflituale"><i>conflitual</i><par n="fàtzil/e__adj"/></e>
-    <e lm="conformista"><i>conformista</i><par n="meda__adj"/></e>
     <e lm="coniugale"><i>coniugal</i><par n="fàtzil/e__adj"/></e>
     <e lm="connatzionale"><i>conna</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
     <e lm="connetìbile"><i>connetìbil</i><par n="fàtzil/e__adj"/></e>
@@ -40835,7 +40974,6 @@
     <e lm="corimodde"><i>corimodd</i><par n="fàtzil/e__adj"/></e>
     <e lm="corporale"><i>corporal</i><par n="fàtzil/e__adj"/></e>
     <e lm="corregionale"><i>corregional</i><par n="fàtzil/e__adj"/></e>
-    <e lm="cosmopolita"><i>cosmopolita</i><par n="meda__adj"/></e>
     <e lm="costituìbile"><i>costituìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="cotimista"><i>cotimista</i><par n="meda__adj"/></e>
     <e lm="criadurinu"><i>criadurin</i><par n="frantzes/u__adj"/></e>
@@ -40892,9 +41030,7 @@
     <e lm="ddoddoi"><i>ddoddoi</i><par n="meda__adj"/></e>
     <e lm="debbe"><i>debb</i><par n="fàtzil/e__adj"/></e>
     <e lm="debilitadore"><i>debilitador</i><par n="fàtzil/e__adj"/></e>
-    <e lm="decadentista"><i>decadentista</i><par n="meda__adj"/></e>
     <e lm="deghìbile"><i>deghìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="deista"><i>deista</i><par n="meda__adj"/></e>
     <e lm="delegàbile"><i>delegàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="delegante"><i>delegant</i><par n="fàtzil/e__adj"/></e>
     <e lm="deliberàbile"><i>deliberàbil</i><par n="fàtzil/e__adj"/></e>
@@ -40961,7 +41097,6 @@
     <e lm="esteriore"><i>esterior</i><par n="fàtzil/e__adj"/></e>
     <e lm="èstone"><i>èston</i><par n="fàtzil/e__adj"/></e>
     <e lm="estraìbile"><i>estraìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="estremista"><i>estremista</i><par n="meda__adj"/></e>
     <e lm="estremizàbile"><i>estremizàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="etnitzista"><i>etnitzista</i><par n="meda__adj"/></e>
     <e lm="etzetzionale"><i>etze</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
@@ -40976,7 +41111,6 @@
     <e lm="fatante"><i>fatant</i><par n="fàtzil/e__adj"/></e>
     <e lm="faturàbile"><i>faturàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="fedale"><i>fedal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="federalista"><i>federalista</i><par n="meda__adj"/></e>
     <e lm="femineri"><i>femineri</i><par n="meda__adj"/></e>
     <e lm="feminile"><i>feminil</i><par n="fàtzil/e__adj"/></e>
     <e lm="ferotze"><i>ferotz</i><par n="fàtzil/e__adj"/></e>
@@ -41045,7 +41179,6 @@
     <e lm="immune"><i>immun</i><par n="fàtzil/e__adj"/></e>
     <e lm="impenetràbile"><i>impenetràbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="imperiale"><i>imperial</i><par n="fàtzil/e__adj"/></e>
-    <e lm="imperialista"><i>imperialista</i><par n="meda__adj"/></e>
     <e lm="impermeàbile"><i>impermeàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="impersonale"><i>impersonal</i><par n="fàtzil/e__adj"/></e>
     <e lm="impertinente"><i>impertinent</i><par n="fàtzil/e__adj"/></e>
@@ -41073,7 +41206,6 @@
     <e lm="indimenticàbile"><i>indimenticàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="indistrutìbile"><i>indistrutìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="inditadore"><i>inditador</i><par n="fàtzil/e__adj"/></e>
-    <e lm="individualista"><i>individualista</i><par n="meda__adj"/></e>
     <e lm="ineficatze"><i>ineficatz</i><par n="fàtzil/e__adj"/></e>
     <e lm="inelegìbile"><i>inelegìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="inerte"><i>inert</i><par n="fàtzil/e__adj"/></e>
@@ -41235,7 +41367,6 @@
     <e lm="mangalloi"><i>mangalloi</i><par n="meda__adj"/></e>
     <e lm="manghilloi"><i>manghilloi</i><par n="meda__adj"/></e>
     <e lm="mangianile"><i>mangianil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="manierista"><i>manierista</i><par n="meda__adj"/></e>
     <e lm="manniosidade"><i>manniosidad</i><par n="fàtzil/e__adj"/></e>
     <e lm="mannosu"><i>mannos</i><par n="frantzes/u__adj"/></e>
     <e lm="manuale"><i>manual</i><par n="fàtzil/e__adj"/></e>
@@ -41250,7 +41381,6 @@
     <e lm="masentziale"><i>masentzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="massimamente"><i>massimament</i><par n="fàtzil/e__adj"/></e>
     <e lm="massimista"><i>massimista</i><par n="meda__adj"/></e>
-    <e lm="materialista"><i>materialista</i><par n="meda__adj"/></e>
     <e lm="materiare"><i>materiar</i><par n="fàtzil/e__adj"/></e>
     <e lm="matrimoniale"><i>matrimonial</i><par n="fàtzil/e__adj"/></e>
     <e lm="matzutzu"><i>matzutz</i><par n="frantzes/u__adj"/></e>
@@ -41273,7 +41403,6 @@
     <e lm="miscredente"><i>miscredent</i><par n="fàtzil/e__adj"/></e>
     <e lm="miseràbile"><i>miseràbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="modale"><i>modal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="modernista"><i>modernista</i><par n="meda__adj"/></e>
     <e lm="mòlliu"><i>mòlli</i><par n="frantzes/u__adj"/></e>
     <e lm="moltèplitze"><i>moltèplitz</i><par n="fàtzil/e__adj"/></e>
     <e lm="momentànea"><i>momentànea</i><par n="meda__adj"/></e>
@@ -41349,7 +41478,6 @@
     <e lm="ostiensa"><i>ostiensa</i><par n="meda__adj"/></e>
     <e lm="otagonale"><i>otagonal</i><par n="fàtzil/e__adj"/></e>
     <e lm="otimale"><i>otimal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="otimista"><i>otimista</i><par n="meda__adj"/></e>
     <e lm="ovale"><i>oval</i><par n="fàtzil/e__adj"/></e>
     <e lm="padronale"><i>padronal</i><par n="fàtzil/e__adj"/></e>
     <e lm="pagiaghe"><i>pagiagh</i><par n="fàtzil/e__adj"/></e>
@@ -41429,7 +41557,6 @@
     <e lm="pluritzellulare"><i>pluritzellular</i><par n="fàtzil/e__adj"/></e>
     <e lm="polare"><i>polar</i><par n="fàtzil/e__adj"/></e>
     <e lm="poliglota"><i>poliglota</i><par n="meda__adj"/></e>
-    <e lm="politeista"><i>politeista</i><par n="meda__adj"/></e>
     <e lm="porrale"><i>porral</i><par n="fàtzil/e__adj"/></e>
     <e lm="portante"><i>portant</i><par n="fàtzil/e__adj"/></e>
     <e lm="portuale"><i>portual</i><par n="fàtzil/e__adj"/></e>
@@ -41544,7 +41671,6 @@
     <e lm="sàligu"><i>sàlig</i><par n="frantzes/u__adj"/></e>
     <e lm="sànscritu"><i>sànscrit</i><par n="frantzes/u__adj"/></e>
     <e lm="santzionàbile"><i>san</i><par n="tz/z"/><i>ionàbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="sardista"><i>sardista</i><par n="meda__adj"/></e>
     <e lm="sartàrgia"><i>sartàrgia</i><par n="meda__adj"/></e>
     <e lm="satànicu"><i>satàni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="satzerdotale"><i>satzerdotal</i><par n="fàtzil/e__adj"/></e>
@@ -41560,7 +41686,6 @@
     <e lm="sensuale"><i>sensual</i><par n="fàtzil/e__adj"/></e>
     <e lm="sentimentale"><i>sentimental</i><par n="fàtzil/e__adj"/></e>
     <e lm="separàbile"><i>separàbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="separatista"><i>separatista</i><par n="meda__adj"/></e>
     <e lm="serale"><i>seral</i><par n="fàtzil/e__adj"/></e>
     <e lm="sessuale"><i>sessual</i><par n="fàtzil/e__adj"/></e>
     <e lm="setimanale"><i>setimanal</i><par n="fàtzil/e__adj"/></e>
@@ -41577,7 +41702,6 @@
     <e lm="sonante"><i>sonant</i><par n="fàtzil/e__adj"/></e>
     <e lm="soporìfera"><i>soporìfera</i><par n="meda__adj"/></e>
     <e lm="sorigadore"><i>sorigador</i><par n="fàtzil/e__adj"/></e>
-    <e lm="sotzialista"><i>sotzialista</i><par n="meda__adj"/></e>
     <e lm="sua"><i>sua</i><par n="meda__adj"/></e>
     <e lm="sublime"><i>sublim</i><par n="fàtzil/e__adj"/></e>
     <e lm="subliminale"><i>subliminal</i><par n="fàtzil/e__adj"/></e>
@@ -47811,7 +47935,6 @@
     <e lm="rodundu"><i>rodund</i><par n="frantzes/u__adj"/></e>
     <e lm="romagnolu"><i>romagnol</i><par n="frantzes/u__adj"/></e>
     <e lm="romanesu"><i>romanes</i><par n="frantzes/u__adj"/></e>
-    <e lm="romànticu"><i>romànti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="romantzu"><i>romantz</i><par n="frantzes/u__adj"/></e>
     <e lm="romanzescu"><i>romanzes</i><par n="linguìsti/cu__adj"/></e>
     <e lm="romasu"><i>romas</i><par n="frantzes/u__adj"/></e>
@@ -48935,7 +49058,6 @@
     <e lm="umidòngiu"><i>umidòngi</i><par n="frantzes/u__adj"/></e>
     <e lm="umidosu"><i>umidos</i><par n="frantzes/u__adj"/></e>
     <e lm="ùmidu"><i>ùmid</i><par n="frantzes/u__adj"/></e>
-    <e lm="umorìsticu"><i>umorìsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="umorosu"><i>umoros</i><par n="frantzes/u__adj"/></e>
     <e lm="ùmpridu"><i>ùmprid</i><par n="frantzes/u__adj"/></e>
     <e lm="unànime"><i>unànim</i><par n="cunservador/e__adj"/></e>
