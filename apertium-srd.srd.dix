@@ -318,6 +318,7 @@
     <pardef n="bi__prn" c="">
       <e>       <p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
     </pardef>
 
