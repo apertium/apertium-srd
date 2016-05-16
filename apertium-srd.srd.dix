@@ -190,8 +190,6 @@
       <e r="LR"><p><l>·ddos</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>·las</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>·ddas</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
 
       <e>       <p><l>·nos</l><r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e>       <p><l>·nos</l><r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·nos"/></e>
@@ -11228,7 +11226,6 @@
     <e lm="espressare"><i>espress</i><par n="cant/are__vblex"/></e>
     <e lm="finantziare"><i>finantzi</i><par n="cant/are__vblex"/></e>
     <e lm="promovare"><i>promov</i><par n="cant/are__vblex"/></e> <!-- @!LSC -->
-    <e lm="esiliare"><i>esili</i><par n="cant/are__vblex"/></e>
     <e lm="redatare"><i>redat</i><par n="cant/are__vblex"/></e>
     <e lm="emanare"><i>eman</i><par n="cant/are__vblex"/></e>
     <e lm="garantare"><i>garant</i><par n="cant/are__vblex"/></e>
@@ -11242,7 +11239,6 @@
     <e lm="trasformare"><i>trasform</i><par n="cant/are__vblex"/></e>
     <e lm="lìberare"><i>lìber</i><par n="cant/are__vblex"/></e>
     <e lm="lìberare" r="LR"><p><l>liber</l><r>lìber</r></p><par n="cant/are__vblex"/></e>
-    <e lm="evitare"><i>evit</i><par n="cant/are__vblex"/></e>
     <e lm="caturare"><i>catur</i><par n="cant/are__vblex"/></e>
     <e lm="donare"><i>don</i><par n="cant/are__vblex"/></e>
     <e lm="capitare"><i>capit</i><par n="cant/are__vblex"/></e>
@@ -11257,7 +11253,6 @@
     <e lm="esaminare"><i>esamin</i><par n="cant/are__vblex"/></e>
     <e lm="valutare"><i>valut</i><par n="cant/are__vblex"/></e>
     <e lm="decrarare"><i>decrar</i><par n="cant/are__vblex"/></e>
-    <e lm="evacuare"><i>evacu</i><par n="cant/are__vblex"/></e>
     <e lm="assòtziare"><i>assòtzi</i><par n="cant/are__vblex"/></e>
     <e lm="filmare"><i>film</i><par n="cant/are__vblex"/></e>
     <e lm="obrigare"><i>obrig</i><par n="seg/are__vblex"/></e>
