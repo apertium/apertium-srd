@@ -104,7 +104,7 @@
 
     <!-- SECTION: Clitics -->
 
-    <pardef n="S__cantende·bi">
+    <pardef n="S__cantende·mi·lu">
       <e>       <p><l>·lu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>·la</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>·los</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
@@ -112,49 +112,73 @@
       <e r="RL"><p><l>·lu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
     </pardef>
 
-    <pardef n="S__cantende·mi">
-      <e>       <p><l/><r/></p><par n="S__cantende·bi"/></e>
+    <pardef n="S__cantende·mi·ddu">
+      <e>       <p><l>·ddu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>·dda</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>·ddos</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>·ddas</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="S__cantende·mi·*">
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·lu"/></e>
+      <e r="LR"><p><l/><r/></p><par n="S__cantende·mi·ddu"/></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
+      <e r="LR"><p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·ddu"/></e>
+      <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+    </pardef>
+
+    <pardef n="S__cantende·ti·*">
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·*"/></e>
+    </pardef>
+
+    <pardef n="S__cantende·bos·*">
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·*"/></e>
+    </pardef>
+
+    <pardef n="S__cantende·nos·*">
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·*"/></e>
+    </pardef>
+
+    <pardef n="S__cantende·bi·*">
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·lu"/></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
+      <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+    </pardef>
+
+    <pardef n="S__cantende·si=bi·*">	<!-- uso de si (no reflexivo) como variante de bi -->
+      <e r="LR"><p><l/><r/></p><par n="S__cantende·mi·ddu"/></e>
+      <e r="LR"><p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·ddu"/></e>
+    </pardef>
+
+    <pardef n="S__cantende·*nde">
+      <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+    </pardef>
+
+    <pardef n="S__cantende·si·*">	<!-- uso de si reflexivo -->
+      <e>       <p><l/><r/></p><par n="S__cantende·mi·lu"/></e>
+      <e r="LR"><p><l/><r/></p><par n="S__cantende·mi·ddu"/></e>
       <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
+      <e r="LR"><p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·ddu"/></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·*nde"/></e>
       <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
-    </pardef>
-
-    <pardef n="S__cantende·ti">
-      <e>       <p><l/><r/></p><par n="S__cantende·mi"/></e>
-    </pardef>
-
-    <pardef n="S__cantende·bos">
-      <e>       <p><l/><r/></p><par n="S__cantende·mi"/></e>
-    </pardef>
-
-    <pardef n="S__cantende·nos">
-      <e>       <p><l/><r/></p><par n="S__cantende·mi"/></e>
-    </pardef>
-
-    <pardef n="S__cantende·si">
-      <e>       <p><l/><r/></p><par n="S__cantende·mi"/></e>
-    </pardef>
-
-    <pardef n="S__cantende·nche">
-      <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
-    </pardef>
-
-    <pardef n="S__cantare">
-      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
     </pardef>
 
     <pardef n="S__canta">
       <e>       <p><l>·mi</l><r>mi<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>·mi</l><r>mi<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·mi"/></e>
+      <e>       <p><l>·mi</l><r>mi<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·mi·*"/></e>
       <e>       <p><l>·ti</l><r>ti<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>·ti</l><r>ti<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·ti"/></e>
+      <e>       <p><l>·ti</l><r>ti<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·ti·*"/></e>
       <e>       <p><l>·li</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>·ddi</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>·lis</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>·ddis</l><r>li<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·mi"/></e>	<!-- Hack for italian :( -->
-      <e r="RL"><p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·mi"/></e>	<!-- Hack for italian :( -->
-      <e>       <p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·mi"/></e>
+
+      <e>       <p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·bi·*"/></e>
+      <e r="RL"><p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
+      <e r="RL"><p><l>·bi</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
+      <e r="LR"><p><l>·si</l><r>bi<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si=bi·*"/></e>
+
 
       <e>       <p><l>·lu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>·ddu</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
@@ -166,19 +190,19 @@
       <e r="LR"><p><l>·ddas</l><r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e>       <p><l>·nos</l><r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e>       <p><l>·nos</l><r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·nos"/></e>
+      <e>       <p><l>·nos</l><r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·nos·*"/></e>
       <e>       <p><l>·bos</l><r>bos<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e>       <p><l>·bos</l><r>bos<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·bos"/></e>
+      <e>       <p><l>·bos</l><r>bos<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/><j/></r></p><par n="S__cantende·bos·*"/></e>
 
       <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
-      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·nche"/></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·*nde"/></e>
       <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
     </pardef>
 
     <pardef n="S__cantende">
       <e>       <p><l/><r/></p><par n="S__canta"/></e>
       <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si"/></e>
+      <e>       <p><l>·si</l><r>si<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><j/></r></p><par n="S__cantende·si·*"/></e>
     </pardef>
 
     <!-- SECTION: Abbreviations -->
@@ -850,7 +874,6 @@
 
     <pardef n="/èssere__vblex">
       <e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>èssere</l><r>èssere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>esser</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>essere</l><r>èssere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
@@ -920,7 +943,6 @@
 
     <pardef n="/àere__vblex">
       <e>       <p><l>àere</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>àere</l><r>àere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>aer</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e>
@@ -980,7 +1002,6 @@
 
     <pardef n="/àere__vbmod">
       <e>       <p><l>àere</l><r>àere<s n="vbmod"/><s n="inf"/></r></p></e>
-      <e>       <p><l>àere</l><r>àere<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>aer</l><r>àere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>aende</l><r>àere<s n="vbmod"/><s n="ger"/></r></p></e>
@@ -1033,7 +1054,6 @@
 
     <pardef n="costum/are__vblex" c="p.39">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1077,7 +1097,6 @@
 
     <pardef n="dèp/ere__vbmod" c="p.40">
       <e>       <p><l>ere</l><r>ere<s n="vbmod"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r>ere<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>er</l><r>ere<s n="vbmod"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ende</l><r>ere<s n="vbmod"/><s n="ger"/></r></p></e>
@@ -1123,7 +1142,6 @@
 
     <pardef n="bisogni/are__vblex" c="">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1151,7 +1169,6 @@
 
     <pardef n="cant/are__vblex" c="p.39">	<!-- modelo g excepto para verbos acabados en [cg]are y [cg]iare -->
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1214,7 +1231,6 @@
 
     <pardef n="assing/iare__vblex">	<!-- modelo g excepto para verbos acabados en [cg]iare -->
       <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>iare</l><r>iare<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>iare<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1277,7 +1293,6 @@
 
     <pardef n="tim/ere__vblex" c="p.40">
       <e>       <p><l>ere</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r>ere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>er</l><r>ere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>ende</l><r>ere<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1340,7 +1355,6 @@
 
     <pardef n="fin/ire__vblex" c="p.41">
       <e>       <p><l>ire</l><r>ire<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ire</l><r>ire<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>ire<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1402,7 +1416,6 @@
 
     <pardef n="tèn/nere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'tenes' -->
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>gio</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
@@ -1470,7 +1483,6 @@
 
     <pardef n="bò/lere__vbsuf" c="p.50">	<!-- según modelo K del curretore ortogràficu con pp específico para bàlere y bòlere -->
       <e>       <p><l>lere</l><r><s n="inf"/></r></p></e>
-      <e>       <p><l>lere</l><r><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>gio</l><r><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
@@ -1553,7 +1565,6 @@
 
     <pardef n="pòn/nere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'pones' -->
       <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>nere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>ner</l><r><s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>gio</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -1620,7 +1631,6 @@
 
     <pardef n="pàr/rere__vblex" c="p.42">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'res' -->
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>gio</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
@@ -1688,7 +1698,6 @@
 
     <pardef n="abèr/rere__vblex" c="p.51">	<!-- según modelo K del curretore ortogràficu con pp específico para los verbos con la segunda forma 'ris' -->
       <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>rere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>gio</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
@@ -1755,7 +1764,6 @@
 
     <pardef n="d/are__vblex" c="p.43">
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1816,7 +1824,6 @@
 
     <pardef n="seg/are__vblex" c="p.44">	<!-- modelo g para verbos acabados en [cg]are -->
       <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>hende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>hende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -1877,7 +1884,6 @@
 
     <pardef n="f/àghere__vblex" c="p.46">
       <e>       <p><l>àghere</l><r>àghere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>àghere</l><r>àghere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>agher</l><r>àghere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>acher</l><r>àghere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>aghere</l><r>àghere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
@@ -1949,7 +1955,6 @@
 
     <pardef n="p/òdere" c="p.47">
       <e>       <p><l>òdere</l><r><s n="inf"/></r></p></e>
-      <e>       <p><l>òdere</l><r><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>oder</l><r><s n="inf"/></r></p></e> <!-- @!LSC -->
 
       <e>       <p><l>odende</l><r><s n="ger"/></r></p></e>
@@ -2020,7 +2025,6 @@
 
     <pardef n="c/òghere__vblex">
       <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>òghere</l><r>òghere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>oghende</l><r>òghere<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>oghende</l><r>òghere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -2072,7 +2076,6 @@
 
     <pardef n="b/ènnere__vblex" c="p.49">
       <e>       <p><l>ènnere</l><r>ènnere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ènnere</l><r>ènnere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>enende</l><r>ènnere<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>enende</l><r>ènnere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
@@ -2133,7 +2136,6 @@
 
     <pardef n="n/àrrere__vblex" c="p.50">	<!-- modelo L curretore ortogràficu -->
       <e>       <p><l>àrrere</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>àrrere</l><r>àrrere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
       <e r="LR"><p><l>arrer</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>arrere</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>àrrer</l><r>àrrere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
@@ -2199,7 +2201,6 @@
 
     <pardef n="vigil/are__vblex">	<!-- paradigma G del curretore ortogràficu (caso general) -->
       <e>       <p><l>are</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>amus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>ades</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -2256,7 +2257,6 @@
 
     <pardef n="apog/iare__vblex">	<!-- paradigma G del curretore ortogràficu (verbos en [cg]iare) -->
       <e>       <p><l>iare</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>iare</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>iamus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>iades</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -2319,7 +2319,6 @@
 
     <pardef n="aplic/are__vblex">	<!-- paradigma G del curretore ortogràficu (caso [cg]are) -->
       <e>       <p><l>are</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>are</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>amus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>ades</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -2384,7 +2383,6 @@
 
     <pardef n="tìm/ere__vblex">	<!-- paradigma I del curretore ortogràficu -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -2455,7 +2453,6 @@
 
     <pardef n="tìng/here__vblex">	<!-- paradigma I del curretore ortogràficu para verbos en [cg]here, excepto schere -->
       <e>       <p><l>here</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>here</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
     </pardef>
 
     <pardef n="ting/o__vblex">
@@ -2532,7 +2529,6 @@
 
     <pardef n="règ/ere__vblex">		<!-- paradigma I para verbos en [cg]ere -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -2593,7 +2589,6 @@
 
     <pardef n="descrì/ere__vblex">	<!-- verbos irregulares, teóricamente según el paradigma I; según modelo de Diegu Corràine, 30.04.2016 -->
       <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
     </pardef>
 
     <pardef n="descri/o__vblex">
@@ -2661,7 +2656,6 @@
 
     <pardef n="r/ìere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I -->
       <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
@@ -2720,7 +2714,6 @@
 
     <pardef n="fr/ìere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I -->
       <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>iende</l><r>iere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
@@ -2779,7 +2772,6 @@
 
     <pardef n="b/ìere__vblex">	<!-- verbo irregular, teóricamente según el paradigma I, según paradigma de Dièu Corràine, 30.04.2016 -->
       <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
@@ -2847,7 +2839,6 @@
 
     <pardef n="ped/ire__vblex">		<!-- paradigma M curretore ortogràficu: caso general -->
       <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>is</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2906,7 +2897,6 @@
 
     <pardef n="afig/ire__vblex">		<!-- paradigma M curretore ortogràficu: [cg]ire -->
       <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>ire</l><r><s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>is</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2965,7 +2955,6 @@
 
     <pardef n="sig/hire__vblex" c="p.48">		<!-- paradigma M curretore ortogràficu: [cg]hire -->
       <e>       <p><l>hire</l><r>hire<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>hire</l><r>hire<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>hende</l><r>hire<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>hende</l><r>hire<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
@@ -3026,7 +3015,6 @@
 
     <pardef n="s/èere__vblex">	<!-- modelo según Diegu Corràine, 30.04.2016 -->
       <e>       <p><l>èere</l><r>èere<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>èere</l><r>èere<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__cantare"/></e>
 
       <e>       <p><l>eende</l><r>èere<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>eende</l><r>èere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
@@ -9895,6 +9883,7 @@
     <e lm="latinu"><i>latin</i><par n="amig/u__n"/></e>
     <e lm="sardu"><i>sard</i><par n="amig/u__n"/></e>
     <e lm="castiglianu"><i>castiglian</i><par n="amig/u__n"/></e>
+    <e lm="asturianu"><i>asturian</i><par n="amig/u__n"/></e>
     <e lm="ispagnolu"><i>ispagnol</i><par n="amig/u__n"/></e>
     <e lm="ispagnolu" r="LR"><p><l>ispannol</l><r>ispagnol</r></p><par n="amig/u__n"/></e>
     <e lm="ispagnolu" r="LR"><p><l>ispannyol</l><r>ispagnol</r></p><par n="amig/u__n"/></e>
