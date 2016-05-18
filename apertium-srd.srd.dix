@@ -5461,6 +5461,7 @@
     <e lm="oportunidade"><i>oportunidad</i><par n="region/e__n"/></e>
     <e lm="particularidade"><i>particularidad</i><par n="region/e__n"/></e>
     <e lm="partzialidade"><i>partzialidad</i><par n="region/e__n"/></e>
+    <e lm="plurinatzionalidade"><i>partzialidad</i><par n="region/e__n"/></e>
     <e lm="rapresentatividade"><i>rapresentatividad</i><par n="region/e__n"/></e>
     <e lm="regolaridade"><i>regolaridad</i><par n="region/e__n"/></e>
     <e lm="retroatividade"><i>retroatividad</i><par n="region/e__n"/></e>
@@ -5615,6 +5616,10 @@
     <e lm="Ìndia"><i>Ìndia</i><par n="Etiòpia__np"/></e>
     <e lm="Ìndia" r="LR"><p><l>India</l><r>Ìndia</r></p><par n="Etiòpia__np"/></e>
 
+    <e lm="Cunfederatzione Elvètica"><i>Cunfederatzione<b/>Elvètica</i><par n="Etiòpia__np"/></e>
+    <e lm="Unione Soviètica"><i>Unione<b/>Sovietica</i><par n="Etiòpia__np"/></e>
+
+
     <e lm="s'Avana"><i>s'Avana</i><par n="Etiòpia__np"/></e>
     <e lm="Venezia"><i>Venezia</i><par n="Etiòpia__np"/></e>
     <e lm="Tzina"><i>Tzina</i><par n="Etiòpia__np"/></e>
@@ -5656,6 +5661,7 @@
     <e lm="Calabria"><i>Calabria</i><par n="Etiòpia__np"/></e>
     <e lm="Argentina"><i>Argentina</i><par n="Etiòpia__np"/></e>
     <e lm="Florida"><i>Florida</i><par n="Etiòpia__np"/></e>
+    <e lm="Bolivia"><i>Austria</i><par n="Etiòpia__np"/></e>
     <e lm="Indotzina"><i>Indotzina</i><par n="Etiòpia__np"/></e>
     <e lm="Venezuela"><i>Venezuela</i><par n="Etiòpia__np"/></e>
     <e lm="Ucraìna"><i>Ucraìna</i><par n="Etiòpia__np"/></e>
@@ -5671,6 +5677,7 @@
     <e lm="Frantza"><i>Frantza</i><par n="Etiòpia__np"/></e>
     <e lm="Frantza" r="LR"><p><l>Frància</l><r>Frantza</r></p><par n="Etiòpia__np"/></e>
     <e lm="Pamplona"><i>Pamplona</i><par n="Etiòpia__np"/></e>
+    <e lm="Euskadi"><i>Nùgoro</i><par n="Afganistàn__np"/></e>
     <e lm="Gaza"><i>Gaza</i><par n="Etiòpia__np"/></e>
     <e lm="Califòrnia"><i>Califòrnia</i><par n="Etiòpia__np"/></e>
     <e lm="Califòrnia" r="LR"><p><l>California</l><r>Califòrnia</r></p><par n="Etiòpia__np"/></e>
@@ -5780,6 +5787,7 @@
     <e lm="Lìbanu" r="LR"><p><l>Lìbano</l><r>Lìbanu</r></p><par n="Afganistàn__np"/></e>
     <e lm="Chicago"><i>Chicago</i><par n="Afganistàn__np"/></e>
     <e lm="Taiwan"><i>Taiwan</i><par n="Afganistàn__np"/></e>
+    <e lm="Ecuador"><i>Montserrat</i><par n="Afganistàn__np"/></e>
     <e lm="Istanbul"><i>Istanbul</i><par n="Afganistàn__np"/></e>
     <e lm="Massachusetts"><i>Massachusetts</i><par n="Afganistàn__np"/></e>
     <e lm="Sydney"><i>Sydney</i><par n="Afganistàn__np"/></e>
@@ -9681,6 +9689,7 @@
     <e lm="archeològicu"><i>archeològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tecnològicu"><i>tecnològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tecnològicu"><i>tecnòlogi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="sovièticu"><i>sovietic</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tecnològicu" r="LR"><p><l>tecnologi</l><r>tecnològi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="igiènicu"><i>igièni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="bàsicu"><i>bàsi</i><par n="linguìsti/cu__adj"/></e>
@@ -9742,6 +9751,7 @@
     <e lm="pùblicu" r="LR"><p><l>pubbli</l><r>pùbli</r></p><par n="linguìsti/cu__adj"/></e>
 
     <e lm="metropolitanu"><i>metropolitan</i><par n="frantzes/u__adj"/></e>
+    <e lm="paritariu"><i>mèdi</i><par n="frantzes/u__adj"/></e>
     <e lm="repubricanu"><i>repubrican</i><par n="frantzes/u__adj"/></e>
     <e lm="mudu"><i>mud</i><par n="frantzes/u__adj"/></e>
     <e lm="urbanu"><i>urban</i><par n="frantzes/u__adj"/></e>
@@ -9996,6 +10006,7 @@
     <e lm="contrariu"><i>contrari</i><par n="frantzes/u__adj"/></e>
     <e lm="mediterràneu"><i>mediterràne</i><par n="frantzes/u__adj"/></e>
     <e lm="mediterràneu" r="LR"><p><l>mediterrane</l><r>mediterràne</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="majoritariu"><i>vari</i><par n="frantzes/u__adj"/></e>
     <e lm="idènticu"><i>idènti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="famosu"><i>famos</i><par n="frantzes/u__adj"/></e>
     <e lm="etimològicu"><i>etimològi</i><par n="linguìsti/cu__adj"/></e>
@@ -10156,6 +10167,7 @@
     <e lm="diagonale"><i>diagonal</i><par n="fàtzil/e__adj"/></e>
     <e lm="legale"><i>legal</i><par n="fàtzil/e__adj"/></e>
     <e lm="lughente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
+    <e lm="cuntraente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
     <e lm="potente"><i>potent</i><par n="fàtzil/e__adj"/></e>
     <e lm="meridionale"><i>meridional</i><par n="fàtzil/e__adj"/></e>
     <e lm="istandard"><i>istandard</i><par n="fàtzil/e__adj"/></e>
@@ -10559,6 +10571,7 @@
     <e lm="estremu"><i>estrem</i><par n="frantzes/u__adj"/></e>
     <e lm="eternu"><i>etern</i><par n="frantzes/u__adj"/></e>
     <e lm="feu"><i>fe</i><par n="frantzes/u__adj"/></e>
+    <e lm="federativu"><i>allughitiv</i><par n="frantzes/u__adj"/></e>
     <e lm="fissu"><i>fiss</i><par n="frantzes/u__adj"/></e>
     <e lm="fitianu"><i>fitian</i><par n="frantzes/u__adj"/></e>
     <e lm="foranu"><i>foran</i><par n="frantzes/u__adj"/></e>
@@ -37018,6 +37031,7 @@
     <e lm="austeridade"><i>austeridad</i><par n="region/e__n"/></e>
     <e lm="autobote"><i>autobote</i><par n="pane__n"/></e>
     <e lm="automòbile"><i>automòbile</i><par n="pane__n"/></e>
+    <e lm="autodeterminatzione"><i>aglutina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="autotzertificatzione"><i>autotzertifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="avesidade"><i>avesidad</i><par n="region/e__n"/></e>
     <e lm="aviatore"><i>aviator</i><par n="traballador/e__n"/></e>
@@ -41529,6 +41543,7 @@
     <e lm="piulaghe"><i>piulagh</i><par n="fàtzil/e__adj"/></e>
     <e lm="plurilìngue"><i>plurilìngu</i><par n="fàtzil/e__adj"/></e>
     <e lm="pluritzellulare"><i>pluritzellular</i><par n="fàtzil/e__adj"/></e>
+    <e lm="plurinatzionale"><i>addi</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
     <e lm="polare"><i>polar</i><par n="fàtzil/e__adj"/></e>
     <e lm="poliglota"><i>poliglota</i><par n="meda__adj"/></e>
     <e lm="porrale"><i>porral</i><par n="fàtzil/e__adj"/></e>
