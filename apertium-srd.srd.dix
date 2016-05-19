@@ -5291,6 +5291,7 @@
     <e lm="resposta"><i>resposta</i><par n="mesa__n"/></e>
     <e lm="resposta" r="LR"><p><l>risposta</l><r>resposta</r></p><par n="mesa__n"/></e>
 
+    <e lm="tomata"><i>tomata</i><par n="mesa__n"/></e>
     <e lm="cadira"><i>cadira</i><par n="mesa__n"/></e>
     <e lm="conca"><i>conca</i><par n="mesa__n"/></e>
     <e lm="regia"><i>regia</i><par n="mesa__n"/></e>
@@ -5504,6 +5505,21 @@
     <e lm="torradura"><i>torradura</i><par n="mesa__n"/></e>
     <e lm="traballadura"><i>traballadura</i><par n="mesa__n"/></e>
 
+    <e lm="retzeta"><i>retzeta</i><par n="mesa__n"/></e>
+    <e lm="introduida"><i>introduida</i><par n="mesa__n"/></e>
+    <e lm="pompìa"><i>pompìa</i><par n="mesa__n"/></e>
+    <e lm="fògia"><i>fògia</i><par n="mesa__n"/></e>
+    <e lm="iscoperta"><i>iscoperta</i><par n="mesa__n"/></e>
+    <e lm="renàschida"><i>renàschida</i><par n="mesa__n"/></e>
+    <e lm="ipòtesi"><i>ipòtesi</i><par n="mesa__n"/></e>
+
+    <e lm="agrùmene"><i>agrùmene</i><par n="pane__n"/></e>
+    <e lm="licore"><i>licore</i><par n="pane__n"/></e>
+    <e lm="salone"><i>salone</i><par n="pane__n"/></e>
+    <e lm="sale"><i>sale</i><par n="pane__n"/></e>
+    <e lm="tzilleri"><i>tzilleri</i><par n="pane__n"/></e>
+
+    <e lm="burdu"><i>burd</i><par n="mac/u__n"/></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -10781,7 +10797,7 @@
     <e lm="peus"><i>peus</i><par n="bene__adv"/></e>
     <e lm="gosi"><i>gosi</i><par n="bene__adv"/></e>
     <e lm="aici"><i>aici</i><par n="bene__adv"/></e>
-    <e lm="comente"><i>comente</i><par n="bene__adv"/></e>
+    <!--<e lm="comente"><i>comente</i><par n="bene__adv"/></e>-->
     <!--<e lm="a gherra"><i>a<b/>gherra</i><par n="bene__adv"/></e>-->
     <!--<e lm="a mala gana"><i>a<b/>mala<b/>gana</i><par n="bene__adv"/></e>-->
     <!--<e lm="a mala bògia"><i>a<b/>mala<b/>bògia</i><par n="bene__adv"/></e>-->
@@ -11263,7 +11279,6 @@
 
 
     <e lm="divenire"><i>diven</i><par n="fin/ire__vblex"/></e>
-    <e lm="faddire"><i>fadd</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
     <e lm="costruire"><i>costru</i><par n="fin/ire__vblex"/></e>
     <e lm="cunstituire"><par n="cun/con"/><i>stitu</i><par n="fin/ire__vblex"/></e>
@@ -11410,6 +11425,7 @@
     <e lm="abèrrere"><p><l>abèr</l><r>abèrrere</r></p><par n="abèr/rere__vblex"/></e>
     <e lm="abèrrere"><p><l>aber</l><r>abèrrere</r></p><par n="aber/is__vblex"/></e>
     <e lm="apàrrere"><p><l>apàr</l><r>apàrrere</r></p><par n="abèr/rere__vblex"/></e>
+    <e lm="apàrrere"><p><l>apar</l><r>apàrrere</r></p><par n="aber/is__vblex"/></e>
     <e lm="cobèrrere"><p><l>cobèr</l><r>cobèrrere</r></p><par n="abèr/rere__vblex"/></e>
     <e lm="cobèrrere"><p><l>cober</l><r>cobèrrere</r></p><par n="aber/is__vblex"/></e>
     <e lm="cunfèrrere"><p><l>cunfèr</l><r>cunfèrrere</r></p><par n="abèr/rere__vblex"/></e>
@@ -49435,7 +49451,6 @@
     <e lm="mendiga"><i>mendiga</i><par n="bene__adv"/></e>
     <e lm="mentras"><i>mentras</i><par n="bene__adv"/></e>
     <e lm="mentres"><i>mentres</i><par n="bene__adv"/></e>
-    <e lm="mescamente"><i>mescamente</i><par n="bene__adv"/></e>
     <e lm="mesca"><i>mesca</i><par n="bene__adv"/></e>
     <e lm="mesche"><i>mesche</i><par n="bene__adv"/></e>
     <e lm="mesches"><i>mesches</i><par n="bene__adv"/></e>
@@ -49461,7 +49476,6 @@
     <e lm="noghende"><i>noghende</i><par n="bene__adv"/></e>
     <e lm="nointamen"><i>nointamen</i><par n="bene__adv"/></e>
     <e lm="non"><i>non</i><par n="bene__adv"/></e>
-    <e lm="no"><i>no</i><par n="bene__adv"/></e>
     <e lm="nosse"><i>nosse</i><par n="bene__adv"/></e>
     <e lm="notu"><i>notu</i><par n="bene__adv"/></e>
     <e lm="nuddue"><i>nuddue</i><par n="bene__adv"/></e>
