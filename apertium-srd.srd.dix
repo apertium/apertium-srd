@@ -11263,8 +11263,6 @@
 
 
     <e lm="divenire"><i>diven</i><par n="fin/ire__vblex"/></e>
-    <e lm="defìnire"><i>defìn</i><par n="fin/ire__vblex"/></e>
-    <e lm="defìnire" r="LR"><p><l>defin</l><r>defìn</r></p><par n="fin/ire__vblex"/></e>
     <e lm="faddire"><i>fadd</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
     <e lm="costruire"><i>costru</i><par n="fin/ire__vblex"/></e>
@@ -26734,6 +26732,7 @@
     <e lm="decaire"><p><l>deca</l><r>decaire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="deduire"><p><l>dedu</l><r>deduire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="definire"><p><l>defin</l><r>definire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="definire" r="LR"><p><l>defìn</l><r>defin</r></p><par n="fin/ire__vblex"/></e>
     <e lm="demprire"><p><l>dempr</l><r>demprire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="deperire"><p><l>deper</l><r>deperire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="desfallire"><p><l>desfall</l><r>desfallire</r></p><par n="ped/ire__vblex"/></e>
