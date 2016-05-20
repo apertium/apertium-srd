@@ -5521,6 +5521,8 @@
 
     <e lm="burdu"><i>burd</i><par n="mac/u__n"/></e>
 
+
+
     <!-- SECTION: Proper nouns -->
 
     <e lm="PNB"><i>PNB</i><par n="PNB__n"/></e>
@@ -9920,6 +9922,7 @@
     <e lm="mandarinu"><i>mandarin</i><par n="amig/u__n"/></e>
     <e lm="olandesu"><i>olandes</i><par n="amig/u__n"/></e>
     <e lm="cristianu"><i>cristian</i><par n="amig/u__n"/></e>
+    <e lm="catolicu"><i>catolic</i><par n="amig/u__n"/></e>
     <e lm="sitzilianu"><i>sitzilian</i><par n="amig/u__n"/></e>
     <e lm="ucrainu"><i>ucrain</i><par n="amig/u__n"/></e>
     <e lm="milanesu"><i>milanes</i><par n="amig/u__n"/></e>
