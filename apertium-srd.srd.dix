@@ -2513,7 +2513,7 @@
     </pardef>
 
 
-    <pardef n="aèsc/here__vblex">	<!-- paradigma I del curretore ortogràficu para verbos en schere -->
+    <pardef n="aèsc/here__vblex">	<!-- paradigma I del curretore ortogràficu para verbos en schere, excepto connòschere y derivados -->
       <e>       <p><l></l><r></r></p><par n="tìng/here__vblex"/></e>
     </pardef>
 
@@ -2524,6 +2524,73 @@
       <e>       <p><l>hida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>hidos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>hidas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="connòsc/here__vblex">	<!-- según conversación 20.05.2016 -->
+      <e>       <p><l>here</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+    </pardef>
+
+    <pardef n="connosc/o__vblex">
+      <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hes</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>het</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>himus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>hia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hiat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>hiamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>hiais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hiant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>hei</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>hemus</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heis</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>heint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>here</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heres</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>heremus</l><r><s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hereis</l><r><s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>herent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>he</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>he</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>hide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hide</l><r><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__canta"/></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>hende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>hende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+
+      <e r="LR"><p><l>hidu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>hida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>hidos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>hidas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="conno/tu__vblex">
+      <e>       <p><l>tu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ta</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>tos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>tas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -25878,8 +25945,9 @@
     <e lm="congiùnghere"><p><l>congiun</l><r>congiùnghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="connètere"><p><l>connèt</l><r>connètere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="connètere"><p><l>connet</l><r>connètere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="connòschere"><p><l>connòsc</l><r>connòschere</r></p><par n="aèsc/here__vblex"/></e>
-    <e lm="connòschere"><p><l>connosc</l><r>connòschere</r></p><par n="aesc/o__vblex"/></e>
+    <e lm="connòschere"><p><l>connòsc</l><r>connòschere</r></p><par n="connòsc/here__vblex"/></e>
+    <e lm="connòschere"><p><l>connosc</l><r>connòschere</r></p><par n="connosc/o__vblex"/></e>
+    <e lm="connòschere"><p><l>conno</l><r>connòschere</r></p><par n="conno/tu__vblex"/></e>
     <e lm="contraìghere"><p><l>contraìg</l><r>contraìghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="contraìghere"><p><l>contraig</l><r>contraìghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="contraìghere"><p><l>contrai</l><r>contraìghere</r></p><par n="tin/tu__vblex"/></e>
@@ -26009,8 +26077,9 @@
     <e lm="dirìgere"><p><l>dirig</l><r>dirìgere</r></p><par n="reg/o__vblex"/></e>
     <e lm="disagradèssere"><p><l>disagradèss</l><r>disagradèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="disagradèssere"><p><l>disagradess</l><r>disagradèssere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="disconnòschere"><p><l>disconnòsc</l><r>disconnòschere</r></p><par n="aèsc/here__vblex"/></e>
-    <e lm="disconnòschere"><p><l>disconnosc</l><r>disconnòschere</r></p><par n="aesc/o__vblex"/></e>
+    <e lm="disconnòschere"><p><l>disconnòsc</l><r>disconnòschere</r></p><par n="connòsc/here__vblex"/></e>
+    <e lm="disconnòschere"><p><l>disconnosc</l><r>disconnòschere</r></p><par n="connosc/o__vblex"/></e>
+    <e lm="disconnòschere"><p><l>disconno</l><r>disconnòschere</r></p><par n="conno/tu__vblex"/></e>
     <e lm="discrèere"><p><l>discrè</l><r>discrèere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="discrèere"><p><l>discre</l><r>discrèere</r></p><par n="tim/o__vblex"/></e>
     <e lm="discumpàrrere"><p><l>discumpàrr</l><r>discumpàrrere</r></p><par n="tìm/ere__vblex"/></e>
@@ -26409,9 +26478,9 @@
     <e lm="recòghere"><p><l>recòg</l><r>recòghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="recòghere"><p><l>recog</l><r>recòghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="recòghere"><p><l>reco</l><r>recòghere</r></p><par n="tin/tu__vblex"/></e>
-    <e lm="reconnòschere"><p><l>reconnòsc</l><r>reconnòschere</r></p><par n="aèsc/here__vblex"/></e>
-    <e lm="reconnòschere"><p><l>reconnosc</l><r>reconnòschere</r></p><par n="aesc/o__vblex"/></e>
-    <e lm="reconnòschere"><p><l>reconno</l><r>reconnòschere</r></p><par n="c/òghere__vblex"/></e>
+    <e lm="reconnòschere"><p><l>reconnòsc</l><r>reconnòschere</r></p><par n="connòsc/here__vblex"/></e>
+    <e lm="reconnòschere"><p><l>reconnosc</l><r>reconnòschere</r></p><par n="connosc/o__vblex"/></e>
+    <e lm="reconnòschere"><p><l>reconno</l><r>reconnòschere</r></p><par n="conno/tu__vblex"/></e>
     <e lm="redìmere"><p><l>redìm</l><r>redìmere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="redìmere"><p><l>redim</l><r>redìmere</r></p><par n="tim/o__vblex"/></e>
     <e lm="redùsere"><p><l>redùs</l><r>redùsere</r></p><par n="tìm/ere__vblex"/></e>
