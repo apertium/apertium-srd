@@ -11215,6 +11215,27 @@
     <e lm="parebare"><i>parebar</i><par n="fàtzil/e__adj"/></e>
     <e lm="serente"><i>serent</i><par n="fàtzil/e__adj"/></e>
 
+
+    <e lm="tecnologicu"><i>tecnologi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="temporale"><i>temporal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="protagonista"><i>protagonista</i><par n="meda__adj"/></e>
+    <e lm="coladu"><i>colad</i><par n="frantzes/u__adj"/></e>
+    <e lm="sollìtzitu"><i>sollìtzit</i><par n="frantzes/u__adj"/></e>
+    <e lm="asciutu"><i>asciut</i><par n="frantzes/u__adj"/></e>
+    <e lm="vicanicu"><i>vicani</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="artisticu"><i>artisti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="austriacu"><i>austriac</i><par n="frantzes/u__adj"/></e>
+    <e lm="complessivu"><i>complessiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="comicu"><i>comi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="congru"><i>congr</i><par n="frantzes/u__adj"/></e>
+    <e lm="resolutu"><i>resolut</i><par n="frantzes/u__adj"/></e>
+    <e lm="illètzitu"><i>illètzit</i><par n="frantzes/u__adj"/></e>
+    <e lm="libicu"><i>libi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="mecanicu"><i>mecani</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="numericu"><i>numeri</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="respetivu"><i>respetiv</i><par n="frantzes/u__adj"/></e>
+
+
     <!-- SECTION: Adverbs -->
 
     <e lm="guasi"><i>guasi</i><par n="guasi__preadv"/></e>
@@ -42750,7 +42771,7 @@
     <e lm="asfaltadu"><i>asfaltad</i><par n="frantzes/u__adj"/></e>
     <e lm="asiàticu"><i>asiàti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="asmàticu"><i>asmàti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="aspirante"><i>aspirant</i><par n="cunservador/e__adj"/></e>
+    <e lm="aspirante"><i>aspirant</i><par n="fàtzil/e__adj"/></e>
     <e lm="aspru"><i>aspr</i><par n="frantzes/u__adj"/></e>
     <e lm="assacarradu"><i>assacarrad</i><par n="frantzes/u__adj"/></e>
     <e lm="assachiadu"><i>assachiad</i><par n="frantzes/u__adj"/></e>
@@ -43081,7 +43102,7 @@
     <e lm="botànicu"><i>botàni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="botiddesu"><i>botiddes</i><par n="frantzes/u__adj"/></e>
     <e lm="bovale"><i>boval</i><par n="cunservador/e__adj"/></e>
-    <e lm="brafante"><i>brafant</i><par n="cunservador/e__adj"/></e>
+    <e lm="brafante"><i>brafant</i><par n="fàtzil/e__adj"/></e>
     <e lm="bralliosu"><i>brallios</i><par n="frantzes/u__adj"/></e>
     <e lm="bràmidu"><i>bràmid</i><par n="frantzes/u__adj"/></e>
     <e lm="brandu"><i>brand</i><par n="frantzes/u__adj"/></e>
@@ -43587,7 +43608,7 @@
     <e lm="compressore"><i>compressor</i><par n="cunservador/e__adj"/></e>
     <e lm="compressu"><i>compress</i><par n="frantzes/u__adj"/></e>
     <e lm="compulsivu"><i>compulsiv</i><par n="frantzes/u__adj"/></e>
-    <e lm="comunicante"><i>comunicant</i><par n="cunservador/e__adj"/></e>
+    <e lm="comunicante"><i>comunicant</i><par n="fàtzil/e__adj"/></e>
     <e lm="comunitàriu"><i>comunitàri</i><par n="frantzes/u__adj"/></e>
     <e lm="concatzudu"><i>concatzud</i><par n="frantzes/u__adj"/></e>
     <e lm="còncavu"><i>còncav</i><par n="frantzes/u__adj"/></e>
@@ -44484,7 +44505,7 @@
     <e lm="epidèrmicu"><i>epidèrmi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="epilèticu"><i>epilèti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="episcopale"><i>episcopal</i><par n="cunservador/e__adj"/></e>
-    <e lm="epistolante"><i>epistolant</i><par n="cunservador/e__adj"/></e>
+    <e lm="epistolante"><i>epistolant</i><par n="fàtzil/e__adj"/></e>
     <e lm="erbale"><i>erbal</i><par n="cunservador/e__adj"/></e>
     <e lm="erbidu"><i>erbid</i><par n="frantzes/u__adj"/></e>
     <e lm="erboridu"><i>erborid</i><par n="frantzes/u__adj"/></e>
@@ -44684,7 +44705,7 @@
     <e lm="ferrudu"><i>ferrud</i><par n="frantzes/u__adj"/></e>
     <e lm="ferrùngiu"><i>ferrùngi</i><par n="frantzes/u__adj"/></e>
     <e lm="ferulatzu"><i>ferulatz</i><par n="frantzes/u__adj"/></e>
-    <e lm="fervente"><i>fervent</i><par n="cunservador/e__adj"/></e>
+    <e lm="fervente"><i>fervent</i><par n="fàtzil/e__adj"/></e>
     <e lm="festaresu"><i>festares</i><par n="frantzes/u__adj"/></e>
     <e lm="festaritzu"><i>festaritz</i><par n="frantzes/u__adj"/></e>
     <e lm="festivu"><i>festiv</i><par n="frantzes/u__adj"/></e>
@@ -45748,7 +45769,7 @@
     <e lm="iscotzuladu"><i>iscotzulad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscoviadore"><i>iscoviador</i><par n="cunservador/e__adj"/></e>
     <e lm="iscoviadore"><i>iscoviador</i><par n="traballador/e__n"/></e>
-    <e lm="iscoviante"><i>iscoviant</i><par n="cunservador/e__adj"/></e>
+    <e lm="iscoviante"><i>iscoviant</i><par n="fàtzil/e__adj"/></e>
     <e lm="iscrabionadu"><i>iscrabionad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscraideddu"><i>iscraidedd</i><par n="frantzes/u__adj"/></e>
     <e lm="iscràidu"><i>iscràid</i><par n="frantzes/u__adj"/></e>
@@ -45758,7 +45779,7 @@
     <e lm="iscrautzidu"><i>iscrautzid</i><par n="frantzes/u__adj"/></e>
     <e lm="iscravigadore"><i>iscravigador</i><par n="cunservador/e__adj"/></e>
     <e lm="iscravigadore"><i>iscravigador</i><par n="traballador/e__n"/></e>
-    <e lm="iscreente"><i>iscreent</i><par n="cunservador/e__adj"/></e>
+    <e lm="iscreente"><i>iscreent</i><par n="fàtzil/e__adj"/></e>
     <e lm="iscrefangiadu"><i>iscrefangiad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscrefangiosu"><i>iscrefangios</i><par n="frantzes/u__adj"/></e>
     <e lm="iscrètidu"><i>iscrètid</i><par n="frantzes/u__adj"/></e>
@@ -48256,7 +48277,7 @@
     <e lm="realidadosu"><i>realidados</i><par n="frantzes/u__adj"/></e>
     <e lm="reativu"><i>reativ</i><par n="frantzes/u__adj"/></e>
     <e lm="rebechinu"><i>rebechin</i><par n="frantzes/u__adj"/></e>
-    <e lm="rebelde"><i>rebeld</i><par n="cunservador/e__adj"/></e>
+    <e lm="rebelde"><i>rebeld</i><par n="fàtzil/e__adj"/></e>
     <e lm="rebeldosu"><i>rebeldos</i><par n="frantzes/u__adj"/></e>
     <e lm="rebelladu"><i>rebellad</i><par n="frantzes/u__adj"/></e>
     <e lm="rebellosu"><i>rebellos</i><par n="frantzes/u__adj"/></e>
@@ -48458,7 +48479,7 @@
     <e lm="rùsticu"><i>rùsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="rùstigu"><i>rùstig</i><par n="frantzes/u__adj"/></e>
     <e lm="rusùgiu"><i>rusùgi</i><par n="frantzes/u__adj"/></e>
-    <e lm="rutilante"><i>rutilant</i><par n="cunservador/e__adj"/></e>
+    <e lm="rutilante"><i>rutilant</i><par n="fàtzil/e__adj"/></e>
     <e lm="rutu"><i>rut</i><par n="frantzes/u__adj"/></e>
     <e lm="ruzone"><i>ruzon</i><par n="cunservador/e__adj"/></e>
     <e lm="ruzu"><i>ruz</i><par n="frantzes/u__adj"/></e>
@@ -48486,7 +48507,7 @@
     <e lm="salabadu"><i>salabad</i><par n="frantzes/u__adj"/></e>
     <e lm="salariadu"><i>salariad</i><par n="frantzes/u__adj"/></e>
     <e lm="salentinu"><i>salentin</i><par n="frantzes/u__adj"/></e>
-    <e lm="saliante"><i>saliant</i><par n="cunservador/e__adj"/></e>
+    <e lm="saliante"><i>saliant</i><par n="fàtzil/e__adj"/></e>
     <e lm="saligheresu"><i>saligheres</i><par n="frantzes/u__adj"/></e>
     <e lm="salinu"><i>salin</i><par n="frantzes/u__adj"/></e>
     <e lm="saliosu"><i>salios</i><par n="frantzes/u__adj"/></e>
@@ -48702,7 +48723,7 @@
     <e lm="sìsmicu"><i>sìsmi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="sìstigu"><i>sìstig</i><par n="frantzes/u__adj"/></e>
     <e lm="sitziu"><i>sitzi</i><par n="frantzes/u__adj"/></e>
-    <e lm="sobrante"><i>sobrant</i><par n="cunservador/e__adj"/></e>
+    <e lm="sobrante"><i>sobrant</i><par n="fàtzil/e__adj"/></e>
     <e lm="soddabrusiadu"><i>soddabrusiad</i><par n="frantzes/u__adj"/></e>
     <e lm="soddiesu"><i>soddies</i><par n="frantzes/u__adj"/></e>
     <e lm="solàsticu"><i>solàsti</i><par n="linguìsti/cu__adj"/></e>
@@ -48801,7 +48822,7 @@
     <e lm="suergiolu"><i>suergiol</i><par n="frantzes/u__adj"/></e>
     <e lm="suerinu"><i>suerin</i><par n="frantzes/u__adj"/></e>
     <e lm="suetu"><i>suet</i><par n="frantzes/u__adj"/></e>
-    <e lm="suferente"><i>suferent</i><par n="cunservador/e__adj"/></e>
+    <e lm="suferente"><i>suferent</i><par n="fàtzil/e__adj"/></e>
     <e lm="sufertu"><i>sufert</i><par n="frantzes/u__adj"/></e>
     <e lm="sufratosu"><i>sufratos</i><par n="frantzes/u__adj"/></e>
     <e lm="sufrissu"><i>sufriss</i><par n="frantzes/u__adj"/></e>
@@ -48831,7 +48852,7 @@
     <e lm="superlativu"><i>superlativ</i><par n="frantzes/u__adj"/></e>
     <e lm="supernu"><i>supern</i><par n="frantzes/u__adj"/></e>
     <e lm="superstitziosu"><i>superstitzios</i><par n="frantzes/u__adj"/></e>
-    <e lm="suplente"><i>suplent</i><par n="cunservador/e__adj"/></e>
+    <e lm="suplente"><i>suplent</i><par n="fàtzil/e__adj"/></e>
     <e lm="suportadu"><i>suportad</i><par n="frantzes/u__adj"/></e>
     <e lm="supridu"><i>suprid</i><par n="frantzes/u__adj"/></e>
     <e lm="suprimidu"><i>suprimid</i><par n="frantzes/u__adj"/></e>
@@ -49622,7 +49643,7 @@
     <e lm="viennesu"><i>viennes</i><par n="frantzes/u__adj"/></e>
     <e lm="vietadu"><i>vietad</i><par n="frantzes/u__adj"/></e>
     <e lm="vigiliosu"><i>vigilios</i><par n="frantzes/u__adj"/></e>
-    <e lm="vigiulante"><i>vigiulant</i><par n="cunservador/e__adj"/></e>
+    <e lm="vigiulante"><i>vigiulant</i><par n="fàtzil/e__adj"/></e>
     <e lm="vigorosu"><i>vigoros</i><par n="frantzes/u__adj"/></e>
     <e lm="villanovianu"><i>villanovian</i><par n="frantzes/u__adj"/></e>
     <e lm="vindicativu"><i>vindicativ</i><par n="frantzes/u__adj"/></e>
