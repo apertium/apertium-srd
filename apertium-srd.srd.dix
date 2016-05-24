@@ -19733,6 +19733,8 @@
     <e lm="ampuare"><i>ampu</i><par n="cant/are__vblex"/></e>
     <e lm="ampulare"><i>ampul</i><par n="cant/are__vblex"/></e>
     <e lm="analizare"><i>analiz</i><par n="cant/are__vblex"/></e>
+    <e lm="ancorare"><p><l>ancor</l><r>ancorare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="ancorare"><p><l>àncor</l><r>ancorare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="ancujare"><i>ancuj</i><par n="cant/are__vblex"/></e>
     <e lm="andare"><i>and</i><par n="cant/are__vblex"/></e>
     <e lm="aneddare"><i>anedd</i><par n="cant/are__vblex"/></e>
@@ -19778,6 +19780,7 @@
     <e lm="aposentare"><i>aposent</i><par n="cant/are__vblex"/></e>
     <e lm="apostare"><i>apost</i><par n="cant/are__vblex"/></e>
     <e lm="apotentare"><i>apotent</i><par n="cant/are__vblex"/></e>
+    <e lm="appetitare"><p><l>appetit</l><r>appetitare</r></p><par n="cant/are__vblex"/></e>
     <e lm="apranare"><i>apran</i><par n="cant/are__vblex"/></e>
     <e lm="aprensionare"><i>aprension</i><par n="cant/are__vblex"/></e>
     <e lm="apressare"><i>apress</i><par n="cant/are__vblex"/></e>
@@ -19818,6 +19821,7 @@
     <e lm="arribbare"><i>arribb</i><par n="cant/are__vblex"/></e>
     <e lm="arrimare"><i>arrim</i><par n="cant/are__vblex"/></e>
     <e lm="arritzare"><i>arritz</i><par n="cant/are__vblex"/></e>
+    <e lm="arrivare"><p><l>arriv</l><r>arrivare</r></p><par n="cant/are__vblex"/></e>
     <e lm="arrodare"><i>arrod</i><par n="cant/are__vblex"/></e>
     <e lm="arropare"><i>arrop</i><par n="cant/are__vblex"/></e>
     <e lm="arrotondare"><i>arrotond</i><par n="cant/are__vblex"/></e>
@@ -19834,6 +19838,7 @@
     <e lm="articulare"><i>articul</i><par n="cant/are__vblex"/></e>
     <e lm="asare"><i>as</i><par n="cant/are__vblex"/></e>
     <e lm="ascamare"><i>ascam</i><par n="cant/are__vblex"/></e>
+    <e lm="asciutare"><p><l>asciut</l><r>asciutare</r></p><par n="cant/are__vblex"/></e>
     <e lm="ascurtare"><i>ascurt</i><par n="cant/are__vblex"/></e>
     <e lm="asfaltare"><i>asfalt</i><par n="cant/are__vblex"/></e>
     <e lm="aspetare"><i>aspet</i><par n="cant/are__vblex"/></e>
@@ -19872,6 +19877,9 @@
     <e lm="assustare"><i>assust</i><par n="cant/are__vblex"/></e>
     <e lm="assutare"><i>assut</i><par n="cant/are__vblex"/></e>
     <e lm="ataconare"><i>atacon</i><par n="cant/are__vblex"/></e>
+
+
+    <e lm="astrare"><p><l>astr</l><r>astrare</r></p><par n="cant/are__vblex"/></e>
     <e lm="atamagnare"><i>atamagn</i><par n="cant/are__vblex"/></e>
     <e lm="atamanare"><i>ataman</i><par n="cant/are__vblex"/></e>
     <e lm="atelare"><i>atel</i><par n="cant/are__vblex"/></e>
@@ -19892,6 +19900,7 @@
     <e lm="atrapare"><i>atrap</i><par n="cant/are__vblex"/></e>
     <e lm="atrempare"><i>atremp</i><par n="cant/are__vblex"/></e>
     <e lm="atretzare"><i>atretz</i><par n="cant/are__vblex"/></e>
+    <e lm="atrevire"><p><l>atrev</l><r>atrevire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="atripare"><i>atrip</i><par n="cant/are__vblex"/></e>
     <e lm="atristare"><i>atrist</i><par n="cant/are__vblex"/></e>
     <e lm="atritzare"><i>atritz</i><par n="cant/are__vblex"/></e>
@@ -19995,6 +20004,7 @@
     <e lm="cadentzare"><i>cadentz</i><par n="cant/are__vblex"/></e>
     <e lm="cadramissare"><i>cadramiss</i><par n="cant/are__vblex"/></e>
     <e lm="cadreddare"><i>cadredd</i><par n="cant/are__vblex"/></e>
+    <e lm="caentare"><p><l>caent</l><r>caentare</r></p><par n="cant/are__vblex"/></e>
     <e lm="cafeare"><i>cafe</i><par n="cant/are__vblex"/></e>
     <e lm="cafetare"><i>cafet</i><par n="cant/are__vblex"/></e>
     <e lm="caigionare"><i>caigion</i><par n="cant/are__vblex"/></e>
@@ -20187,6 +20197,7 @@
     <e lm="contare"><i>cont</i><par n="cant/are__vblex"/></e>
     <e lm="contierrare"><i>contierr</i><par n="cant/are__vblex"/></e>
     <e lm="contivigiare"><i>contivig</i><par n="assing/iare__vblex"/></e>
+    <e lm="contivizare"><p><l>contiviz</l><r>contivizare</r></p><par n="cant/are__vblex"/></e>
     <e lm="contonare"><i>conton</i><par n="cant/are__vblex"/></e>
     <e lm="contrapuntare"><i>contrapunt</i><par n="cant/are__vblex"/></e>
     <e lm="contrasinnare"><i>contrasinn</i><par n="cant/are__vblex"/></e>
@@ -20319,6 +20330,7 @@
     <e lm="cunsertare"><par n="cun/con"/><i>sert</i><par n="cant/are__vblex"/></e>
     <e lm="cunservare"><par n="cun/con"/><i>serv</i><par n="cant/are__vblex"/></e>
     <e lm="cunsignare"><par n="cun/con"/><i>sign</i><par n="cant/are__vblex"/></e>
+    <e lm="cunsinnare"><p><l>cunsinn</l><r>cunsinnare</r></p><par n="cant/are__vblex"/></e>
     <e lm="cunsonare"><par n="cun/con"/><i>son</i><par n="cant/are__vblex"/></e>
     <e lm="cuntemplare"><par n="cun/con"/><i>templ</i><par n="cant/are__vblex"/></e>
     <e lm="cuntentare"><par n="cun/con"/><i>tent</i><par n="cant/are__vblex"/></e>
@@ -20347,6 +20359,7 @@
     <e lm="cussertare"><i>cussert</i><par n="cant/are__vblex"/></e>
     <e lm="cutzare"><i>cutz</i><par n="cant/are__vblex"/></e>
     <e lm="dannare"><i>dann</i><par n="cant/are__vblex"/></e>
+    <e lm="dansare"><p><l>dans</l><r>dansare</r></p><par n="cant/are__vblex"/></e>
     <e lm="dantzare"><i>dantz</i><par n="cant/are__vblex"/></e>
     <e lm="dassare"><i>dass</i><par n="cant/are__vblex"/></e>
     <e lm="datare"><i>dat</i><par n="cant/are__vblex"/></e>
@@ -20416,6 +20429,8 @@
     <e lm="diritare"><i>dirit</i><par n="cant/are__vblex"/></e>
     <e lm="dirotare"><i>dirot</i><par n="cant/are__vblex"/></e>
     <e lm="dirrenare"><i>dirren</i><par n="cant/are__vblex"/></e>
+    <e lm="dipositare"><p><l>diposit</l><r>dipositare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="dipositare"><p><l>dipòsit</l><r>dipositare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="disabaratare"><i>disabarat</i><par n="cant/are__vblex"/></e>
     <e lm="disacostumare"><i>disacostum</i><par n="cant/are__vblex"/></e>
     <e lm="disafiare"><i>disafi</i><par n="cant/are__vblex"/></e>
@@ -20507,6 +20522,8 @@
     <e lm="drammatizare"><i>drammatiz</i><par n="cant/are__vblex"/></e>
     <e lm="drillare"><i>drill</i><par n="cant/are__vblex"/></e>
     <e lm="dringhitare"><i>dringhit</i><par n="cant/are__vblex"/></e>
+    <e lm="dubbitare"><p><l>dubbit</l><r>dubbitare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="dubbitare"><p><l>dùbbit</l><r>dubbitare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="dubbussare"><i>dubbuss</i><par n="cant/are__vblex"/></e>
     <e lm="dubitare"><i>dubit</i><par n="cant/are__vblex"/></e>
     <e lm="dudare"><i>dud</i><par n="cant/are__vblex"/></e>
@@ -20686,6 +20703,7 @@
     <e lm="gherrigiare"><i>gherrig</i><par n="assing/iare__vblex"/></e>
     <e lm="gherrintzonare"><i>gherrintzon</i><par n="cant/are__vblex"/></e>
     <e lm="ghetare"><i>ghet</i><par n="cant/are__vblex"/></e>
+    <e lm="ghettare"><p><l>ghett</l><r>ghettare</r></p><par n="cant/are__vblex"/></e>
     <e lm="ghidiare"><i>ghidi</i><par n="cant/are__vblex"/></e>
     <e lm="ghiliare"><i>ghili</i><par n="cant/are__vblex"/></e>
     <e lm="ghilighiare"><i>ghilighi</i><par n="cant/are__vblex"/></e>
@@ -20779,6 +20797,9 @@
     <e lm="imbrossinare"><i>imbrossin</i><par n="cant/are__vblex"/></e>
     <e lm="imbrutare"><i>imbrut</i><par n="cant/are__vblex"/></e>
     <e lm="imbudare"><i>imbud</i><par n="cant/are__vblex"/></e>
+
+    <e lm="imitare"><p><l>imit</l><r>imitare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="imitare"><p><l>ìmit</l><r>imitare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="immagasinare"><i>immagasin</i><par n="cant/are__vblex"/></e>
     <e lm="immandrare"><i>immandr</i><par n="cant/are__vblex"/></e>
     <e lm="immolare"><i>immol</i><par n="cant/are__vblex"/></e>
@@ -20908,6 +20929,7 @@
     <e lm="inserrare"><i>inserr</i><par n="cant/are__vblex"/></e>
     <e lm="insertare"><i>insert</i><par n="cant/are__vblex"/></e>
     <e lm="insingiare"><i>insing</i><par n="assing/iare__vblex"/></e>
+    <e lm="insinzare"><p><l>insinz</l><r>insinzare</r></p><par n="cant/are__vblex"/></e>
     <e lm="insonare"><i>inson</i><par n="cant/are__vblex"/></e>
     <e lm="installare"><i>install</i><par n="cant/are__vblex"/></e>
     <e lm="insuare"><i>insu</i><par n="cant/are__vblex"/></e>
@@ -20948,6 +20970,7 @@
     <e lm="irraighinare"><i>irraighin</i><par n="cant/are__vblex"/></e>
     <e lm="irramare"><i>irram</i><par n="cant/are__vblex"/></e>
     <e lm="irregiolare"><i>irregiol</i><par n="cant/are__vblex"/></e>
+    <e lm="irrobare"><p><l>irrob</l><r>irrobare</r></p><par n="cant/are__vblex"/></e>
     <e lm="irrujare"><i>irruj</i><par n="cant/are__vblex"/></e>
     <e lm="isalare"><i>isal</i><par n="cant/are__vblex"/></e>
     <e lm="isalenare"><i>isalen</i><par n="cant/are__vblex"/></e>
@@ -20957,6 +20980,8 @@
     <e lm="isastrare"><i>isastr</i><par n="cant/are__vblex"/></e>
     <e lm="isbagantare"><i>isbagant</i><par n="cant/are__vblex"/></e>
     <e lm="isbagassare"><i>isbagass</i><par n="cant/are__vblex"/></e>
+    <e lm="isbagliare"><p><l>isbagli</l><r>isbagliare</r></p><par n="cant/are__vblex"/></e>
+
     <e lm="isballare"><i>isball</i><par n="cant/are__vblex"/></e>
     <e lm="isbalossare"><i>isbaloss</i><par n="cant/are__vblex"/></e>
     <e lm="isbandare"><i>isband</i><par n="cant/are__vblex"/></e>
@@ -20989,6 +21014,7 @@
     <e lm="isbullare"><i>isbull</i><par n="cant/are__vblex"/></e>
     <e lm="isburdellare"><i>isburdell</i><par n="cant/are__vblex"/></e>
     <e lm="isburrare"><i>isburr</i><par n="cant/are__vblex"/></e>
+    <e lm="isbursare"><p><l>isburs</l><r>isbursare</r></p><par n="cant/are__vblex"/></e>
     <e lm="isbussare"><i>isbuss</i><par n="cant/are__vblex"/></e>
     <e lm="isbutirare"><i>isbutir</i><par n="cant/are__vblex"/></e>
     <e lm="isbutonare"><i>isbuton</i><par n="cant/are__vblex"/></e>
@@ -21113,6 +21139,7 @@
     <e lm="iscianchitare"><i>iscianchit</i><par n="cant/are__vblex"/></e>
     <e lm="isciare"><i>isc</i><par n="assing/iare__vblex"/></e>
     <e lm="iscibuddare"><i>iscibudd</i><par n="cant/are__vblex"/></e>
+    <e lm="iscicutare"><p><l>iscicut</l><r>iscicutare</r></p><par n="cant/are__vblex"/></e>
     <e lm="iscimprare"><i>iscimpr</i><par n="cant/are__vblex"/></e>
     <e lm="isciopare"><i>isciop</i><par n="cant/are__vblex"/></e>
     <e lm="isciorare"><i>iscior</i><par n="cant/are__vblex"/></e>
@@ -21426,6 +21453,8 @@
     <e lm="ispritare"><i>isprit</i><par n="cant/are__vblex"/></e>
     <e lm="isprofundare"><i>isprofund</i><par n="cant/are__vblex"/></e>
     <e lm="ispronare"><i>ispron</i><par n="cant/are__vblex"/></e>
+    <e lm="ispropriare"><p><l>ispropri</l><r>ispropriare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="ispropriare"><p><l>ispròpri</l><r>ispropriare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="ispruinare"><i>ispruin</i><par n="cant/are__vblex"/></e>
     <e lm="isprumonare"><i>isprumon</i><par n="cant/are__vblex"/></e>
     <e lm="ispubuddare"><i>ispubudd</i><par n="cant/are__vblex"/></e>
@@ -22043,6 +22072,7 @@
     <e lm="rebechinare"><i>rebechin</i><par n="cant/are__vblex"/></e>
     <e lm="rebellare"><i>rebell</i><par n="cant/are__vblex"/></e>
     <e lm="rebentare"><i>rebent</i><par n="cant/are__vblex"/></e>
+    <e lm="reberdare"><p><l>reberd</l><r>reberdare</r></p><par n="cant/are__vblex"/></e>
     <e lm="rebotare"><i>rebot</i><par n="cant/are__vblex"/></e>
     <e lm="rebronare"><i>rebron</i><par n="cant/are__vblex"/></e>
     <e lm="rebrotare"><i>rebrot</i><par n="cant/are__vblex"/></e>
@@ -22056,6 +22086,7 @@
     <e lm="reclutare"><i>reclut</i><par n="cant/are__vblex"/></e>
     <e lm="reconchistare"><i>reconchist</i><par n="cant/are__vblex"/></e>
     <e lm="recotare"><i>recot</i><par n="cant/are__vblex"/></e>
+    <e lm="recramare"><p><l>recram</l><r>recramare</r></p><par n="cant/are__vblex"/></e>
     <e lm="recreare"><i>recre</i><par n="cant/are__vblex"/></e>
     <e lm="redatzionare"><i>reda</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
     <e lm="redingotare"><i>redingot</i><par n="cant/are__vblex"/></e>
@@ -22073,6 +22104,8 @@
     <e lm="regionalizare"><i>regionaliz</i><par n="cant/are__vblex"/></e>
     <e lm="regirare"><i>regir</i><par n="cant/are__vblex"/></e>
     <e lm="regnare"><i>regn</i><par n="cant/are__vblex"/></e>
+
+    <e lm="regolamentare"><p><l>regolament</l><r>regolamentare</r></p><par n="cant/are__vblex"/></e>
     <e lm="regordare"><i>regord</i><par n="cant/are__vblex"/></e>
     <e lm="regrare"><i>regr</i><par n="cant/are__vblex"/></e>
     <e lm="regulamentare"><i>regulament</i><par n="cant/are__vblex"/></e>
@@ -22123,6 +22156,7 @@
     <e lm="resugiare"><i>resug</i><par n="assing/iare__vblex"/></e>
     <e lm="resuminare"><i>resumin</i><par n="cant/are__vblex"/></e>
     <e lm="resurtare"><i>resurt</i><par n="cant/are__vblex"/></e>
+    <e lm="resparmiare"><p><l>resparmi</l><r>resparmiare</r></p><par n="cant/are__vblex"/></e>
     <e lm="retirare"><i>retir</i><par n="cant/are__vblex"/></e>
     <e lm="retratare"><i>retrat</i><par n="cant/are__vblex"/></e>
     <e lm="retronare"><i>retron</i><par n="cant/are__vblex"/></e>
@@ -22234,6 +22268,7 @@
     <e lm="segheddare"><i>seghedd</i><par n="cant/are__vblex"/></e>
     <e lm="segherare"><i>segher</i><par n="cant/are__vblex"/></e>
     <e lm="seghestare"><i>seghest</i><par n="cant/are__vblex"/></e>
+    <e lm="segliare"><p><l>segli</l><r>segliare</r></p><par n="cant/are__vblex"/></e>
     <e lm="segrestare"><i>segrest</i><par n="cant/are__vblex"/></e>
     <e lm="segretare"><i>segret</i><par n="cant/are__vblex"/></e>
     <e lm="segundare"><i>segund</i><par n="cant/are__vblex"/></e>
@@ -22406,6 +22441,7 @@
     <e lm="topare"><i>top</i><par n="cant/are__vblex"/></e>
     <e lm="torojare"><i>toroj</i><par n="cant/are__vblex"/></e>
     <e lm="torrare"><i>torr</i><par n="cant/are__vblex"/></e>
+    <e lm="tòrrare# a definire"><p><l>tòrrare# a defin</l><r>tòrrare# a definire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -22634,6 +22670,8 @@
     <e lm="veturare"><i>vetur</i><par n="cant/are__vblex"/></e>
     <e lm="vibrare"><i>vibr</i><par n="cant/are__vblex"/></e>
     <e lm="vigiulare"><i>vigiul</i><par n="cant/are__vblex"/></e>
+    <e lm="vincolare"><p><l>vincol</l><r>vincolare</r></p><par n="vigil/are__vblex"/></e>
+    <e lm="vincolare"><p><l>vìncol</l><r>vincolare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="violentare"><i>violent</i><par n="cant/are__vblex"/></e>
     <e lm="visare"><i>vis</i><par n="cant/are__vblex"/></e>
     <e lm="visionare"><i>vision</i><par n="cant/are__vblex"/></e>
@@ -23103,6 +23141,7 @@
     <e lm="abbandiare"><p><l>abbàndi</l><r>abbandiare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="abbarbiare"><p><l>abbarbi</l><r>abbarbiare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="abbarbiare"><p><l>abbàrbi</l><r>abbarbiare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="abbassiare"><p><l>abbassi</l><r>abbassiare</r></p><par n="cant/are__vblex"/></e>
     <e lm="abbatigare"><p><l>abbatig</l><r>abbatigare</r></p><par n="aplic/are__vblex"/></e>
     <e lm="abbatigare"><p><l>abbàtig</l><r>abbatigare</r></p><par n="àplic/o__vblex"/></e>
     <e lm="abbeliare"><p><l>abbeli</l><r>abbeliare</r></p><par n="vigil/are__vblex"/></e>
@@ -23163,8 +23202,11 @@
     <e lm="acreditare"><p><l>acrèdit</l><r>acreditare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="acugugiare"><p><l>acugug</l><r>acugugiare</r></p><par n="apog/iare__vblex"/></e>
     <e lm="acugugiare"><p><l>acugùg</l><r>acugugiare</r></p><par n="apòg/io__vblex"/></e>
+    <e lm="acuistare"><p><l>acuist</l><r>acuistare</r></p><par n="cant/are__vblex"/></e>
     <e lm="acumpangiare"><p><l>acumpang</l><r>acumpangiare</r></p><par n="apog/iare__vblex"/></e>
     <e lm="acumpangiare"><p><l>acumpàng</l><r>acumpangiare</r></p><par n="apòg/io__vblex"/></e>
+
+    <e lm="acunortare"><p><l>acunort</l><r>acunortare</r></p><par n="cant/are__vblex"/></e>
     <e lm="acurtziare"><p><l>acurtzi</l><r>acurtziare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="acurtziare"><p><l>acùrtzi</l><r>acurtziare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="adasiare"><p><l>adasi</l><r>adasiare</r></p><par n="vigil/are__vblex"/></e>
@@ -23173,6 +23215,7 @@
     <e lm="addentigare"><p><l>addèntig</l><r>addentigare</r></p><par n="àplic/o__vblex"/></e>
     <e lm="addiviare"><p><l>addivi</l><r>addiviare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="addiviare"><p><l>addìvi</l><r>addiviare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="adobbare"><p><l>adobb</l><r>adobbare</r></p><par n="cant/are__vblex"/></e>
     <e lm="addobiare"><p><l>addobi</l><r>addobiare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="addobiare"><p><l>addòbi</l><r>addobiare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="addopiare"><p><l>addopi</l><r>addopiare</r></p><par n="vigil/are__vblex"/></e>
@@ -23181,6 +23224,7 @@
     <e lm="adecuare"><p><l>adècu</l><r>adecuare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="adeguare"><p><l>adegu</l><r>adeguare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="adeguare"><p><l>adègu</l><r>adeguare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="adopiare"><p><l>adopi</l><r>adopiare</r></p><par n="cant/are__vblex"/></e>
     <e lm="aergiare"><p><l>aerg</l><r>aergiare</r></p><par n="apog/iare__vblex"/></e>
     <e lm="aergiare"><p><l>aèrg</l><r>aergiare</r></p><par n="apòg/io__vblex"/></e>
     <e lm="afainare"><p><l>afain</l><r>afainare</r></p><par n="vigil/are__vblex"/></e>
@@ -25167,6 +25211,7 @@
     <e lm="marmurare"><p><l>màrmur</l><r>marmurare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="marturiare"><p><l>marturi</l><r>marturiare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="marturiare"><p><l>martùri</l><r>marturiare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="marciare"><p><l>marc</l><r>marciare</r></p><par n="assing/iare__vblex"/></e>
     <e lm="martziare"><p><l>martzi</l><r>martziare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="martziare"><p><l>màrtzi</l><r>martziare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="mascarare"><p><l>mascar</l><r>mascarare</r></p><par n="vigil/are__vblex"/></e>
@@ -25683,6 +25728,7 @@
     <e lm="regalliare"><p><l>regàlli</l><r>regalliare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="reghentiare"><p><l>reghenti</l><r>reghentiare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="reghentiare"><p><l>reghènti</l><r>reghentiare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="relevare"><p><l>relev</l><r>relevare</r></p><par n="cant/are__vblex"/></e>
     <e lm="remediare"><p><l>remedi</l><r>remediare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="remediare"><p><l>remèdi</l><r>remediare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="reminare"><p><l>remin</l><r>reminare</r></p><par n="vigil/are__vblex"/></e>
@@ -25701,6 +25747,8 @@
     <e lm="retzitare"><p><l>rètzit</l><r>retzitare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="retzitare" r="LR"><p><l>recit</l><r>retzitare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="retzitare" r="LR"><p><l>rècit</l><r>retzitare</r></p><par n="vìgil/o__vblex"/></e>
+    <e lm="revendicare"><p><l>revendic</l><r>revendicare</r></p><par n="aplic/are__vblex"/></e>
+    <e lm="revendicare"><p><l>revèndic</l><r>revendicare</r></p><par n="àplic/o__vblex"/></e>
     <e lm="revocare"><p><l>revoc</l><r>revocare</r></p><par n="aplic/are__vblex"/></e>
     <e lm="revocare"><p><l>rèvoc</l><r>revocare</r></p><par n="àplic/o__vblex"/></e>
     <e lm="ricambiare"><p><l>ricambi</l><r>ricambiare</r></p><par n="vigil/are__vblex"/></e>
@@ -26235,6 +26283,8 @@
     <e lm="agiùnghere"><p><l>agiun</l><r>agiùnghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="agradèssere"><p><l>agradèss</l><r>agradèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="agradèssere"><p><l>agradess</l><r>agradèssere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="allùere"><p><l>allù</l><r>allùere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="allùere"><p><l>allu</l><r>allùere</r></p><par n="tim/o__vblex"/></e>
     <e lm="allùghere"><p><l>allùg</l><r>allùghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="allùghere"><p><l>allug</l><r>allùghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="allùghere"><p><l>allu</l><r>allùghere</r></p><par n="tin/tu__vblex"/></e>
@@ -26252,10 +26302,15 @@
     <e lm="aparèssere"><p><l>aparess</l><r>aparèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="apòrrere"><p><l>apòrr</l><r>apòrrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="apòrrere"><p><l>aporr</l><r>apòrrere</r></p><par n="tim/o__vblex"/></e>
+
+    <e lm="arbèschere"><p><l>arbèsc</l><r>arbèschere</r></p><par n="aèsc/here__vblex"/></e>
+    <e lm="arbèschere"><p><l>arbesc</l><r>arbèschere</r></p><par n="aesc/o__vblex"/></e>   
     <e lm="arrèere"><p><l>arrè</l><r>arrèere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="arrèere"><p><l>arre</l><r>arrèere</r></p><par n="tim/o__vblex"/></e>
     <e lm="arrèndere"><p><l>arrènd</l><r>arrèndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="arrèndere"><p><l>arrend</l><r>arrèndere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="arrenèschere"><p><l>arrenèsc</l><r>arrenèschere</r></p><par n="aèsc/here__vblex"/></e>
+    <e lm="arrenèschere"><p><l>arrenesc</l><r>arrenèschere</r></p><par n="aesc/o__vblex"/></e>
     <e lm="arrèschere"><p><l>arrèsc</l><r>arrèschere</r></p><par n="aèsc/here__vblex"/></e>
     <e lm="arrèschere"><p><l>arresc</l><r>arrèschere</r></p><par n="aesc/o__vblex"/></e>
     <e lm="arròschere"><p><l>arròsc</l><r>arròschere</r></p><par n="aèsc/here__vblex"/></e>
@@ -26367,6 +26422,9 @@
     <e lm="cumbìnchere"><p><l>cumbìnc</l><r>cumbìnchere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="cumbìnchere"><p><l>cumbinc</l><r>cumbìnchere</r></p><par n="ting/o__vblex"/></e>
     <e lm="cumbìnchere"><p><l>cumbin</l><r>cumbìnchere</r></p><par n="tin/tu__vblex"/></e>
+
+    <e lm="cumbìvere"><p><l>cumbìv</l><r>cumbìvere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="cumbìvere"><p><l>cumbiv</l><r>cumbìvere</r></p><par n="tim/o__vblex"/></e>
     <e lm="cummìtere"><p><l>cummìt</l><r>cummìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="cummìtere"><p><l>cummit</l><r>cummìtere</r></p><par n="tim/o__vblex"/></e>
     <e lm="cummòvere"><p><l>cummòv</l><r>cummòvere</r></p><par n="tìm/ere__vblex"/></e>
@@ -26415,6 +26473,8 @@
     <e lm="decadèssere"><p><l>decadess</l><r>decadèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="decùrrere"><p><l>decùrr</l><r>decùrrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="decùrrere"><p><l>decurr</l><r>decùrrere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="defèndere"><p><l>defènd</l><r>defèndere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="defèndere"><p><l>defend</l><r>defèndere</r></p><par n="tim/o__vblex"/></e>
     <e lm="dèghere"><p><l>dèg</l><r>dèghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="dèghere"><p><l>deg</l><r>dèghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="dèghere"><p><l>de</l><r>dèghere</r></p><par n="tin/tu__vblex"/></e>
@@ -26432,6 +26492,7 @@
     <e lm="descadèssere"><p><l>descadess</l><r>descadèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="descrìere"><p><l>descrì</l><r>descrìere</r></p><par n="descrì/ere__vblex"/></e>
     <e lm="descrìere"><p><l>descri</l><r>descrìere</r></p><par n="descri/o__vblex"/></e>
+    <e lm="dessignare"><p><l>dessign</l><r>dessignare</r></p><par n="cant/are__vblex"/></e>
     <e lm="deslùghere"><p><l>deslùg</l><r>deslùghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="deslùghere"><p><l>deslug</l><r>deslùghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="deslùghere"><p><l>deslu</l><r>deslùghere</r></p><par n="tin/tu__vblex"/></e>
@@ -26575,6 +26636,8 @@
     <e lm="inchìnghere"><p><l>inchìng</l><r>inchìnghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="inchìnghere"><p><l>inching</l><r>inchìnghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="inchìnghere"><p><l>inchin</l><r>inchìnghere</r></p><par n="tin/tu__vblex"/></e>
+    <e lm="inclùere"><p><l>inclù</l><r>inclùere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="inclùere"><p><l>inclu</l><r>inclùere</r></p><par n="tim/o__vblex"/></e>
     <e lm="inclùdere"><p><l>inclùd</l><r>inclùdere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="inclùdere"><p><l>includ</l><r>inclùdere</r></p><par n="tim/o__vblex"/></e>
     <e lm="incrèschere"><p><l>incrèsc</l><r>incrèschere</r></p><par n="aèsc/here__vblex"/></e>
@@ -26663,6 +26726,10 @@
     <e lm="ismerèssere"><p><l>ismeress</l><r>ismerèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="ismòrrere"><p><l>ismòrr</l><r>ismòrrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="ismòrrere"><p><l>ismorr</l><r>ismòrrere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="isòlvere"><p><l>isòlv</l><r>isòlvere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="isòlvere"><p><l>isolv</l><r>isòlvere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="isòrbere"><p><l>isòrb</l><r>isòrbere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="isòrbere"><p><l>isorb</l><r>isòrbere</r></p><par n="tim/o__vblex"/></e>
     <e lm="isòrvere"><p><l>isòrv</l><r>isòrvere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="isòrvere"><p><l>isorv</l><r>isòrvere</r></p><par n="tim/o__vblex"/></e>
     <e lm="isparèssere"><p><l>isparèss</l><r>isparèssere</r></p><par n="tìm/ere__vblex"/></e>
@@ -26835,6 +26902,8 @@
     <e lm="prodùere"><p><l>produ</l><r>prodùere</r></p><par n="tim/o__vblex"/></e>
     <e lm="prodùsere"><p><l>prodùs</l><r>prodùsere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="prodùsere"><p><l>produs</l><r>prodùsere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="pròere"><p><l>prò</l><r>pròere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="pròere"><p><l>pro</l><r>pròere</r></p><par n="tim/o__vblex"/></e>
     <e lm="promìtere"><p><l>promìt</l><r>promìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="promìtere"><p><l>promit</l><r>promìtere</r></p><par n="tim/o__vblex"/></e>
     <e lm="promòvere"><p><l>promòv</l><r>promòvere</r></p><par n="tìm/ere__vblex"/></e>
@@ -26881,6 +26950,8 @@
     <e lm="regòlvere"><p><l>regòlv</l><r>regòlvere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="regòlvere"><p><l>regolv</l><r>regòlvere</r></p><par n="tim/o__vblex"/></e>
     <e lm="remìtere"><p><l>remìt</l><r>remìtere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="remòvere"><p><l>remòv</l><r>remòvere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="remòvere"><p><l>remov</l><r>remòvere</r></p><par n="tim/o__vblex"/></e>
     <e lm="remìtere"><p><l>remit</l><r>remìtere</r></p><par n="tim/o__vblex"/></e>
     <e lm="rèndere"><p><l>rènd</l><r>rèndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="rèndere"><p><l>rend</l><r>rèndere</r></p><par n="tim/o__vblex"/></e>
@@ -26903,6 +26974,8 @@
     <e lm="respìnghere"><p><l>respin</l><r>respìnghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="respòndere"><p><l>respònd</l><r>respòndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="respòndere"><p><l>respond</l><r>respòndere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="respùndere"><p><l>respùnd</l><r>respùndere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="respùndere"><p><l>respund</l><r>respùndere</r></p><par n="tim/o__vblex"/></e>
     <e lm="restrìnghere"><p><l>restrìng</l><r>restrìnghere</r></p><par n="tìng/here__vblex"/></e>
     <e lm="restrìnghere"><p><l>restring</l><r>restrìnghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="restrìnghere"><p><l>restrin</l><r>restrìnghere</r></p><par n="tin/tu__vblex"/></e>
@@ -27166,6 +27239,7 @@
     <e lm="colloire"><p><l>collo</l><r>colloire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="colorire"><p><l>color</l><r>colorire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="commitire"><p><l>commit</l><r>commitire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="concluire"><p><l>conclu</l><r>concluire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="concruire"><p><l>concru</l><r>concruire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="conduire"><p><l>condu</l><r>conduire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="confugire"><p><l>confug</l><r>confugire</r></p><par n="afig/ire__vblex"/></e>
@@ -27284,6 +27358,7 @@
     <e lm="godire"><p><l>god</l><r>godire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="grarire"><p><l>grar</l><r>grarire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="grunnire"><p><l>grunn</l><r>grunnire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="gruspire"><p><l>grusp</l><r>gruspire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="guarnessire"><p><l>guarness</l><r>guarnessire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="gurrire"><p><l>gurr</l><r>gurrire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="illangire"><p><l>illang</l><r>illangire</r></p><par n="afig/ire__vblex"/></e>
@@ -27299,6 +27374,7 @@
     <e lm="imbianchire"><i>imbianc</i><par n="sig/hire__vblex"/></e>
     <e lm="imbutire"><p><l>imbut</l><r>imbutire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="impedire"><p><l>imped</l><r>impedire</r></p><par n="ped/ire__vblex"/></e>
+>
     <e lm="impoverire"><p><l>impover</l><r>impoverire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="impressire"><p><l>impress</l><r>impressire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="imprimire"><p><l>imprim</l><r>imprimire</r></p><par n="ped/ire__vblex"/></e>
@@ -27434,12 +27510,16 @@
     <e lm="muire"><p><l>mu</l><r>muire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="murmutire"><p><l>murmut</l><r>murmutire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="mutire"><p><l>mut</l><r>mutire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="naschire"><i>nasc</i><par n="sig/hire__vblex"/></e>
     <e lm="neulire"><p><l>neul</l><r>neulire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="nisire"><p><l>nis</l><r>nisire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="nudrire"><p><l>nudr</l><r>nudrire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="nutrire"><p><l>nutr</l><r>nutrire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="ochire"><i>oc</i><par n="sig/hire__vblex"/></e>
     <e lm="ogrire"><p><l>ogr</l><r>ogrire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="oire"><p><l>o</l><r>oire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="ommìtere"><p><l>ommìt</l><r>ommìtere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="ommìtere"><p><l>ommit</l><r>ommìtere</r></p><par n="tim/o__vblex"/></e>
     <e lm="omitire"><p><l>omit</l><r>omitire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="oprimire"><p><l>oprim</l><r>oprimire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="ordire"><p><l>ord</l><r>ordire</r></p><par n="ped/ire__vblex"/></e>
@@ -27494,16 +27574,19 @@
     <e lm="recuisire"><p><l>recuis</l><r>recuisire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="reduire"><p><l>redu</l><r>reduire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="referire"><p><l>refer</l><r>referire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="regòglire"><p><l>regògl</l><r>regòglire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="regollire"><p><l>regoll</l><r>regollire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="remenire"><p><l>remen</l><r>remenire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="remissire"><p><l>remiss</l><r>remissire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="rempuddire"><p><l>rempudd</l><r>rempuddire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="remonire"><p><l>remon</l><r>remonire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="remunire"><p><l>remun</l><r>remunire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="reperire"><p><l>reper</l><r>reperire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="resistire"><p><l>resist</l><r>resistire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="resumire"><p><l>resum</l><r>resumire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="retzepire"><p><l>retzep</l><r>retzepire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="retzire"><p><l>retz</l><r>retzire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="reunire"><p><l>reun</l><r>reunire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="revertire"><p><l>revert</l><r>revertire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="ribaire"><p><l>riba</l><r>ribaire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="ricunvertire"><p><l>ricunvert</l><r>ricunvertire</r></p><par n="ped/ire__vblex"/></e>
