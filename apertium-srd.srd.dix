@@ -26301,10 +26301,7 @@
     <e lm="aparèssere"><p><l>aparèss</l><r>aparèssere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="aparèssere"><p><l>aparess</l><r>aparèssere</r></p><par n="tim/o__vblex"/></e>
     <e lm="apòrrere"><p><l>apòrr</l><r>apòrrere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="apòrrere"><p><l>aporr</l><r>apòrrere</r></p><par n="tim/o__vblex"/></e>
-
-    <e lm="arbèschere"><p><l>arbèsc</l><r>arbèschere</r></p><par n="aèsc/here__vblex"/></e>
-    <e lm="arbèschere"><p><l>arbesc</l><r>arbèschere</r></p><par n="aesc/o__vblex"/></e>   
+    <e lm="apòrrere"><p><l>aporr</l><r>apòrrere</r></p><par n="tim/o__vblex"/></e>   
     <e lm="arrèere"><p><l>arrè</l><r>arrèere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="arrèere"><p><l>arre</l><r>arrèere</r></p><par n="tim/o__vblex"/></e>
     <e lm="arrèndere"><p><l>arrènd</l><r>arrèndere</r></p><par n="tìm/ere__vblex"/></e>
@@ -26902,8 +26899,6 @@
     <e lm="prodùere"><p><l>produ</l><r>prodùere</r></p><par n="tim/o__vblex"/></e>
     <e lm="prodùsere"><p><l>prodùs</l><r>prodùsere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="prodùsere"><p><l>produs</l><r>prodùsere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="pròere"><p><l>prò</l><r>pròere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="pròere"><p><l>pro</l><r>pròere</r></p><par n="tim/o__vblex"/></e>
     <e lm="promìtere"><p><l>promìt</l><r>promìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="promìtere"><p><l>promit</l><r>promìtere</r></p><par n="tim/o__vblex"/></e>
     <e lm="promòvere"><p><l>promòv</l><r>promòvere</r></p><par n="tìm/ere__vblex"/></e>
