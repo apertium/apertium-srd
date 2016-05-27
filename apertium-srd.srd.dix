@@ -3810,7 +3810,6 @@
     <e lm="agricultura"><i>agricultura</i><par n="mesa__n"/></e>
     <e lm="agricultura" r="LR"><p><l>agricurtura</l><r>agricultura</r></p><par n="mesa__n"/></e>
     <e lm="arte"><i>arte</i><par n="mesa__n"/></e>
-    <e lm="gastronomia"><i>gastronomia</i><par n="mesa__n"/><p><l><b/>de<b/>coghinare</l><r><g><b/>de<b/>coghinare</g></r></p></e>
     <e lm="ora"><i>ora</i><par n="mesa__n"/></e>
     <e lm="impressadora"><i>impressadora</i><par n="mesa__n"/></e>
     <e lm="infrastrutura"><i>infrastrutura</i><par n="mesa__n"/></e>
@@ -22598,7 +22597,7 @@
     <e lm="topare"><i>top</i><par n="cant/are__vblex"/></e>
     <e lm="torojare"><i>toroj</i><par n="cant/are__vblex"/></e>
     <e lm="torrare"><i>torr</i><par n="cant/are__vblex"/></e>
-    <e lm="tòrrare# a definire"><p><l>tòrrare# a defin</l><r>tòrrare# a definire</r></p><par n="ped/ire__vblex"/></e>
+    <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -31214,6 +31213,7 @@
     <e lm="gassa"><i>gassa</i><par n="mesa__n"/></e>
     <e lm="gastadura"><i>gastadura</i><par n="mesa__n"/></e>
     <e lm="gastronomia"><i>gastronomia</i><par n="mesa__n"/></e>
+    <e lm="gastronomia de coghinare"><i>gastronomia</i><par n="mesa__n"/><p><l><b/>de<b/>coghinare</l><r><g><b/>de<b/>coghinare</g></r></p></e>
     <e lm="gataledda"><i>gataledda</i><par n="mesa__n"/></e>
     <e lm="gatera"><i>gatera</i><par n="mesa__n"/></e>
     <e lm="gatitzola"><i>gatitzola</i><par n="mesa__n"/></e>
