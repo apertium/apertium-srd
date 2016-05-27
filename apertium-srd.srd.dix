@@ -122,6 +122,7 @@
     <pardef n="S__cantende·mi·*">
       <e>       <p><l/><r/></p><par n="S__cantende·mi·lu"/></e>
       <e r="LR"><p><l/><r/></p><par n="S__cantende·mi·ddu"/></e>
+      <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
       <e>       <p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·lu"/></e>
       <e r="LR"><p><l>·nche</l><r>nche<s n="prn"/><s n="enc"/><s n="adv"/><j/></r></p><par n="S__cantende·mi·ddu"/></e>
       <e>       <p><l>·nde</l><r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
