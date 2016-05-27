@@ -3403,8 +3403,8 @@
 
     <e lm="tzertu"><par n="tz/c"/><i>ert</i><par n="àter/u__det"/></e>
     <e lm="diversu"><i>divers</i><par n="àter/u__det"/></e>
-    <e lm="nisciunu"><i>nisciun</i><par n="àter/u__det"/></e>
-    <e lm="niunu"><i>niun</i><par n="àter/u__det"/></e>
+    <e lm="nisciunu"><i>nisciun</i><par n="perun/u__det"/></e>
+    <e lm="niunu"><i>niun</i><par n="perun/u__det"/></e>
     <e lm="vàriu"><i>vàri</i><par n="àter/u__det"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__det"/></e>
