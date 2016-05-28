@@ -11354,7 +11354,6 @@
     <!--<e lm="a beru"><i>a<b/>beru</i><par n="bene__adv"/></e>-->
 
     <e lm="puru"><i>puru</i><par n="bene__adv"/></e>
-    <e lm="tambene" c="!@LSC"><i>tambene</i><par n="bene__adv"/></e>
     <e lm="no"><i></i><par n="/no__adv"/></e>
     <e lm="semper"><i>semper</i><par n="bene__adv"/></e>
     <e lm="semper" r="LR"><p><l>sempre</l><r>semper</r></p><par n="bene__adv"/></e>
@@ -50349,7 +50348,7 @@
     <e lm="taliorta"><i>taliorta</i><par n="bene__adv"/></e>
     <e lm="tambarue"><i>tambarue</i><par n="bene__adv"/></e>
     <e lm="tamba·tamba"><i>tamba·tamba</i><par n="bene__adv"/></e>
-    <e lm="tambene"><i>tambene</i><par n="bene__adv"/></e>
+    <e lm="tambene" r="LR" c="!@LSC"><i>tambene</i><par n="bene__adv"/></e>
     <e lm="tambenes"><i>tambenes</i><par n="bene__adv"/></e>
     <e lm="tambos"><i>tambos</i><par n="bene__adv"/></e>
     <e lm="tamen"><i>tamen</i><par n="bene__adv"/></e>
