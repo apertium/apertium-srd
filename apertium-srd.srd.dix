@@ -11325,6 +11325,7 @@
 
     <e lm="foras"><i>foras</i><par n="bene__adv"/></e>
     <e lm="a inghìriu"><i>a<b/>inghìriu</i><par n="bene__adv"/></e>
+    <e lm="a fundu"><i>a<b/>fundu</i><par n="bene__adv"/></e>
     <e lm="ancora"><i>ancora</i><par n="bene__adv"/></e>
     <e lm="contra"><i>contra</i><par n="bene__adv"/></e>
     <e lm="duncas"><i>duncas</i><par n="bene__adv"/></e>
@@ -11376,7 +11377,7 @@
     <e lm="peus"><i>peus</i><par n="bene__adv"/></e>
     <e lm="gosi"><i>gosi</i><par n="bene__adv"/></e>
     <e lm="aici"><i>aici</i><par n="bene__adv"/></e>
-    <!--<e lm="comente"><i>comente</i><par n="bene__adv"/></e>-->
+    <e lm="comente si tocat"><i>comente<b/>si<b/>tocat</i><par n="bene__adv"/></e>
     <!--<e lm="a gherra"><i>a<b/>gherra</i><par n="bene__adv"/></e>-->
     <!--<e lm="a mala gana"><i>a<b/>mala<b/>gana</i><par n="bene__adv"/></e>-->
     <!--<e lm="a mala bògia"><i>a<b/>mala<b/>bògia</i><par n="bene__adv"/></e>-->
