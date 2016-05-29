@@ -3264,6 +3264,7 @@
     <e lm="fintzas" r="LR" c="!LSC"><p><l>fìntzas</l><r>fintzas</r></p><par n="a__pr"/></e>
     <e lm="finas"><i>finas</i><par n="a__pr"/></e>
 
+    <e lm="susu"><i>susu</i><par n="a__pr"/></e>
     <e lm="suta"><i>suta</i><par n="a__pr"/></e>
     <e lm="suta" r="LR"><p><l>sutta</l><r>suta</r></p><par n="a__pr"/></e>
     <e lm="in suta de"><i>in<b/>suta<b/>de</i><par n="a__pr"/></e>
@@ -3379,6 +3380,7 @@
     <e lm="carchi cosa"><i>carchi<b/>cosa</i><par n="nudda__prn"/></e>
     <e lm="custu"><i>custu</i><par n="nudda__prn"/></e>
     <e lm="unu"><i>un</i><par n="un/u__prn"/></e>
+    <e lm="tale"><i>tale</i><par n="nudda__prn"/></e>
 
     <!-- SECTION: Determiners -->
 
