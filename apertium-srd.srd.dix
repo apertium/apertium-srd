@@ -527,6 +527,11 @@
       <e r="LR"><p><l>aduas</l><r>os<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e> <!-- @!LSC -->
     </pardef>
 
+    <pardef n="amb/os_duos__det">
+      <e>       <p><l>as<b/>duas</l><r>os<b/>duos<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+      <e>       <p><l>os<b/>duos</l><r>os<b/>duos<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>   
+    </pardef>
+
     <pardef n="issoro__det" c="p.29">
       <e>              <p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
@@ -3299,6 +3304,8 @@
     <e lm="totu"><i>tot</i><par n="totu__prn"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__prn"/></e>
+    <e lm="ambos duos"><p><l>ambos duos</l><r>ambos duos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="ambos duos"><p><l>ambos duos</l><r>ambas duas<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="perunu"><i>perun</i><par n="perun/u__prn"/></e>
     <e lm="calicunu"><i>calicun</i><par n="perun/u__prn"/></e>
     <e lm="unos cuantos"><p><l>unos cuantos</l><r>unos cuantos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
@@ -3349,6 +3356,7 @@
     <e lm="vàriu"><i>vàri</i><par n="àter/u__det"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__det"/></e>
+    <e lm="ambos duos"><i>amb</i><par n="amb/os_duos__det"/></e>
     <e lm="perunu"><i>perun</i><par n="perun/u__det"/></e>
 
     <e lm="ogni"><i>ogni</i><par n="ogni__det"/></e>
