@@ -3304,12 +3304,12 @@
     <e lm="totu"><i>tot</i><par n="totu__prn"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__prn"/></e>
-    <e lm="ambos duos"><p><l>ambos duos</l><r>ambos duos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
-    <e lm="ambos duos"><p><l>ambos duos</l><r>ambas duas<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="ambos duos"><p><l>ambos<b/>duos</l><r>ambos<b/>duos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="ambos duos"><p><l>ambas<b/>duas</l><r>ambos<b/>duos<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="perunu"><i>perun</i><par n="perun/u__prn"/></e>
     <e lm="calicunu"><i>calicun</i><par n="perun/u__prn"/></e>
-    <e lm="unos cuantos"><p><l>unos cuantos</l><r>unos cuantos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
-    <e lm="unos cuantos"><p><l>unos cuantos</l><r>unas cuantas<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="unos cuantos"><p><l>unos<b/>cuantos</l><r>unos<b/>cuantos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="unos cuantos"><p><l>unas<b/>cuantas</l><r>unos<b/>cuantos<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="nemos"><i>nemos</i><par n="nemos__prn"/></e>
 
     <e lm="nde"><i>nde</i><par n="nde__prn"/></e>
