@@ -3082,6 +3082,75 @@
       <e>       <p><l>èidas</l><r>èere<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+
+    <pardef n="tron/are__vblex">	<!-- paradigma P del curretore ortogràficu -->
+      <e>       <p><l>are</l><r>are<s n="vblex"/><s n="inf"/></r></p></e>
+
+      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ende</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+      <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>endi</l><r>are<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+
+      <e>       <p><l>at</l><r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ant</l><r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>aiat</l><r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aiant</l><r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>eit</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>et</l><r>are<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ent</l><r>are<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>aret</l><r>are<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>arent</l><r>are<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>et</l><r>are<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ent</l><r>are<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>adu</l><r>are<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>au</l><r>are<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>ada</l><r>are<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ados</l><r>are<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>aus</l><r>are<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>adas</l><r>are<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="prò/ere__vblex">	<!-- paradigma P del curretore ortogràficu -->
+      <e>       <p><l>ere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+
+      <e>       <p><l>idu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ida</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>idos</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>idas</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="pro/et__vblex">
+      <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>iat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>eit</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>eint</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>eret</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>erent</l><r><s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+    </pardef>
+
+
     <pardef n="tz/c">
       <e>       <p><l>tz</l><r>tz</r></p></e>
       <e r="LR"><p><l>c</l><r>tz</r></p></e> <!-- @!LSC -->
@@ -27709,6 +27778,26 @@
     <e lm="urturgire"><p><l>urturg</l><r>urturgire</r></p><par n="afig/ire__vblex"/></e>
     <e lm="usufruire"><p><l>usufru</l><r>usufruire</r></p><par n="ped/ire__vblex"/></e>
 
+    <e lm="annuare"><i>annu</i><par n="tron/are__vblex"/></e>
+    <e lm="astrare"><i>astr</i><par n="tron/are__vblex"/></e>
+    <e lm="chilighiare"><i>chilighi</i><par n="tron/are__vblex"/></e>
+    <e lm="frocare"><i>froc</i><par n="tron/are__vblex"/></e>
+    <e lm="grandinare"><i>grandin</i><par n="tron/are__vblex"/></e>
+    <e lm="iscurgiare"><i>iscurgi</i><par n="tron/are__vblex"/></e>
+    <e lm="lampare"><i>lamp</i><par n="tron/are__vblex"/></e>
+    <e lm="landirare"><i>landir</i><par n="tron/are__vblex"/></e>
+    <e lm="lentorare"><i>lentor</i><par n="tron/are__vblex"/></e>
+    <e lm="niare"><i>ni</i><par n="tron/are__vblex"/></e>
+    <e lm="rosinare"><i>rosin</i><par n="tron/are__vblex"/></e>
+    <e lm="tronare"><i>tron</i><par n="tron/are__vblex"/></e>
+    <e lm="acaèssere"><p><l>acaèss</l><r>acaèssere</r></p><par n="prò/ere__vblex"/></e>
+    <e lm="acaèssere"><p><l>acaess</l><r>acaèssere</r></p><par n="pro/et__vblex"/></e>
+    <e lm="arbèscere"><p><l>arbèsc</l><r>arbèscere</r></p><par n="prò/ere__vblex"/></e>
+    <e lm="arbèscere"><p><l>arbesc</l><r>arbèscere</r></p><par n="pro/et__vblex"/></e>
+    <e lm="pròere"><p><l>prò</l><r>pròere</r></p><par n="prò/ere__vblex"/></e>
+    <e lm="pròere"><p><l>pro</l><r>pròere</r></p><par n="pro/et__vblex"/></e>
+    <e lm="sutzèdere"><p><l>sutzèd</l><r>sutzèdere</r></p><par n="prò/ere__vblex"/></e>
+    <e lm="sutzèdere"><p><l>sutzed</l><r>sutzèdere</r></p><par n="pro/et__vblex"/></e>
 
 <!-- SECTION: sustantivos extraídos de CROS a partir de los paradigmos /A, /B, /b, /C y /c (versión provisional) -->
 
