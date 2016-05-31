@@ -4645,7 +4645,6 @@
     <e lm="polìtica"><i>polìti</i><par n="linguìsti/ca__n"/></e>
     <e lm="polìtica" r="LR"><p><l>politi</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="polìtica" r="LR"><p><l>pòliti</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
-    <e lm="polìticu"><i>polìti</i><par n="amig/u__n"/></e>
     <e lm="bibbia"><i>bibbia</i><par n="mesa__n"/></e>
     <e lm="tirannia"><i>tirannia</i><par n="mesa__n"/></e>
     <e lm="mariposa"><i>mariposa</i><par n="mesa__n"/></e>
@@ -5631,7 +5630,8 @@
     <e lm="creze"><i>creze</i><par n="region/e__n"/></e>
     <e lm="cromatoforu"><i>cromatofor</i><par n="mac/u__n"/></e>
     <e lm="créditu"><i>crédit</i><par n="mac/u__n"/></e>
-    <e lm="crìticu"><i>crìtic</i><par n="amig/u__n"/></e>
+    <e lm="crìticu"><i>crìtic</i><par n="mac/u__n"/></e>
+    <e lm="crìtica"><i>crìtica</i><par n="mesa__n"/></e>
     <e lm="cua-cua"><i>cua-cua</i><par n="mesa__n"/></e>
     <e lm="cuberu"><i>cuber</i><par n="mac/u__n"/></e>
     <e lm="cugùmere"><i>cugùmere</i><par n="pane__n"/></e>
@@ -5858,7 +5858,8 @@
     <e lm="polacu"><i>polac</i><par n="amig/u__n"/></e>
     <e lm="politicante"><i>politicante</i><par n="pane__n"/></e>
     <e lm="politzioto"><i>politzioto</i><par n="pane__n"/></e>
-    <e lm="polìticu"><i>polìtic</i><par n="amig/u__n"/></e>
+    <e lm="polìticu"><i>polìtic</i><par n="mac/u__n"/></e>
+    <e lm="polìtica"><i>polìtica</i><par n="mesa__n"/></e>
     <e lm="prammu"><i>pramm</i><par n="mac/u__n"/></e>
     <e lm="predetzessore"><i>predetzessore</i><par n="pane__n"/></e>
     <e lm="pregressu"><i>pregress</i><par n="mac/u__n"/></e>
