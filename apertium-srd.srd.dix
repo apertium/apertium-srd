@@ -3576,6 +3576,7 @@
     <e lm="eletore"><i>eletor</i><par n="traballador/e__n"/></e>
     <e lm="letore"><i>letor</i><par n="traballador/e__n"/></e>
     <e lm="dotore"><i>dotor</i><par n="traballador/e__n"/></e>
+    <e lm="dutore"><i>dutor</i><par n="traballador/e__n"/></e>
     <e lm="ponte"><i>ponte</i><par n="pane__n"/></e>
     <e lm="fatore"><i>fatore</i><par n="pane__n"/></e>
     <e lm="interlocutore"><i>interlocutor</i><par n="traballador/e__n"/></e>
@@ -4318,6 +4319,10 @@
 
     <e lm="matemàtica"><i>matemàti</i><par n="linguìsti/ca__n"/></e>
     <e lm="matemàtica" r="LR"><p><l>matemati</l><r>matemàti</r></p><par n="linguìsti/ca__n"/></e>
+    <e lm="fìsicu"><i>fìsic</i><par n="amig/u__n"/></e>
+    <e lm="chìmicu"><i>chìmic</i><par n="amig/u__n"/></e>
+    <e lm="idràulicu"><i>idràulic</i><par n="amig/u__n"/></e>
+    <e lm="mecànicu"><i>mecànic</i><par n="amig/u__n"/></e>
     <e lm="cantone"><i>cantone</i><par n="mesa__n"/></e>
     <e lm="cantzone"><i>cantzone</i><par n="mesa__n"/></e>
     <e lm="presèntzia"><i>pres</i><par n="difer/èntzia__n"/></e>
@@ -33388,6 +33393,8 @@
     <e lm="meta"><i>meta</i><par n="mesa__n"/></e>
     <e lm="metabolismu"><i>metabolismu</i><par n="anarchismu__n"/></e>
     <e lm="metafìsica"><i>metafìsica</i><par n="mesa__n"/></e>
+    <e lm="fìsica"><i>fìsica</i><par n="mesa__n"/></e>
+    <e lm="idràulica"><i>idràulica</i><par n="mesa__n"/></e>
     <e lm="metafonia"><i>metafonia</i><par n="mesa__n"/></e>
     <e lm="metàfora"><i>metàfora</i><par n="mesa__n"/></e>
     <e lm="metalessicografia"><i>metalessicografia</i><par n="mesa__n"/></e>
@@ -38584,7 +38591,6 @@
     <e lm="duramadre"><i>duramadre</i><par n="pane__n"/></e>
     <e lm="durcore"><i>durcore</i><par n="pane__n"/></e>
     <e lm="duridade"><i>duridad</i><par n="region/e__n"/></e>
-    <e lm="dutore"><i>dutore</i><par n="pane__n"/></e>
     <e lm="ecatombe"><i>ecatombe</i><par n="pane__n"/></e>
     <e lm="eclisse"><i>eclisse</i><par n="pane__n"/></e>
     <e lm="ecuanimidade"><i>ecuanimidad</i><par n="region/e__n"/></e>
