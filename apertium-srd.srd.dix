@@ -10209,6 +10209,7 @@
     <e lm="primu"><i>prim</i><par n="prim/u__adj"/></e>
     <e lm="segundu"><i>segund</i><par n="prim/u__adj"/></e>
     <e lm="segundu" r="LR"><p><l>sigund</l><r>segund</r></p><par n="prim/u__adj"/></e>
+    <e lm="tertzu"><i>tertz</i><par n="prim/u__adj"/></e>
     <e lm="cuartu"><i>cuart</i><par n="prim/u__adj"/></e>
     <e lm="cuartu" r="LR"><p><l>quart</l><r>cuart</r></p><par n="prim/u__adj"/></e>
     <e lm="ùrtimu"><i>ùrtim</i><par n="prim/u__adj"/></e>
@@ -48739,7 +48740,6 @@
     <e lm="segregadore"><i>segregador</i><par n="cunservador/e__adj"/></e>
     <e lm="segregadore"><i>segregador</i><par n="traballador/e__n"/></e>
     <e lm="segrestu"><i>segrest</i><par n="frantzes/u__adj"/></e>
-    <e lm="segundu"><i>segund</i><par n="frantzes/u__adj"/></e>
     <e lm="segutzianu"><i>segutzian</i><par n="frantzes/u__adj"/></e>
     <e lm="seidadu"><i>seidad</i><par n="frantzes/u__adj"/></e>
     <e lm="seidosu"><i>seidos</i><par n="frantzes/u__adj"/></e>
@@ -49133,7 +49133,6 @@
     <e lm="terrosu"><i>terros</i><par n="frantzes/u__adj"/></e>
     <e lm="terteniesu"><i>tertenies</i><par n="frantzes/u__adj"/></e>
     <e lm="tertziàriu"><i>tertziàri</i><par n="frantzes/u__adj"/></e>
-    <e lm="tertzu"><i>tertz</i><par n="frantzes/u__adj"/></e>
     <e lm="tertzùrtimu"><i>tertzùrtim</i><par n="frantzes/u__adj"/></e>
     <e lm="tesanu"><i>tesan</i><par n="frantzes/u__adj"/></e>
     <e lm="testamentàriu"><i>testamentàri</i><par n="frantzes/u__adj"/></e>
