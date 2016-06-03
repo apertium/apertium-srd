@@ -3184,6 +3184,7 @@
 
     <e lm="ma"><i>ma</i><par n="o__cnjcoo"/></e>
     <e lm="però"><i>però</i><par n="duncas__cnjadv"/></e>
+    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
     <e lm="però" r="LR"><p><l>peròe</l><r>però</r></p><par n="duncas__cnjadv"/></e>
     <e lm="però" r="LR"><p><l>peroe</l><r>però</r></p><par n="duncas__cnjadv"/></e>
     <!--<e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="o__cnjcoo"/></e>-->
@@ -3193,7 +3194,7 @@
     <!--<e lm="imbetzes"><i>imbetzes</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="cando chi"><i>cando<b/>chi</i><par n="o__cnjcoo"/></e>-->
     <e lm="in càmbiu"><i>in<b/>càmbiu</i><par n="o__cnjcoo"/></e>
-
+    <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
     <e lm="chi"><i>chi</i><par n="chi__cnjsub"/></e>
     <e lm="si"><i>si</i><par n="duncas__cnjadv"/></e>
     <e lm="chi" r="LR"><p><l>ki</l><r>chi</r></p><par n="chi__cnjsub"/></e>
@@ -3284,7 +3285,7 @@
     <!--<e lm="a pustis"><i>a<b/>pustis</i><par n="a__pr"/></e>-->
     <!--<e lm="in antis"><i>in<b/>antis</i><par n="a__pr"/></e>-->
     <e lm="foras"><i>foras</i><par n="a__pr"/></e>
-    <e lm="in foras de"><i>in<b/>foras<b/>de</i><par n="a__pr"/></e>
+    <e lm="in foras de"><i>in<b/>foras<b/>de</i><par n="/de__pr"/></e>
     <e lm="a foras de"><i>a<b/>foras<b/>de</i><par n="a__pr"/></e>
     <e lm="a foras de" r="LR"><p><l>a<b/>fora<b/>de</l><r>a<b/>foras<b/>de</r></p><par n="a__pr"/></e>
     <e lm="foras de"><i>foras<b/>de</i><par n="a__pr"/></e>
@@ -3304,7 +3305,7 @@
     <!--<e lm="in s'oru"><i>in<b/>s'oru</i><par n="a__pr"/></e>-->
     <!--<e lm="paris"><i>paris</i><par n="a__pr"/></e>-->
     <!--<e lm="in fatu"><i>in<b/>fatu</i><par n="a__pr"/></e>-->
-    <e lm="in mesu de"><i>in<b/>mesu<b/>de</i><par n="a__pr"/></e>
+    <e lm="in mesu de"><i>in<b/>mesu<b/></i><par n="/de__pr"/></e>
     <!--<e lm="in parte de"><i>in<b/>parte<b/>de</i><par n="a__pr"/></e>-->
     <!--<e lm="in càmbiu de"><i>in<b/>càmbiu<b/>de</i><par n="a__pr"/></e>-->
     <e lm="in cara de"><i>in<b/>cara<b/>de</i><par n="a__pr"/></e>
@@ -3312,14 +3313,15 @@
     <!--<e lm="conca"><i>conca</i><par n="a__pr"/></e>-->
     <e lm="chirru a"><i>chirru<b/>a</i><par n="a__pr"/></e>
     <e lm="a mesu tra"><i>a<b/>mesu<b/>tra</i><par n="a__pr"/></e>
-    <e lm="cara a"><i>cara<b/>a</i><par n="a__pr"/></e>
-    <e lm="pro mèdiu de"><i>pro<b/>mèdiu<b/>de</i><par n="a__pr"/></e>
+    <e lm="cara a"><i>cara<b/></i><par n="a__pr"/></e>
+    <e lm="che a"><i>che<b/></i><par n="a__pr"/></e>
+    <e lm="pro mèdiu de"><i>pro<b/>mèdiu<b/></i><par n="/de__pr"/></e>
     <e lm="francu"><i>francu</i><par n="a__pr"/></e>
     <!--<e lm="tràmite"><i>tràmite</i><par n="a__pr"/></e>-->
     <e lm="mediante"><i>mediante</i><par n="a__pr"/></e>
     <e lm="durante"><i>durante</i><par n="a__pr"/></e>
     <!--<e lm="rasente"><i>rasente</i><par n="a__pr"/></e>-->
-    <e lm="a pitzu de"><i>a<b/>pitzu<b/>de</i><par n="a__pr"/></e>
+    <e lm="a pitzu de"><i>a<b/>pitzu<b/>de</i><par n="/de__pr"/></e>
     <e lm="a pàrrere de"><i>a<b/>pàrrere<b/>de</i><par n="a__pr"/></e>
     <e lm="a pitzu de" r="LR"><p><l>a<b/>pitzus<b/>de</l><r>a<b/>pitzu<b/>de</r></p><par n="a__pr"/></e>
 
@@ -11393,6 +11395,7 @@
     <e lm="guasi" r="LR"><p><l>quasi</l><r>guasi</r></p><par n="guasi__preadv"/></e>
     <e lm="gasì"><i>gasì</i><par n="guasi__preadv"/></e>
     <e lm="gasi"><i>gasi</i><par n="guasi__preadv"/></e>
+    <e lm="gai"><i>gasi</i><par n="guasi__preadv"/></e>
     <e lm="gosi"><i>gosi</i><par n="guasi__preadv"/></e>
     <e lm="agiumai"><i>agiumai</i><par n="guasi__preadv"/></e>
     <e lm="casi"><i>casi</i><par n="guasi__preadv"/></e>
