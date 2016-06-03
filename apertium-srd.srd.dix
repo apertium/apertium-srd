@@ -5692,9 +5692,9 @@
     <e lm="alliongiadu"><i>alliongiad</i><par n="mac/u__n"/></e>
     <e lm="allogaderi"><i>allogaderi</i><par n="pane__n"/></e>
     <e lm="amantiosu"><i>amantios</i><par n="mac/u__n"/></e>
-    <e lm="ambissione"><i>ambissione</i><par n="region/e__n"/></e>
-    <e lm="ammissione"><i>ammissione</i><par n="pane__n"/></e>
-    <e lm="ammortizatzione"><i>ammortizatzione</i><par n="pane__n"/></e>
+    <e lm="ambissione"><i>ambission</i><par n="region/e__n"/></e>
+    <e lm="ammissione"><i>ammission</i><par n="region/e__n"/></e>
+    <e lm="ammortizatzione"><i>ammortizatzion</i><par n="region/e__n"/></e>
     <e lm="amoradu"><i>amorad</i><par n="mac/u__n"/></e>
     <e lm="angenu"><i>angen</i><par n="mac/u__n"/></e>
     <e lm="angione"><i>angione</i><par n="pane__n"/></e>
@@ -5731,7 +5731,7 @@
     <e lm="bandidu"><i>bandid</i><par n="mac/u__n"/></e>
     <e lm="bardiadu"><i>bardiad</i><par n="mac/u__n"/></e>
     <e lm="barracoco"><i>barracoco</i><par n="pane__n"/></e>
-    <e lm="berberghe"><i>berberghe</i><par n="region/e__n"/></e>
+    <e lm="berberghe"><i>berbergh</i><par n="region/e__n"/></e>
     <e lm="biadu"><i>biad</i><par n="mac/u__n"/></e>
     <e lm="bida"><i>bida</i><par n="mesa__n"/></e>
     <e lm="biotopu"><i>biotop</i><par n="mac/u__n"/></e>
@@ -5750,30 +5750,30 @@
     <e lm="caminera"><i>caminera</i><par n="pane__n"/></e>
     <e lm="cantzilleri"><i>cantzilleri</i><par n="pane__n"/></e>
     <e lm="carabineri"><i>carabineri</i><par n="pane__n"/></e>
-    <e lm="catedrale"><i>catedrale</i><par n="region/e__n"/></e>
+    <e lm="catedrale"><i>catedral</i><par n="region/e__n"/></e>
     <e lm="catòlicu"><i>catòlic</i><par n="mac/u__n"/></e>
     <e lm="chisina"><i>chisina</i><par n="mesa__n"/></e>
     <e lm="collega"><i>collega</i><par n="pane__n"/></e>
     <e lm="colonizadu"><i>colonizad</i><par n="mac/u__n"/></e>
     <e lm="colònialismu"><i>colònialism</i><par n="mac/u__n"/></e>
     <e lm="commissariadu"><i>commissariad</i><par n="mac/u__n"/></e>
-    <e lm="commissione"><i>commissione</i><par n="region/e__n"/></e>
+    <e lm="commissione"><i>commission</i><par n="region/e__n"/></e>
     <e lm="commissàriu"><i>commissàri</i><par n="mac/u__n"/></e>
     <e lm="conchista"><i>conchista</i><par n="mesa__n"/></e>
-    <e lm="connessione"><i>connessione</i><par n="region/e__n"/></e>
+    <e lm="connessione"><i>connession</i><par n="region/e__n"/></e>
     <e lm="consoladu"><i>consolad</i><par n="mac/u__n"/></e>
     <e lm="contemporàneu"><i>contemporàne</i><par n="mac/u__n"/></e>
     <e lm="contestadu"><i>contestad</i><par n="mac/u__n"/></e>
     <e lm="contigheddu"><i>contighedd</i><par n="mac/u__n"/></e>
     <e lm="contàbile"><i>contàbile</i><par n="pane__n"/></e>
-    <e lm="coordinatzione"><i>coordinatzione</i><par n="pane__n"/></e>
+    <e lm="coordinatzione"><i>coordinatzion</i><par n="region/e__n"/></e>
     <e lm="copiolu"><i>copiol</i><par n="mac/u__n"/></e>
     <e lm="corpus"><i>corp</i><par n="temp/us__n"/></e>
     <e lm="cossu"><i>coss</i><par n="mac/u__n"/></e>
     <e lm="cotu"><i>cot</i><par n="mac/u__n"/></e>
     <e lm="cramada"><i>cramada</i><par n="pane__n"/></e>
     <e lm="creditore"><i>creditore</i><par n="pane__n"/></e>
-    <e lm="creze"><i>creze</i><par n="region/e__n"/></e>
+    <e lm="creze"><i>crez</i><par n="region/e__n"/></e>
     <e lm="cromatoforu"><i>cromatofor</i><par n="mac/u__n"/></e>
     <e lm="créditu"><i>crédit</i><par n="mac/u__n"/></e>
     <e lm="crìticu"><i>crìtic</i><par n="mac/u__n"/></e>
@@ -5783,7 +5783,7 @@
     <e lm="cugùmere"><i>cugùmere</i><par n="pane__n"/></e>
     <e lm="cumanda"><i>cumanda</i><par n="pane__n"/></e>
     <e lm="cumbata"><i>cumbata</i><par n="mesa__n"/></e>
-    <e lm="cumbidare"><i>cumbidare</i><par n="region/e__n"/></e>
+    <e lm="cumbidare"><i>cumbidar</i><par n="region/e__n"/></e>
     <e lm="cumbivisore"><i>cumbivisore</i><par n="pane__n"/></e>
     <e lm="cumbènnidu"><i>cumbènnid</i><par n="mac/u__n"/></e>
     <e lm="cumparàntzia"><i>cumparàntzia</i><par n="pane__n"/></e>
@@ -5791,12 +5791,12 @@
     <e lm="cumpridu"><i>cumprid</i><par n="mac/u__n"/></e>
     <e lm="cuncordadu"><i>cuncordad</i><par n="mac/u__n"/></e>
     <e lm="cuncurrente"><i>cuncurrente</i><par n="pane__n"/></e>
-    <e lm="cundonatzione"><i>cundonatzione</i><par n="pane__n"/></e>
+    <e lm="cundonatzione"><i>cundonatzion</i><par n="region/e__n"/></e>
     <e lm="cunferentzieri"><i>cunferentzieri</i><par n="pane__n"/></e>
     <e lm="cunsinna"><i>cunsinna</i><par n="mesa__n"/></e>
     <e lm="cuntentu"><i>cuntent</i><par n="mac/u__n"/></e>
     <e lm="cuntènnidu"><i>cuntènnid</i><par n="mac/u__n"/></e>
-    <e lm="currente"><i>currente</i><par n="region/e__n"/></e>
+    <e lm="currente"><i>current</i><par n="region/e__n"/></e>
     <e lm="curretu"><i>curret</i><par n="mac/u__n"/></e>
     <e lm="curtzu"><i>curtz</i><par n="mac/u__n"/></e>
     <e lm="càrriga"><i>càrriga</i><par n="mesa__n"/></e>
@@ -5809,7 +5809,7 @@
     <e lm="delegadu"><i>delegad</i><par n="mac/u__n"/></e>
     <e lm="delincuente"><i>delincuente</i><par n="pane__n"/></e>
     <e lm="demòniu"><i>demòni</i><par n="mac/u__n"/></e>
-    <e lm="dente"><i>dente</i><par n="region/e__n"/></e>
+    <e lm="dente"><i>dent</i><par n="region/e__n"/></e>
     <e lm="denumenadore"><i>denumenadore</i><par n="pane__n"/></e>
     <e lm="dessinnadore"><i>dessinnadore</i><par n="pane__n"/></e>
     <e lm="destinatàriu"><i>destinatàri</i><par n="mac/u__n"/></e>
@@ -5826,7 +5826,7 @@
     <e lm="dispenseri"><i>dispenseri</i><par n="pane__n"/></e>
     <e lm="dividendo"><i>dividendo</i><par n="pane__n"/></e>
     <e lm="dolo"><i>dolo</i><par n="pane__n"/></e>
-    <e lm="dose"><i>dose</i><par n="region/e__n"/></e>
+    <e lm="dose"><i>dos</i><par n="region/e__n"/></e>
     <e lm="draperi"><i>draperi</i><par n="pane__n"/></e>
     <e lm="durìtu"><i>durìt</i><par n="mac/u__n"/></e>
     <e lm="dusina"><i>dusina</i><par n="mesa__n"/></e>
@@ -5835,16 +5835,16 @@
     <e lm="dùritu"><i>dùrit</i><par n="mac/u__n"/></e>
     <e lm="edile"><i>edile</i><par n="pane__n"/></e>
     <e lm="elegante"><i>elegante</i><par n="pane__n"/></e>
-    <e lm="eliminatzione"><i>eliminatzione</i><par n="pane__n"/></e>
+    <e lm="eliminatzione"><i>eliminatzion</i><par n="region/e__n"/></e>
     <e lm="esclùdidu"><i>esclùdid</i><par n="mac/u__n"/></e>
     <e lm="esecutivu"><i>esecutiv</i><par n="mac/u__n"/></e>
     <e lm="espostu"><i>espost</i><par n="mac/u__n"/></e>
     <e lm="esàminu"><i>esàmin</i><par n="mac/u__n"/></e>
-    <e lm="evasione"><i>evasione</i><par n="region/e__n"/></e>
+    <e lm="evasione"><i>evasion</i><par n="region/e__n"/></e>
     <e lm="falta"><i>falta</i><par n="pane__n"/></e>
     <e lm="faturadu"><i>faturad</i><par n="mac/u__n"/></e>
     <e lm="feudalesimu"><i>feudalesim</i><par n="mac/u__n"/></e>
-    <e lm="fide"><i>fide</i><par n="region/e__n"/></e>
+    <e lm="fide"><i>fid</i><par n="region/e__n"/></e>
     <e lm="fintu"><i>fint</i><par n="mac/u__n"/></e>
     <e lm="firma"><i>firma</i><par n="mesa__n"/></e>
     <e lm="firmada"><i>firmada</i><par n="mesa__n"/></e>
@@ -5854,14 +5854,14 @@
     <e lm="foranu"><i>foran</i><par n="mac/u__n"/></e>
     <e lm="fortzadu"><i>fortzad</i><par n="mac/u__n"/></e>
     <e lm="francu"><i>franc</i><par n="mac/u__n"/></e>
-    <e lm="frase"><i>frase</i><par n="region/e__n"/></e>
+    <e lm="frase"><i>fras</i><par n="region/e__n"/></e>
     <e lm="fritu"><i>frit</i><par n="mac/u__n"/></e>
-    <e lm="frode"><i>frode</i><par n="region/e__n"/></e>
+    <e lm="frode"><i>frod</i><par n="region/e__n"/></e>
     <e lm="funtziònariu"><i>funtziònari</i><par n="mac/u__n"/></e>
     <e lm="furchita"><i>furchita</i><par n="mesa__n"/></e>
     <e lm="furone"><i>furone</i><par n="pane__n"/></e>
     <e lm="fàbricu"><i>fàbric</i><par n="mac/u__n"/></e>
-    <e lm="fàmene"><i>fàmene</i><par n="region/e__n"/></e>
+    <e lm="fàmene"><i>fàmen</i><par n="region/e__n"/></e>
     <e lm="gabinetu"><i>gabinet</i><par n="mac/u__n"/></e>
     <e lm="gama"><i>gama</i><par n="pane__n"/></e>
     <e lm="gatiu"><i>gati</i><par n="mac/u__n"/></e>
@@ -5878,11 +5878,11 @@
     <e lm="grassu"><i>grass</i><par n="mac/u__n"/></e>
     <e lm="gravàmine"><i>gravàmine</i><par n="pane__n"/></e>
     <e lm="grogu"><i>grog</i><par n="mac/u__n"/></e>
-    <e lm="gràndine"><i>gràndine</i><par n="region/e__n"/></e>
+    <e lm="gràndine"><i>gràndin</i><par n="region/e__n"/></e>
     <e lm="gurturju"><i>gurturj</i><par n="mac/u__n"/></e>
     <e lm="gurturju de sos angiones"><i>gurturju de sos angiones</i><par n="lapis__n"/></e>
     <e lm="idòneu"><i>idòne</i><par n="mac/u__n"/></e>
-    <e lm="igiene"><i>igiene</i><par n="region/e__n"/></e>
+    <e lm="igiene"><i>igien</i><par n="region/e__n"/></e>
     <e lm="illìtzitu"><i>illìtzit</i><par n="mac/u__n"/></e>
     <e lm="illùdiu"><i>illùdi</i><par n="mac/u__n"/></e>
     <e lm="imbriagu"><i>imbriag</i><par n="mac/u__n"/></e>
@@ -5892,7 +5892,7 @@
     <e lm="imprentadu"><i>imprentad</i><par n="mac/u__n"/></e>
     <e lm="imprestidu"><i>imprestid</i><par n="mac/u__n"/></e>
     <e lm="indebilitada"><i>indebilitada</i><par n="mesa__n"/></e>
-    <e lm="indennizatzione"><i>indennizatzione</i><par n="pane__n"/></e>
+    <e lm="indennizatzione"><i>indennizatzion</i><par n="region/e__n"/></e>
     <e lm="inditze"><i>inditze</i><par n="pane__n"/></e>
     <e lm="inditziadu"><i>inditziad</i><par n="mac/u__n"/></e>
     <e lm="infadosu"><i>infados</i><par n="mac/u__n"/></e>
@@ -5901,7 +5901,7 @@
     <e lm="inimigu"><i>inimig</i><par n="mac/u__n"/></e>
     <e lm="innotzente"><i>innotzente</i><par n="pane__n"/></e>
     <e lm="installatore"><i>installatore</i><par n="pane__n"/></e>
-    <e lm="integrazione"><i>integrazione</i><par n="region/e__n"/></e>
+    <e lm="integrazione"><i>integrazion</i><par n="region/e__n"/></e>
     <e lm="intelligente"><i>intelligente</i><par n="pane__n"/></e>
     <e lm="interditu"><i>interdit</i><par n="mac/u__n"/></e>
     <e lm="internadu"><i>internad</i><par n="mac/u__n"/></e>
@@ -5920,13 +5920,13 @@
     <e lm="iscussertu"><i>iscussert</i><par n="mac/u__n"/></e>
     <e lm="ismùrgiu"><i>ismùrgi</i><par n="mac/u__n"/></e>
     <e lm="ispanniolu"><i>ispanniol</i><par n="mac/u__n"/></e>
-    <e lm="istadiale"><i>istadiale</i><par n="region/e__n"/></e>
-    <e lm="istajone"><i>istajone</i><par n="region/e__n"/></e>
+    <e lm="istadiale"><i>istadial</i><par n="region/e__n"/></e>
+    <e lm="istajone"><i>istajon</i><par n="region/e__n"/></e>
     <e lm="istima"><i>istima</i><par n="pane__n"/></e>
     <e lm="istògomo"><i>istògomo</i><par n="pane__n"/></e>
     <e lm="lacanàrgiu"><i>lacanàrgi</i><par n="mac/u__n"/></e>
     <e lm="ladus"><i>lad</i><par n="temp/us__n"/></e>
-    <e lm="lande"><i>lande</i><par n="region/e__n"/></e>
+    <e lm="lande"><i>land</i><par n="region/e__n"/></e>
     <e lm="laru"><i>lar</i><par n="mac/u__n"/></e>
     <e lm="latuga"><i>latuga</i><par n="mesa__n"/></e>
     <e lm="legislatore"><i>legislatore</i><par n="pane__n"/></e>
@@ -5951,47 +5951,47 @@
     <e lm="massitzu"><i>massitz</i><par n="mac/u__n"/></e>
     <e lm="massàju"><i>massàj</i><par n="mac/u__n"/></e>
     <e lm="melingiana"><i>melingiana</i><par n="mesa__n"/></e>
-    <e lm="merie"><i>merie</i><par n="region/e__n"/></e>
+    <e lm="merie"><i>meri</i><par n="region/e__n"/></e>
     <e lm="mesighedda"><i>mesighedda</i><par n="mesa__n"/></e>
     <e lm="mestieri"><i>mestieri</i><par n="pane__n"/></e>
     <e lm="minore"><i>minore</i><par n="pane__n"/></e>
     <e lm="minuda"><i>minuda</i><par n="mesa__n"/></e>
     <e lm="modde"><i>modde</i><par n="pane__n"/></e>
-    <e lm="modificazione"><i>modificazione</i><par n="region/e__n"/></e>
+    <e lm="modificazione"><i>modificazion</i><par n="region/e__n"/></e>
     <e lm="moninca"><i>moninca</i><par n="mesa__n"/></e>
     <e lm="monàrchicu"><i>monàrchic</i><par n="mac/u__n"/></e>
     <e lm="moribundu"><i>moribund</i><par n="mac/u__n"/></e>
     <e lm="mortu"><i>mort</i><par n="mac/u__n"/></e>
     <e lm="mulinu"><i>mulin</i><par n="mac/u__n"/></e>
-    <e lm="màdrighe"><i>màdrighe</i><par n="region/e__n"/></e>
+    <e lm="màdrighe"><i>màdrigh</i><par n="region/e__n"/></e>
     <e lm="màstrinu"><i>màstrin</i><par n="mac/u__n"/></e>
     <e lm="mètida"><i>mètida</i><par n="pane__n"/></e>
     <e lm="mìseru"><i>mìser</i><par n="mac/u__n"/></e>
     <e lm="mòvida"><i>mòvida</i><par n="mesa__n"/></e>
     <e lm="naradu"><i>narad</i><par n="mac/u__n"/></e>
     <e lm="nativu"><i>nativ</i><par n="mac/u__n"/></e>
-    <e lm="nave"><i>nave</i><par n="region/e__n"/></e>
-    <e lm="neghe"><i>neghe</i><par n="region/e__n"/></e>
+    <e lm="nave"><i>nav</i><par n="region/e__n"/></e>
+    <e lm="neghe"><i>negh</i><par n="region/e__n"/></e>
     <e lm="negotziadu"><i>negotziad</i><par n="mac/u__n"/></e>
     <e lm="netu"><i>net</i><par n="mac/u__n"/></e>
-    <e lm="nie"><i>nie</i><par n="region/e__n"/></e>
+    <e lm="nie"><i>ni</i><par n="region/e__n"/></e>
     <e lm="nonna"><i>nonna</i><par n="mesa__n"/></e>
-    <e lm="nue"><i>nue</i><par n="region/e__n"/></e>
-    <e lm="nughe"><i>nughe</i><par n="region/e__n"/></e>
+    <e lm="nue"><i>nu</i><par n="region/e__n"/></e>
+    <e lm="nughe"><i>nugh</i><par n="region/e__n"/></e>
     <e lm="operadu"><i>operad</i><par n="mac/u__n"/></e>
     <e lm="orgànicu"><i>orgànic</i><par n="mac/u__n"/></e>
     <e lm="oriellu"><i>oriell</i><par n="mac/u__n"/></e>
     <e lm="oro"><i>oro</i><par n="pane__n"/></e>
-    <e lm="padente"><i>padente</i><par n="region/e__n"/></e>
+    <e lm="padente"><i>padent</i><par n="region/e__n"/></e>
     <e lm="papa"><i>papa</i><par n="pane__n"/></e>
     <e lm="pariga"><i>pariga</i><par n="pane__n"/></e>
-    <e lm="parre"><i>parre</i><par n="region/e__n"/></e>
-    <e lm="pedde"><i>pedde</i><par n="region/e__n"/></e>
+    <e lm="parre"><i>parr</i><par n="region/e__n"/></e>
+    <e lm="pedde"><i>pedd</i><par n="region/e__n"/></e>
     <e lm="penùrtimu"><i>penùrtim</i><par n="mac/u__n"/></e>
-    <e lm="perdighe"><i>perdighe</i><par n="region/e__n"/></e>
+    <e lm="perdighe"><i>perdigh</i><par n="region/e__n"/></e>
     <e lm="perfetu"><i>perfet</i><par n="mac/u__n"/></e>
     <e lm="pessighidu"><i>pessighid</i><par n="mac/u__n"/></e>
-    <e lm="pessone"><i>pessone</i><par n="region/e__n"/></e>
+    <e lm="pessone"><i>pesson</i><par n="region/e__n"/></e>
     <e lm="pessonàgiu"><i>pessonàgi</i><par n="mac/u__n"/></e>
     <e lm="petorras"><i>petorras</i><par n="lapis__n"/></e>
     <e lm="pianta"><i>pianta</i><par n="mesa__n"/></e>
@@ -6011,22 +6011,22 @@
     <e lm="pregressu"><i>pregress</i><par n="mac/u__n"/></e>
     <e lm="pregunta"><i>pregunta</i><par n="mesa__n"/></e>
     <e lm="preneta"><i>preneta</i><par n="pane__n"/></e>
-    <e lm="presone"><i>presone</i><par n="region/e__n"/></e>
+    <e lm="presone"><i>preson</i><par n="region/e__n"/></e>
     <e lm="pressutu"><i>pressut</i><par n="mac/u__n"/></e>
     <e lm="presupostu"><i>presupost</i><par n="mac/u__n"/></e>
-    <e lm="primore"><i>primore</i><par n="region/e__n"/></e>
+    <e lm="primore"><i>primor</i><par n="region/e__n"/></e>
     <e lm="privadu"><i>privad</i><par n="mac/u__n"/></e>
     <e lm="privilegiadu"><i>privilegiad</i><par n="mac/u__n"/></e>
     <e lm="proa"><i>proa</i><par n="mesa__n"/></e>
     <e lm="professionista"><i>professionista</i><par n="pane__n"/></e>
-    <e lm="professone"><i>professone</i><par n="region/e__n"/></e>
-    <e lm="proibitzione"><i>proibitzione</i><par n="pane__n"/></e>
-    <e lm="prùere"><i>prùere</i><par n="region/e__n"/></e>
+    <e lm="professone"><i>professon</i><par n="region/e__n"/></e>
+    <e lm="proibitzione"><i>proibitzion</i><par n="region/e__n"/></e>
+    <e lm="prùere"><i>prùer</i><par n="region/e__n"/></e>
     <e lm="psichiatra"><i>psichiatra</i><par n="pane__n"/></e>
     <e lm="publitzitàriu"><i>publitzitàri</i><par n="mac/u__n"/></e>
     <e lm="punna"><i>punna</i><par n="pane__n"/></e>
-    <e lm="pèrdere"><i>pèrdere</i><par n="region/e__n"/></e>
-    <e lm="pèrpere"><i>pèrpere</i><par n="region/e__n"/></e>
+    <e lm="pèrdere"><i>pèrder</i><par n="region/e__n"/></e>
+    <e lm="pèrpere"><i>pèrper</i><par n="region/e__n"/></e>
     <e lm="pòveru"><i>pòver</i><par n="mac/u__n"/></e>
     <e lm="rasu"><i>ras</i><par n="mac/u__n"/></e>
     <e lm="rebellu"><i>rebell</i><par n="mac/u__n"/></e>
@@ -6037,10 +6037,10 @@
     <e lm="relògiu"><i>relògi</i><par n="mac/u__n"/></e>
     <e lm="reminu"><i>remin</i><par n="mac/u__n"/></e>
     <e lm="resessida"><i>resessida</i><par n="mesa__n"/></e>
-    <e lm="resiliatzione"><i>resiliatzione</i><par n="pane__n"/></e>
+    <e lm="resiliatzione"><i>resiliatzion</i><par n="region/e__n"/></e>
     <e lm="resparmiadore"><i>resparmiadore</i><par n="pane__n"/></e>
     <e lm="resèssida"><i>resèssida</i><par n="mesa__n"/></e>
-    <e lm="retze"><i>retze</i><par n="region/e__n"/></e>
+    <e lm="retze"><i>retz</i><par n="region/e__n"/></e>
     <e lm="retzìprocu"><i>retzìproc</i><par n="mac/u__n"/></e>
     <e lm="reu"><i>re</i><par n="mac/u__n"/></e>
     <e lm="richiedente"><i>richiedente</i><par n="pane__n"/></e>
@@ -6078,18 +6078,18 @@
     <e lm="tesoreri"><i>tesoreri</i><par n="pane__n"/></e>
     <e lm="testarrudu"><i>testarrud</i><par n="mac/u__n"/></e>
     <e lm="timoria"><i>timoria</i><par n="pane__n"/></e>
-    <e lm="trae"><i>trae</i><par n="region/e__n"/></e>
+    <e lm="trae"><i>tra</i><par n="region/e__n"/></e>
     <e lm="traessu"><i>traess</i><par n="mac/u__n"/></e>
     <e lm="tramata"><i>tramata</i><par n="mesa__n"/></e>
     <e lm="trampa"><i>trampa</i><par n="mesa__n"/></e>
     <e lm="trasversale"><i>trasversale</i><par n="pane__n"/></e>
-    <e lm="turre"><i>turre</i><par n="region/e__n"/></e>
+    <e lm="turre"><i>turr</i><par n="region/e__n"/></e>
     <e lm="tzertificadu"><i>tzertificad</i><par n="mac/u__n"/></e>
-    <e lm="tzessione"><i>tzessione</i><par n="region/e__n"/></e>
+    <e lm="tzessione"><i>tzession</i><par n="region/e__n"/></e>
     <e lm="tèteru"><i>tèter</i><par n="mac/u__n"/></e>
     <e lm="tìmigu"><i>tìmig</i><par n="mac/u__n"/></e>
     <e lm="tònicu"><i>tònic</i><par n="mac/u__n"/></e>
-    <e lm="variàbile"><i>variàbile</i><par n="region/e__n"/></e>
+    <e lm="variàbile"><i>variàbil</i><par n="region/e__n"/></e>
     <e lm="vertice"><i>vertice</i><par n="pane__n"/></e>
     <e lm="vicanicu"><i>vicanic</i><par n="mac/u__n"/></e>
     <e lm="vìncolu"><i>vìncol</i><par n="mac/u__n"/></e>
@@ -29871,7 +29871,6 @@
     <e lm="cristalleria"><i>cristalleria</i><par n="mesa__n"/></e>
     <e lm="cristallina"><i>cristallina</i><par n="mesa__n"/></e>
     <e lm="cristiania"><i>cristiania</i><par n="mesa__n"/></e>
-    <e lm="crìtica"><i>crìtica</i><par n="mesa__n"/></e>
     <e lm="crìtiga"><i>crìtiga</i><par n="mesa__n"/></e>
     <e lm="critògama"><i>critògama</i><par n="mesa__n"/></e>
     <e lm="croba"><i>croba</i><par n="mesa__n"/></e>
@@ -34928,7 +34927,6 @@
     <e lm="poleddina"><i>poleddina</i><par n="mesa__n"/></e>
     <e lm="polèmica"><i>polèmica</i><par n="mesa__n"/></e>
     <e lm="polisemia"><i>polisemia</i><par n="mesa__n"/></e>
-    <e lm="polìtica"><i>polìtica</i><par n="mesa__n"/></e>
     <e lm="pòlitza"><i>pòlitza</i><par n="mesa__n"/></e>
     <e lm="poltrona"><i>poltrona</i><par n="mesa__n"/></e>
     <e lm="pometerra"><i>pometerra</i><par n="mesa__n"/></e>
@@ -37673,7 +37671,6 @@
     <e lm="ambitzione"><i>ambi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ambulante"><i>ambulant</i><par n="traballador/e__n"/></e>
     <e lm="amenidade"><i>amenidad</i><par n="region/e__n"/></e>
-    <e lm="ammissione"><i>ammission</i><par n="region/e__n"/></e>
     <e lm="ammortizatzione"><i>ammortiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="amore"><i>amore</i><par n="pane__n"/></e>
     <e lm="anade"><i>anade</i><par n="pane__n"/></e>
@@ -38169,13 +38166,12 @@
     <e lm="còditze"><i>còditze</i><par n="pane__n"/></e>
     <e lm="codospe"><i>codospe</i><par n="pane__n"/></e>
     <e lm="coertzitzione"><i>coer</i><par n="tz/z"/><i>i</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="coesione"><i>coesione</i><par n="pane__n"/></e>
     <e lm="coete"><i>coete</i><par n="pane__n"/></e>
     <e lm="cofone"><i>cofone</i><par n="pane__n"/></e>
     <e lm="cofre"><i>cofre</i><par n="pane__n"/></e>
     <e lm="coghile"><i>coghile</i><par n="pane__n"/></e>
     <e lm="coghìmene"><i>coghìmene</i><par n="pane__n"/></e>
-    <e lm="cogione"><i>cogione</i><par n="pane__n"/></e>
+    <e lm="cogione"><i>cogion</i><par n="region/e__n"/></e>
     <e lm="cogone"><i>cogone</i><par n="pane__n"/></e>
     <e lm="cogorone"><i>cogorone</i><par n="pane__n"/></e>
     <e lm="coiràmene"><i>coiràmene</i><par n="pane__n"/></e>
@@ -38189,7 +38185,7 @@
     <e lm="collaudadore"><i>collaudador</i><par n="traballador/e__n"/></e>
     <e lm="collete"><i>collete</i><par n="pane__n"/></e>
     <e lm="colliete"><i>colliete</i><par n="pane__n"/></e>
-    <e lm="collisione"><i>collisione</i><par n="pane__n"/></e>
+    <e lm="collisione"><i>collision</i><par n="region/e__n"/></e>
     <e lm="collocadore"><i>collocador</i><par n="traballador/e__n"/></e>
     <e lm="collocatzione"><i>colloca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="colonizadore"><i>colonizador</i><par n="traballador/e__n"/></e>
@@ -38199,34 +38195,31 @@
     <e lm="coltivadore"><i>coltivador</i><par n="traballador/e__n"/></e>
     <e lm="coltivatzione"><i>coltiva</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="comare"><i>comare</i><par n="pane__n"/></e>
-    <e lm="combustione"><i>combustione</i><par n="pane__n"/></e>
+    <e lm="combustione"><i>combustion</i><par n="region/e__n"/></e>
     <e lm="comitziante"><i>comitziante</i><par n="pane__n"/></e>
-    <e lm="commissione"><i>commissione</i><par n="pane__n"/></e>
     <e lm="commutadore"><i>commutador</i><par n="traballador/e__n"/></e>
     <e lm="compare"><i>compare</i><par n="pane__n"/></e>
-    <e lm="compassione"><i>compassione</i><par n="pane__n"/></e>
+    <e lm="compassione"><i>compassion</i><par n="region/e__n"/></e>
     <e lm="compidadore"><i>compidador</i><par n="traballador/e__n"/></e>
     <e lm="còmplitze"><i>còmplitze</i><par n="pane__n"/></e>
     <e lm="comporante"><i>comporante</i><par n="pane__n"/></e>
-    <e lm="comunione"><i>comunione</i><par n="pane__n"/></e>
+    <e lm="comunione"><i>comunion</i><par n="region/e__n"/></e>
     <e lm="concale"><i>concale</i><par n="pane__n"/></e>
     <e lm="conchibirde"><i>conchibirde</i><par n="pane__n"/></e>
-    <e lm="conchigione"><i>conchigione</i><par n="pane__n"/></e>
+    <e lm="conchigione"><i>conchigion</i><par n="region/e__n"/></e>
     <e lm="conchile"><i>conchile</i><par n="pane__n"/></e>
     <e lm="conclave"><i>conclave</i><par n="pane__n"/></e>
     <e lm="concone"><i>concone</i><par n="pane__n"/></e>
     <e lm="concorrone"><i>concorrone</i><par n="pane__n"/></e>
-    <e lm="concrusione"><i>concrusione</i><par n="pane__n"/></e>
+    <e lm="concrusione"><i>concrusion</i><par n="region/e__n"/></e>
     <e lm="concurrente"><i>concurrente</i><par n="pane__n"/></e>
-    <e lm="concussione"><i>concussione</i><par n="pane__n"/></e>
+    <e lm="concussione"><i>concussion</i><par n="region/e__n"/></e>
     <e lm="condaghe"><i>condaghe</i><par n="pane__n"/></e>
-    <e lm="confusione"><i>confusione</i><par n="pane__n"/></e>
     <e lm="congiale"><i>congiale</i><par n="pane__n"/></e>
     <e lm="congiuntivite"><i>congiuntivite</i><par n="pane__n"/></e>
     <e lm="congiuntzione"><i>congiun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="coniatzione"><i>conia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="coniugatzione"><i>coniuga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="connessione"><i>connessione</i><par n="pane__n"/></e>
     <e lm="connoschente"><i>connoschente</i><par n="pane__n"/></e>
     <e lm="connoschidore"><i>connoschidor</i><par n="traballador/e__n"/></e>
     <e lm="connotatzione"><i>connota</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38246,7 +38239,7 @@
     <e lm="continuidade"><i>continuidad</i><par n="region/e__n"/></e>
     <e lm="contonale"><i>contonale</i><par n="pane__n"/></e>
     <e lm="contone"><i>contone</i><par n="pane__n"/></e>
-    <e lm="contorsione"><i>contorsione</i><par n="pane__n"/></e>
+    <e lm="contorsione"><i>contorsion</i><par n="region/e__n"/></e>
     <e lm="contracrae"><i>contracrae</i><par n="pane__n"/></e>
     <e lm="contradditzione"><i>contraddi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="contraforte"><i>contraforte</i><par n="pane__n"/></e>
@@ -38265,8 +38258,8 @@
     <e lm="contziliadore"><i>contziliador</i><par n="traballador/e__n"/></e>
     <e lm="contziliatzione"><i>con</i><par n="tz/z"/><i>ilia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="contzime"><i>contzime</i><par n="pane__n"/></e>
-    <e lm="contzisione"><i>contzisione</i><par n="pane__n"/></e>
-    <e lm="convulsione"><i>convulsione</i><par n="pane__n"/></e>
+    <e lm="contzisione"><i>contzision</i><par n="region/e__n"/></e>
+    <e lm="convulsione"><i>convulsion</i><par n="region/e__n"/></e>
     <e lm="coordinatzione"><i>coordina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="coperadore"><i>coperador</i><par n="traballador/e__n"/></e>
     <e lm="copile"><i>copile</i><par n="pane__n"/></e>
@@ -38285,7 +38278,7 @@
     <e lm="corfadore"><i>corfador</i><par n="traballador/e__n"/></e>
     <e lm="corgiàmene"><i>corgiàmene</i><par n="pane__n"/></e>
     <e lm="coridurche"><i>coridurche</i><par n="pane__n"/></e>
-    <e lm="corigione"><i>corigione</i><par n="pane__n"/></e>
+    <e lm="corigione"><i>corigion</i><par n="region/e__n"/></e>
     <e lm="cornitze"><i>cornitze</i><par n="pane__n"/></e>
     <e lm="còroe"><i>còroe</i><par n="pane__n"/></e>
     <e lm="corpete"><i>corpete</i><par n="pane__n"/></e>
@@ -38296,7 +38289,7 @@
     <e lm="corrigale"><i>corrigale</i><par n="pane__n"/></e>
     <e lm="corriscale"><i>corriscale</i><par n="pane__n"/></e>
     <e lm="corroncone"><i>corroncone</i><par n="pane__n"/></e>
-    <e lm="corrosione"><i>corrosione</i><par n="pane__n"/></e>
+    <e lm="corrosione"><i>corrosion</i><par n="region/e__n"/></e>
     <e lm="corrovone"><i>corrovone</i><par n="pane__n"/></e>
     <e lm="corruncone"><i>corruncone</i><par n="pane__n"/></e>
     <e lm="corrungrone"><i>corrungrone</i><par n="pane__n"/></e>
@@ -38359,7 +38352,7 @@
     <e lm="crichete"><i>crichete</i><par n="pane__n"/></e>
     <e lm="crìghine"><i>crìghine</i><par n="pane__n"/></e>
     <e lm="crìmene"><i>crìmene</i><par n="pane__n"/></e>
-    <e lm="crimigione"><i>crimigione</i><par n="pane__n"/></e>
+    <e lm="crimigione"><i>crimigion</i><par n="region/e__n"/></e>
     <e lm="criminalidade"><i>criminalidad</i><par n="region/e__n"/></e>
     <e lm="crine"><i>crine</i><par n="pane__n"/></e>
     <e lm="crisajone"><i>crisajone</i><par n="pane__n"/></e>
@@ -38379,7 +38372,7 @@
     <e lm="crucugione"><i>crucugione</i><par n="pane__n"/></e>
     <e lm="crudeltade"><i>crudeltad</i><par n="region/e__n"/></e>
     <e lm="crugullone"><i>crugullone</i><par n="pane__n"/></e>
-    <e lm="crutzifissione"><i>crutzifissione</i><par n="pane__n"/></e>
+    <e lm="crutzifissione"><i>crutzifission</i><par n="region/e__n"/></e>
     <e lm="crutzifissore"><i>crutzifissore</i><par n="pane__n"/></e>
     <e lm="cuacualèpere"><i>cuacualèpere</i><par n="pane__n"/></e>
     <e lm="cuadradore"><i>cuadrador</i><par n="traballador/e__n"/></e>
@@ -38427,7 +38420,7 @@
     <e lm="cummediante"><i>cummediante</i><par n="pane__n"/></e>
     <e lm="cummensale"><i>cummensale</i><par n="pane__n"/></e>
     <e lm="cummertziante"><i>cummertziante</i><par n="pane__n"/></e>
-    <e lm="cummissione"><i>cummissione</i><par n="pane__n"/></e>
+    <e lm="cummissione"><i>cummission</i><par n="region/e__n"/></e>
     <e lm="cummitente"><i>cummitente</i><par n="pane__n"/></e>
     <e lm="cummotzione"><i>cummo</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cummovente"><i>cummovente</i><par n="pane__n"/></e>
@@ -38435,7 +38428,7 @@
     <e lm="cumparatzione"><par n="cum/com"/><i>para</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cumparente"><par n="cum/com"/><i>parente</i><par n="pane__n"/></e>
     <e lm="cumpartetzipatzione"><par n="cum/com"/><i>parte</i><par n="tz/z"/><i>ipa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cumpassione"><par n="cum/com"/><i>passione</i><par n="pane__n"/></e>
+    <e lm="cumpassione"><par n="cum/com"/><i>passion</i><par n="region/e__n"/></e>
     <e lm="cumpastore"><par n="cum/com"/><i>pastore</i><par n="pane__n"/></e>
     <e lm="cumpetitividade"><par n="cum/com"/><i>petitividad</i><par n="region/e__n"/></e>
     <e lm="cumpetitzione"><par n="cum/com"/><i>peti</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38443,8 +38436,7 @@
     <e lm="cumplotadore"><par n="cum/com"/><i>plotador</i><par n="traballador/e__n"/></e>
     <e lm="cumponidore"><par n="cum/com"/><i>ponidor</i><par n="traballador/e__n"/></e>
     <e lm="cumpostile"><par n="cum/com"/><i>postile</i><par n="pane__n"/></e>
-    <e lm="cumprensione"><par n="cum/com"/><i>prensione</i><par n="pane__n"/></e>
-    <e lm="cumpressione"><par n="cum/com"/><i>pressione</i><par n="pane__n"/></e>
+    <e lm="cumpressione"><par n="cum/com"/><i>pression</i><par n="region/e__n"/></e>
     <e lm="cumputadore"><par n="cum/com"/><i>putador</i><par n="traballador/e__n"/></e>
     <e lm="cuncetzione"><i>cunce</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cundennatzione"><i>cundenna</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38454,9 +38446,8 @@
     <e lm="cunditzionale"><i>cundi</i><par n="tz/z"/><i>ionale</i><par n="pane__n"/></e>
     <e lm="cundonatzione"><i>cundona</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunfederatzione"><i>cunfedera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunfescione"><par n="cun/con"/><i>fescione</i><par n="pane__n"/></e>
+    <e lm="cunfescione"><par n="cun/con"/><i>fescion</i><par n="region/e__n"/></e>
     <e lm="cunfessionale"><par n="cun/con"/><i>fessionale</i><par n="pane__n"/></e>
-    <e lm="cunfessione"><par n="cun/con"/><i>fessione</i><par n="pane__n"/></e>
     <e lm="cunfessionile"><par n="cun/con"/><i>fessionile</i><par n="pane__n"/></e>
     <e lm="cunfessore"><par n="cun/con"/><i>fessore</i><par n="pane__n"/></e>
     <e lm="cunfetzione"><i>cunfe</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38465,9 +38456,8 @@
     <e lm="cunfirmatzione"><i>cunfirma</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunformatzione"><i>cunforma</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunfrade"><par n="cun/con"/><i>frade</i><par n="pane__n"/></e>
-    <e lm="cunfusione"><par n="cun/con"/><i>fusione</i><par n="pane__n"/></e>
     <e lm="cungeladore"><par n="cun/con"/><i>gelador</i><par n="traballador/e__n"/></e>
-    <e lm="cungestione"><par n="cun/con"/><i>gestione</i><par n="pane__n"/></e>
+    <e lm="cungestione"><par n="cun/con"/><i>gestion</i><par n="region/e__n"/></e>
     <e lm="cungone"><par n="cun/con"/><i>gone</i><par n="pane__n"/></e>
     <e lm="cungregatzione"><i>cungrega</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunservante"><par n="cun/con"/><i>servante</i><par n="pane__n"/></e>
@@ -38484,13 +38474,11 @@
     <e lm="cuntribuente"><par n="cun/con"/><i>tribuente</i><par n="pane__n"/></e>
     <e lm="cuntribuidore"><par n="cun/con"/><i>tribuidor</i><par n="traballador/e__n"/></e>
     <e lm="cuntzentratzione"><i>cuntzentra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cuntzessione"><par n="cun/con"/><i>tzessione</i><par n="pane__n"/></e>
     <e lm="cuntzessore"><par n="cun/con"/><i>tzessore</i><par n="pane__n"/></e>
     <e lm="cuntzetzione"><i>cuntze</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cuntziliadore"><par n="cun/con"/><i>tziliador</i><par n="traballador/e__n"/></e>
-    <e lm="cuntzisione"><par n="cun/con"/><i>tzisione</i><par n="pane__n"/></e>
+    <e lm="cuntzisione"><par n="cun/con"/><i>tzision</i><par n="region/e__n"/></e>
     <e lm="cunventzione"><i>cunven</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="cunversione"><par n="cun/con"/><i>versione</i><par n="pane__n"/></e>
     <e lm="cunvintzione"><i>cunvin</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunvividore"><par n="cun/con"/><i>vividor</i><par n="traballador/e__n"/></e>
     <e lm="cunvocatzione"><i>cunvoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38535,7 +38523,7 @@
     <e lm="decurione"><i>decurione</i><par n="pane__n"/></e>
     <e lm="degradatzione"><i>degrada</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="deidade"><i>deidad</i><par n="region/e__n"/></e>
-    <e lm="delusione"><i>delusione</i><par n="pane__n"/></e>
+    <e lm="delusione"><i>delusion</i><par n="region/e__n"/></e>
     <e lm="democratitzidade"><i>democratitzidad</i><par n="region/e__n"/></e>
     <e lm="demolidore"><i>demolidor</i><par n="traballador/e__n"/></e>
     <e lm="denghe"><i>denghe</i><par n="pane__n"/></e>
@@ -38548,7 +38536,7 @@
     <e lm="deodorante"><i>deodorante</i><par n="pane__n"/></e>
     <e lm="depositante"><i>depositante</i><par n="pane__n"/></e>
     <e lm="depositzione"><i>deposi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="depressione"><i>depressione</i><par n="pane__n"/></e>
+    <e lm="depressione"><i>depression</i><par n="region/e__n"/></e>
     <e lm="depuratzione"><i>depura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="derivatzione"><i>deriva</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="derogante"><i>derogante</i><par n="pane__n"/></e>
@@ -38561,7 +38549,6 @@
     <e lm="detergente"><i>detergente</i><par n="pane__n"/></e>
     <e lm="detonante"><i>detonante</i><par n="pane__n"/></e>
     <e lm="detzimale"><i>detzimale</i><par n="pane__n"/></e>
-    <e lm="detzisione"><i>detzisione</i><par n="pane__n"/></e>
     <e lm="devantale"><i>devantale</i><par n="pane__n"/></e>
     <e lm="deviatzione"><i>devia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="diabete"><i>diabete</i><par n="pane__n"/></e>
@@ -38571,21 +38558,17 @@
     <e lm="diàntzine"><i>diàntzine</i><par n="pane__n"/></e>
     <e lm="dichiaratzione"><i>dichiara</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="didale"><i>didale</i><par n="pane__n"/></e>
-    <e lm="die"><i>die</i><par n="pane__n"/></e>
     <e lm="diferentziale"><i>diferentziale</i><par n="pane__n"/></e>
     <e lm="diferentziatzione"><i>diferen</i><par n="tz/z"/><i>ia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="dificultade"><i>dificultad</i><par n="region/e__n"/></e>
     <e lm="difiterite"><i>difiterite</i><par n="pane__n"/></e>
     <e lm="difratzione"><i>difra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="difusione"><i>difusione</i><par n="pane__n"/></e>
-    <e lm="digestione"><i>digestione</i><par n="pane__n"/></e>
+    <e lm="digestione"><i>digestion</i><par n="region/e__n"/></e>
     <e lm="dignatzione"><i>digna</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="digressione"><i>digressione</i><par n="pane__n"/></e>
+    <e lm="digressione"><i>digression</i><par n="region/e__n"/></e>
     <e lm="diluente"><i>diluente</i><par n="pane__n"/></e>
     <e lm="dimandante"><i>dimandante</i><par n="pane__n"/></e>
     <e lm="dimandone"><i>dimandone</i><par n="pane__n"/></e>
-    <e lm="dimensione"><i>dimensione</i><par n="pane__n"/></e>
-    <e lm="dimissione"><i>dimissione</i><par n="pane__n"/></e>
     <e lm="dimustratzione"><i>dimustra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="dinamite"><i>dinamite</i><par n="pane__n"/></e>
     <e lm="dinamitzidade"><i>dinamitzidad</i><par n="region/e__n"/></e>
@@ -38596,17 +38579,16 @@
     <e lm="disabilidade"><i>disabilidad</i><par n="region/e__n"/></e>
     <e lm="disamistade"><i>disamistad</i><par n="region/e__n"/></e>
     <e lm="disamore"><i>disamore</i><par n="pane__n"/></e>
-    <e lm="disaprensione"><i>disaprensione</i><par n="pane__n"/></e>
+    <e lm="disaprensione"><i>disaprension</i><par n="region/e__n"/></e>
     <e lm="disaprovatzione"><i>disaprova</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="disatentzione"><i>disaten</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="discapatzidade"><i>discapatzidad</i><par n="region/e__n"/></e>
     <e lm="discendente"><i>discendente</i><par n="pane__n"/></e>
     <e lm="discretzione"><i>discre</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="discussione"><i>discussione</i><par n="pane__n"/></e>
     <e lm="disertore"><i>disertore</i><par n="pane__n"/></e>
     <e lm="disgregatzione"><i>disgrega</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="disidratatzione"><i>disidrata</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="disillusione"><i>disillusione</i><par n="pane__n"/></e>
+    <e lm="disillusione"><i>disillusion</i><par n="region/e__n"/></e>
     <e lm="disinfestatzione"><i>disinfesta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="disinfetante"><i>disinfetante</i><par n="pane__n"/></e>
     <e lm="disonestade"><i>disonestad</i><par n="region/e__n"/></e>
@@ -38622,7 +38604,7 @@
     <e lm="distintividade"><i>distintividad</i><par n="region/e__n"/></e>
     <e lm="distrale"><i>distrale</i><par n="pane__n"/></e>
     <e lm="distratzione"><i>distra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="disunione"><i>disunione</i><par n="pane__n"/></e>
+    <e lm="disunione"><i>disunion</i><par n="region/e__n"/></e>
     <e lm="ditadore"><i>ditador</i><par n="traballador/e__n"/></e>
     <e lm="ditale"><i>ditale</i><par n="pane__n"/></e>
     <e lm="ditàmene"><i>ditàmene</i><par n="pane__n"/></e>
@@ -38632,7 +38614,6 @@
     <e lm="divinidade"><i>divinidad</i><par n="region/e__n"/></e>
     <e lm="divinizatzione"><i>diviniza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="divisibilidade"><i>divisibilidad</i><par n="region/e__n"/></e>
-    <e lm="divisione"><i>divisione</i><par n="pane__n"/></e>
     <e lm="dobbe"><i>dobbe</i><par n="pane__n"/></e>
     <e lm="dolìmene"><i>dolìmene</i><par n="pane__n"/></e>
     <e lm="dolore"><i>dolore</i><par n="pane__n"/></e>
@@ -38682,12 +38663,10 @@
     <e lm="eliminatzione"><i>elimina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="elimòbile"><i>elimòbile</i><par n="pane__n"/></e>
     <e lm="elione"><i>elione</i><par n="pane__n"/></e>
-    <e lm="elisione"><i>elisione</i><par n="pane__n"/></e>
     <e lm="ellisse"><i>ellisse</i><par n="pane__n"/></e>
     <e lm="emanatzione"><i>emana</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="emantzipatzione"><i>eman</i><par n="tz/z"/><i>ipa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="emigrante"><i>emigrante</i><par n="pane__n"/></e>
-    <e lm="emissione"><i>emissione</i><par n="pane__n"/></e>
     <e lm="emotividade"><i>emotividad</i><par n="region/e__n"/></e>
     <e lm="enàile"><i>enàile</i><par n="pane__n"/></e>
     <e lm="enterite"><i>enterite</i><par n="pane__n"/></e>
@@ -38705,7 +38684,6 @@
     <e lm="eroe"><i>eroe</i><par n="pane__n"/></e>
     <e lm="erogatzione"><i>eroga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="erone"><i>erone</i><par n="pane__n"/></e>
-    <e lm="erosione"><i>erosione</i><par n="pane__n"/></e>
     <e lm="èrpitze"><i>èrpitze</i><par n="pane__n"/></e>
     <e lm="errigale"><i>errigale</i><par n="pane__n"/></e>
     <e lm="errigone"><i>errigone</i><par n="pane__n"/></e>
@@ -38718,8 +38696,7 @@
     <e lm="esatore"><i>esatore</i><par n="pane__n"/></e>
     <e lm="esatzione"><i>esa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esclamatzione"><i>esclama</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="esclusione"><i>esclusione</i><par n="pane__n"/></e>
-    <e lm="escursione"><i>escursione</i><par n="pane__n"/></e>
+    <e lm="escursione"><i>escursion</i><par n="region/e__n"/></e>
     <e lm="esecutividade"><i>esecutividad</i><par n="region/e__n"/></e>
     <e lm="esecutore"><i>esecutore</i><par n="pane__n"/></e>
     <e lm="esecutoriedade"><i>esecutoriedad</i><par n="region/e__n"/></e>
@@ -38728,17 +38705,12 @@
     <e lm="esertzitatzione"><i>eser</i><par n="tz/z"/><i>ita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esibitzione"><i>esibi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esitatzione"><i>esita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="espansione"><i>espansione</i><par n="pane__n"/></e>
     <e lm="esplicatzione"><i>esplica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esploradore"><i>esplorador</i><par n="traballador/e__n"/></e>
-    <e lm="esplosione"><i>esplosione</i><par n="pane__n"/></e>
     <e lm="esponente"><i>esponente</i><par n="pane__n"/></e>
     <e lm="esponentziale"><i>esponentziale</i><par n="pane__n"/></e>
-    <e lm="espressione"><i>espressione</i><par n="pane__n"/></e>
     <e lm="espropiatzione"><i>espropia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="espulsione"><i>espulsione</i><par n="pane__n"/></e>
     <e lm="essentzialidade"><i>essentzialidad</i><par n="region/e__n"/></e>
-    <e lm="estensione"><i>estensione</i><par n="pane__n"/></e>
     <e lm="estremuntzione"><i>estremun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esumidore"><i>esumidor</i><par n="traballador/e__n"/></e>
     <e lm="esuridùmene"><i>esuridùmene</i><par n="pane__n"/></e>
@@ -38749,7 +38721,6 @@
     <e lm="etzetzione"><i>etze</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="europeizatzione"><i>europeiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="evangelizatzione"><i>evangeliza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="evasione"><i>evasione</i><par n="pane__n"/></e>
     <e lm="eventualidade"><i>eventualidad</i><par n="region/e__n"/></e>
     <e lm="evocatzione"><i>evoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="fabbricatzione"><i>fabbrica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -38831,7 +38802,7 @@
     <e lm="filiaghe"><i>filiaghe</i><par n="pane__n"/></e>
     <e lm="filiale"><i>filiale</i><par n="pane__n"/></e>
     <e lm="fìlighe"><i>fìlighe</i><par n="pane__n"/></e>
-    <e lm="filingione"><i>filingione</i><par n="pane__n"/></e>
+    <e lm="filingione"><i>filingion</i><par n="region/e__n"/></e>
     <e lm="filòstrighe"><i>filòstrighe</i><par n="pane__n"/></e>
     <e lm="filupende"><i>filupende</i><par n="pane__n"/></e>
     <e lm="finale"><i>finale</i><par n="pane__n"/></e>
@@ -38845,7 +38816,7 @@
     <e lm="flacone"><i>flacone</i><par n="pane__n"/></e>
     <e lm="flagrante"><i>flagrante</i><par n="pane__n"/></e>
     <e lm="flebite"><i>flebite</i><par n="pane__n"/></e>
-    <e lm="flessione"><i>flessione</i><par n="pane__n"/></e>
+    <e lm="flessione"><i>flession</i><par n="region/e__n"/></e>
     <e lm="fluore"><i>fluore</i><par n="pane__n"/></e>
     <e lm="flutuatzione"><i>flutua</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="foddale"><i>foddale</i><par n="pane__n"/></e>
@@ -38951,10 +38922,10 @@
     <e lm="fusìbile"><i>fusìbile</i><par n="pane__n"/></e>
     <e lm="fusilatzione"><i>fusila</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="fusile"><i>fusile</i><par n="pane__n"/></e>
-    <e lm="fusione"><i>fusione</i><par n="pane__n"/></e>
+    <e lm="fusione"><i>fusion</i><par n="region/e__n"/></e>
     <e lm="fuste"><i>fuste</i><par n="pane__n"/></e>
     <e lm="gabbale"><i>gabbale</i><par n="pane__n"/></e>
-    <e lm="gabbione"><i>gabbione</i><par n="pane__n"/></e>
+    <e lm="gabbione"><i>gabbion</i><par n="region/e__n"/></e>
     <e lm="gabinete"><i>gabinete</i><par n="pane__n"/></e>
     <e lm="gaddarone"><i>gaddarone</i><par n="pane__n"/></e>
     <e lm="gaddine"><i>gaddine</i><par n="pane__n"/></e>
@@ -38966,7 +38937,7 @@
     <e lm="galardone"><i>galardone</i><par n="pane__n"/></e>
     <e lm="galeone"><i>galeone</i><par n="pane__n"/></e>
     <e lm="galerone"><i>galerone</i><par n="pane__n"/></e>
-    <e lm="galione"><i>galione</i><par n="pane__n"/></e>
+    <e lm="galione"><i>galion</i><par n="region/e__n"/></e>
     <e lm="gallone"><i>gallone</i><par n="pane__n"/></e>
     <e lm="galone"><i>galone</i><par n="pane__n"/></e>
     <e lm="gangale"><i>gangale</i><par n="pane__n"/></e>
@@ -39002,7 +38973,7 @@
     <e lm="gerarchizatzione"><i>gerarchiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="germandade"><i>germandad</i><par n="region/e__n"/></e>
     <e lm="germe"><i>germe</i><par n="pane__n"/></e>
-    <e lm="gestione"><i>gestione</i><par n="pane__n"/></e>
+    <e lm="gestione"><i>gestion</i><par n="region/e__n"/></e>
     <e lm="gestore"><i>gestore</i><par n="pane__n"/></e>
     <e lm="geunadore"><i>geunador</i><par n="traballador/e__n"/></e>
     <e lm="ghenese"><i>ghenese</i><par n="pane__n"/></e>
@@ -39014,7 +38985,7 @@
     <e lm="gherrigiante"><i>gherrigiante</i><par n="pane__n"/></e>
     <e lm="ghiddostre"><i>ghiddostre</i><par n="pane__n"/></e>
     <e lm="ghighinadore"><i>ghighinador</i><par n="traballador/e__n"/></e>
-    <e lm="ghilingione"><i>ghilingione</i><par n="pane__n"/></e>
+    <e lm="ghilingione"><i>ghilingion</i><par n="region/e__n"/></e>
     <e lm="ghiliore"><i>ghiliore</i><par n="pane__n"/></e>
     <e lm="ghilisone"><i>ghilisone</i><par n="pane__n"/></e>
     <e lm="ghimisone"><i>ghimisone</i><par n="pane__n"/></e>
@@ -39126,14 +39097,13 @@
     <e lm="illegitimidade"><i>illegitimidad</i><par n="region/e__n"/></e>
     <e lm="illuitzione"><i>illui</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="illuminatzione"><i>illumina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="illusione"><i>illusione</i><par n="pane__n"/></e>
     <e lm="imbarcatzione"><i>imbarca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ìmbene"><i>ìmbene</i><par n="pane__n"/></e>
     <e lm="imbeniente"><i>imbeniente</i><par n="pane__n"/></e>
     <e lm="imbidone"><i>imbidone</i><par n="pane__n"/></e>
     <e lm="imitadore"><i>imitador</i><par n="traballador/e__n"/></e>
     <e lm="imitatzione"><i>imita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="immersione"><i>immersione</i><par n="pane__n"/></e>
+    <e lm="immersione"><i>immersion</i><par n="region/e__n"/></e>
     <e lm="immobilidade"><i>immobilidad</i><par n="region/e__n"/></e>
     <e lm="immoralidade"><i>immoralidad</i><par n="region/e__n"/></e>
     <e lm="immortalidade"><i>immortalidad</i><par n="region/e__n"/></e>
@@ -39143,7 +39113,6 @@
     <e lm="imposidore"><i>imposidor</i><par n="traballador/e__n"/></e>
     <e lm="impostatzione"><i>imposta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="imprentadore"><i>imprentador</i><par n="traballador/e__n"/></e>
-    <e lm="impressione"><i>impressione</i><par n="pane__n"/></e>
     <e lm="improbabilidade"><i>improbabilidad</i><par n="region/e__n"/></e>
     <e lm="improvisatzione"><i>improvisa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="impuddile"><i>impuddile</i><par n="pane__n"/></e>
@@ -39170,7 +39139,7 @@
     <e lm="indennizatzione"><i>indenniza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="indeoradore"><i>indeorador</i><par n="traballador/e__n"/></e>
     <e lm="indicadore"><i>indicador</i><par n="traballador/e__n"/></e>
-    <e lm="indigestione"><i>indigestione</i><par n="pane__n"/></e>
+    <e lm="indigestione"><i>indigestion</i><par n="region/e__n"/></e>
     <e lm="indignatzione"><i>indigna</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="indispositzione"><i>indisposi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ìnditze"><i>ìnditze</i><par n="pane__n"/></e>
@@ -39183,7 +39152,7 @@
     <e lm="infinidade"><i>infinidad</i><par n="region/e__n"/></e>
     <e lm="infirmidade"><i>infirmidad</i><par n="region/e__n"/></e>
     <e lm="inflatzione"><i>infla</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="inflessione"><i>inflessione</i><par n="pane__n"/></e>
+    <e lm="inflessione"><i>inflession</i><par n="region/e__n"/></e>
     <e lm="infustore"><i>infustore</i><par n="pane__n"/></e>
     <e lm="ingenniosidade"><i>ingenniosidad</i><par n="region/e__n"/></e>
     <e lm="ingenuidade"><i>ingenuidad</i><par n="region/e__n"/></e>
@@ -39209,18 +39178,16 @@
     <e lm="intèrprete"><i>intèrprete</i><par n="pane__n"/></e>
     <e lm="interpuntzione"><i>interpun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="interrutore"><i>interrutore</i><par n="pane__n"/></e>
-    <e lm="intertzessione"><i>intertzessione</i><par n="pane__n"/></e>
+    <e lm="intertzessione"><i>intertzession</i><par n="region/e__n"/></e>
     <e lm="intimidade"><i>intimidad</i><par n="region/e__n"/></e>
     <e lm="intonatzione"><i>intona</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="introdutzione"><i>introdu</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="intromissione"><i>intromissione</i><par n="pane__n"/></e>
     <e lm="intuitzione"><i>intui</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="intzidente"><i>intzidente</i><par n="pane__n"/></e>
-    <e lm="intzisione"><i>intzisione</i><par n="pane__n"/></e>
+    <e lm="intzisione"><i>intzision</i><par n="region/e__n"/></e>
     <e lm="intziviltade"><i>intziviltad</i><par n="region/e__n"/></e>
     <e lm="inutilidade"><i>inutilidad</i><par n="region/e__n"/></e>
-    <e lm="invasione"><i>invasione</i><par n="pane__n"/></e>
-    <e lm="inversione"><i>inversione</i><par n="pane__n"/></e>
+    <e lm="inversione"><i>inversion</i><par n="region/e__n"/></e>
     <e lm="investigadore"><i>investigador</i><par n="traballador/e__n"/></e>
     <e lm="investigatzione"><i>investiga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="invocatzione"><i>invoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -39246,7 +39213,7 @@
     <e lm="iscalfante"><i>iscalfante</i><par n="pane__n"/></e>
     <e lm="iscallione"><i>iscallione</i><par n="pane__n"/></e>
     <e lm="iscalone"><i>iscalone</i><par n="pane__n"/></e>
-    <e lm="iscansione"><i>iscansione</i><par n="pane__n"/></e>
+    <e lm="iscansione"><i>iscansion</i><par n="region/e__n"/></e>
     <e lm="iscaparrone"><i>iscaparrone</i><par n="pane__n"/></e>
     <e lm="iscarpeddadore"><i>iscarpeddador</i><par n="traballador/e__n"/></e>
     <e lm="iscarpone"><i>iscarpone</i><par n="pane__n"/></e>
@@ -39274,7 +39241,7 @@
     <e lm="iscimprore"><i>iscimprore</i><par n="pane__n"/></e>
     <e lm="isciopete"><i>isciopete</i><par n="pane__n"/></e>
     <e lm="isciringatzione"><i>isciringa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="iscissione"><i>iscissione</i><par n="pane__n"/></e>
+    <e lm="iscissione"><i>iscission</i><par n="region/e__n"/></e>
     <e lm="iscobadore"><i>iscobador</i><par n="traballador/e__n"/></e>
     <e lm="iscoberidore"><i>iscoberidor</i><par n="traballador/e__n"/></e>
     <e lm="iscobile"><i>iscobile</i><par n="pane__n"/></e>
@@ -39282,7 +39249,7 @@
     <e lm="iscolafeghe"><i>iscolafeghe</i><par n="pane__n"/></e>
     <e lm="iscolaridade"><i>iscolaridad</i><par n="region/e__n"/></e>
     <e lm="iscomunigatzione"><i>iscomuniga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="iscomunione"><i>iscomunione</i><par n="pane__n"/></e>
+    <e lm="iscomunione"><i>iscomunion</i><par n="region/e__n"/></e>
     <e lm="isconcassone"><i>isconcassone</i><par n="pane__n"/></e>
     <e lm="iscorpione"><i>iscorpione</i><par n="pane__n"/></e>
     <e lm="iscraitùdine"><i>iscraitùdine</i><par n="pane__n"/></e>
@@ -39356,10 +39323,10 @@
     <e lm="istàmine"><i>istàmine</i><par n="pane__n"/></e>
     <e lm="istampadore"><i>istampador</i><par n="traballador/e__n"/></e>
     <e lm="istampalughe"><i>istampalughe</i><par n="pane__n"/></e>
-    <e lm="istangione"><i>istangione</i><par n="pane__n"/></e>
+    <e lm="istangione"><i>istangion</i><par n="region/e__n"/></e>
     <e lm="istantarile"><i>istantarile</i><par n="pane__n"/></e>
     <e lm="istante"><i>istante</i><par n="pane__n"/></e>
-    <e lm="istasione"><i>istasione</i><par n="pane__n"/></e>
+    <e lm="istasione"><i>istasion</i><par n="region/e__n"/></e>
     <e lm="istatalizatzione"><i>istataliza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="isterilidade"><i>isterilidad</i><par n="region/e__n"/></e>
     <e lm="istiale"><i>istiale</i><par n="pane__n"/></e>
@@ -39448,7 +39415,7 @@
     <e lm="ledore"><i>ledor</i><par n="traballador/e__n"/></e>
     <e lm="legalidade"><i>legalidad</i><par n="region/e__n"/></e>
     <e lm="leghidore"><i>leghidor</i><par n="traballador/e__n"/></e>
-    <e lm="legione"><i>legione</i><par n="pane__n"/></e>
+    <e lm="legione"><i>legion</i><par n="region/e__n"/></e>
     <e lm="legiore"><i>legiore</i><par n="pane__n"/></e>
     <e lm="legisladore"><i>legislador</i><par n="traballador/e__n"/></e>
     <e lm="legislatzione"><i>legisla</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -39615,7 +39582,6 @@
     <e lm="mannone"><i>mannone</i><par n="pane__n"/></e>
     <e lm="mannosidade"><i>mannosidad</i><par n="region/e__n"/></e>
     <e lm="manovradore"><i>manovrador</i><par n="traballador/e__n"/></e>
-    <e lm="mansione"><i>mansione</i><par n="pane__n"/></e>
     <e lm="manteddàdile"><i>manteddàdile</i><par n="pane__n"/></e>
     <e lm="mantile"><i>mantile</i><par n="pane__n"/></e>
     <e lm="manualidade"><i>manualidad</i><par n="region/e__n"/></e>
@@ -39743,7 +39709,6 @@
     <e lm="missale"><i>missale</i><par n="pane__n"/></e>
     <e lm="missegnore"><i>missegnore</i><par n="pane__n"/></e>
     <e lm="mìssile"><i>mìssile</i><par n="pane__n"/></e>
-    <e lm="missione"><i>missione</i><par n="pane__n"/></e>
     <e lm="missone"><i>missone</i><par n="pane__n"/></e>
     <e lm="misuratzione"><i>misura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="mitapare"><i>mitapare</i><par n="pane__n"/></e>
@@ -39942,7 +39907,6 @@
     <e lm="obligatoriedade"><i>obligatoriedad</i><par n="region/e__n"/></e>
     <e lm="obligatzone"><i>obligatzone</i><par n="pane__n"/></e>
     <e lm="òboe"><i>òboe</i><par n="pane__n"/></e>
-    <e lm="ocasione"><i>ocasione</i><par n="pane__n"/></e>
     <e lm="ochidore"><i>ochidor</i><par n="traballador/e__n"/></e>
     <e lm="ocupante"><i>ocupante</i><par n="pane__n"/></e>
     <e lm="ode"><i>ode</i><par n="pane__n"/></e>
@@ -39963,20 +39927,17 @@
     <e lm="omertade"><i>omertad</i><par n="region/e__n"/></e>
     <e lm="ominete"><i>ominete</i><par n="pane__n"/></e>
     <e lm="omìnide"><i>omìnide</i><par n="pane__n"/></e>
-    <e lm="omissione"><i>omissione</i><par n="pane__n"/></e>
     <e lm="ònere"><i>ònere</i><par n="pane__n"/></e>
     <e lm="onestade"><i>onestad</i><par n="region/e__n"/></e>
     <e lm="onorèvole"><i>onorèvole</i><par n="pane__n"/></e>
     <e lm="ope"><i>ope</i><par n="pane__n"/></e>
     <e lm="operosidade"><i>operosidad</i><par n="region/e__n"/></e>
-    <e lm="opinione"><i>opinione</i><par n="pane__n"/></e>
-    <e lm="opressione"><i>opressione</i><par n="pane__n"/></e>
     <e lm="oralidade"><i>oralidad</i><par n="region/e__n"/></e>
     <e lm="orane"><i>orane</i><par n="pane__n"/></e>
     <e lm="oratzione"><i>ora</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="orbaghe"><i>orbaghe</i><par n="pane__n"/></e>
     <e lm="orbatze"><i>orbatze</i><par n="pane__n"/></e>
-    <e lm="ordigione"><i>ordigione</i><par n="pane__n"/></e>
+    <e lm="ordigione"><i>ordigion</i><par n="region/e__n"/></e>
     <e lm="ordinadore"><i>ordinador</i><par n="traballador/e__n"/></e>
     <e lm="ordinatzione"><i>ordina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="orèfitze"><i>orèfitze</i><par n="pane__n"/></e>
@@ -40002,7 +39963,6 @@
     <e lm="ospitalidade"><i>ospitalidad</i><par n="region/e__n"/></e>
     <e lm="ossàmene"><i>ossàmene</i><par n="pane__n"/></e>
     <e lm="osservatzione"><i>osserva</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="ossessione"><i>ossessione</i><par n="pane__n"/></e>
     <e lm="ossone"><i>ossone</i><par n="pane__n"/></e>
     <e lm="ostione"><i>ostione</i><par n="pane__n"/></e>
     <e lm="otite"><i>otite</i><par n="pane__n"/></e>
@@ -40071,7 +40031,7 @@
     <e lm="pàrrere"><i>pàrrere</i><par n="pane__n"/></e>
     <e lm="parte"><i>parte</i><par n="pane__n"/></e>
     <e lm="partetzipatzione"><i>parte</i><par n="tz/z"/><i>ipa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="partigione"><i>partigione</i><par n="pane__n"/></e>
+    <e lm="partigione"><i>partigion</i><par n="region/e__n"/></e>
     <e lm="partzidore"><i>partzidor</i><par n="traballador/e__n"/></e>
     <e lm="passadore"><i>passador</i><par n="traballador/e__n"/></e>
     <e lm="passale"><i>passale</i><par n="pane__n"/></e>
@@ -40079,7 +40039,6 @@
     <e lm="passaribillante"><i>passaribillante</i><par n="pane__n"/></e>
     <e lm="passiale"><i>passiale</i><par n="pane__n"/></e>
     <e lm="passigiadore"><i>passigiador</i><par n="traballador/e__n"/></e>
-    <e lm="passione"><i>passione</i><par n="pane__n"/></e>
     <e lm="pasterone"><i>pasterone</i><par n="pane__n"/></e>
     <e lm="pastorìmene"><i>pastorìmene</i><par n="pane__n"/></e>
     <e lm="pastorizadore"><i>pastorizador</i><par n="traballador/e__n"/></e>
@@ -40130,7 +40089,6 @@
     <e lm="pendulitzone"><i>pendulitzone</i><par n="pane__n"/></e>
     <e lm="penetratzione"><i>penetra</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="pensionante"><i>pensionante</i><par n="pane__n"/></e>
-    <e lm="pensione"><i>pensione</i><par n="pane__n"/></e>
     <e lm="peone"><i>peone</i><par n="pane__n"/></e>
     <e lm="peorante"><i>peorante</i><par n="pane__n"/></e>
     <e lm="perchile"><i>perchile</i><par n="pane__n"/></e>
@@ -40163,7 +40121,7 @@
     <e lm="pertunde"><i>pertunde</i><par n="pane__n"/></e>
     <e lm="pertusadore"><i>pertusador</i><par n="traballador/e__n"/></e>
     <e lm="pertzentuale"><i>pertzentuale</i><par n="pane__n"/></e>
-    <e lm="perversione"><i>perversione</i><par n="pane__n"/></e>
+    <e lm="perversione"><i>perversion</i><par n="region/e__n"/></e>
     <e lm="pesacantare"><i>pesacantare</i><par n="pane__n"/></e>
     <e lm="pesàdighe"><i>pesàdighe</i><par n="pane__n"/></e>
     <e lm="pèsame"><i>pèsame</i><par n="pane__n"/></e>
@@ -40290,7 +40248,7 @@
     <e lm="portigale"><i>portigale</i><par n="pane__n"/></e>
     <e lm="portone"><i>portone</i><par n="pane__n"/></e>
     <e lm="portzione"><i>por</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="possessione"><i>possessione</i><par n="pane__n"/></e>
+    <e lm="possessione"><i>possession</i><par n="region/e__n"/></e>
     <e lm="possessore"><i>possessore</i><par n="pane__n"/></e>
     <e lm="possidente"><i>possidente</i><par n="pane__n"/></e>
     <e lm="postale"><i>postale</i><par n="pane__n"/></e>
@@ -40328,7 +40286,6 @@
     <e lm="prèside"><i>prèside</i><par n="pane__n"/></e>
     <e lm="presone"><i>presone</i><par n="pane__n"/></e>
     <e lm="presse"><i>presse</i><par n="pane__n"/></e>
-    <e lm="pressione"><i>pressione</i><par n="pane__n"/></e>
     <e lm="prestigiadore"><i>prestigiador</i><par n="traballador/e__n"/></e>
     <e lm="presuntzione"><i>presun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="pretatzione"><i>preta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40336,8 +40293,6 @@
     <e lm="pretore"><i>pretore</i><par n="pane__n"/></e>
     <e lm="pretzetore"><i>pretzetore</i><par n="pane__n"/></e>
     <e lm="pretzisidade"><i>pretzisidad</i><par n="region/e__n"/></e>
-    <e lm="pretzisione"><i>pretzisione</i><par n="pane__n"/></e>
-    <e lm="previsione"><i>previsione</i><par n="pane__n"/></e>
     <e lm="prighigione"><i>prighigione</i><par n="pane__n"/></e>
     <e lm="primate"><i>primate</i><par n="pane__n"/></e>
     <e lm="primore"><i>primore</i><par n="pane__n"/></e>
@@ -40351,11 +40306,10 @@
     <e lm="profanadore"><i>profanador</i><par n="traballador/e__n"/></e>
     <e lm="profanatzione"><i>profana</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="professionante"><i>professionante</i><par n="pane__n"/></e>
-    <e lm="professione"><i>professione</i><par n="pane__n"/></e>
     <e lm="professone"><i>professone</i><par n="pane__n"/></e>
     <e lm="progènie"><i>progènie</i><par n="pane__n"/></e>
     <e lm="programmadore"><i>programmador</i><par n="traballador/e__n"/></e>
-    <e lm="progressione"><i>progressione</i><par n="pane__n"/></e>
+    <e lm="progressione"><i>progression</i><par n="region/e__n"/></e>
     <e lm="projetore"><i>projetore</i><par n="pane__n"/></e>
     <e lm="promotore"><i>promotore</i><par n="pane__n"/></e>
     <e lm="promovidore"><i>promovidor</i><par n="traballador/e__n"/></e>
@@ -40371,7 +40325,7 @@
     <e lm="pròtome"><i>pròtome</i><par n="pane__n"/></e>
     <e lm="protone"><i>protone</i><par n="pane__n"/></e>
     <e lm="protonuraghe"><i>protonuraghe</i><par n="pane__n"/></e>
-    <e lm="protzessione"><i>protzessione</i><par n="pane__n"/></e>
+    <e lm="protzessione"><i>protzession</i><par n="region/e__n"/></e>
     <e lm="protzessuale"><i>protzessuale</i><par n="pane__n"/></e>
     <e lm="provocadore"><i>provocador</i><par n="traballador/e__n"/></e>
     <e lm="provocatzione"><i>provoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40468,11 +40422,11 @@
     <e lm="razile"><i>razile</i><par n="pane__n"/></e>
     <e lm="re"><i>re</i><par n="pane__n"/></e>
     <e lm="rebeldidade"><i>rebeldidad</i><par n="region/e__n"/></e>
-    <e lm="rebellione"><i>rebellione</i><par n="pane__n"/></e>
+    <e lm="rebellione"><i>rebellion</i><par n="region/e__n"/></e>
     <e lm="rebentone"><i>rebentone</i><par n="pane__n"/></e>
     <e lm="rebrone"><i>rebrone</i><par n="pane__n"/></e>
     <e lm="rechedente"><i>rechedente</i><par n="pane__n"/></e>
-    <e lm="reclusione"><i>reclusione</i><par n="pane__n"/></e>
+    <e lm="reclusione"><i>reclusion</i><par n="region/e__n"/></e>
     <e lm="redadore"><i>redador</i><par n="traballador/e__n"/></e>
     <e lm="rede"><i>rede</i><par n="pane__n"/></e>
     <e lm="redentzione"><i>reden</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40482,26 +40436,23 @@
     <e lm="reghidore"><i>reghidor</i><par n="traballador/e__n"/></e>
     <e lm="regime"><i>regime</i><par n="pane__n"/></e>
     <e lm="regìmene"><i>regìmene</i><par n="pane__n"/></e>
-    <e lm="regione"><i>regione</i><par n="pane__n"/></e>
     <e lm="registradore"><i>registrador</i><par n="traballador/e__n"/></e>
     <e lm="regnante"><i>regnante</i><par n="pane__n"/></e>
     <e lm="regore"><i>regore</i><par n="pane__n"/></e>
     <e lm="reincarnatzione"><i>reincarna</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="rejetzione"><i>reje</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="relatividade"><i>relatividad</i><par n="region/e__n"/></e>
-    <e lm="religione"><i>religione</i><par n="pane__n"/></e>
     <e lm="religiosidade"><i>religiosidad</i><par n="region/e__n"/></e>
     <e lm="remadore"><i>remador</i><par n="traballador/e__n"/></e>
     <e lm="remendone"><i>remendone</i><par n="pane__n"/></e>
     <e lm="remengone"><i>remengone</i><par n="pane__n"/></e>
-    <e lm="remissione"><i>remissione</i><par n="pane__n"/></e>
+    <e lm="remissione"><i>remission</i><par n="region/e__n"/></e>
     <e lm="remore"><i>remore</i><par n="pane__n"/></e>
     <e lm="remugiadore"><i>remugiador</i><par n="traballador/e__n"/></e>
     <e lm="rendidùdine"><i>rendidùdine</i><par n="pane__n"/></e>
     <e lm="rene"><i>rene</i><par n="pane__n"/></e>
     <e lm="renule"><i>renule</i><par n="pane__n"/></e>
     <e lm="repente"><i>repente</i><par n="pane__n"/></e>
-    <e lm="repressione"><i>repressione</i><par n="pane__n"/></e>
     <e lm="repulsore"><i>repulsore</i><par n="pane__n"/></e>
     <e lm="resfriore"><i>resfriore</i><par n="pane__n"/></e>
     <e lm="residente"><i>residente</i><par n="pane__n"/></e>
@@ -40520,25 +40471,22 @@
     <e lm="retore"><i>retore</i><par n="pane__n"/></e>
     <e lm="retratadore"><i>retratador</i><par n="traballador/e__n"/></e>
     <e lm="retrete"><i>retrete</i><par n="pane__n"/></e>
-    <e lm="retzensione"><i>retzensione</i><par n="pane__n"/></e>
+    <e lm="retzensione"><i>retzension</i><par n="region/e__n"/></e>
     <e lm="retzintzione"><i>re</i><par n="tz/z"/><i>in</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="retzitatzione"><i>re</i><par n="tz/z"/><i>ita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="reunione"><i>reunione</i><par n="pane__n"/></e>
     <e lm="reversibilidade"><i>reversibilidad</i><par n="region/e__n"/></e>
     <e lm="revessidade"><i>revessidad</i><par n="region/e__n"/></e>
     <e lm="revessidùdine"><i>revessidùdine</i><par n="pane__n"/></e>
     <e lm="revessùmene"><i>revessùmene</i><par n="pane__n"/></e>
-    <e lm="revisione"><i>revisione</i><par n="pane__n"/></e>
     <e lm="revisore"><i>revisore</i><par n="pane__n"/></e>
     <e lm="revocatzione"><i>revoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="riabilitatzione"><i>riabilita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ricostituente"><i>ricostituente</i><par n="pane__n"/></e>
     <e lm="ricreatzione"><i>ricrea</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ricualificatzione"><i>ricualifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="ricunversione"><i>ricunversione</i><par n="pane__n"/></e>
+    <e lm="ricunversione"><i>ricunversion</i><par n="region/e__n"/></e>
     <e lm="rielaboratzione"><i>rielabora</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="riferibilidade"><i>riferibilidad</i><par n="region/e__n"/></e>
-    <e lm="riflessione"><i>riflessione</i><par n="pane__n"/></e>
     <e lm="rifletore"><i>rifletore</i><par n="pane__n"/></e>
     <e lm="rigale"><i>rigale</i><par n="pane__n"/></e>
     <e lm="rigore"><i>rigore</i><par n="pane__n"/></e>
@@ -40555,7 +40503,7 @@
     <e lm="rituale"><i>rituale</i><par n="pane__n"/></e>
     <e lm="ritualidade"><i>ritualidad</i><par n="region/e__n"/></e>
     <e lm="ritzone"><i>ritzone</i><par n="pane__n"/></e>
-    <e lm="riunione"><i>riunione</i><par n="pane__n"/></e>
+    <e lm="riunione"><i>riunion</i><par n="region/e__n"/></e>
     <e lm="rivalidade"><i>rivalidad</i><par n="region/e__n"/></e>
     <e lm="rivalorizatzione"><i>rivaloriza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="rivalutatzione"><i>rivaluta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40690,7 +40638,7 @@
     <e lm="servilidade"><i>servilidad</i><par n="region/e__n"/></e>
     <e lm="servitziale"><i>servitziale</i><par n="pane__n"/></e>
     <e lm="sèssene"><i>sèssene</i><par n="pane__n"/></e>
-    <e lm="sessione"><i>sessione</i><par n="pane__n"/></e>
+    <e lm="sessione"><i>session</i><par n="region/e__n"/></e>
     <e lm="sessualidade"><i>sessualidad</i><par n="region/e__n"/></e>
     <e lm="setentrione"><i>setentrione</i><par n="pane__n"/></e>
     <e lm="sètile"><i>sètile</i><par n="pane__n"/></e>
@@ -40742,7 +40690,7 @@
     <e lm="sonete"><i>sonete</i><par n="pane__n"/></e>
     <e lm="sonnile"><i>sonnile</i><par n="pane__n"/></e>
     <e lm="soprammòbile"><i>soprammòbile</i><par n="pane__n"/></e>
-    <e lm="sopressione"><i>sopressione</i><par n="pane__n"/></e>
+    <e lm="sopressione"><i>sopression</i><par n="region/e__n"/></e>
     <e lm="sordadùmene"><i>sordadùmene</i><par n="pane__n"/></e>
     <e lm="sorde"><i>sorde</i><par n="pane__n"/></e>
     <e lm="sordìmene"><i>sordìmene</i><par n="pane__n"/></e>
@@ -40797,14 +40745,12 @@
     <e lm="surdone"><i>surdone</i><par n="pane__n"/></e>
     <e lm="surtore"><i>surtore</i><par n="pane__n"/></e>
     <e lm="suspadore"><i>suspador</i><par n="traballador/e__n"/></e>
-    <e lm="suspensione"><i>suspensione</i><par n="pane__n"/></e>
     <e lm="suspidore"><i>suspidor</i><par n="traballador/e__n"/></e>
     <e lm="sussidiariedade"><i>sussidiariedad</i><par n="region/e__n"/></e>
     <e lm="sustantzìvile"><i>sustantzìvile</i><par n="pane__n"/></e>
     <e lm="susuncùmene"><i>susuncùmene</i><par n="pane__n"/></e>
     <e lm="sutacòdighe"><i>sutacòdighe</i><par n="pane__n"/></e>
     <e lm="sutafarche"><i>sutafarche</i><par n="pane__n"/></e>
-    <e lm="sutamissione"><i>sutamissione</i><par n="pane__n"/></e>
     <e lm="sutapositzione"><i>sutaposi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="sutasèide"><i>sutasèide</i><par n="pane__n"/></e>
     <e lm="sutasetzione"><i>sutase</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40814,7 +40760,6 @@
     <e lm="sutzadore"><i>sutzador</i><par n="traballador/e__n"/></e>
     <e lm="sutzamele"><i>sutzamele</i><par n="pane__n"/></e>
     <e lm="sutzantre"><i>sutzantre</i><par n="pane__n"/></e>
-    <e lm="sutzessione"><i>sutzessione</i><par n="pane__n"/></e>
     <e lm="sutzidùmene"><i>sutzidùmene</i><par n="pane__n"/></e>
     <e lm="sutzone"><i>sutzone</i><par n="pane__n"/></e>
     <e lm="tabiche"><i>tabiche</i><par n="pane__n"/></e>
@@ -40844,7 +40789,6 @@
     <e lm="teghile"><i>teghile</i><par n="pane__n"/></e>
     <e lm="telecomunicatzione"><i>telecomunica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="telegiornale"><i>telegiornale</i><par n="pane__n"/></e>
-    <e lm="televisione"><i>televisione</i><par n="pane__n"/></e>
     <e lm="televisore"><i>televisore</i><par n="pane__n"/></e>
     <e lm="tellure"><i>tellure</i><par n="pane__n"/></e>
     <e lm="telone"><i>telone</i><par n="pane__n"/></e>
@@ -40857,7 +40801,6 @@
     <e lm="tenèntighe"><i>tenèntighe</i><par n="pane__n"/></e>
     <e lm="tenèntile"><i>tenèntile</i><par n="pane__n"/></e>
     <e lm="tenore"><i>tenore</i><par n="pane__n"/></e>
-    <e lm="tensione"><i>tensione</i><par n="pane__n"/></e>
     <e lm="termosifone"><i>termosifone</i><par n="pane__n"/></e>
     <e lm="terràmene"><i>terràmene</i><par n="pane__n"/></e>
     <e lm="territorialidade"><i>territorialidad</i><par n="region/e__n"/></e>
@@ -40958,11 +40901,10 @@
     <e lm="trascritzione"><i>trascri</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="trasfiguratzione"><i>trasfigura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="trasformadore"><i>trasformador</i><par n="traballador/e__n"/></e>
-    <e lm="trasfusione"><i>trasfusione</i><par n="pane__n"/></e>
-    <e lm="trasgressione"><i>trasgressione</i><par n="pane__n"/></e>
+    <e lm="trasfusione"><i>trasfusion</i><par n="region/e__n"/></e>
+    <e lm="trasgressione"><i>trasgression</i><par n="region/e__n"/></e>
     <e lm="trasladore"><i>traslador</i><par n="traballador/e__n"/></e>
     <e lm="trasliteratzione"><i>traslitera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="trasmissione"><i>trasmissione</i><par n="pane__n"/></e>
     <e lm="traspiratzione"><i>traspira</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="traspositzione"><i>trasposi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="trassale"><i>trassale</i><par n="pane__n"/></e>
@@ -40992,7 +40934,7 @@
     <e lm="trinone"><i>trinone</i><par n="pane__n"/></e>
     <e lm="trintzete"><i>trintzete</i><par n="pane__n"/></e>
     <e lm="tripale"><i>tripale</i><par n="pane__n"/></e>
-    <e lm="trisione"><i>trisione</i><par n="pane__n"/></e>
+    <e lm="trisione"><i>trision</i><par n="region/e__n"/></e>
     <e lm="triumùghine"><i>triumùghine</i><par n="pane__n"/></e>
     <e lm="triunfadore"><i>triunfador</i><par n="traballador/e__n"/></e>
     <e lm="triutzadore"><i>triutzador</i><par n="traballador/e__n"/></e>
@@ -41081,7 +41023,7 @@
     <e lm="tzerimoniale"><par n="tz/c"/><i>erimoniale</i><par n="pane__n"/></e>
     <e lm="tzerpe"><par n="tz/c"/><i>erpe</i><par n="pane__n"/></e>
     <e lm="tzerrone"><par n="tz/c"/><i>errone</i><par n="pane__n"/></e>
-    <e lm="tzessione"><par n="tz/c"/><i>essione</i><par n="pane__n"/></e>
+    <e lm="tzessione"><par n="tz/c"/><i>ession</i><par n="region/e__n"/></e>
     <e lm="tzicadore"><par n="tz/c"/><i>icador</i><par n="traballador/e__n"/></e>
     <e lm="tzicarone"><par n="tz/c"/><i>icarone</i><par n="pane__n"/></e>
     <e lm="tzicatritze"><par n="tz/c"/><i>icatritze</i><par n="pane__n"/></e>
@@ -41106,7 +41048,7 @@
     <e lm="tzintzulone"><par n="tz/c"/><i>intzulone</i><par n="pane__n"/></e>
     <e lm="tzioddìmene"><par n="tz/c"/><i>ioddìmene</i><par n="pane__n"/></e>
     <e lm="tzirculatzione"><par n="tz/c"/><i>ircula</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="tzircuntzisione"><par n="tz/c"/><i>ircuntzisione</i><par n="pane__n"/></e>
+    <e lm="tzircuntzisione"><par n="tz/c"/><i>ircuntzision</i><par n="region/e__n"/></e>
     <e lm="tzircuscritzione"><par n="tz/c"/><i>ircuscri</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="tzirone"><par n="tz/c"/><i>irone</i><par n="pane__n"/></e>
     <e lm="tzirriadore"><par n="tz/c"/><i>irriador</i><par n="traballador/e__n"/></e>
@@ -41172,7 +41114,6 @@
     <e lm="ungrale"><i>ungrale</i><par n="pane__n"/></e>
     <e lm="unificatzione"><i>unifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="uniformidade"><i>uniformidad</i><par n="region/e__n"/></e>
-    <e lm="unione"><i>unione</i><par n="pane__n"/></e>
     <e lm="universalidade"><i>universalidad</i><par n="region/e__n"/></e>
     <e lm="univotzidade"><i>univotzidad</i><par n="region/e__n"/></e>
     <e lm="untìmene"><i>untìmene</i><par n="pane__n"/></e>
@@ -41181,7 +41122,7 @@
     <e lm="urbanizatzione"><i>urbaniza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="urbe"><i>urbe</i><par n="pane__n"/></e>
     <e lm="urpe"><i>urpe</i><par n="pane__n"/></e>
-    <e lm="usucapione"><i>usucapione</i><par n="pane__n"/></e>
+    <e lm="usucapione"><i>usucapion</i><par n="region/e__n"/></e>
     <e lm="ùtile"><i>ùtile</i><par n="pane__n"/></e>
     <e lm="utilidade"><i>utilidad</i><par n="region/e__n"/></e>
     <e lm="vagone"><i>vagone</i><par n="pane__n"/></e>
@@ -41211,7 +41152,6 @@
     <e lm="vernitze"><i>vernitze</i><par n="pane__n"/></e>
     <e lm="versatilidade"><i>versatilidad</i><par n="region/e__n"/></e>
     <e lm="versificatzione"><i>versifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="versione"><i>versione</i><par n="pane__n"/></e>
     <e lm="vertìgine"><i>vertìgine</i><par n="pane__n"/></e>
     <e lm="verusìmene"><i>verusìmene</i><par n="pane__n"/></e>
     <e lm="viabilidade"><i>viabilidad</i><par n="region/e__n"/></e>
