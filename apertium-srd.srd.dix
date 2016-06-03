@@ -26823,6 +26823,9 @@
     <e lm="giùghere"><p><l>giug</l><r>giùghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="giùghere"><p><l>giu</l><r>giùghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="giùnghere"><p><l>giùng</l><r>giùnghere</r></p><par n="tìng/here__vblex"/></e>
+    <e lm="giùghere dae in antis"><p><l>giùg</l><r>giùghere</r></p><par n="tìng/here__vblex"/><p><l><b/>dae<b/>in<b/>antis</l><r><g><b/>dae<b/>in<b/>antis</g></r></p></e>
+    <e lm="giùghere dae in antis"><p><l>giug</l><r>giùghere</r></p><par n="ting/o__vblex"/><p><l><b/>dae<b/>in<b/>antis</l><r><g><b/>dae<b/>in<b/>antis</g></r></p></e>
+    <e lm="giùghere dae in antis"><p><l>giu</l><r>giùghere</r></p><par n="tin/tu__vblex"/><p><l><b/>dae<b/>in<b/>antis</l><r><g><b/>dae<b/>in<b/>antis</g></r></p></e>
     <e lm="giùnghere"><p><l>giung</l><r>giùnghere</r></p><par n="ting/o__vblex"/></e>
     <e lm="giùnghere"><p><l>giun</l><r>giùnghere</r></p><par n="tin/tu__vblex"/></e>
     <e lm="gradèssere"><p><l>gradèss</l><r>gradèssere</r></p><par n="tìm/ere__vblex"/></e>
