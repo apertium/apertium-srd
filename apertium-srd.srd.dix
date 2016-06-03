@@ -49842,6 +49842,7 @@
 
 <!-- SECTION: adverbios extraídos de CROS -->
 
+<!--
     <e lm="abbotu"><i>abbotu</i><par n="bene__adv"/></e>
     <e lm="addae"><i>addae</i><par n="bene__adv"/></e>
     <e lm="addiritura"><i>addiritura</i><par n="bene__adv"/></e>
@@ -49870,7 +49871,6 @@
     <e lm="bògia·bògia"><i>bògia·bògia</i><par n="bene__adv"/></e>
     <e lm="bratzeta"><i>bratzeta</i><par n="bene__adv"/></e>
     <e lm="brìtiu"><i>brìtiu</i><par n="bene__adv"/></e>
-    <e lm="cada"><i>cada</i><par n="bene__adv"/></e>
     <e lm="caddisedda"><i>caddisedda</i><par n="bene__adv"/></e>
     <e lm="càgia"><i>càgia</i><par n="bene__adv"/></e>
     <e lm="càgia·càgia"><i>càgia·càgia</i><par n="bene__adv"/></e>
@@ -49958,7 +49958,6 @@
     <e lm="curtzurinas"><i>curtzurinas</i><par n="bene__adv"/></e>
     <e lm="cuscusinu"><i>cuscusinu</i><par n="bene__adv"/></e>
     <e lm="dallàllari"><i>dallàllari</i><par n="bene__adv"/></e>
-    <e lm="da"><i>da</i><par n="bene__adv"/></e>
     <e lm="definitòriu"><i>definitòriu</i><par n="bene__adv"/></e>
     <e lm="deguapas"><i>deguapas</i><par n="bene__adv"/></e>
     <e lm="desemplada"><i>desemplada</i><par n="bene__adv"/></e>
@@ -50401,6 +50400,7 @@
     <e lm="veras"><i>veras</i><par n="bene__adv"/></e>
     <e lm="via"><i>via</i><par n="bene__adv"/></e>
     <e lm="vòllia"><i>vòllia</i><par n="bene__adv"/></e>
+-->
 
 </section>
 
