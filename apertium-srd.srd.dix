@@ -535,6 +535,10 @@
       <e>              <p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="issoro__prn" c="p.29">
+      <e>              <p><l></l><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
     <pardef n="tale__det">
       <e>              <p><l></l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>              <p><l>s</l><r><s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -777,6 +781,23 @@
       <e r="LR"><p><l>uus</l><r>uo<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
       <e>       <p><l>uos</l><r>uo<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>uas</l><r>uo<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="me/u__prn" c="p.29">
+      <e>       <p><l>u</l><r>u<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>a</l><r>u<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>os</l><r>u<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>as</l><r>u<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="t/uo__prn" c="p.29">
+      <e>       <p><l>uo</l><r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>uu</l><r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ou</l><r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>ua</l><r>uo<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>uus</l><r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>uos</l><r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>uas</l><r>uo<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="prim/u__adj" c="p.44 / 105">
@@ -3405,9 +3426,6 @@
 
     <e lm="totu"><i>tot</i><par n="tot/u__predet"/></e>
     <e lm="totu" r="LR" c="!LSC"><p><l>tott</l><r>tot</r></p><par n="tot/u__predet"/></e> 
-
-    <e lm="issoro"><i>issoro</i><par n="issoro__det"/></e>
-    <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__det"/></e>
 
     <e lm="custu"><i>cust</i><par n="cust/u__det"/></e>
     <e lm="cussu"><i>cuss</i><par n="cust/u__det"/></e>
@@ -10279,6 +10297,21 @@
     <e lm="suo"><i>s</i><par n="t/uo__adj"/></e>
     <e lm="nostru"><i>nostr</i><par n="me/u__adj"/></e>
     <e lm="bostru"><i>bostr</i><par n="me/u__adj"/></e>
+    <e lm="bostru" r="LR"><p><l>vostr</l><r>bostr</r></p><par n="me/u__adj"/></e>
+
+    <e lm="meu"><i>me</i><par n="me/u__prn"/></e>
+    <e lm="meu" r="LR"><p><l>mi</l><r>me</r></p><par n="me/u__prn"/></e>
+    <e lm="tuo"><i>t</i><par n="t/uo__prn"/></e>
+    <e lm="suo"><i>s</i><par n="t/uo__prn"/></e>
+    <e lm="nostru"><i>nostr</i><par n="me/u__prn"/></e>
+    <e lm="bostru"><i>bostr</i><par n="me/u__prn"/></e>
+    <e lm="bostru" r="LR"><p><l>vostr</l><r>bostr</r></p><par n="me/u__prn"/></e>
+
+    <e lm="issoro"><i>issoro</i><par n="issoro__det"/></e>
+    <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__det"/></e>
+    <e lm="issoro"><i>issoro</i><par n="issoro__prn"/></e>
+    <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__prn"/></e>
+
 
     <e lm="primu"><i>prim</i><par n="prim/u__adj"/></e>
     <e lm="segundu"><i>segund</i><par n="prim/u__adj"/></e>
@@ -43264,7 +43297,6 @@
     <e lm="boschivu"><i>boschiv</i><par n="frantzes/u__adj"/></e>
     <e lm="bosincu"><i>bosin</i><par n="linguìsti/cu__adj"/></e>
     <e lm="bosnìacu"><i>bosnìa</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="bostru"><i>bostr</i><par n="frantzes/u__adj"/></e>
     <e lm="botànicu"><i>botàni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="botiddesu"><i>botiddes</i><par n="frantzes/u__adj"/></e>
     <e lm="bovale"><i>boval</i><par n="cunservador/e__adj"/></e>
@@ -47144,7 +47176,6 @@
     <e lm="mètricu"><i>mètri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="metzanu"><i>metzan</i><par n="frantzes/u__adj"/></e>
     <e lm="meuddosu"><i>meuddos</i><par n="frantzes/u__adj"/></e>
-    <e lm="meu"><i>me</i><par n="frantzes/u__adj"/></e>
     <e lm="miaulosu"><i>miaulos</i><par n="frantzes/u__adj"/></e>
     <e lm="micaelle"><i>micaell</i><par n="cunservador/e__adj"/></e>
     <e lm="michimmocu"><i>michimmo</i><par n="linguìsti/cu__adj"/></e>
@@ -47205,7 +47236,6 @@
     <e lm="mìtidu"><i>mìtid</i><par n="frantzes/u__adj"/></e>
     <e lm="mitològicu"><i>mitològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="mitzeneu"><i>mitzene</i><par n="frantzes/u__adj"/></e>
-    <e lm="miu"><i>mi</i><par n="frantzes/u__adj"/></e>
     <e lm="modàrgiu"><i>modàrgi</i><par n="frantzes/u__adj"/></e>
     <e lm="moddanu"><i>moddan</i><par n="frantzes/u__adj"/></e>
     <e lm="moddatzu"><i>moddatz</i><par n="frantzes/u__adj"/></e>
@@ -47531,7 +47561,6 @@
     <e lm="nostàlgicu"><i>nostàlgi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="nostradu"><i>nostrad</i><par n="frantzes/u__adj"/></e>
     <e lm="nostranu"><i>nostran</i><par n="frantzes/u__adj"/></e>
-    <e lm="nostru"><i>nostr</i><par n="frantzes/u__adj"/></e>
     <e lm="notianu"><i>notian</i><par n="frantzes/u__adj"/></e>
     <e lm="notitzadu"><i>notitzad</i><par n="frantzes/u__adj"/></e>
     <e lm="notitziosu"><i>notitzios</i><par n="frantzes/u__adj"/></e>
