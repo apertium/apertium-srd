@@ -3245,8 +3245,6 @@
     <e lm="pro ite ca"><i>pro<b/>ite<b/>ca</i><par n="chi__cnjsub"/></e>
 
     <!--<e lm="cantu"><i>cantu</i><par n="chi__cnjsub"/></e>-->
-    <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
-    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
     <!--<e lm="bidu chi"><i>bidu<b/>chi</i><par n="chi__cnjsub"/></e>-->
     <!--<e lm="a tales chi"><i>a<b/>tales<b/>chi</i><par n="chi__cnjsub"/></e>-->
     <e lm="pro chi"><i>pro<b/>chi</i><par n="chi__cnjsub"/></e>
@@ -3514,7 +3512,7 @@
     <e lm="trintaghimbe"><i>trintaghimbe</i><par n="tres__num"/></e>
     <e lm="trintasès"><i>trintasès</i><par n="tres__num"/></e>
     <e lm="trintasete"><i>trintasete</i><par n="tres__num"/></e>
-    <e lm="trintato"><i>trintato</i><par n="tres__num"/></e>
+    <e lm="trintoto"><i>trintoto</i><par n="tres__num"/></e>
     <e lm="trintanoe"><i>trintanoe</i><par n="tres__num"/></e>
 
     <e lm="baranta"><i>baranta</i><par n="tres__num"/></e>
@@ -3525,7 +3523,7 @@
     <e lm="barantaghimbe"><i>barantaghimbe</i><par n="tres__num"/></e>
     <e lm="barantasès"><i>barantasès</i><par n="tres__num"/></e>
     <e lm="barantasete"><i>barantasete</i><par n="tres__num"/></e>
-    <e lm="barantato"><i>barantato</i><par n="tres__num"/></e>
+    <e lm="barantoto"><i>barantoto</i><par n="tres__num"/></e>
     <e lm="barantanoe"><i>barantanoe</i><par n="tres__num"/></e>
 
     <e lm="chimbanta"><i>chimbanta</i><par n="tres__num"/></e>
@@ -3537,7 +3535,7 @@
     <e lm="chimbantaghimbe"><i>chimbantaghimbe</i><par n="tres__num"/></e>
     <e lm="chimbantasès"><i>chimbantasès</i><par n="tres__num"/></e>
     <e lm="chimbantasete"><i>chimbantasete</i><par n="tres__num"/></e>
-    <e lm="chimbantato"><i>chimbantato</i><par n="tres__num"/></e>
+    <e lm="chimbantoto"><i>chimbantoto</i><par n="tres__num"/></e>
     <e lm="chimbantanoe"><i>chimbantanoe</i><par n="tres__num"/></e>
 
     <e lm="sessanta"><i>sessanta</i><par n="tres__num"/></e>
@@ -3549,19 +3547,19 @@
     <e lm="sessantaghimbe"><i>sessantaghimbe</i><par n="tres__num"/></e>
     <e lm="sessantasès"><i>sessantasès</i><par n="tres__num"/></e>
     <e lm="sessantasete"><i>sessantasete</i><par n="tres__num"/></e>
-    <e lm="sessantato"><i>sessantato</i><par n="tres__num"/></e>
+    <e lm="sessantoto"><i>sessantoto</i><par n="tres__num"/></e>
     <e lm="sessantanoe"><i>sessantanoe</i><par n="tres__num"/></e>
 
     <e lm="setanta"><i>setanta</i><par n="tres__num"/></e>
-    <e lm="sentantunu"><i>sentant</i><par n="/unu__num"/></e>
-    <e lm="sentantaduos"><i>sentantadu</i><par n="du/os__num"/></e>
-    <e lm="sentantatrès"><i>sentantatrès</i><par n="tres__num"/></e>
-    <e lm="sentantabator"><i>sentantabator</i><par n="tres__num"/></e>
-    <e lm="sentantaghimbe"><i>sentantaghimbe</i><par n="tres__num"/></e>
-    <e lm="sentantasès"><i>sentantasès</i><par n="tres__num"/></e>
-    <e lm="sentantasete"><i>sentantasete</i><par n="tres__num"/></e>
-    <e lm="sentantato"><i>sentantato</i><par n="tres__num"/></e>
-    <e lm="sentantanoe"><i>sentantanoe</i><par n="tres__num"/></e>
+    <e lm="setantunu"><i>setant</i><par n="/unu__num"/></e>
+    <e lm="setantaduos"><i>setantadu</i><par n="du/os__num"/></e>
+    <e lm="setantatrès"><i>setantatrès</i><par n="tres__num"/></e>
+    <e lm="setantabator"><i>setantabator</i><par n="tres__num"/></e>
+    <e lm="setantaghimbe"><i>setantaghimbe</i><par n="tres__num"/></e>
+    <e lm="setantasès"><i>setantasès</i><par n="tres__num"/></e>
+    <e lm="setantasete"><i>setantasete</i><par n="tres__num"/></e>
+    <e lm="setantoto"><i>setantoto</i><par n="tres__num"/></e>
+    <e lm="setantanoe"><i>setantanoe</i><par n="tres__num"/></e>
 
     <e lm="otanta"><i>otanta</i><par n="tres__num"/></e>
     <e lm="otantunu"><i>otant</i><par n="/unu__num"/></e>
@@ -3571,7 +3569,7 @@
     <e lm="otantaghimbe"><i>otantaghimbe</i><par n="tres__num"/></e>
     <e lm="otantasès"><i>otantasès</i><par n="tres__num"/></e>
     <e lm="otantasete"><i>otantasete</i><par n="tres__num"/></e>
-    <e lm="otantato"><i>otantato</i><par n="tres__num"/></e>
+    <e lm="otantoto"><i>otantoto</i><par n="tres__num"/></e>
     <e lm="otantanoe"><i>otantanoe</i><par n="tres__num"/></e>
 
     <e lm="noranta"><i>noranta</i><par n="tres__num"/></e>
@@ -3582,7 +3580,7 @@
     <e lm="norantaghimbe"><i>norantaghimbe</i><par n="tres__num"/></e>
     <e lm="norantasès"><i>norantasès</i><par n="tres__num"/></e>
     <e lm="norantasete"><i>norantasete</i><par n="tres__num"/></e>
-    <e lm="norantato"><i>norantato</i><par n="tres__num"/></e>
+    <e lm="norantoto"><i>norantoto</i><par n="tres__num"/></e>
     <e lm="norantanoe"><i>norantanoe</i><par n="tres__num"/></e>
 
     <e lm="chentu"><i>chentu</i><par n="tres__num"/></e>
@@ -5738,7 +5736,7 @@
     <e lm="assignu"><i>assign</i><par n="mac/u__n"/></e>
     <e lm="assistidu"><i>assistid</i><par n="mac/u__n"/></e>
     <e lm="assumidu"><i>assumid</i><par n="mac/u__n"/></e>
-    <e lm="astore de pudda"><i>astore de pudda</i><par n="pane__n"/></e>
+    <e lm="astore de pudda"><i>astore<b/>de<b/>pudda</i><par n="pane__n"/></e>
     <e lm="astènnidu"><i>astènnid</i><par n="mac/u__n"/></e>
     <e lm="atestadu"><i>atestad</i><par n="mac/u__n"/></e>
     <e lm="atitudine"><i>atitudine</i><par n="pane__n"/></e>
@@ -5900,7 +5898,7 @@
     <e lm="grogu"><i>grog</i><par n="mac/u__n"/></e>
     <e lm="gràndine"><i>gràndin</i><par n="region/e__n"/></e>
     <e lm="gurturju"><i>gurturj</i><par n="mac/u__n"/></e>
-    <e lm="gurturju de sos angiones"><i>gurturju de sos angiones</i><par n="lapis__n"/></e>
+    <e lm="gurturju de sos angiones"><i>gurturju<b/>de<b/>sos<b/>angiones</i><par n="lapis__n"/></e>
     <e lm="idòneu"><i>idòne</i><par n="mac/u__n"/></e>
     <e lm="igiene"><i>igien</i><par n="region/e__n"/></e>
     <e lm="illìtzitu"><i>illìtzit</i><par n="mac/u__n"/></e>
