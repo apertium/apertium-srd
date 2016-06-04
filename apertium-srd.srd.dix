@@ -10500,6 +10500,7 @@
     <e lm="libanesu"><i>libanes</i><par n="frantzes/u__adj"/></e>
     <e lm="aligeresu"><i>aligeres</i><par n="frantzes/u__adj"/></e>
     <e lm="aligeresu" r="LR"><p><l>aligares</l><r>aligeres</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="aligheresu"><i>aligheres</i><par n="frantzes/u__adj"/></e>
     <e lm="portughesu"><i>portughes</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu"><i>catalan</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
@@ -42713,7 +42714,6 @@
     <e lm="algerinu"><i>algerin</i><par n="frantzes/u__adj"/></e>
     <e lm="alienadu"><i>alienad</i><par n="frantzes/u__adj"/></e>
     <e lm="alienu"><i>alien</i><par n="frantzes/u__adj"/></e>
-    <e lm="aligheresu"><i>aligheres</i><par n="frantzes/u__adj"/></e>
     <e lm="alindadu"><i>alindad</i><par n="frantzes/u__adj"/></e>
     <e lm="allaesu"><i>allaes</i><par n="frantzes/u__adj"/></e>
     <e lm="allampadu"><i>allampad</i><par n="frantzes/u__adj"/></e>
