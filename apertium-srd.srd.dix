@@ -12840,7 +12840,8 @@
     <e lm="benturu"><i>bentur</i><par n="mac/u__n"/></e>
     <e lm="benzinaju"><i>benzinaj</i><par n="mac/u__n"/></e>
     <e lm="berbegàrgiu"><i>berbegàrgi</i><par n="mac/u__n"/></e>
-    <e lm="bèrberu"><i>bèrber</i><par n="mac/u__n"/></e>
+    <e lm="bèrberu"><i>bèrber</i><par n="amig/u__n"/></e>
+    <e lm="bèrberu"><i>bèrber</i><par n="frantzes/u__adj"/></e>
     <e lm="berbu"><i>berb</i><par n="mac/u__n"/></e>
     <e lm="bermeddu"><i>bermedd</i><par n="mac/u__n"/></e>
     <e lm="bermigiolu"><i>bermigiol</i><par n="mac/u__n"/></e>
@@ -28153,7 +28154,6 @@
     <e lm="apuria"><i>apuria</i><par n="mesa__n"/></e>
     <e lm="apurida"><i>apurida</i><par n="mesa__n"/></e>
     <e lm="aradu"><i>arad</i><par n="mac/u__n"/></e>
-    <e lm="Aragona"><i>Aragona</i><par n="mesa__n"/></e>
     <e lm="aràldica"><i>aràldica</i><par n="mesa__n"/></e>
     <e lm="aràngia"><i>aràngia</i><par n="mesa__n"/></e>
     <e lm="arangiedda"><i>arangiedda</i><par n="mesa__n"/></e>
@@ -39007,7 +39007,6 @@
     <e lm="genitale"><i>genitale</i><par n="pane__n"/></e>
     <e lm="genitore"><i>genitore</i><par n="pane__n"/></e>
     <e lm="gentàmene"><i>gentàmene</i><par n="pane__n"/></e>
-    <e lm="gente"><i>gente</i><par n="pane__n"/></e>
     <e lm="gerarchizatzione"><i>gerarchiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="germandade"><i>germandad</i><par n="region/e__n"/></e>
     <e lm="germe"><i>germe</i><par n="pane__n"/></e>
