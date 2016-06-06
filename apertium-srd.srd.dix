@@ -3767,12 +3767,12 @@
     <e lm="ospidale"><i>ospidale</i><par n="pane__n"/></e>
     <e lm="ospidale" r="LR"><p><l>ispidale</l><r>ospidale</r></p><par n="pane__n"/></e>
     <e lm="mese"><i>mese</i><par n="pane__n"/></e>
-    <e lm="produtore"><i>produtore</i><par n="pane__n"/></e>
-    <e lm="produtore" r="LR"><p><l>produttore</l><r>produtore</r></p><par n="pane__n"/></e>
-    <e lm="iscritore"><i>iscritore</i><par n="pane__n"/></e>
-    <e lm="iscritore" r="LR"><p><l>iscrittore</l><r>iscritore</r></p><par n="pane__n"/></e>
+    <e lm="produtore"><i>produtor</i><par n="traballador/e__n"/></e>
+    <e lm="produtore" r="LR"><p><l>produttor</l><r>produtor</r></p><par n="traballador/e__n"/></e>
+    <e lm="iscritore"><i>iscritor</i><par n="traballador/e__n"/></e>
+    <e lm="iscritore" r="LR"><p><l>iscrittor</l><r>iscritor</r></p><par n="traballador/e__n"/></e>
     <e lm="fonema"><i>fonema</i><par n="pane__n"/></e>
-    <e lm="curretore"><i>curretore</i><par n="pane__n"/></e>
+    <e lm="curretore"><i>curretor</i><par n="traballador/e__n"/></e>
     <e lm="emitente"><i>emitente</i><par n="pane__n"/></e>
 
     <e lm="problema"><i>problema</i><par n="pane__n"/></e>
@@ -6075,7 +6075,7 @@
     <e lm="simana"><i>simana</i><par n="pane__n"/></e>
     <e lm="simple"><i>simple</i><par n="pane__n"/></e>
     <e lm="singiale"><i>singiale</i><par n="pane__n"/></e>
-    <e lm="sinnaladore"><i>sinnaladore</i><par n="pane__n"/></e>
+    <e lm="sinnaladore"><i>sinnalador</i><par n="traballador/e__n"/></e>
     <e lm="sobra"><i>sobra</i><par n="pane__n"/></e>
     <e lm="soldadu"><i>soldad</i><par n="mac/u__n"/></e>
     <e lm="sostitutu"><i>sostitut</i><par n="mac/u__n"/></e>
@@ -6171,10 +6171,9 @@
 
     <e lm="Paisu Bascu"><i>Paisu<b/>Bascu</i><par n="Afganistàn__np"/></e>
 
-    <e lm="Azerbaigián"><i>Azerbaigián</i><par n="Afganistàn__np"/></e>
-    <e lm="Azerbaigián" r="LR"><p><l>Azèrbaigian</l><r>Azerbaigián</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Azerbaigián" r="LR"><p><l>Azerbaigián</l><r>Azerbaigián</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Azerbaigián" r="LR"><p><l>Azerbaigian</l><r>Azerbaigián</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Azerbaigiàn"><i>Azerbaigiàn</i><par n="Afganistàn__np"/></e>
+    <e lm="Azerbaigiàn" r="LR"><p><l>Azèrbaigian</l><r>Azerbaigiàn</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Azerbaigiàn" r="LR"><p><l>Azerbaigian</l><r>Azerbaigiàn</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Còrsica"><i>Còrsica</i><par n="Etiòpia__np"/></e>
     <e lm="Còrsica" r="LR"><p><l>Corsica</l><r>Còrsica</r></p><par n="Etiòpia__np"/></e>
@@ -6186,6 +6185,7 @@
     <e lm="Palermu"><i>Palermu</i><par n="Afganistàn__np"/></e>
 
     <e lm="Carbònia-Igrèsias"><i>Carbònia-Igrèsias</i><par n="Etiòpia__np"/></e>
+    <e lm="Corrasi"><i>Corrasi</i><par n="Etiòpia__np"/></e>
 
     <e lm="Gènova"><i>Gènova</i><par n="Etiòpia__np"/></e>
     <e lm="Ungheria"><i>Ungheria</i><par n="Etiòpia__np"/></e>
@@ -6211,7 +6211,7 @@
     <e lm="Ìndia" r="LR"><p><l>India</l><r>Ìndia</r></p><par n="Etiòpia__np"/></e>
 
     <e lm="Cunfederatzione Elvètica"><i>Cunfederatzione<b/>Elvètica</i><par n="Etiòpia__np"/></e>
-    <e lm="Unione Soviètica"><i>Unione<b/>Sovietica</i><par n="Etiòpia__np"/></e>
+    <e lm="Unione Soviètica"><i>Unione<b/>Soviètica</i><par n="Etiòpia__np"/></e>
 
 
     <e lm="s'Avana"><i>s'Avana</i><par n="Etiòpia__np"/></e>
@@ -6224,18 +6224,18 @@
     <e lm="Irlanda"><i>Irlanda</i><par n="Etiòpia__np"/></e>
     <e lm="Grecia"><i>Grecia</i><par n="Etiòpia__np"/></e>
     <e lm="Firenze"><i>Firenze</i><par n="Etiòpia__np"/></e>
-    <e lm="Russillione"><i>Russillione</i><par n="Etiòpia__np"/></e>
+    <e lm="Russillione"><i>Russillione</i><par n="Afganistàn__np"/></e>
 
-    <e lm="Giappone"><i>Giappone</i><par n="Etiòpia__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Giapone</l><r>Giappone</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Zapone</l><r>Giappone</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Jiaponi</l><r>Giappone</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Giappone"><i>Giappone</i><par n="Afganistàn__np"/></e>
+    <e lm="Giappone" r="LR"><p><l>Giapone</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Giappone" r="LR"><p><l>Zapone</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Giappone" r="LR"><p><l>Jiaponi</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Ispagna"><i>Ispagna</i><par n="Etiòpia__np"/></e>
     <e lm="Ispagna" r="LR"><p><l>Spànnia</l><r>Ispagna</r></p><par n="Etiòpia__np"/></e>
     <e lm="Ispagna" r="LR"><p><l>Ispanna</l><r>Ispagna</r></p><par n="Etiòpia__np"/></e>
     <e lm="Ispagna" r="LR"><p><l>Ipagna</l><r>Ispagna</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Brasile"><i>Brasile</i><par n="Etiòpia__np"/></e>
+    <e lm="Brasile"><i>Brasile</i><par n="Afganistàn__np"/></e>
     <e lm="Germània"><i>Germània</i><par n="Etiòpia__np"/></e>
     <e lm="Germània" r="LR"><p><l>Germania</l><r>Germània</r></p><par n="Etiòpia__np"/></e>
     <e lm="Germània" r="LR"><p><l>Zermània</l><r>Germània</r></p><par n="Etiòpia__np"/></e>
@@ -6255,7 +6255,7 @@
     <e lm="Calabria"><i>Calabria</i><par n="Etiòpia__np"/></e>
     <e lm="Argentina"><i>Argentina</i><par n="Etiòpia__np"/></e>
     <e lm="Florida"><i>Florida</i><par n="Etiòpia__np"/></e>
-    <e lm="Bolivia"><i>Austria</i><par n="Etiòpia__np"/></e>
+    <e lm="Austria"><i>Austria</i><par n="Etiòpia__np"/></e>
     <e lm="Indotzina"><i>Indotzina</i><par n="Etiòpia__np"/></e>
     <e lm="Venezuela"><i>Venezuela</i><par n="Etiòpia__np"/></e>
     <e lm="Ucraìna"><i>Ucraìna</i><par n="Etiòpia__np"/></e>
@@ -10259,6 +10259,7 @@
     <e lm="Bulgaria"><i>Bulgaria</i><par n="Etiòpia__np"/></e>
     <e lm="Moldàvia"><i>Moldàvia</i><par n="Etiòpia__np"/></e>
     <e lm="Bolìvia"><i>Bolìvia</i><par n="Etiòpia__np"/></e>
+    <e lm="Bolìvia" r="LR"><p><l>Bolivia</l><r>Bolìvia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Croàtzia"><i>Croàtzia</i><par n="Etiòpia__np"/></e>
     <e lm="Bologna"><i>Bologna</i><par n="Etiòpia__np"/></e>
     <e lm="Lisbona"><i>Lisbona</i><par n="Etiòpia__np"/></e>
@@ -41305,6 +41306,7 @@
     <e lm="cussigeri"><i>cussiger</i><par n="ingegner/i__n"/></e>
     <e lm="dantzadore"><i>dantzador</i><par n="traballador/e__n"/></e>
     <e lm="datilògrafu"><i>datilògraf</i><par n="amig/u__n"/></e>
+    <e lm="dessinatore"><i>dessinator</i><par n="traballador/e__n"/></e>
     <e lm="designadore"><i>designador</i><par n="traballador/e__n"/></e>
     <e lm="designatore"><i>designator</i><par n="traballador/e__n"/></e>
     <e lm="didinu"><i>didin</i><par n="amig/u__n"/></e>
@@ -42036,6 +42038,7 @@
     <e lm="licante"><i>licant</i><par n="fàtzil/e__adj"/></e>
     <e lm="lighente"><i>lighent</i><par n="fàtzil/e__adj"/></e>
     <e lm="lìgure"><i>lìgur</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lìgure"><i>lìgur</i><par n="traballador/e__n"/></e>
     <e lm="limbichichi"><i>limbichichi</i><par n="meda__adj"/></e>
     <e lm="limburi"><i>limburi</i><par n="meda__adj"/></e>
     <e lm="linguista"><i>linguista</i><par n="meda__adj"/></e>
@@ -46100,6 +46103,7 @@
     <e lm="isguturadu"><i>isguturad</i><par n="frantzes/u__adj"/></e>
     <e lm="islàmicu"><i>islàmi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="islandesu"><i>islandes</i><par n="frantzes/u__adj"/></e>
+    <e lm="islandesu"><i>islandes</i><par n="amig/u__n"/></e>
     <e lm="islargu"><i>islarg</i><par n="frantzes/u__adj"/></e>
     <e lm="islavu"><i>islav</i><par n="frantzes/u__adj"/></e>
     <e lm="islovacu"><i>islova</i><par n="linguìsti/cu__adj"/></e>
@@ -46895,6 +46899,7 @@
     <e lm="malosu"><i>malos</i><par n="frantzes/u__adj"/></e>
     <e lm="maltariosu"><i>maltarios</i><par n="frantzes/u__adj"/></e>
     <e lm="maltesu"><i>maltes</i><par n="frantzes/u__adj"/></e>
+    <e lm="maltesu"><i>maltes</i><par n="amig/u__n"/></e>
     <e lm="malutratu"><i>malutrat</i><par n="frantzes/u__adj"/></e>
     <e lm="malvadu"><i>malvad</i><par n="frantzes/u__adj"/></e>
     <e lm="mammalucu"><i>mammalu</i><par n="linguìsti/cu__adj"/></e>
@@ -49132,6 +49137,7 @@
     <e lm="tastiu"><i>tasti</i><par n="frantzes/u__adj"/></e>
     <e lm="tastosu"><i>tastos</i><par n="frantzes/u__adj"/></e>
     <e lm="tataresu"><i>tatares</i><par n="frantzes/u__adj"/></e>
+    <e lm="tataresu"><i>tatares</i><par n="amig/u__n"/></e>
     <e lm="tatuadu"><i>tatuad</i><par n="frantzes/u__adj"/></e>
     <e lm="tatzadu"><i>tatzad</i><par n="frantzes/u__adj"/></e>
     <e lm="tàtzitu"><i>tàtzit</i><par n="frantzes/u__adj"/></e>
