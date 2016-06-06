@@ -5068,7 +5068,6 @@
     <e lm="pabiru"><i>pabir</i><par n="mac/u__n"/></e>
     <e lm="chilòmetru"><i>chilòmetr</i><par n="mac/u__n"/></e>
     <e lm="chilòmetru" r="LR"><p><l>chilometr</l><r>chilòmetr</r></p><par n="mac/u__n"/></e>
-    <e lm="centru"><i>centr</i><par n="mac/u__n"/></e>
     <e lm="teatru"><i>teatr</i><par n="mac/u__n"/></e>
     <e lm="teatru" r="LR"><p><l>teatro</l><r>teatru</r></p><par n="pane__n"/></e>
     <e lm="manifestu"><i>manifest</i><par n="mac/u__n"/></e>
@@ -5284,6 +5283,7 @@
     <e lm="respetu"><i>respet</i><par n="mac/u__n"/></e>
     <e lm="tzentru"><par n="tz/c"/><i>entr</i><par n="mac/u__n"/></e>
     <e lm="tzentru" r="LR"><p><l>zentr</l><r>tzentr</r></p><par n="mac/u__n"/></e>
+    <e lm="tzentru" r="LR"><p><l>centr</l><r>tzentr</r></p><par n="mac/u__n"/></e>
     <e lm="resurtadu"><i>resurtad</i><par n="mac/u__n"/></e>
     <e lm="misconnoschimentu"><i>misconnoschiment</i><par n="mac/u__n"/></e>
     <e lm="dispretziu"><i>dispretzi</i><par n="mac/u__n"/></e>
