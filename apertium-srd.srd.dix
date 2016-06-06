@@ -3774,7 +3774,6 @@
     <e lm="fonema"><i>fonema</i><par n="pane__n"/></e>
     <e lm="curretore"><i>curretore</i><par n="pane__n"/></e>
     <e lm="emitente"><i>emitente</i><par n="pane__n"/></e>
-    <e lm="autore"><i>autore</i><par n="pane__n"/></e>
 
     <e lm="problema"><i>problema</i><par n="pane__n"/></e>
     <e lm="problema" r="LR"><p><l>probrema</l><r>problema</r></p><par n="pane__n"/></e>
@@ -10500,6 +10499,7 @@
     <e lm="aligeresu" r="LR"><p><l>aligares</l><r>aligeres</r></p><par n="frantzes/u__adj"/></e>
     <e lm="aligheresu"><i>aligheres</i><par n="frantzes/u__adj"/></e>
     <e lm="portughesu"><i>portughes</i><par n="frantzes/u__adj"/></e>
+    <e lm="sumeru"><i>sumer</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu"><i>catalan</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadelan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
@@ -10590,6 +10590,7 @@
     <e lm="aligeresu"><i>aligeres</i><par n="amig/u__n"/></e>
     <e lm="aligeresu" r="LR"><p><l>aligares</l><r>aligeres</r></p><par n="amig/u__n"/></e>
     <e lm="portughesu"><i>portughes</i><par n="amig/u__n"/></e>
+    <e lm="sumeru"><i>sumer</i><par n="amig/u__n"/></e>
     <e lm="catalanu"><i>catalan</i><par n="amig/u__n"/></e>
     <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="amig/u__n"/></e>
     <e lm="catalanu" r="LR"><p><l>cadelan</l><r>catalan</r></p><par n="amig/u__n"/></e>
@@ -14317,7 +14318,8 @@
     <e lm="deperimentu"><i>deperiment</i><par n="mac/u__n"/></e>
     <e lm="depositàriu"><i>depositàri</i><par n="mac/u__n"/></e>
     <e lm="depòsitu"><i>depòsit</i><par n="mac/u__n"/></e>
-    <e lm="deputadu"><i>deputad</i><par n="mac/u__n"/></e>
+    <e lm="deputadu"><i>deputad</i><par n="amig/u__n"/></e>
+    <e lm="eurocratu"><i>eurocrat</i><par n="amig/u__n"/></e>
     <e lm="deralliamentu"><i>deralliament</i><par n="mac/u__n"/></e>
     <e lm="derramu"><i>derram</i><par n="mac/u__n"/></e>
     <e lm="derrocamentu"><i>derrocament</i><par n="mac/u__n"/></e>
@@ -38181,7 +38183,7 @@
     <e lm="clonatzione"><i>clona</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="clone"><i>clone</i><par n="pane__n"/></e>
     <e lm="coale"><i>coale</i><par n="pane__n"/></e>
-    <e lm="coautore"><i>coautore</i><par n="pane__n"/></e>
+    <e lm="coautore"><i>coautor</i><par n="traballador/e__n"/></e>
     <e lm="cobercore"><i>cobercore</i><par n="pane__n"/></e>
     <e lm="cobericàlighe"><i>cobericàlighe</i><par n="pane__n"/></e>
     <e lm="coberidore"><i>coberidor</i><par n="traballador/e__n"/></e>
@@ -44779,6 +44781,7 @@
     <e lm="etnològicu"><i>etnològi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="etremessidu"><i>etremessid</i><par n="frantzes/u__adj"/></e>
     <e lm="etruscu"><i>etrus</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="etruscu"><i>etrusc</i><par n="amig/u__n"/></e>
     <e lm="etzessivu"><i>etzessiv</i><par n="frantzes/u__adj"/></e>
     <e lm="etzetuativu"><i>etzetuativ</i><par n="frantzes/u__adj"/></e>
     <e lm="etzisadore"><i>etzisador</i><par n="cunservador/e__adj"/></e>
@@ -44786,7 +44789,7 @@
     <e lm="etziseri"><i>etziser</i><par n="banduler/i__adj"/></e>
     <e lm="eucarìsticu"><i>eucarìsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="eufònicu"><i>eufòni</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="eurodeputadu"><i>eurodeputad</i><par n="frantzes/u__adj"/></e>
+    <e lm="eurodeputadu"><i>eurodeputad</i><par n="amig/u__n"/></e>
     <e lm="eurotzèntricu"><i>eurotzèntri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="evangelizadore"><i>evangelizador</i><par n="cunservador/e__adj"/></e>
     <e lm="evangelizadore"><i>evangelizador</i><par n="traballador/e__n"/></e>
