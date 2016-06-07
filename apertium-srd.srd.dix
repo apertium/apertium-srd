@@ -256,6 +256,7 @@
 
     <pardef n="/de__pr" c="">
       <e r="LR"><p><l>de</l><r>de<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>d'</l><r>de<s n="pr"/></r></p></e>
       <e r="LR"><p><l>'e</l><r>de<s n="pr"/></r></p></e>
       <e r="LR"><p><l>di</l><r>de<s n="pr"/></r></p></e>
       <e r="RL"><p><l><a/>de</l><r>de<s n="pr"/></r></p></e>
