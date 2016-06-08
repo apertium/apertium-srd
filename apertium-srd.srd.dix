@@ -749,7 +749,6 @@
     </pardef>
 
     <pardef n="Saussure__np">
-      <e>       <p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
