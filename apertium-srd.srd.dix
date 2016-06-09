@@ -728,16 +728,20 @@
  
     <!-- SECTION: Proper nouns -->
 
-    <pardef n="Etiòpia__np">
-      <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
-
     <pardef n="Afganistàn__np">
       <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="Etiòpia__np">
+      <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="Istados_Unidos__np">
       <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="Is_Pratzas__np">
+      <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="Antoni__np">
@@ -6254,7 +6258,6 @@
     <e lm="Calabria"><i>Calabria</i><par n="Etiòpia__np"/></e>
     <e lm="Argentina"><i>Argentina</i><par n="Etiòpia__np"/></e>
     <e lm="Florida"><i>Florida</i><par n="Etiòpia__np"/></e>
-    <e lm="Austria"><i>Austria</i><par n="Etiòpia__np"/></e>
     <e lm="Indotzina"><i>Indotzina</i><par n="Etiòpia__np"/></e>
     <e lm="Venezuela"><i>Venezuela</i><par n="Etiòpia__np"/></e>
     <e lm="Ucraìna"><i>Ucraìna</i><par n="Etiòpia__np"/></e>
@@ -10267,7 +10270,6 @@
     <e lm="Bratislava"><i>Bratislava</i><par n="Etiòpia__np"/></e>
 
     <e lm="Madrid"><i>Madrid</i><par n="Afganistàn__np"/></e>
-    <e lm="Brasile"><i>Brasile</i><par n="Afganistàn__np"/></e>
     <e lm="Gerusalemme"><i>Gerusalemme</i><par n="Afganistàn__np"/></e>
     <e lm="Helsinki"><i>Helsinki</i><par n="Afganistàn__np"/></e>
     <e lm="Nàpoli"><i>Nàpoli</i><par n="Afganistàn__np"/></e>
@@ -35156,7 +35158,6 @@
     <e lm="profumera"><i>profumera</i><par n="mesa__n"/></e>
     <e lm="progènia"><i>progènia</i><par n="mesa__n"/></e>
     <e lm="progetista"><i>progetista</i><par n="dentista__n"/></e>
-    <e lm="programma"><i>programma</i><par n="pane__n"/></e>
     <e lm="progressismu"><i>progressismu</i><par n="anarchismu__n"/></e>
     <e lm="pròida"><i>pròida</i><par n="mesa__n"/></e>
     <e lm="proidura"><i>proidura</i><par n="mesa__n"/></e>
@@ -38714,7 +38715,6 @@
     <e lm="esitatzione"><i>esita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esplicatzione"><i>esplica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esploradore"><i>esplorador</i><par n="traballador/e__n"/></e>
-    <e lm="esponente"><i>esponente</i><par n="pane__n"/></e>
     <e lm="esponentziale"><i>esponentziale</i><par n="pane__n"/></e>
     <e lm="espropiatzione"><i>espropia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="essentzialidade"><i>essentzialidad</i><par n="region/e__n"/></e>
@@ -41328,7 +41328,6 @@
     <e lm="iscientziadu"><i>iscientziad</i><par n="amig/u__n"/></e>
     <e lm="iscolanu"><i>iscolan</i><par n="amig/u__n"/></e>
     <e lm="iscracàlliu"><i>iscracàlli</i><par n="amig/u__n"/></e>
-    <e lm="iscritore"><i>iscritor</i><par n="traballador/e__n"/></e>
     <e lm="iscucadu"><i>iscucad</i><par n="amig/u__n"/></e>
     <e lm="isperradore"><i>isperrador</i><par n="traballador/e__n"/></e>
     <e lm="ispurpamentu"><i>ispurpament</i><par n="amig/u__n"/></e>
@@ -41396,7 +41395,6 @@
     <e lm="prepostu"><i>prepost</i><par n="amig/u__n"/></e>
     <e lm="presoneri"><i>presoner</i><par n="ingegner/i__n"/></e>
     <e lm="prestadore"><i>prestador</i><par n="traballador/e__n"/></e>
-    <e lm="produtore"><i>produtor</i><par n="traballador/e__n"/></e>
     <e lm="professore"><i>professor</i><par n="traballador/e__n"/></e>
     <e lm="protetore"><i>protetor</i><par n="traballador/e__n"/></e>
     <e lm="proveditore"><i>proveditor</i><par n="traballador/e__n"/></e>
@@ -48987,7 +48985,6 @@
     <e lm="sumbugiadu"><i>sumbugiad</i><par n="frantzes/u__adj"/></e>
     <e lm="sumenosu"><i>sumenos</i><par n="frantzes/u__adj"/></e>
     <e lm="sumentosu"><i>sumentos</i><par n="frantzes/u__adj"/></e>
-    <e lm="sumeru"><i>sumer</i><par n="frantzes/u__adj"/></e>
     <e lm="summadu"><i>summad</i><par n="frantzes/u__adj"/></e>
     <e lm="sumministradu"><i>sumministrad</i><par n="frantzes/u__adj"/></e>
     <e lm="summu"><i>summ</i><par n="frantzes/u__adj"/></e>
@@ -50392,6 +50389,59 @@
     <e lm="via"><i>via</i><par n="bene__adv"/></e>
     <e lm="vòllia"><i>vòllia</i><par n="bene__adv"/></e>
 -->
+
+<!-- SECTION: altros -->
+
+    <e lm="Aosta"><i>Aosta</i><par n="Etiòpia__np"/></e>
+    <e lm="Piemonte"><i>Piemonte</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Torinu (italianu)"><p><l>Torino</l><r>Torinu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Ligùria"><i>Ligùria</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Ligùria (italianu)"><p><l>Liguria</l><r>Ligùria</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Lombardia"><i>Lombardia</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Milanu (italianu)"><p><l>Milano</l><r>Milanu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Trentinu-Südtirol"><i>Trentinu-Südtirol</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Trentinu-Südtirol (italianu)"><p><l>Trentino-Alto<b/>Adige</l><r>Trentinu-Südtirol</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Trentu"><i>Trentu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Trentu (italianu)"><p><l>Trento</l><r>Trentu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Venetu"><i>Venetu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Venetu (italianu)"><p><l>Veneto</l><r>Venetu</r></p><par n="Afganistàn__np" /></e>
+    <e r="LR" lm="Venètzia (italianu)"><p><l>Venezia</l><r>Venètzia</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Friuli-Venetzia Giulia"><i>Friuli-Venetzia<b/>Giulia</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Friuli-Venetzia Giulia (italianu)"><p><l>Friuli-Venezia<b/>Giulia</l><r>Friuli-Venetzia<b/>Giulia</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Trieste"><i>Trieste</i><par n="Etiòpia__np"/></e>
+    <e lm="Emìlia-Romagna"><i>Emìlia-Romagna</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Emìlia-Romagna (italianu)"><p><l>Emilia-Romagna</l><r>Emìlia-Romagna</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Toscana"><i>Toscana</i><par n="Etiòpia__np"/></e>
+    <e lm="Firentze"><i>Firentze</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Firentze (italianu)"><p><l>Firenze</l><r>Firentze</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Florèntzia"><i>Florèntzia</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Florèntzia (italianu)"><p><l>Firenze</l><r>Florèntzia</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Marche"><i>Marche</i><par n="Is_Pratzas__np"/></e>
+    <e lm="Ancona"><i>Ancona</i><par n="Etiòpia__np"/></e>
+    <e lm="Umbria"><i>Umbria</i><par n="Etiòpia__np"/></e>
+    <e lm="Perugia"><i>Perugia</i><par n="Etiòpia__np"/></e>
+    <e lm="Làtziu"><i>Làtziu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Làtziu (italianu)"><p><l>Lazio</l><r>Làtziu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Abrutzu"><i>Abrutzu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Abrutzu (italianu)"><p><l>Abruzzo</l><r>Abrutzu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="L'Aquila"><i>L'Aquila</i><par n="Etiòpia__np"/></e>
+    <e lm="Molise"><i>Molise</i><par n="Afganistàn__np"/></e>
+    <e lm="Campubassu"><i>Campubassu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Campubassu (italianu)"><p><l>Campobasso</l><r>Campubassu</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Campania"><i>Campania</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Nàpoli (italianu)"><p><l>Napoli</l><r>Nàpoli</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Basilicata"><i>Basilicata</i><par n="Etiòpia__np"/></e>
+    <e lm="Potenza"><i>Potenza</i><par n="Etiòpia__np"/></e>
+    <e lm="Pùglia"><i>Pùglia</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Pùglia (italianu)"><p><l>Puglia</l><r>Pùglia</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Bari"><i>Bari</i><par n="Afganistàn__np"/></e>
+    <e lm="Calàbria"><i>Calàbria</i><par n="Etiòpia__np"/></e>
+    <e r="LR" lm="Calàbria (italianu)"><p><l>Calabria</l><r>Calàbria</r></p><par n="Etiòpia__np" /></e>
+    <e lm="Catanzaro"><i>Catanzaro</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Sitzìlia (italianu)"><p><l>Sicilia</l><r>Sitzìlia</r></p><par n="Etiòpia__np" /></e>
+    <e r="LR" lm="Palermu (italianu)"><p><l>Palermo</l><r>Palermu</r></p><par n="Afganistàn__np" /></e>
+    <e r="LR" lm="Sardigna (italianu)"><p><l>Sardegna</l><r>Sardigna</r></p><par n="Etiòpia__np" /></e>
+    <e r="LR" lm="Casteddu (italianu)"><p><l>Cagliari</l><r>Casteddu</r></p><par n="Afganistàn__np" /></e>
 
 </section>
 
