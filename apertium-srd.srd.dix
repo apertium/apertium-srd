@@ -6043,7 +6043,6 @@
     <e lm="professone"><i>professon</i><par n="region/e__n"/></e>
     <e lm="proibitzione"><i>proibitzion</i><par n="region/e__n"/></e>
     <e lm="prùere"><i>prùer</i><par n="region/e__n"/></e>
-    <e lm="psichiatra"><i>psichiatra</i><par n="pane__n"/></e>
     <e lm="publitzitàriu"><i>publitzitàri</i><par n="mac/u__n"/></e>
     <e lm="punna"><i>punna</i><par n="pane__n"/></e>
     <e lm="pèrdere"><i>pèrder</i><par n="region/e__n"/></e>
@@ -34484,8 +34483,9 @@
     <e lm="pederasta"><i>pederasta</i><par n="mesa__n"/></e>
     <e lm="pèdia"><i>pèdia</i><par n="mesa__n"/></e>
     <e lm="pediàina"><i>pediàina</i><par n="mesa__n"/></e>
-    <e lm="pediatra"><i>pediatra</i><par n="mesa__n"/></e>
+    <e lm="pediatra"><i>pediatra</i><par n="dentista__n"/></e>
     <e lm="pediatria"><i>pediatria</i><par n="mesa__n"/></e>
+    <e lm="pediàtricu"><i>pediàtri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="pedidoria"><i>pedidoria</i><par n="mesa__n"/></e>
     <e lm="pedidura"><i>pedidura</i><par n="mesa__n"/></e>
     <e lm="pedimenta"><i>pedimenta</i><par n="mesa__n"/></e>
@@ -35213,7 +35213,9 @@
     <e lm="pruvinca"><i>pruvinca</i><par n="mesa__n"/></e>
     <e lm="prùvura"><i>prùvura</i><par n="mesa__n"/></e>
     <e lm="psicanalista"><i>psicanalista</i><par n="dentista__n"/></e>
-    <e lm="psichiatra"><i>psichiatra</i><par n="mesa__n"/></e>
+    <e lm="psichiatra"><i>psichiatra</i><par n="dentista__n"/></e>
+    <e lm="psichiatria"><i>psichiatria</i><par n="mesa__n"/></e>
+    <e lm="psichiàtricu"><i>psichiàtri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="psicofisiologia"><i>psicofisiologia</i><par n="mesa__n"/></e>
     <e lm="psicologia"><i>psicologia</i><par n="mesa__n"/></e>
     <e lm="pubada"><i>pubada</i><par n="mesa__n"/></e>
@@ -38701,6 +38703,7 @@
     <e lm="esaltatzione"><i>esalta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esame"><i>esame</i><par n="pane__n"/></e>
     <e lm="esàmene"><i>esàmene</i><par n="pane__n"/></e>
+    <e lm="esàmine"><i>esàmine</i><par n="pane__n"/></e>
     <e lm="esatore"><i>esatore</i><par n="pane__n"/></e>
     <e lm="esatzione"><i>esa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esclamatzione"><i>esclama</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
