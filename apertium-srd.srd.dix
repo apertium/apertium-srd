@@ -51,6 +51,7 @@
     <sdef n="top"    c="Toponym"/> 
     <sdef n="ant"    c="Antroponym"/> 
     <sdef n="cog"    c="Cognomen"/> 
+    <sdef n="org"    c="Organisation"/> 
     <sdef n="al"     c="Altres"/> 
 
     <sdef n="pri"    c="Present indicative"/> 
@@ -601,6 +602,10 @@
       <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
   
+    <pardef n="TV__n">
+      <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+  
     <pardef n="dentista__n">
       <e>       <p><l></l><r><s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>s</l><r><s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -754,6 +759,14 @@
 
     <pardef n="Saussure__np">
       <e>       <p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="Milan__np">
+      <e><p><l></l><r><s n="n"/><s n="org"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Fiat__np">
+      <e><p><l></l><r><s n="n"/><s n="org"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Linux__np">
@@ -3206,6 +3219,10 @@
     <!--<e lm="in prus"><i>in<b/>prus</i><par n="o__cnjcoo"/></e>-->
     <e lm="ne"><i></i><par n="/ne__cnjcoo"/></e>
     <e lm="o"><i>o</i><par n="o__cnjcoo"/></e>
+    <e lm="opuru"><i>opuru</i><par n="o__cnjcoo"/></e>
+    <e lm="puru"><i>puru</i><par n="o__cnjcoo"/></e>
+    <e lm="in fatis"><i>in<b/>fatis</i><par n="o__cnjcoo"/></e>
+    <e lm="overas"><i>overas</i><par n="o__cnjcoo"/></e>
 
     <e lm="ma"><i>ma</i><par n="o__cnjcoo"/></e>
     <e lm="però"><i>però</i><par n="duncas__cnjadv"/></e>
@@ -3224,6 +3241,7 @@
     <e lm="si"><i>si</i><par n="duncas__cnjadv"/></e>
     <e lm="chi" r="LR"><p><l>ki</l><r>chi</r></p><par n="chi__cnjsub"/></e>
     <e lm="che"><i>che</i><par n="chi__cnjsub"/></e>
+    <e lm="ue"><i>ue</i><par n="chi__cnjsub"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 
     <e lm="chi"><i>chi</i><par n="chi__rel"/></e>
@@ -3255,6 +3273,7 @@
     <!--<e lm="sende chi"><i>sende<b/>chi</i><par n="chi__cnjsub"/></e>-->
     <e lm="mancari"><i>mancari</i><par n="chi__cnjsub"/></e>
     <e lm="mancari chi"><i>mancari<b/>chi</i><par n="chi__cnjsub"/></e>
+    <e lm="si puru"><i>si<b/>puru</i><par n="chi__cnjsub"/></e>
 
     <e lm="pro custu"><i>pro<b/>custu</i><par n="duncas__cnjadv"/></e>
     <e lm="de manera chi"><i>de<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
@@ -3320,6 +3339,9 @@
     <e lm="sena"><i>sena</i><par n="a__pr"/></e>
     <e lm="sena" r="LR"><p><l>sene</l><r>sena</r></p><par n="a__pr"/></e>
     <e lm="sena" r="LR"><p><l>chenza</l><r>sena</r></p><par n="a__pr"/></e>
+    <e lm="pre"><i>pre</i><par n="a__pr"/></e>
+    <e lm="anti"><i>anti</i><par n="a__pr"/></e>
+    <e lm="pro"><i>pro</i><par n="a__pr"/></e>
     <!--<e lm="curtzu"><i>curtzu</i><par n="a__pr"/></e>-->
     <!--<e lm="a tesu"><i>a<b/>tesu</i><par n="a__pr"/></e>-->
     <!--<e lm="largu"><i>largu</i><par n="a__pr"/></e>-->
@@ -10324,6 +10346,10 @@
 
     <e lm="cale"><i>cale</i><par n="cale__adj"/></e>
 
+    <e lm="st"><p><l>st.</l><r>st.<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="sta"><p><l>sta.</l><r>st.<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+
+
     <e lm="federadu"><i>federad</i><par n="frantzes/u__adj"/></e>
     <e lm="bassu"><i>bass</i><par n="frantzes/u__adj"/></e>
     <e lm="cunfederadu"><par n="cun/con"/><i>federad</i><par n="frantzes/u__adj"/></e>
@@ -11434,6 +11460,7 @@
     <e lm="agiumai"><i>agiumai</i><par n="guasi__preadv"/></e>
     <e lm="casi"><i>casi</i><par n="guasi__preadv"/></e>
     <e lm="belle"><i>belle</i><par n="guasi__preadv"/></e>
+    <e lm="fin"><i>fin</i><par n="guasi__preadv"/></e>
 
 
     <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
@@ -50029,6 +50056,7 @@
     <e lm="immoi"><i>immoi</i><par n="bene__adv"/></e>
     <e lm="imperis"><i>imperis</i><par n="bene__adv"/></e>
     <e lm="incras"><i>incras</i><par n="bene__adv"/></e>
+    <e lm="in cue"><i>in<b/>cue</i><par n="bene__adv"/></e>
     <e lm="infache"><i>infache</i><par n="bene__adv"/></e>
     <e lm="ingrussu"><i>ingrussu</i><par n="bene__adv"/></e>
     <e lm="intamen"><i>intamen</i><par n="bene__adv"/></e>
@@ -50149,7 +50177,6 @@
     <e lm="ochirioe"><i>ochirioe</i><par n="bene__adv"/></e>
     <e lm="ogna"><i>ogna</i><par n="bene__adv"/></e>
     <e lm="onniora"><i>onniora</i><par n="bene__adv"/></e>
-    <e lm="opuru"><i>opuru</i><par n="bene__adv"/></e>
     <e lm="oramalinu"><i>oramalinu</i><par n="bene__adv"/></e>
     <e lm="oras"><i>oras</i><par n="bene__adv"/></e>
     <e lm="oras·oras"><i>oras·oras</i><par n="bene__adv"/></e>
