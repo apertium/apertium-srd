@@ -215,14 +215,6 @@
       <e>       <p><l></l><r><s n="abbr"/></r></p></e>
     </pardef>
 
-    <pardef n="ONU__abbr">
-      <e>       <p><l></l><r><s n="abbr"/></r></p></e>
-    </pardef>
-<!--
-    <pardef n="ONU__abbr">
-      <e>       <p><l></l><r><s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
--->
     <!-- SECTION: Congiunzioni -->
 
     <pardef n="o__cnjcoo" c="p.32">
@@ -3284,6 +3276,7 @@
     <e lm="mancari"><i>mancari</i><par n="chi__cnjsub"/></e>
     <e lm="mancari chi"><i>mancari<b/>chi</i><par n="chi__cnjsub"/></e>
     <e lm="si puru"><i>si<b/>puru</i><par n="chi__cnjsub"/></e>
+    <e lm="imbetzes chi"><i>imbetzes<b/>chi</i><par n="chi__cnjsub"/></e>
 
     <e lm="pro custu"><i>pro<b/>custu</i><par n="duncas__cnjadv"/></e>
     <e lm="de manera chi"><i>de<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
@@ -11813,14 +11806,6 @@
     <!--<e lm="a s'iscurigadòrgiu"><i>a<b/>s'iscurigadòrgiu</i><par n="bene__adv"/></e>-->
     <!--<e lm="a s'interinada"><i>a<b/>s'interinada</i><par n="bene__adv"/></e>-->
 
-    <e lm="a.C."><i>a.C</i><par n="bene__adv"/></e>
-    <e lm="d.C."><i>d.C</i><par n="bene__adv"/></e>
-    <e lm="etc."><i>etc</i><par n="bene__adv"/></e>
-    <e lm="etc." r="LR"><p><l>etz</l><r>etc</r></p><par n="bene__adv"/></e>
-    <e lm="etc." r="LR"><p><l>ecc</l><r>etc</r></p><par n="bene__adv"/></e>
-    <e lm="p.es."><i>p.es.</i><par n="bene__adv"/></e>
-    <e lm="p.es." r="LR"><p><l>p.<b/>es.</l><r>p.es.</r></p><par n="bene__adv"/></e>
-
 
     <!-- SECTION: Verbs -->
 
@@ -12233,7 +12218,16 @@
 
     <e lm="km"><i>km</i><par n="a.C.__abbr"/></e>
     <e lm="ab"><i>ab</i><par n="a.C.__abbr"/></e>
+    <e lm="a.C."><i>a.C</i><par n="a.C.__abbr"/></e>
+    <e lm="d.C."><i>d.C</i><par n="a.C.__abbr"/></e>
+    <e lm="etc."><i>etc</i><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>etz</l><r>etc</r></p><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>ecc</l><r>etc</r></p><par n="a.C.__abbr"/></e>
+    <e lm="p.es."><i>p.es.</i><par n="a.C.__abbr"/></e>
+    <e lm="p.es." r="LR"><p><l>p.<b/>es.</l><r>p.es.</r></p><par n="a.C.__abbr"/></e>
 
+
+<!--
     <e lm="Unesco"><i>Unesco</i><par n="ONU__abbr"/></e>
     <e lm="ONU"><i>ONU</i><par n="ONU__abbr"/></e>
     <e lm="FAO"><i>FAO</i><par n="ONU__abbr"/></e>
@@ -12253,6 +12247,7 @@
     <e lm="DNA"><i>DNA</i><par n="ONU__abbr"/></e>
     <e lm="AIDS"><i>AIDS</i><par n="ONU__abbr"/></e>
     <e lm="LSU"><i>LSU</i><par n="ONU__abbr"/></e>
+-->
 
     <!--<e lm="RAI"><i>RAI</i><par n="ONU__abbr"/></e>-->
     <!--<e lm="UNIDO"><i>UNIDO</i><par n="ONU__abbr"/></e>-->
@@ -51045,10 +51040,12 @@
     <e lm="Bidda Spetziosa"><i>Bidda<b/>Spetziosa</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Bidda Spetziosa (italianu)"><p><l>Villaspeciosa</l><r>Bidda<b/>Spetziosa</r></p><par n="Etiòpia__np" /></e>
 
-    <e><p><l>Sir</l><r>Sir<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>Mr</l><r>Mr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>Dr</l><r>Dr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>prof</l><r>prof<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Sir"><p><l>Sir</l><r>Sir<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Lord"><p><l>Lord</l><r>Lord<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Mr"><p><l>Mr</l><r>Mr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Dr"><p><l>Dr</l><r>Dr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="prof"><p><l>prof</l><r>prof<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Jr"><p><l>Jr</l><r>Jr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
 
 </section>
