@@ -764,11 +764,11 @@
     </pardef>
 
     <pardef n="Milan__np">
-      <e><p><l></l><r><s n="n"/><s n="org"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="org"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Fiat__np">
-      <e><p><l></l><r><s n="n"/><s n="org"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="org"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Linux__np">
@@ -3344,7 +3344,6 @@
     <e lm="sena" r="LR"><p><l>chenza</l><r>sena</r></p><par n="a__pr"/></e>
     <e lm="pre"><i>pre</i><par n="a__pr"/></e>
     <e lm="anti"><i>anti</i><par n="a__pr"/></e>
-    <e lm="pro"><i>pro</i><par n="a__pr"/></e>
     <!--<e lm="curtzu"><i>curtzu</i><par n="a__pr"/></e>-->
     <!--<e lm="a tesu"><i>a<b/>tesu</i><par n="a__pr"/></e>-->
     <!--<e lm="largu"><i>largu</i><par n="a__pr"/></e>-->
@@ -12271,6 +12270,408 @@
     <e lm="b'at" r="LR"><p><l>c'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>ch'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>nc'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+
+    <!-- SECTION: Inclusions massives -->
+
+    <e lm="Adige"><i>Adige</i><par n="Afganistàn__np"/></e>
+    <e lm="ADN"><i>ADN</i><par n="PNB__n"/></e>
+    <e lm="AG"><i>AG</i><par n="TV__n"/></e>
+    <e lm="AIDS"><i>AIDS</i><par n="PNB__n"/></e>
+    <e lm="Ajax"><i>Ajax</i><par n="Fiat__np"/></e>
+    <e lm="Aleksandr"><i>Aleksandr</i><par n="Antoni__np"/></e>
+    <e lm="Alexander"><i>Alexander</i><par n="Antoni__np"/></e>
+    <e lm="Alexander"><i>Alexander</i><par n="Saussure__np"/></e>
+    <e lm="Alex"><i>Alex</i><par n="Antoni__np"/></e>
+    <e lm="Alfred"><i>Alfred</i><par n="Antoni__np"/></e>
+    <e lm="Allen"><i>Allen</i><par n="Saussure__np"/></e>
+    <e lm="Alpes"><i>Alpes</i><par n="Is_Pratzas__np"/></e>
+    <e lm="Anderson"><i>Anderson</i><par n="Saussure__np"/></e>
+    <e lm="Andrew"><i>Andrew</i><par n="Antoni__np"/></e>
+    <e lm="Andy"><i>Andy</i><par n="Antoni__np"/></e>
+    <e lm="Angiò"><i>Angiò</i><par n="Saussure__np"/></e>
+    <e lm="Anne"><i>Anne</i><par n="Maria__np"/></e>
+    <e lm="Anton"><i>Anton</i><par n="Antoni__np"/></e>
+    <e lm="Aquitania"><i>Aquitania</i><par n="Etiòpia__np"/></e>
+    <e lm="Arnold"><i>Arnold</i><par n="Antoni__np"/></e>
+    <e lm="Asburgo"><i>Asburgo</i><par n="Afganistàn__np"/></e>
+    <e lm="Asburgo"><i>Asburgo</i><par n="Saussure__np"/></e>
+    <e lm="as"><i>as</i><par n="TV__n"/></e>
+    <e lm="Asti"><i>Asti</i><par n="Istados_Unidos__np"/></e>
+    <e lm="Asti"><i>Asti</i><par n="Saussure__np"/></e>
+    <e lm="Atlanta"><i>Atlanta</i><par n="Etiòpia__np"/></e>
+    <e lm="Atlético"><i>Atlético</i><par n="Milan__np"/></e>
+    <e lm="ATP"><i>ATP</i><par n="TV__n"/></e>
+    <e lm="Austin"><i>Austin</i><par n="Afganistàn__np"/></e>
+    <e lm="Austin"><i>Austin</i><par n="Saussure__np"/></e>
+    <e lm="Bach"><i>Bach</i><par n="Saussure__np"/></e>
+    <e lm="Balcanos"><i>Balcanos</i><par n="Istados_Unidos__np"/></e>
+    <e lm="Balcani"><i>Balcani</i><par n="Saussure__np"/></e>
+    <e lm="Barbarossa"><i>Barbarossa</i><par n="Saussure__np"/></e>
+    <e lm="Barry"><i>Barry</i><par n="Saussure__np"/></e>
+    <e lm="Batman"><i>Batman</i><par n="Antoni__np"/></e>
+    <e lm="BBC"><i>BBC</i><par n="TV__n"/></e>
+    <e lm="Beatles"><i>Beatles</i><par n="Linux__np"/></e>
+    <e lm="Beatrice"><i>Beatrice</i><par n="Maria__np"/></e>
+    <e lm="Benjamin"><i>Benjamin</i><par n="Saussure__np"/></e>
+    <e lm="Berlusconi"><i>Berlusconi</i><par n="Saussure__np"/></e>
+    <e lm="Bernard"><i>Bernard</i><par n="Antoni__np"/></e>
+    <e lm="Bernard"><i>Bernard</i><par n="Saussure__np"/></e>
+    <e lm="Bernardino"><i>Bernardino</i><par n="Antoni__np"/></e>
+    <e lm="Bernardino"><i>Bernardino</i><par n="Saussure__np"/></e>
+    <e lm="BMW"><i>BMW</i><par n="TV__n"/></e>
+    <e lm="Bobby"><i>Bobby</i><par n="Antoni__np"/></e>
+    <e lm="Boemia"><i>Boemia</i><par n="Etiòpia__np"/></e>
+    <e lm="Bond"><i>Bond</i><par n="Saussure__np"/></e>
+    <e lm="Borgogna"><i>Borgogna</i><par n="Etiòpia__np"/></e>
+    <e lm="Britannia"><i>Britannia</i><par n="Etiòpia__np"/></e>
+    <e lm="Broadway"><i>Broadway</i><par n="Afganistàn__np"/></e>
+    <e lm="Bruce"><i>Bruce</i><par n="Antoni__np"/></e>
+    <e lm="Bryan"><i>Bryan</i><par n="Antoni__np"/></e>
+    <e lm="Cagliari"><i>Cagliari</i><par n="Etiòpia__np"/></e>
+    <e lm="Calais"><i>Calais</i><par n="Afganistàn__np"/></e>
+    <e lm="Cambridge"><i>Cambridge</i><par n="Afganistàn__np"/></e>
+    <e lm="Cannes"><i>Cannes</i><par n="Is_Pratzas__np"/></e>
+    <e lm="Caroline"><i>Caroline</i><par n="Maria__np"/></e>
+    <e lm="Cartagine"><i>Cartagine</i><par n="Etiòpia__np"/></e>
+    <e lm="Carter"><i>Carter</i><par n="Saussure__np"/></e>
+    <e lm="Castiglione"><i>Castiglione</i><par n="Afganistàn__np"/></e>
+    <e lm="Castiglione"><i>Castiglione</i><par n="Saussure__np"/></e>
+    <e lm="Cavour"><i>Cavour</i><par n="Saussure__np"/></e>
+    <e lm="CD"><i>CD</i><par n="PNB__n"/></e>
+    <e lm="Chad"><i>Chad</i><par n="Afganistàn__np"/></e>
+    <e lm="Challenger"><i>Challenger</i><par n="Linux__np"/></e>
+    <e lm="Charlotte"><i>Charlotte</i><par n="Maria__np"/></e>
+    <e lm="Chieti"><i>Chieti</i><par n="Is_Pratzas__np"/></e>
+    <e lm="Chris"><i>Chris</i><par n="Maria__np"/></e>
+    <e lm="Christopher"><i>Christopher</i><par n="Saussure__np"/></e>
+    <e lm="Chuck"><i>Chuck</i><par n="Antoni__np"/></e>
+    <e lm="CIA"><i>CIA</i><par n="TV__n"/></e>
+    <e lm="Claire"><i>Claire</i><par n="Maria__np"/></e>
+    <e lm="Clark"><i>Clark</i><par n="Antoni__np"/></e>
+    <e lm="Claude"><i>Claude</i><par n="Maria__np"/></e>
+    <e lm="cm"><i>cm</i><par n="a.C.__abbr"/></e>
+    <e lm="Columbia"><i>Columbia</i><par n="Fiat__np"/></e>
+    <e lm="Cooper"><i>Cooper</i><par n="Saussure__np"/></e>
+    <e lm="Costantinopoli"><i>Costantinopoli</i><par n="Etiòpia__np"/></e>
+    <e lm="Costanzo"><i>Costanzo</i><par n="Antoni__np"/></e>
+    <e lm="Costanzo"><i>Costanzo</i><par n="Saussure__np"/></e>
+    <e lm="CSS"><i>CSS</i><par n="PNB__n"/></e>
+    <e lm="CV"><i>CV</i><par n="PNB__n"/></e>
+    <e lm="Dallas"><i>Dallas</i><par n="Istados_Unidos__np"/></e>
+    <e lm="Dave"><i>Dave</i><par n="Antoni__np"/></e>
+    <e lm="Dennis"><i>Dennis</i><par n="Antoni__np"/></e>
+    <e lm="Denver"><i>Denver</i><par n="Afganistàn__np"/></e>
+    <e lm="Derek"><i>Derek</i><par n="Antoni__np"/></e>
+    <e lm="DJ"><i>DJ</i><par n="PNB__n"/></e>
+    <e lm="DNA"><i>DNA</i><par n="PNB__n"/></e>
+    <e lm="DNA"><i>DNA</i><par n="TV__n"/></e>
+    <e lm="Domenico"><i>Domenico</i><par n="Saussure__np"/></e>
+    <e lm="Doria"><i>Doria</i><par n="Saussure__np"/></e>
+    <e lm="Douglas"><i>Douglas</i><par n="Antoni__np"/></e>
+    <e lm="Douglas"><i>Douglas</i><par n="Saussure__np"/></e>
+    <e lm="Duncan"><i>Duncan</i><par n="Antoni__np"/></e>
+    <e lm="Duncan"><i>Duncan</i><par n="Saussure__np"/></e>
+    <e lm="DVD"><i>DVD</i><par n="PNB__n"/></e>
+    <e lm="Edimburgo"><i>Edimburgo</i><par n="Etiòpia__np"/></e>
+    <e lm="Edison"><i>Edison</i><par n="Saussure__np"/></e>
+    <e lm="Elio"><i>Elio</i><par n="Antoni__np"/></e>
+    <e lm="Emily"><i>Emily</i><par n="Maria__np"/></e>
+    <e lm="Erzegovina"><i>Erzegovina</i><par n="Etiòpia__np"/></e>
+    <e lm="Este"><i>Este</i><par n="Saussure__np"/></e>
+    <e lm="FAO"><i>FAO</i><par n="TV__n"/></e>
+    <e lm="FBI"><i>FBI</i><par n="TV__n"/></e>
+    <e lm="FC"><i>FC</i><par n="PNB__n"/></e>
+    <e lm="Fiat"><i>Fiat</i><par n="Fiat__np"/></e>
+    <e lm="FIFA"><i>FIFA</i><par n="TV__n"/></e>
+    <e lm="F"><i>F</i><par n="a.C.__abbr"/></e>
+    <e lm="Fontana"><i>Fontana</i><par n="Saussure__np"/></e>
+    <e lm="Forlì"><i>Forlì</i><par n="Etiòpia__np"/></e>
+    <e lm="François"><i>François</i><par n="Antoni__np"/></e>
+    <e lm="Franklin"><i>Franklin</i><par n="Antoni__np"/></e>
+    <e lm="Fred"><i>Fred</i><par n="Antoni__np"/></e>
+    <e lm="Freud"><i>Freud</i><par n="Saussure__np"/></e>
+    <e lm="Friuli"><i>Friuli</i><par n="Afganistàn__np"/></e>
+    <e lm="FS"><i>FS</i><par n="TV__n"/></e>
+    <e lm="Gary"><i>Gary</i><par n="Antoni__np"/></e>
+    <e lm="GB"><i>GB</i><par n="a.C.__abbr"/></e>
+    <e lm="Genoa"><i>Genoa</i><par n="Fiat__np"/></e>
+    <e lm="Georges"><i>Georges</i><par n="Saussure__np"/></e>
+    <e lm="Georg"><i>Georg</i><par n="Saussure__np"/></e>
+    <e lm="Gian"><i>Gian</i><par n="Antoni__np"/></e>
+    <e lm="g"><i>g</i><par n="a.C.__abbr"/></e>
+    <e lm="Gilbert"><i>Gilbert</i><par n="Antoni__np"/></e>
+    <e lm="Gilbert"><i>Gilbert</i><par n="Saussure__np"/></e>
+    <e lm="Giulio"><i>Giulio</i><par n="Saussure__np"/></e>
+    <e lm="Globe"><i>Globe</i><par n="Saussure__np"/></e>
+    <e lm="GNU"><i>GNU</i><par n="Linux__np"/></e>
+    <e lm="Golden"><i>Golden</i><par n="Saussure__np"/></e>
+    <e lm="Gold"><i>Gold</i><par n="Saussure__np"/></e>
+    <e lm="Gonzaga"><i>Gonzaga</i><par n="Saussure__np"/></e>
+    <e lm="Gordon"><i>Gordon</i><par n="Antoni__np"/></e>
+    <e lm="Gordon"><i>Gordon</i><par n="Saussure__np"/></e>
+    <e lm="Grace"><i>Grace</i><par n="Maria__np"/></e>
+    <e lm="Graham"><i>Graham</i><par n="Antoni__np"/></e>
+    <e lm="Gray"><i>Gray</i><par n="Saussure__np"/></e>
+    <e lm="Green"><i>Green</i><par n="Saussure__np"/></e>
+    <e lm="Greg"><i>Greg</i><par n="Antoni__np"/></e>
+    <e lm="Guy"><i>Guy</i><par n="Antoni__np"/></e>
+    <e lm="Harold"><i>Harold</i><par n="Antoni__np"/></e>
+    <e lm="Harvard"><i>Harvard</i><par n="Milan__np"/></e>
+    <e lm="HD"><i>HD</i><par n="TV__n"/></e>
+    <e lm="Henri"><i>Henri</i><par n="Antoni__np"/></e>
+    <e lm="Henri"><i>Henri</i><par n="Saussure__np"/></e>
+    <e lm="Henry"><i>Henry</i><par n="Saussure__np"/></e>
+    <e lm="Herbert"><i>Herbert</i><par n="Antoni__np"/></e>
+    <e lm="Herbert"><i>Herbert</i><par n="Saussure__np"/></e>
+    <e lm="HMS"><i>HMS</i><par n="TV__n"/></e>
+    <e lm="Honda"><i>Honda</i><par n="Etiòpia__np"/></e>
+    <e lm="Honda"><i>Honda</i><par n="Fiat__np"/></e>
+    <e lm="Honda"><i>Honda</i><par n="Saussure__np"/></e>
+    <e lm="Hong Kong"><i>Hong<b/>Kong</i><par n="Afganistàn__np"/></e>
+    <e lm="Howard"><i>Howard</i><par n="Antoni__np"/></e>
+    <e lm="Howard"><i>Howard</i><par n="Saussure__np"/></e>
+    <e lm="Hunter"><i>Hunter</i><par n="Saussure__np"/></e>
+    <e lm="IAEA"><i>IAEA</i><par n="TV__n"/></e>
+    <e lm="Intel"><i>Intel</i><par n="Fiat__np"/></e>
+    <e lm="Inter"><i>Inter</i><par n="Fiat__np"/></e>
+    <e lm="ITF"><i>ITF</i><par n="TV__n"/></e>
+    <e lm="It"><i>It</i><par n="TV__n"/></e>
+    <e lm="Jacob"><i>Jacob</i><par n="Antoni__np"/></e>
+    <e lm="Jake"><i>Jake</i><par n="Antoni__np"/></e>
+    <e lm="Jake"><i>Jake</i><par n="Maria__np"/></e>
+    <e lm="Jane"><i>Jane</i><par n="Maria__np"/></e>
+    <e lm="Jason"><i>Jason</i><par n="Antoni__np"/></e>
+    <e lm="Jean"><i>Jean</i><par n="Maria__np"/></e>
+    <e lm="Jeff"><i>Jeff</i><par n="Antoni__np"/></e>
+    <e lm="Jennifer"><i>Jennifer</i><par n="Maria__np"/></e>
+    <e lm="Jersey"><i>Jersey</i><par n="Afganistàn__np"/></e>
+    <e lm="Jesse"><i>Jesse</i><par n="Antoni__np"/></e>
+    <e lm="Johnny"><i>Johnny</i><par n="Antoni__np"/></e>
+    <e lm="Jonathan"><i>Jonathan</i><par n="Antoni__np"/></e>
+    <e lm="Jon"><i>Jon</i><par n="Antoni__np"/></e>
+    <e lm="Jordan"><i>Jordan</i><par n="Antoni__np"/></e>
+    <e lm="Jordan"><i>Jordan</i><par n="Saussure__np"/></e>
+    <e lm="Josef"><i>Josef</i><par n="Antoni__np"/></e>
+    <e lm="Joseph"><i>Joseph</i><par n="Saussure__np"/></e>
+    <e lm="Jugoslavia"><i>Jugoslavia</i><par n="Etiòpia__np"/></e>
+    <e lm="Julia"><i>Julia</i><par n="Maria__np"/></e>
+    <e lm="Juventus"><i>Juventus</i><par n="Fiat__np"/></e>
+    <e lm="Kate"><i>Kate</i><par n="Maria__np"/></e>
+    <e lm="KB"><i>KB</i><par n="a.C.__abbr"/></e>
+    <e lm="Keith"><i>Keith</i><par n="Maria__np"/></e>
+    <e lm="Kelly"><i>Kelly</i><par n="Saussure__np"/></e>
+    <e lm="Ken"><i>Ken</i><par n="Antoni__np"/></e>
+    <e lm="Kent"><i>Kent</i><par n="Antoni__np"/></e>
+    <e lm="Kevin"><i>Kevin</i><par n="Antoni__np"/></e>
+    <e lm="kg"><i>kg</i><par n="a.C.__abbr"/></e>
+    <e lm="Kim"><i>Kim</i><par n="Antoni__np"/></e>
+    <e lm="Kim"><i>Kim</i><par n="Maria__np"/></e>
+    <e lm="Kim"><i>Kim</i><par n="Saussure__np"/></e>
+    <e lm="Klaus"><i>Klaus</i><par n="Antoni__np"/></e>
+    <e lm="La Spezia"><i>La<b/>Spezia</i><par n="Etiòpia__np"/></e>
+    <e lm="Las Vegas"><i>Las<b/>Vegas</i><par n="Is_Pratzas__np"/></e>
+    <e lm="Lecce"><i>Lecce</i><par n="Etiòpia__np"/></e>
+    <e lm="Lee"><i>Lee</i><par n="Saussure__np"/></e>
+    <e lm="Legnano"><i>Legnano</i><par n="Etiòpia__np"/></e>
+    <e lm="Lemmon"><i>Lemmon</i><par n="Saussure__np"/></e>
+    <e lm="Leonard"><i>Leonard</i><par n="Antoni__np"/></e>
+    <e lm="Leonard"><i>Leonard</i><par n="Saussure__np"/></e>
+    <e lm="Leon"><i>Leon</i><par n="Afganistàn__np"/></e>
+    <e lm="León"><i>León</i><par n="Afganistàn__np"/></e>
+    <e lm="Leon"><i>Leon</i><par n="Antoni__np"/></e>
+    <e lm="Leon"><i>Leon</i><par n="Saussure__np"/></e>
+    <e lm="León"><i>León</i><par n="Saussure__np"/></e>
+    <e lm="Lewis"><i>Lewis</i><par n="Saussure__np"/></e>
+    <e lm="Liga"><i>Liga</i><par n="Fiat__np"/></e>
+    <e lm="Lincoln"><i>Lincoln</i><par n="Saussure__np"/></e>
+    <e lm="LINEAR"><i>LINEAR</i><par n="PNB__n"/></e>
+    <e lm="Liverpool"><i>Liverpool</i><par n="Etiòpia__np"/></e>
+    <e lm="Loira"><i>Loira</i><par n="Loira__np"/></e>
+    <e lm="LONEOS"><i>LONEOS</i><par n="PNB__n"/></e>
+    <e lm="Los Angeles"><i>Los<b/>Angeles</i><par n="Is_Pratzas__np"/></e>
+    <e lm="LP"><i>LP</i><par n="PNB__n"/></e>
+    <e lm="LSC"><i>LSC</i><par n="TV__n"/></e>
+    <e lm="LSU"><i>LSU</i><par n="TV__n"/></e>
+    <e lm="Lucas"><i>Lucas</i><par n="Antoni__np"/></e>
+    <e lm="Lucas"><i>Lucas</i><par n="Saussure__np"/></e>
+    <e lm="Ludovico"><i>Ludovico</i><par n="Saussure__np"/></e>
+    <e lm="Ludwig"><i>Ludwig</i><par n="Saussure__np"/></e>
+    <e lm="Luke"><i>Luke</i><par n="Antoni__np"/></e>
+    <e lm="Malesia"><i>Malesia</i><par n="Etiòpia__np"/></e>
+    <e lm="Manchester"><i>Manchester</i><par n="Etiòpia__np"/></e>
+    <e lm="Manhattan"><i>Manhattan</i><par n="Etiòpia__np"/></e>
+    <e lm="Margaret"><i>Margaret</i><par n="Maria__np"/></e>
+    <e lm="Martini"><i>Martini</i><par n="Saussure__np"/></e>
+    <e lm="Martin"><i>Martin</i><par n="Saussure__np"/></e>
+    <e lm="Marvel"><i>Marvel</i><par n="Fiat__np"/></e>
+    <e lm="Mary"><i>Mary</i><par n="Maria__np"/></e>
+    <e lm="Mason"><i>Mason</i><par n="Saussure__np"/></e>
+    <e lm="Matthew"><i>Matthew</i><par n="Antoni__np"/></e>
+    <e lm="Matt"><i>Matt</i><par n="Antoni__np"/></e>
+    <e lm="Maurice"><i>Maurice</i><par n="Antoni__np"/></e>
+    <e lm="Maurice"><i>Maurice</i><par n="Saussure__np"/></e>
+    <e lm="May"><i>May</i><par n="Saussure__np"/></e>
+    <e lm="MB"><i>MB</i><par n="a.C.__abbr"/></e>
+    <e lm="Mediaset"><i>Mediaset</i><par n="Fiat__np"/></e>
+    <e lm="Messico"><i>Messico</i><par n="Afganistàn__np"/></e>
+    <e lm="mg"><i>mg</i><par n="a.C.__abbr"/></e>
+    <e lm="Michelangelo"><i>Michelangelo</i><par n="Antoni__np"/></e>
+    <e lm="Michelangelo"><i>Michelangelo</i><par n="Saussure__np"/></e>
+    <e lm="Milan"><i>Milan</i><par n="Milan__np"/></e>
+    <e lm="m"><i>m</i><par n="a.C.__abbr"/></e>
+    <e lm="Minnesota"><i>Minnesota</i><par n="Etiòpia__np"/></e>
+    <e lm="Missouri"><i>Missouri</i><par n="Afganistàn__np"/></e>
+    <e lm="Mitchell"><i>Mitchell</i><par n="Saussure__np"/></e>
+    <e lm="MIT"><i>MIT</i><par n="PNB__n"/></e>
+    <e lm="mm"><i>mm</i><par n="a.C.__abbr"/></e>
+    <e lm="Modena"><i>Modena</i><par n="Etiòpia__np"/></e>
+    <e lm="Mondadori"><i>Mondadori</i><par n="Fiat__np"/></e>
+    <e lm="Mondadori"><i>Mondadori</i><par n="Saussure__np"/></e>
+    <e lm="MTV"><i>MTV</i><par n="Fiat__np"/></e>
+    <e lm="MTV"><i>MTV</i><par n="TV__n"/></e>
+    <e lm="NASA"><i>NASA</i><par n="TV__n"/></e>
+    <e lm="NATO"><i>NATO</i><par n="TV__n"/></e>
+    <e lm="NBA"><i>NBA</i><par n="TV__n"/></e>
+    <e lm="Nelson"><i>Nelson</i><par n="Antoni__np"/></e>
+    <e lm="Nelson"><i>Nelson</i><par n="Saussure__np"/></e>
+    <e lm="Nerone"><i>Nerone</i><par n="Antoni__np"/></e>
+    <e lm="Nerone"><i>Nerone</i><par n="Saussure__np"/></e>
+    <e lm="NFL"><i>NFL</i><par n="TV__n"/></e>
+    <e lm="NGC"><i>NGC</i><par n="TV__n"/></e>
+    <e lm="NHL"><i>NHL</i><par n="TV__n"/></e>
+    <e lm="Nietzsche"><i>Nietzsche</i><par n="Saussure__np"/></e>
+    <e lm="Nintendo"><i>Nintendo</i><par n="Fiat__np"/></e>
+    <e lm="Oliver"><i>Oliver</i><par n="Saussure__np"/></e>
+    <e lm="ONU"><i>ONU</i><par n="TV__n"/></e>
+    <e lm="OPEC"><i>OPEC</i><par n="TV__n"/></e>
+    <e lm="Orleans"><i>Orleans</i><par n="Antoni__np"/></e>
+    <e lm="OSCE"><i>OSCE</i><par n="TV__n"/></e>
+    <e lm="Owen"><i>Owen</i><par n="Antoni__np"/></e>
+    <e lm="Owen"><i>Owen</i><par n="Saussure__np"/></e>
+    <e lm="Oxford"><i>Oxford</i><par n="Etiòpia__np"/></e>
+    <e lm="Palestina"><i>Palestina</i><par n="Etiòpia__np"/></e>
+    <e lm="Paperino"><i>Paperino</i><par n="Antoni__np"/></e>
+    <e lm="PCI"><i>PCI</i><par n="PNB__n"/></e>
+    <e lm="Persia"><i>Persia</i><par n="Etiòpia__np"/></e>
+    <e lm="Philadelphia"><i>Philadelphia</i><par n="Etiòpia__np"/></e>
+    <e lm="Phil"><i>Phil</i><par n="Antoni__np"/></e>
+    <e lm="Philip"><i>Philip</i><par n="Antoni__np"/></e>
+    <e lm="Piemonte"><i>Piemonte</i><par n="Afganistàn__np"/></e>
+    <e lm="Pieve"><i>Pieve</i><par n="Etiòpia__np"/></e>
+    <e lm="Pittsburgh"><i>Pittsburgh</i><par n="Etiòpia__np"/></e>
+    <e lm="Platone"><i>Platone</i><par n="Antoni__np"/></e>
+    <e lm="Poggio"><i>Poggio</i><par n="Etiòpia__np"/></e>
+    <e lm="Po"><i>Po</i><par n="Po__np"/></e>
+    <e lm="Porsche"><i>Porsche</i><par n="Fiat__np"/></e>
+    <e lm="Provenza"><i>Provenza</i><par n="Etiòpia__np"/></e>
+    <e lm="PS"><i>PS</i><par n="PNB__n"/></e>
+    <e lm="Queen"><i>Queen</i><par n="Linux__np"/></e>
+    <e lm="Rai"><i>Rai</i><par n="TV__n"/></e>
+    <e lm="RAI"><i>RAI</i><par n="TV__n"/></e>
+    <e lm="Ralph"><i>Ralph</i><par n="Antoni__np"/></e>
+    <e lm="Ray"><i>Ray</i><par n="Antoni__np"/></e>
+    <e lm="Raymond"><i>Raymond</i><par n="Saussure__np"/></e>
+    <e lm="Reed"><i>Reed</i><par n="Saussure__np"/></e>
+    <e lm="Reggio"><i>Reggio</i><par n="Etiòpia__np"/></e>
+    <e lm="Reich"><i>Reich</i><par n="Saussure__np"/></e>
+    <e lm="Renania"><i>Renania</i><par n="Etiòpia__np"/></e>
+    <e lm="Renault"><i>Renault</i><par n="TV__n"/></e>
+    <e lm="Renée"><i>Renée</i><par n="Maria__np"/></e>
+    <e lm="René"><i>René</i><par n="Antoni__np"/></e>
+    <e lm="Reynolds"><i>Reynolds</i><par n="Saussure__np"/></e>
+    <e lm="Rick"><i>Rick</i><par n="Antoni__np"/></e>
+    <e lm="Rimini"><i>Rimini</i><par n="Etiòpia__np"/></e>
+    <e lm="Robin"><i>Robin</i><par n="Antoni__np"/></e>
+    <e lm="Roland"><i>Roland</i><par n="Saussure__np"/></e>
+    <e lm="Romagna"><i>Romagna</i><par n="Etiòpia__np"/></e>
+    <e lm="Ron"><i>Ron</i><par n="Antoni__np"/></e>
+    <e lm="Ross"><i>Ross</i><par n="Antoni__np"/></e>
+    <e lm="Russell"><i>Russell</i><par n="Saussure__np"/></e>
+    <e lm="Ryan"><i>Ryan</i><par n="Saussure__np"/></e>
+    <e lm="Salzburg"><i>Salzburg</i><par n="Afganistàn__np"/></e>
+    <e lm="Sam"><i>Sam</i><par n="Antoni__np"/></e>
+    <e lm="Sanremo"><i>Sanremo</i><par n="Etiòpia__np"/></e>
+    <e lm="Sarah"><i>Sarah</i><par n="Maria__np"/></e>
+    <e lm="Sassari"><i>Sassari</i><par n="Etiòpia__np"/></e>
+    <e lm="Savoia"><i>Savoia</i><par n="Etiòpia__np"/></e>
+    <e lm="Savoia"><i>Savoia</i><par n="Saussure__np"/></e>
+    <e lm="Scott"><i>Scott</i><par n="Saussure__np"/></e>
+    <e lm="Sean"><i>Sean</i><par n="Antoni__np"/></e>
+    <e lm="Seattle"><i>Seattle</i><par n="Etiòpia__np"/></e>
+    <e lm="Sebastian"><i>Sebastian</i><par n="Antoni__np"/></e>
+    <e lm="Sebastian"><i>Sebastian</i><par n="Saussure__np"/></e>
+    <e lm="Senna"><i>Senna</i><par n="Loira__np"/></e>
+    <e lm="Sforza"><i>Sforza</i><par n="Saussure__np"/></e>
+    <e lm="SIDA"><i>SIDA</i><par n="TV__n"/></e>
+    <e lm="Silicon Valley"><i>Silicon<b/>Valley</i><par n="Etiòpia__np"/></e>
+    <e lm="Simon"><i>Simon</i><par n="Saussure__np"/></e>
+    <e lm="s"><i>s</i><par n="a.C.__abbr"/></e>
+    <e lm="Sky"><i>Sky</i><par n="Milan__np"/></e>
+    <e lm="Sonic"><i>Sonic</i><par n="Milan__np"/></e>
+    <e lm="Spencer"><i>Spencer</i><par n="Antoni__np"/></e>
+    <e lm="Spencer"><i>Spencer</i><par n="Saussure__np"/></e>
+    <e lm="Spoleto"><i>Spoleto</i><par n="Etiòpia__np"/></e>
+    <e lm="SS"><i>SS</i><par n="TV__n"/></e>
+    <e lm="Stabia"><i>Stabia</i><par n="Etiòpia__np"/></e>
+    <e lm="Stanley"><i>Stanley</i><par n="Saussure__np"/></e>
+    <e lm="Stefan"><i>Stefan</i><par n="Antoni__np"/></e>
+    <e lm="Steven"><i>Steven</i><par n="Antoni__np"/></e>
+    <e lm="Stuart"><i>Stuart</i><par n="Saussure__np"/></e>
+    <e lm="Sun"><i>Sun</i><par n="Milan__np"/></e>
+    <e lm="Taylor"><i>Taylor</i><par n="Saussure__np"/></e>
+    <e lm="TB"><i>TB</i><par n="a.C.__abbr"/></e>
+    <e lm="Ted"><i>Ted</i><par n="Antoni__np"/></e>
+    <e lm="Terry"><i>Terry</i><par n="Antoni__np"/></e>
+    <e lm="Terry"><i>Terry</i><par n="Saussure__np"/></e>
+    <e lm="TG"><i>TG</i><par n="PNB__n"/></e>
+    <e lm="Ticino"><i>Ticino</i><par n="Afganistàn__np"/></e>
+    <e lm="Tim"><i>Tim</i><par n="Antoni__np"/></e>
+    <e lm="TNA"><i>TNA</i><par n="PNB__n"/></e>
+    <e lm="Todd"><i>Todd</i><par n="Saussure__np"/></e>
+    <e lm="Tolkien"><i>Tolkien</i><par n="Saussure__np"/></e>
+    <e lm="Tolosa"><i>Tolosa</i><par n="Etiòpia__np"/></e>
+    <e lm="Tommy"><i>Tommy</i><par n="Antoni__np"/></e>
+    <e lm="Trieste"><i>Trieste</i><par n="Etiòpia__np"/></e>
+    <e lm="Tyler"><i>Tyler</i><par n="Saussure__np"/></e>
+    <e lm="UCI"><i>UCI</i><par n="Fiat__np"/></e>
+    <e lm="Udine"><i>Udine</i><par n="Etiòpia__np"/></e>
+    <e lm="UFC"><i>UFC</i><par n="TV__n"/></e>
+    <e lm="UK"><i>UK</i><par n="Afganistàn__np"/></e>
+    <e lm="Unesco"><i>Unesco</i><par n="TV__n"/></e>
+    <e lm="UNESCO"><i>UNESCO</i><par n="TV__n"/></e>
+    <e lm="Universal"><i>Universal</i><par n="Fiat__np"/></e>
+    <e lm="URSS"><i>URSS</i><par n="TV__n"/></e>
+    <e lm="US"><i>US</i><par n="TV__n"/></e>
+    <e lm="Varese"><i>Varese</i><par n="Etiòpia__np"/></e>
+    <e lm="Varese"><i>Varese</i><par n="Saussure__np"/></e>
+    <e lm="Vercelli"><i>Vercelli</i><par n="Istados_Unidos__np"/></e>
+    <e lm="Versailles"><i>Versailles</i><par n="Etiòpia__np"/></e>
+    <e lm="Victoria"><i>Victoria</i><par n="Etiòpia__np"/></e>
+    <e lm="Victoria"><i>Victoria</i><par n="Maria__np"/></e>
+    <e lm="Victor"><i>Victor</i><par n="Antoni__np"/></e>
+    <e lm="VIH"><i>VIH</i><par n="PNB__n"/></e>
+    <e lm="Vincent"><i>Vincent</i><par n="Antoni__np"/></e>
+    <e lm="Vincent"><i>Vincent</i><par n="Saussure__np"/></e>
+    <e lm="Wade"><i>Wade</i><par n="Saussure__np"/></e>
+    <e lm="Walker"><i>Walker</i><par n="Saussure__np"/></e>
+    <e lm="Walt"><i>Walt</i><par n="Antoni__np"/></e>
+    <e lm="Warner"><i>Warner</i><par n="Saussure__np"/></e>
+    <e lm="Warren"><i>Warren</i><par n="Antoni__np"/></e>
+    <e lm="Warren"><i>Warren</i><par n="Saussure__np"/></e>
+    <e lm="Watson"><i>Watson</i><par n="Saussure__np"/></e>
+    <e lm="Wayne"><i>Wayne</i><par n="Antoni__np"/></e>
+    <e lm="Wehrmacht"><i>Wehrmacht</i><par n="Milan__np"/></e>
+    <e lm="Wells"><i>Wells</i><par n="Saussure__np"/></e>
+    <e lm="Who"><i>Who</i><par n="Linux__np"/></e>
+    <e lm="Williams"><i>Williams</i><par n="Saussure__np"/></e>
+    <e lm="Wimbledon"><i>Wimbledon</i><par n="Etiòpia__np"/></e>
+    <e lm="Wood"><i>Wood</i><par n="Saussure__np"/></e>
+    <e lm="WTA"><i>WTA</i><par n="TV__n"/></e>
+    <e lm="WWE"><i>WWE</i><par n="TV__n"/></e>
+    <e lm="WWF"><i>WWF</i><par n="PNB__n"/></e>
+    <e lm="Yang"><i>Yang</i><par n="Saussure__np"/></e>
+    <e lm="Zeus"><i>Zeus</i><par n="Antoni__np"/></e>
+
 
   </section>
 
@@ -47869,7 +48270,6 @@
     <e lm="peddincosu"><i>peddincos</i><par n="frantzes/u__adj"/></e>
     <e lm="peddinu"><i>peddin</i><par n="frantzes/u__adj"/></e>
     <e lm="pedditzone"><i>pedditzon</i><par n="cunservador/e__adj"/></e>
-    <e lm="pediàtricu"><i>pediàtri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="pedidore"><i>pedidor</i><par n="cunservador/e__adj"/></e>
     <e lm="pedinadu"><i>pedinad</i><par n="frantzes/u__adj"/></e>
     <e lm="pedinosu"><i>pedinos</i><par n="frantzes/u__adj"/></e>
@@ -50428,7 +50828,6 @@
 <!-- SECTION: altros -->
 
     <e lm="Aosta"><i>Aosta</i><par n="Etiòpia__np"/></e>
-    <e lm="Piemonte"><i>Piemonte</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Torinu (italianu)"><p><l>Torino</l><r>Torinu</r></p><par n="Afganistàn__np" /></e>
     <e lm="Ligùria"><i>Ligùria</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Ligùria (italianu)"><p><l>Liguria</l><r>Ligùria</r></p><par n="Etiòpia__np" /></e>
@@ -50443,7 +50842,6 @@
     <e r="LR" lm="Venètzia (italianu)"><p><l>Venezia</l><r>Venètzia</r></p><par n="Etiòpia__np" /></e>
     <e lm="Friuli-Venetzia Giulia"><i>Friuli-Venetzia<b/>Giulia</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Friuli-Venetzia Giulia (italianu)"><p><l>Friuli-Venezia<b/>Giulia</l><r>Friuli-Venetzia<b/>Giulia</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Trieste"><i>Trieste</i><par n="Etiòpia__np"/></e>
     <e lm="Emìlia-Romagna"><i>Emìlia-Romagna</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Emìlia-Romagna (italianu)"><p><l>Emilia-Romagna</l><r>Emìlia-Romagna</r></p><par n="Afganistàn__np" /></e>
     <e lm="Toscana"><i>Toscana</i><par n="Etiòpia__np"/></e>
@@ -50479,90 +50877,52 @@
     <e r="LR" lm="Casteddu (italianu)"><p><l>Cagliari</l><r>Casteddu</r></p><par n="Afganistàn__np" /></e>
 
     <e lm="Arbus"><i>Arbus</i><par n="Istados_Unidos__np"/></e>
-    <e lm="Barùmini"><i>Barùmini</i><par n="Afganistàn__np"/></e>
-    <e lm="Forru"><i>Forru</i><par n="Afganistàn__np"/></e>
-    <e lm="Furtei"><i>Furtei</i><par n="Afganistàn__np"/></e>
-    <e lm="Genuri"><i>Genuri</i><par n="Afganistàn__np"/></e>
-    <e lm="Gèsturi"><i>Gèsturi</i><par n="Afganistàn__np"/></e>
-    <e lm="Gonnos Fanàdiga"><i>Gonnos<b/>Fanàdiga</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Gonnos Fanàdiga (italianu)"><p><l>Gonnosfanadiga</l><r>Gonnos<b/>Fanàdiga</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Gùspini"><i>Gùspini</i><par n="Afganistàn__np"/></e>
     <e lm="Is Pratzas"><i>Is<b/>Pratzas</i><par n="Is_Pratzas__np"/></e>
     <e r="LR" lm="Is Pratzas (italianu)"><p><l>Las<b/>Plassas</l><r>Is<b/>Pratzas</r></p><par n="Is_Pratzas__np" /></e>
-    <e lm="Lunamatrona"><i>Lunamatrona</i><par n="Etiòpia__np"/></e>
     <e lm="Pabillonis"><i>Pabillonis</i><par n="Istados_Unidos__np"/></e>
-    <e lm="Pauli Arbarei"><i>Pauli<b/>Arbarei</i><par n="Afganistàn__np"/></e>
-    <e lm="Samassi"><i>Samassi</i><par n="Afganistàn__np"/></e>
-    <e lm="Santu 'Ainju"><i>Santu<b/>'Ainju</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Santu 'Ainju (italianu)"><p><l>San<b/>Gavino<b/>Monreale</l><r>Santu<b/>'Ainju</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Seddori"><i>Seddori</i><par n="Afganistàn__np"/></e>
-    <e lm="Sàrdara"><i>Sàrdara</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Sàrdara (italianu)"><p><l>Sardara</l><r>Sàrdara</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Segariu"><i>Segariu</i><par n="Afganistàn__np"/></e>
-    <e lm="Serramanna"><i>Serramanna</i><par n="Etiòpia__np"/></e>
-    <e lm="Serrenti"><i>Serrenti</i><par n="Afganistàn__np"/></e>
-    <e lm="Setzu"><i>Setzu</i><par n="Afganistàn__np"/></e>
-    <e lm="Siddi"><i>Siddi</i><par n="Afganistàn__np"/></e>
-    <e lm="Tuili"><i>Tuili</i><par n="Afganistàn__np"/></e>
-    <e lm="Turri"><i>Turri</i><par n="Afganistàn__np"/></e>
-    <e lm="Ùssara Manna"><i>Ùssara<b/>Manna</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Ùssara Manna (italianu)"><p><l>Ussaramanna</l><r>Ùssara<b/>Manna</r></p><par n="Etiòpia__np" /></e>
     <e lm="Biddexidru"><i>Biddexidru</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Biddexidru (italianu)"><p><l>Villacidro</l><r>Biddexidru</r></p><par n="Etiòpia__np" /></e>
     <e lm="Bidda Mara"><i>Bidda<b/>Mara</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Bidda Mara (italianu)"><p><l>Villamar</l><r>Bidda<b/>Mara</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Biddanoa Forru"><i>Biddanoa<b/>Forru</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Biddanoa Forru (italianu)"><p><l>Villanovaforru</l><r>Biddanoa<b/>Forru</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Biddanoa Franca"><i>Biddanoa<b/>Franca</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Biddanoa Franca (italianu)"><p><l>Villanovafranca</l><r>Biddanoa<b/>Franca</r></p><par n="Etiòpia__np" /></e>
     <e lm="Azos"><i>Azos</i><par n="Istados_Unidos__np"/></e>
     <e r="LR" lm="Azos (italianu)"><p><l>Aggius</l><r>Azos</r></p><par n="Istados_Unidos__np" /></e>
     <e lm="Aglientu"><i>Aglientu</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Aglientu (corsu/català)"><p><l>Santu<b/>Franciscu<b/>d'Aglièntu</l><r>Aglientu</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Alà"><i>Alà</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Alà (italianu)"><p><l>Alà<b/>dei<b/>Sardi</l><r>Alà</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Altzaghena"><i>Altzaghena</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Altzaghena (italianu)"><p><l>Arzachena</l><r>Altzaghena</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Badesi"><i>Badesi</i><par n="Afganistàn__np"/></e>
-    <e lm="Belchidda"><i>Belchidda</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Belchidda (italianu)"><p><l>Berchidda</l><r>Belchidda</r></p><par n="Etiòpia__np" /></e>
     <e lm="Bortigiadas"><i>Bortigiadas</i><par n="Is_Pratzas__np"/></e>
     <e lm="Buddusò"><i>Buddusò</i><par n="Afganistàn__np"/></e>
-    <e lm="Budùne"><i>Budùne</i><par n="Afganistàn__np"/></e>
     <e lm="Calanzanus"><i>Calanzanus</i><par n="Istados_Unidos__np"/></e>
     <e r="LR" lm="Calanzanus (italianu)"><p><l>Calangianus</l><r>Calanzanus</r></p><par n="Istados_Unidos__np" /></e>
-    <e lm="Figari"><i>Figari</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Figari (italianu)"><p><l>Golfo<b/>Aranci</l><r>Figari</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Sa Madalena"><i>Sa<b/>Madalena</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Sa Madalena (italianu)"><p><l>La<b/>Maddalena</l><r>Sa<b/>Madalena</r></p><par n="Etiòpia__np" /></e>
     <e lm="Santu Paulu Loèri"><i>Santu<b/>Paulu<b/>Loèri</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Santu Paulu Loèri (italianu)"><p><l>Loiri<b/>Porto<b/>San<b/>Paolo</l><r>Santu<b/>Paulu<b/>Loèri</r></p><par n="Afganistàn__np" /></e>
     <e r="LR" lm="Santu Paulu Loèri (corsu/català)"><p><l>Lòiri-Poltu</l><r>Santu<b/>Paulu<b/>Loèri</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Logusantu"><i>Logusantu</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Logusantu (italianu)"><p><l>Luogosanto</l><r>Logusantu</r></p><par n="Afganistàn__np" /></e>
     <e r="LR" lm="Logusantu (corsu/català)"><p><l>Locusantu</l><r>Logusantu</r></p><par n="Afganistàn__np" /></e>
     <e lm="Luras"><i>Luras</i><par n="Is_Pratzas__np"/></e>
-    <e lm="Monte"><i>Monte</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Monte (corsu/català)"><p><l>Monti</l><r>Monte</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Terranoa"><i>Terranoa</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Terranoa (italianu)"><p><l>Olbia</l><r>Terranoa</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Oscheri"><i>Oscheri</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Oscheri (corsu/català)"><p><l>Òscari</l><r>Oscheri</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Padru"><i>Padru</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Padru (corsu/català)"><p><l>Patru</l><r>Padru</r></p><par n="Afganistàn__np" /></e>
     <e lm="Palau"><i>Palau</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Palau (corsu/català)"><p><l>Lu<b/>Palau</l><r>Palau</r></p><par n="Afganistàn__np" /></e>
     <e lm="Santu Antoni'e Calanzanus"><i>Santu<b/>Antoni'e<b/>Calanzanus</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Santu Antoni'e Calanzanus (italianu)"><p><l>Sant'Antonio<b/>di<b/>Gallura</l><r>Santu<b/>Antoni'e<b/>Calanzanus</r></p><par n="Afganistàn__np" /></e>
     <e r="LR" lm="Santu Antoni'e Calanzanus (corsu/català)"><p><l>Sant'Antoni</l><r>Santu<b/>Antoni'e<b/>Calanzanus</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Lungone"><i>Lungone</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Lungone (corsu/català)"><p><l>Lungoni</l><r>Lungone</r></p><par n="Afganistàn__np" /></e>
-    <e lm="Santu Deadoru"><i>Santu<b/>Deadoru</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Santu Deadoru (italianu)"><p><l>San<b/>Teodoro</l><r>Santu<b/>Deadoru</r></p><par n="Afganistàn__np" /></e>
     <e r="LR" lm="Santu Deadoru (corsu/català)"><p><l>Santu<b/>Tiadoru</l><r>Santu<b/>Deadoru</r></p><par n="Afganistàn__np" /></e>
     <e lm="Teltis"><i>Teltis</i><par n="Istados_Unidos__np"/></e>
     <e r="LR" lm="Teltis (italianu)"><p><l>Telti</l><r>Teltis</r></p><par n="Istados_Unidos__np" /></e>
-    <e lm="Tèmpiu"><i>Tèmpiu</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Tèmpiu (italianu)"><p><l>Tempio<b/>Pausania</l><r>Tèmpiu</r></p><par n="Afganistàn__np" /></e>
     <e lm="Trinitai e Vignola Trinidade"><i>Trinitai<b/>e<b/>Vignola<b/>Trinidade</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Trinitai e Vignola Trinidade (italianu)"><p><l>Trinità<b/>d'Agultu<b/>e<b/>Vignola</l><r>Trinitai<b/>e<b/>Vignola<b/>Trinidade</r></p><par n="Etiòpia__np" /></e>
@@ -50729,7 +51089,6 @@
     <e lm="Meana"><i>Meana</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Meana (italianu)"><p><l>Meana<b/>Sardo</l><r>Meana</r></p><par n="Afganistàn__np" /></e>
     <e lm="Noragugume"><i>Noragugume</i><par n="Afganistàn__np"/></e>
-    <e lm="Nùgoro"><i>Nùgoro</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Nùgoro (italianu)"><p><l>Nuoro</l><r>Nùgoro</r></p><par n="Afganistàn__np" /></e>
     <e lm="Ulìana"><i>Ulìana</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Ulìana (italianu)"><p><l>Oliena</l><r>Ulìana</r></p><par n="Etiòpia__np" /></e>
@@ -50836,7 +51195,6 @@
     <e lm="Rumana"><i>Rumana</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Rumana (italianu)"><p><l>Romana</l><r>Rumana</r></p><par n="Etiòpia__np" /></e>
     <e lm="Cuzinas"><i>Cuzinas</i><par n="Afganistàn__np"/></e>
-    <e lm="Tàtari"><i>Tàtari</i><par n="Afganistàn__np"/></e>
     <e lm="Séddini"><i>Séddini</i><par n="Afganistàn__np"/></e>
     <e lm="Semèstene"><i>Semèstene</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Semèstene (italianu)"><p><l>Semestene</l><r>Semèstene</r></p><par n="Afganistàn__np" /></e>
@@ -50936,7 +51294,6 @@
     <e r="LR" lm="Ballau (italianu)"><p><l>Ballao</l><r>Ballau</r></p><par n="Afganistàn__np" /></e>
     <e lm="Barrali"><i>Barrali</i><par n="Afganistàn__np"/></e>
     <e lm="Burcei"><i>Burcei</i><par n="Afganistàn__np"/></e>
-    <e lm="Casteddu"><i>Casteddu</i><par n="Afganistàn__np"/></e>
     <e lm="Cabuderra"><i>Cabuderra</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Cabuderra (italianu)"><p><l>Capoterra</l><r>Cabuderra</r></p><par n="Etiòpia__np" /></e>
     <e lm="Castiadas"><i>Castiadas</i><par n="Is_Pratzas__np"/></e>
@@ -51019,7 +51376,6 @@
     <e lm="Solèminis"><i>Solèminis</i><par n="Istados_Unidos__np"/></e>
     <e r="LR" lm="Solèminis (italianu)"><p><l>Soleminis</l><r>Solèminis</r></p><par n="Istados_Unidos__np" /></e>
     <e lm="Sueddi"><i>Sueddi</i><par n="Afganistàn__np"/></e>
-    <e lm="Teulada"><i>Teulada</i><par n="Etiòpia__np"/></e>
     <e lm="Ùssana"><i>Ùssana</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Ùssana (italianu)"><p><l>Ussana</l><r>Ùssana</r></p><par n="Etiòpia__np" /></e>
     <e lm="Uda"><i>Uda</i><par n="Etiòpia__np"/></e>
