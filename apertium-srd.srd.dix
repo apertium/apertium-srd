@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
 <!-- http://www.regione.sardegna.it/documenti/1_72_20060418160308.pdf -->
 <!-- -->
@@ -49,6 +50,7 @@
     <sdef n="an"     c="Animate / inanimate"/> 
 
     <sdef n="top"    c="Toponym"/> 
+    <sdef n="hyd"    c="Hydronym"/> 
     <sdef n="ant"    c="Antroponym"/> 
     <sdef n="cog"    c="Cognomen"/> 
     <sdef n="org"    c="Organisation"/> 
@@ -747,6 +749,14 @@
 
     <pardef n="Is_Pratzas__np">
       <e>       <p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="Po__np">
+      <e>       <p><l></l><r><s n="np"/><s n="hyd"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Loira__np">
+      <e>       <p><l></l><r><s n="np"/><s n="hyd"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Antoni__np">
@@ -51034,6 +51044,11 @@
     <e r="LR" lm="Bidda Sorris (italianu)"><p><l>Villasor</l><r>Bidda<b/>Sorris</r></p><par n="Etiòpia__np" /></e>
     <e lm="Bidda Spetziosa"><i>Bidda<b/>Spetziosa</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Bidda Spetziosa (italianu)"><p><l>Villaspeciosa</l><r>Bidda<b/>Spetziosa</r></p><par n="Etiòpia__np" /></e>
+
+    <e><p><l>Sir</l><r>Sir<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Mr</l><r>Mr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Dr</l><r>Dr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>prof</l><r>prof<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
 
 </section>
