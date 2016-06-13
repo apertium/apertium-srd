@@ -5929,7 +5929,7 @@
     <e lm="idòneu"><i>idòne</i><par n="mac/u__n"/></e>
     <e lm="igiene"><i>igien</i><par n="region/e__n"/></e>
     <e lm="illìtzitu"><i>illìtzit</i><par n="mac/u__n"/></e>
-    <e lm="illùdiu"><i>illùdi</i><par n="mac/u__n"/></e>
+    <e lm="illùdidu"><i>illùdid</i><par n="mac/u__n"/></e>
     <e lm="imbriagu"><i>imbriag</i><par n="mac/u__n"/></e>
     <e lm="impreadu"><i>impread</i><par n="mac/u__n"/></e>
     <e lm="imprenda"><i>imprenda</i><par n="mesa__n"/></e>
@@ -13070,6 +13070,15 @@
     <e lm="asseddu"><i>assedd</i><par n="mac/u__n"/></e>
     <e lm="assèdiu"><i>assèdi</i><par n="mac/u__n"/></e>
     <e lm="assegnu"><i>assegn</i><par n="mac/u__n"/></e>
+
+    <e lm="singialadu"><i>singialad</i><par n="frantzes/u__adj"/></e>
+    <e lm="reselu"><i>resel</i><par n="frantzes/u__adj"/></e>
+    <e lm="sobra"><i>sobra</i><par n="meda__adj"/></e>
+    <e lm="resumu"><i>resumu</i><par n="mac/u__n"/></e>
+    <e lm="decadèssidu"><i>decadèssid</i><par n="frantzes/u__adj"/></e>
+    <e lm="inghitzadu"><i>inghitzad</i><par n="frantzes/u__adj"/></e>
+    <e lm="fidantzadu"><i>fidantzad</i><par n="frantzes/u__adj"/></e>
+
     <e lm="asseguramentu"><i>assegurament</i><par n="mac/u__n"/></e>
     <e lm="asselenu"><i>asselen</i><par n="mac/u__n"/></e>
     <e lm="assèliu"><i>assèli</i><par n="mac/u__n"/></e>
@@ -15231,12 +15240,12 @@
     <e lm="fìnicu"><i>fìnic</i><par n="mac/u__n"/></e>
     <e lm="finimentu"><i>finiment</i><par n="mac/u__n"/></e>
     
-    <e lm="fune"><i>fune</i><par n="region/e__n"/></e>
-    <e lm="furone"><i>furone</i><par n="region/e__n"/></e>
-    <e lm="istrachidùdine"><i>istrachidùdine</i><par n="region/e__n"/></e>
+    <e lm="fune"><i>fun</i><par n="region/e__n"/></e>
+    <e lm="furone"><i>furon</i><par n="region/e__n"/></e>
+    <e lm="istrachidùdine"><i>istrachidùdin</i><par n="region/e__n"/></e>
     <e lm="lìmpiu"><i>lìmpi</i><par n="mac/u__n"/></e>
-    <e lm="masione"><i>masione</i><par n="region/e__n"/></e>
-    <e lm="more"><i>more</i><par n="region/e__n"/></e>
+    <e lm="masione"><i>masion</i><par n="region/e__n"/></e>
+    <e lm="more"><i>mor</i><par n="region/e__n"/></e>
 
     <e lm="finitzu"><i>finitz</i><par n="mac/u__n"/></e>
     <e lm="finòngiu"><i>finòngi</i><par n="mac/u__n"/></e>
@@ -40559,11 +40568,12 @@
     <e lm="perrone"><i>perrone</i><par n="pane__n"/></e>
     <e lm="persecutzione"><i>persecu</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="persighitzione"><i>persighi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="persone"><i>persone</i><par n="pane__n"/></e>
+    <e lm="persone"><i>person</i><par n="region/e__n"/></e>
     <e lm="personificatzione"><i>personifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="pertosse"><i>pertosse</i><par n="pane__n"/></e>
     <e lm="pertunde"><i>pertunde</i><par n="pane__n"/></e>
     <e lm="pertusadore"><i>pertusador</i><par n="traballador/e__n"/></e>
+    <e lm="praneta"><i>praneta</i><par n="pane__n"/></e>
     <e lm="pertzentuale"><i>pertzentual</i><par n="fàtzil/e__adj"/></e>
     <e lm="perversione"><i>perversion</i><par n="region/e__n"/></e>
     <e lm="pesacantare"><i>pesacantare</i><par n="pane__n"/></e>
@@ -41026,7 +41036,7 @@
     <e lm="sardone"><i>sardone</i><par n="pane__n"/></e>
     <e lm="sarmone"><i>sarmone</i><par n="pane__n"/></e>
     <e lm="sartadore"><i>sartador</i><par n="traballador/e__n"/></e>
-    <e lm="sartàine"><i>sartàine</i><par n="pane__n"/></e>
+    <e lm="sartàine"><i>sartàin</i><par n="region/e__n"/></e>
     <e lm="sartilliadore"><i>sartilliador</i><par n="traballador/e__n"/></e>
     <e lm="sartitzone"><i>sartitzone</i><par n="pane__n"/></e>
     <e lm="sarvagente"><i>sarvagente</i><par n="pane__n"/></e>
@@ -46413,6 +46423,7 @@
     <e lm="iscunsacradu"><i>iscunsacrad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunsertadu"><i>iscunsertad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunsoladu"><i>iscunsolad</i><par n="frantzes/u__adj"/></e>
+    <e lm="illùdidu"><i>illùdid</i><par n="frantzes/u__adj"/></e>
     <e lm="iscuntentu"><i>iscuntent</i><par n="frantzes/u__adj"/></e>
     <e lm="iscùpidu"><i>iscùpid</i><par n="frantzes/u__adj"/></e>
     <e lm="iscuradu"><i>iscurad</i><par n="frantzes/u__adj"/></e>
