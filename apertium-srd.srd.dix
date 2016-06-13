@@ -3324,16 +3324,16 @@
     <e lm="susu"><i>susu</i><par n="a__pr"/></e>
     <e lm="suta"><i>suta</i><par n="a__pr"/></e>
     <e lm="suta" r="LR"><p><l>sutta</l><r>suta</r></p><par n="a__pr"/></e>
-    <e lm="in suta de"><i>in<b/>suta<b/>de</i><par n="a__pr"/></e>
+    <e lm="in suta de"><i>in<b/>suta<b/></i><par n="/de__pr"/></e>
     <e lm="subra"><i>subra</i><par n="a__pr"/></e>
     <e lm="subra" r="LR"><p><l>supra</l><r>subra</r></p><par n="a__pr"/></e>
     <!--<e lm="a pustis"><i>a<b/>pustis</i><par n="a__pr"/></e>-->
     <!--<e lm="in antis"><i>in<b/>antis</i><par n="a__pr"/></e>-->
     <e lm="foras"><i>foras</i><par n="a__pr"/></e>
-    <e lm="in foras de"><i>in<b/>foras<b/>de</i><par n="/de__pr"/></e>
-    <e lm="a foras de"><i>a<b/>foras<b/>de</i><par n="a__pr"/></e>
-    <e lm="a foras de" r="LR"><p><l>a<b/>fora<b/>de</l><r>a<b/>foras<b/>de</r></p><par n="a__pr"/></e>
-    <e lm="foras de"><i>foras<b/>de</i><par n="a__pr"/></e>
+    <e lm="in foras de"><i>in<b/>foras<b/></i><par n="/de__pr"/></e>
+    <e lm="a foras de"><i>a<b/>foras<b/></i><par n="/de__pr"/></e>
+    <e lm="a foras de" r="LR"><p><l>a<b/>fora<b/></l><r>a<b/>foras<b/></r></p><par n="/de__pr"/></e>
+    <e lm="foras de"><i>foras<b/></i><par n="/de__pr"/></e>
     <e lm="bighinu a"><i>bighinu<b/>a</i><par n="a__pr"/></e>
     <e lm="intro"><i>intro</i><par n="a__pr"/></e>
     <e lm="longu"><i>longu</i><par n="a__pr"/></e>
@@ -3353,14 +3353,14 @@
     <!--<e lm="paris"><i>paris</i><par n="a__pr"/></e>-->
     <!--<e lm="in fatu"><i>in<b/>fatu</i><par n="a__pr"/></e>-->
     <e lm="in mesu de"><i>in<b/>mesu<b/></i><par n="/de__pr"/></e>
-    <!--<e lm="in parte de"><i>in<b/>parte<b/>de</i><par n="a__pr"/></e>-->
-    <!--<e lm="in càmbiu de"><i>in<b/>càmbiu<b/>de</i><par n="a__pr"/></e>-->
-    <e lm="in cara de"><i>in<b/>cara<b/>de</i><par n="a__pr"/></e>
+    <!--<e lm="in parte de"><i>in<b/>parte<b/></i><par n="/de__pr"/></e>-->
+    <!--<e lm="in càmbiu de"><i>in<b/>càmbiu<b/></i><par n="/de__pr"/></e>-->
+    <e lm="in cara de"><i>in<b/>cara<b/></i><par n="/de__pr"/></e>
     <e lm="paris cun"><i>paris<b/>cun</i><par n="a__pr"/></e>
     <!--<e lm="conca"><i>conca</i><par n="a__pr"/></e>-->
     <e lm="chirru a"><i>chirru<b/>a</i><par n="a__pr"/></e>
     <e lm="a mesu tra"><i>a<b/>mesu<b/>tra</i><par n="a__pr"/></e>
-    <e lm="cara a"><i>cara<b/></i><par n="a__pr"/></e>
+    <e lm="cara a"><i>cara<b/>a</i><par n="a__pr"/></e>
     <e lm="che a"><i>che<b/></i><par n="a__pr"/></e>
     <e lm="pro mèdiu de"><i>pro<b/>mèdiu<b/></i><par n="/de__pr"/></e>
     <e lm="francu"><i>francu</i><par n="a__pr"/></e>
@@ -3368,9 +3368,9 @@
     <e lm="mediante"><i>mediante</i><par n="a__pr"/></e>
     <e lm="durante"><i>durante</i><par n="a__pr"/></e>
     <!--<e lm="rasente"><i>rasente</i><par n="a__pr"/></e>-->
-    <e lm="a pitzu de"><i>a<b/>pitzu<b/>de</i><par n="/de__pr"/></e>
-    <e lm="a pàrrere de"><i>a<b/>pàrrere<b/>de</i><par n="a__pr"/></e>
-    <e lm="a pitzu de" r="LR"><p><l>a<b/>pitzus<b/>de</l><r>a<b/>pitzu<b/>de</r></p><par n="a__pr"/></e>
+    <e lm="a pitzu de"><i>a<b/>pitzu<b/></i><par n="/de__pr"/></e>
+    <e lm="a pàrrere de"><i>a<b/>pàrrere<b/></i><par n="/de__pr"/></e>
+    <e lm="a pitzu de" r="LR"><p><l>a<b/>pitzus<b/></l><r>a<b/>pitzu<b/></r></p><par n="/de__pr"/></e>
 
     <!-- SECTION: Pronomi -->
 
@@ -6075,6 +6075,7 @@
     <e lm="rasu"><i>ras</i><par n="mac/u__n"/></e>
     <e lm="rebellu"><i>rebell</i><par n="mac/u__n"/></e>
     <e lm="rebuddu"><i>rebudd</i><par n="mac/u__n"/></e>
+    <e lm="ispibillu"><i>ispavill</i><par n="mac/u__n"/></e>
     <e lm="recadivu"><i>recadiv</i><par n="mac/u__n"/></e>
     <e lm="recramu"><i>recram</i><par n="mac/u__n"/></e>
     <e lm="reduidu"><i>reduid</i><par n="mac/u__n"/></e>
@@ -13087,6 +13088,7 @@
     <e lm="assìtiu"><i>assìti</i><par n="mac/u__n"/></e>
     <e lm="assolamentu"><i>assolament</i><par n="mac/u__n"/></e>
     <e lm="assolocu"><i>assoloc</i><par n="mac/u__n"/></e>
+    <e lm="assòtziu"><i>assòtzi</i><par n="mac/u__n"/></e>
     <e lm="assuconòngiu"><i>assuconòngi</i><par n="mac/u__n"/></e>
     <e lm="assumbru"><i>assumbr</i><par n="mac/u__n"/></e>
     <e lm="assuntu"><i>assunt</i><par n="mac/u__n"/></e>
@@ -15224,9 +15226,18 @@
     <e lm="finantziamentu"><i>finantziament</i><par n="mac/u__n"/></e>
     <e lm="findeaju"><i>findeaj</i><par n="mac/u__n"/></e>
     <e lm="finestrinu"><i>finestrin</i><par n="mac/u__n"/></e>
+    <e lm="fines"><i>fines</i><par n="lapis__n"/></e>
     <e lm="finghimentu"><i>finghiment</i><par n="mac/u__n"/></e>
     <e lm="fìnicu"><i>fìnic</i><par n="mac/u__n"/></e>
     <e lm="finimentu"><i>finiment</i><par n="mac/u__n"/></e>
+    
+    <e lm="fune"><i>fune</i><par n="region/e__n"/></e>
+    <e lm="furone"><i>furone</i><par n="region/e__n"/></e>
+    <e lm="istrachidùdine"><i>istrachidùdine</i><par n="region/e__n"/></e>
+    <e lm="lìmpiu"><i>lìmpi</i><par n="mac/u__n"/></e>
+    <e lm="masione"><i>masione</i><par n="region/e__n"/></e>
+    <e lm="more"><i>more</i><par n="region/e__n"/></e>
+
     <e lm="finitzu"><i>finitz</i><par n="mac/u__n"/></e>
     <e lm="finòngiu"><i>finòngi</i><par n="mac/u__n"/></e>
     <e lm="fiolu"><i>fiol</i><par n="mac/u__n"/></e>
@@ -17737,6 +17748,7 @@
     <e lm="papatrigu"><i>papatrig</i><par n="mac/u__n"/></e>
     <e lm="paperatzu"><i>paperatz</i><par n="mac/u__n"/></e>
     <e lm="paperistratzu"><i>paperistratz</i><par n="mac/u__n"/></e>
+    <e lm="paperi"><i>paperi</i><par n="pane__n"/></e>
     <e lm="paperotu"><i>paperot</i><par n="mac/u__n"/></e>
     <e lm="pàpidu"><i>pàpid</i><par n="mac/u__n"/></e>
     <e lm="papìngiu"><i>papìngi</i><par n="mac/u__n"/></e>
@@ -35780,6 +35792,7 @@
     <e lm="putzinosia"><i>putzinosia</i><par n="mesa__n"/></e>
     <e lm="putzolana"><i>putzolana</i><par n="mesa__n"/></e>
     <e lm="putzu"><i>putz</i><par n="mac/u__n"/></e>
+    <e lm="babautzu"><i>babautz</i><par n="mac/u__n"/></e>
     <e lm="raba"><i>raba</i><par n="mesa__n"/></e>
     <e lm="rabanada"><i>rabanada</i><par n="mesa__n"/></e>
     <e lm="rabò"><i>rabò</i><par n="pane__n"/></e>
@@ -48284,6 +48297,7 @@
     <e lm="peibangatzu"><i>peibangatz</i><par n="frantzes/u__adj"/></e>
     <e lm="peibassu"><i>peibass</i><par n="frantzes/u__adj"/></e>
     <e lm="peibbellu"><i>peibbell</i><par n="frantzes/u__adj"/></e>
+    <e lm="ispibillu"><i>ispibill</i><par n="frantzes/u__adj"/></e>
     <e lm="peicotu"><i>peicot</i><par n="frantzes/u__adj"/></e>
     <e lm="peillone"><i>peillon</i><par n="cunservador/e__adj"/></e>
     <e lm="peisegadu"><i>peisegad</i><par n="frantzes/u__adj"/></e>
