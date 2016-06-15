@@ -287,6 +287,15 @@
       <e r="LR"><p><l>izas</l><r>illi<s n="num"/><s n="mf"/><s n="pl"/></r></p></e> <!-- @!LSC -->
     </pardef>
 
+    <pardef n="/su_de__adj" c="p.35">
+      <e r="RL"><p><l><a/>su</l><r>su<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><a/>sa</l><r>su<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>su</l><r>su<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>sa</l><r>su<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>sos</l><r>su<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>sas</l><r>su<s n="adj"/><s n="ord"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Pronomi -->
 
     <pardef n="deo__prn">
@@ -10345,13 +10354,16 @@
     <e lm="primu"><i>prim</i><par n="prim/u__adj"/></e>
     <e lm="segundu"><i>segund</i><par n="prim/u__adj"/></e>
     <e lm="segundu" r="LR"><p><l>sigund</l><r>segund</r></p><par n="prim/u__adj"/></e>
-    <e lm="tertzu"><i>tertz</i><par n="prim/u__adj"/></e>
-    <e lm="cuartu"><i>cuart</i><par n="prim/u__adj"/></e>
-    <e lm="cuartu" r="LR"><p><l>quart</l><r>cuart</r></p><par n="prim/u__adj"/></e>
+    <e lm="tertzu" r="LR" c="!LSC"><i>tertz</i><par n="prim/u__adj"/></e>
+    <e lm="cuartu" r="LR" c="!LSC"><i>cuart</i><par n="prim/u__adj"/></e>
+    <e lm="cuartu" r="LR" c="!LSC"><p><l>quart</l><r>cuart</r></p><par n="prim/u__adj"/></e>
     <e lm="ùrtimu"><i>ùrtim</i><par n="prim/u__adj"/></e>
     <e lm="ùrtimu" r="LR"><p><l>urtim</l><r>ùrtim</r></p><par n="prim/u__adj"/></e>
     <e lm="penùrtimu"><i>penùrtim</i><par n="prim/u__adj"/></e>
     <e lm="penùrtimu"><p><l>penurtim</l><r>penùrtim</r></p><par n="prim/u__adj"/></e>
+
+    <e lm="su de duos"><i></i><par n="/su_de__adj"/><p><l><b/>de<b/>duos</l><r><g><b/>de<b/>duos</g></r></p></e>
+    <e lm="su de tres"><i></i><par n="/su_de__adj"/><p><l><b/>de<b/>tres</l><r><g><b/>de<b/>tres</g></r></p></e>
 
     <e lm="cale"><i>cale</i><par n="cale__adj"/></e>
 
