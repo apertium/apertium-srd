@@ -5166,6 +5166,7 @@
     <e lm="impreu"><i>impre</i><par n="mac/u__n"/></e>
     <e lm="impreu" r="LR"><p><l>imper</l><r>impre</r></p><par n="mac/u__n"/></e>
     <e lm="ufìtziu"><i>ufìtzi</i><par n="mac/u__n"/></e>
+    <e lm="relatu"><i>relat</i><par n="mac/u__n"/></e>
     <e lm="sotziu"><i>sotzi</i><par n="mac/u__n"/></e>
     <e lm="pregiudìtziu"><i>pregiudìtzi</i><par n="mac/u__n"/></e>
     <e lm="lagu"><i>lag</i><par n="mac/u__n"/></e>
@@ -11005,6 +11006,7 @@
     <e lm="professionale"><i>professional</i><par n="fàtzil/e__adj"/></e>
     <e lm="setentrionale"><i>setentrional</i><par n="fàtzil/e__adj"/></e>
     <e lm="diagonale"><i>diagonal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="protzessuale"><i>protzessual</i><par n="fàtzil/e__adj"/></e>
     <e lm="legale"><i>legal</i><par n="fàtzil/e__adj"/></e>
     <e lm="lughente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
     <e lm="cuntraente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
@@ -19046,7 +19048,7 @@
     <e lm="sessamentu"><i>sessament</i><par n="mac/u__n"/></e>
     <e lm="sessenàrgiu"><i>sessenàrgi</i><par n="mac/u__n"/></e>
     <e lm="sestòngiu"><i>sestòngi</i><par n="mac/u__n"/></e>
-    <e lm="sestu"><i>sest</i><par n="mac/u__n"/></e>
+    <e lm="sestu"><i>sest</i><par n="amig/u__n"/></e>
     <e lm="setarismu"><i>setarism</i><par n="mac/u__n"/></e>
     <e lm="setenàriu"><i>setenàri</i><par n="mac/u__n"/></e>
     <e lm="setinu"><i>setin</i><par n="mac/u__n"/></e>
@@ -40346,7 +40348,6 @@
     <e lm="moralidade"><i>moralidad</i><par n="region/e__n"/></e>
     <e lm="mordente"><i>mordente</i><par n="pane__n"/></e>
     <e lm="mordidore"><i>mordidor</i><par n="traballador/e__n"/></e>
-    <e lm="more"><i>more</i><par n="pane__n"/></e>
     <e lm="morfinòmane"><i>morfinòmane</i><par n="pane__n"/></e>
     <e lm="mortalidade"><i>mortalidad</i><par n="region/e__n"/></e>
     <e lm="morte"><i>morte</i><par n="pane__n"/></e>
@@ -40374,7 +40375,7 @@
     <e lm="mudregone"><i>mudregone</i><par n="pane__n"/></e>
     <e lm="mugale"><i>mugale</i><par n="pane__n"/></e>
     <e lm="mugàmene"><i>mugàmene</i><par n="pane__n"/></e>
-    <e lm="mugere"><i>mugere</i><par n="pane__n"/></e>
+    <e lm="mugere"><i>mugere</i><par n="region/e__n"/></e>
     <e lm="mughe"><i>mughe</i><par n="pane__n"/></e>
     <e lm="mugnecone"><i>mugnecone</i><par n="pane__n"/></e>
     <e lm="mugone"><i>mugone</i><par n="pane__n"/></e>
@@ -40445,7 +40446,7 @@
     <e lm="natante"><i>natante</i><par n="pane__n"/></e>
     <e lm="naturale"><i>naturale</i><par n="pane__n"/></e>
     <e lm="natzionalizatzione"><i>na</i><par n="tz/z"/><i>ionaliza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="nave"><i>nave</i><par n="pane__n"/></e>
+    <e lm="nave"><i>nave</i><par n="region/e__n"/></e>
     <e lm="navigante"><i>navigante</i><par n="pane__n"/></e>
     <e lm="navigatzione"><i>naviga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="navile"><i>navile</i><par n="pane__n"/></e>
@@ -40919,7 +40920,6 @@
     <e lm="protone"><i>protone</i><par n="pane__n"/></e>
     <e lm="protonuraghe"><i>protonuraghe</i><par n="pane__n"/></e>
     <e lm="protzessione"><i>protzession</i><par n="region/e__n"/></e>
-    <e lm="protzessuale"><i>protzessuale</i><par n="pane__n"/></e>
     <e lm="provocadore"><i>provocador</i><par n="traballador/e__n"/></e>
     <e lm="provocatzione"><i>provoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="provolone"><i>provolone</i><par n="pane__n"/></e>
@@ -41113,7 +41113,7 @@
     <e lm="roulotte"><i>roulotte</i><par n="pane__n"/></e>
     <e lm="rùdere"><i>rùdere</i><par n="pane__n"/></e>
     <e lm="rue"><i>rue</i><par n="pane__n"/></e>
-    <e lm="rughe"><i>rughe</i><par n="pane__n"/></e>
+    <e lm="rughe"><i>rughe</i><par n="region/e__n"/></e>
     <e lm="rugrone"><i>rugrone</i><par n="pane__n"/></e>
     <e lm="ruiscore"><i>ruiscore</i><par n="pane__n"/></e>
     <e lm="rujore"><i>rujore</i><par n="pane__n"/></e>
@@ -41296,7 +41296,7 @@
     <e lm="suchete"><i>suchete</i><par n="pane__n"/></e>
     <e lm="sucursale"><i>sucursale</i><par n="pane__n"/></e>
     <e lm="sudore"><i>sudor</i><par n="traballador/e__n"/></e>
-    <e lm="sue"><i>sue</i><par n="pane__n"/></e>
+    <e lm="sue"><i>sue</i><par n="region/e__n"/></e>
     <e lm="suelate"><i>suelate</i><par n="pane__n"/></e>
     <e lm="suemele"><i>suemele</i><par n="pane__n"/></e>
     <e lm="sugapische"><i>sugapische</i><par n="pane__n"/></e>
@@ -43295,7 +43295,6 @@
     <e lm="ambitziosu"><i>ambitzios</i><par n="frantzes/u__adj"/></e>
     <e lm="ambrosu"><i>ambros</i><par n="frantzes/u__adj"/></e>
     <e lm="ameletzosu"><i>ameletzos</i><par n="frantzes/u__adj"/></e>
-    <e lm="amigu"><i>amig</i><par n="frantzes/u__adj"/></e>
     <e lm="amistantziosu"><i>amistantzios</i><par n="frantzes/u__adj"/></e>
     <e lm="amistosu"><i>amistos</i><par n="frantzes/u__adj"/></e>
     <e lm="amletianu"><i>amletian</i><par n="frantzes/u__adj"/></e>
@@ -48670,7 +48669,6 @@
     <e lm="pitzigheddu"><i>pitzighedd</i><par n="frantzes/u__adj"/></e>
     <e lm="pitzigosu"><i>pitzigos</i><par n="frantzes/u__adj"/></e>
     <e lm="pitzinnàrgiu"><i>pitzinnàrgi</i><par n="frantzes/u__adj"/></e>
-    <e lm="pitzinnu"><i>pitzinn</i><par n="frantzes/u__adj"/></e>
     <e lm="pitziriddinu"><i>pitziriddin</i><par n="frantzes/u__adj"/></e>
     <e lm="pitzirineddu"><i>pitzirinedd</i><par n="frantzes/u__adj"/></e>
     <e lm="pitzirinu"><i>pitzirin</i><par n="frantzes/u__adj"/></e>
@@ -49060,7 +49058,6 @@
     <e lm="regularizadu"><i>regularizad</i><par n="frantzes/u__adj"/></e>
     <e lm="reiteradu"><i>reiterad</i><par n="frantzes/u__adj"/></e>
     <e lm="relativu"><i>relativ</i><par n="frantzes/u__adj"/></e>
-    <e lm="relatu"><i>relat</i><par n="frantzes/u__adj"/></e>
     <e lm="relatzionadu"><i>rela</i><par n="tz/z"/><i>ionad</i><par n="frantzes/u__adj"/></e>
     <e lm="relichinu"><i>relichin</i><par n="frantzes/u__adj"/></e>
     <e lm="religionosu"><i>religionos</i><par n="frantzes/u__adj"/></e>
@@ -49961,7 +49958,6 @@
     <e lm="trentinu"><i>trentin</i><par n="frantzes/u__adj"/></e>
     <e lm="trepeddosu"><i>trepeddos</i><par n="frantzes/u__adj"/></e>
     <e lm="tresnuraghesu"><i>tresnuraghes</i><par n="frantzes/u__adj"/></e>
-    <e lm="tretu"><i>tret</i><par n="frantzes/u__adj"/></e>
     <e lm="tretzenu"><i>tretzen</i><par n="frantzes/u__adj"/></e>
     <e lm="treuladu"><i>treulad</i><par n="frantzes/u__adj"/></e>
     <e lm="tribuladu"><i>tribulad</i><par n="frantzes/u__adj"/></e>
