@@ -4082,7 +4082,6 @@
     <e lm="sorre"><i>sorre</i><par n="mesa__n"/></e>
     <e lm="còpia"><i>còpia</i><par n="mesa__n"/></e>
     <e lm="còpia" r="LR"><p><l>copia</l><r>còpia</r></p><par n="mesa__n"/></e>
-    <e lm="rughe"><i>rughe</i><par n="mesa__n"/></e>
     <e lm="lei"><i>lei</i><par n="mesa__n"/></e>
     <e lm="sue"><i>sue</i><par n="mesa__n"/></e>
     <e lm="memòria"><i>memòria</i><par n="mesa__n"/></e>
@@ -5432,6 +5431,9 @@
     <e lm="ministru"><i>ministr</i><par n="amig/u__n"/></e>
     <e lm="tzitadinu"><par n="tz/c"/><i>itadin</i><par n="amig/u__n"/></e>
     <e lm="istràngiu"><i>istràngi</i><par n="amig/u__n"/></e>
+    <e lm="istràngiu" r="LR"><p><l>istranz</l><r>istràngi</r></p><par n="amig/u__n"/></e>
+    <e lm="istràngiu" r="LR"><p><l>stràngi</l><r>istràngi</r></p><par n="amig/u__n"/></e>
+    <e lm="romanzu"><i>romanz</i><par n="frantzes/u__adj"/></e>
     <e lm="mastru"><i>mastr</i><par n="amig/u__n"/></e>
     <e lm="isposu"><i>ispos</i><par n="amig/u__n"/></e>
     <e lm="umanu"><i>uman</i><par n="amig/u__n"/></e>
@@ -29924,7 +29926,7 @@
     <e lm="depositàriu"><i>dipositàri</i><par n="amig/u__n"/></e>
     <e lm="escluidu"><i>escluid</i><par n="amig/u__n"/></e>
     <e lm="fache"><i>fach</i><par n="region/e__n"/></e>
-    <e lm="furone"><i>furone</i><par n="region/e__n"/></e>
+    <e lm="furone"><i>furon</i><par n="region/e__n"/></e>
     <e lm="òrdine"><i>òrdin</i><par n="region/e__n"/></e>
     <e lm="persone"><i>person</i><par n="region/e__n"/></e>
     <e lm="pibincosu"><i>pibincos</i><par n="mac/u__n"/></e>
@@ -33090,7 +33092,6 @@
     <e lm="istrampu"><i>istramp</i><par n="mac/u__n"/></e>
     <e lm="istranesa"><i>istranesa</i><par n="mesa__n"/></e>
     <e lm="istrangeria"><i>istrangeria</i><par n="mesa__n"/></e>
-    <e lm="istrangiu"><i>istrangi</i><par n="mac/u__n"/></e>
     <e lm="istrapunta"><i>istrapunta</i><par n="mesa__n"/></e>
     <e lm="istrasulada"><i>istrasulada</i><par n="mesa__n"/></e>
     <e lm="istrasura"><i>istrasura</i><par n="mesa__n"/></e>
@@ -35734,7 +35735,6 @@
     <e lm="priga"><i>priga</i><par n="mesa__n"/></e>
     <e lm="prigadura"><i>prigadura</i><par n="mesa__n"/></e>
     <e lm="primajola"><i>primajola</i><par n="mesa__n"/></e>
-    <e lm="primariu"><i>primari</i><par n="mac/u__n"/></e>
     <e lm="primatzola"><i>primatzola</i><par n="mesa__n"/></e>
     <e lm="primera"><i>primera</i><par n="mesa__n"/></e>
     <e lm="primitia"><i>primitia</i><par n="mesa__n"/></e>
@@ -38908,7 +38908,7 @@
     <e lm="corruspidone"><i>corruspidone</i><par n="pane__n"/></e>
     <e lm="corrutadore"><i>corrutador</i><par n="traballador/e__n"/></e>
     <e lm="corsale"><i>corsale</i><par n="pane__n"/></e>
-    <e lm="corte"><i>corte</i><par n="region/e__n"/></e>
+    <e lm="corte"><i>cort</i><par n="region/e__n"/></e>
     <e lm="cortile"><i>cortile</i><par n="pane__n"/></e>
     <e lm="cortisone"><i>cortisone</i><par n="pane__n"/></e>
     <e lm="cortzidore"><i>cortzidor</i><par n="traballador/e__n"/></e>
@@ -40375,7 +40375,7 @@
     <e lm="mudregone"><i>mudregone</i><par n="pane__n"/></e>
     <e lm="mugale"><i>mugale</i><par n="pane__n"/></e>
     <e lm="mugàmene"><i>mugàmene</i><par n="pane__n"/></e>
-    <e lm="mugere"><i>mugere</i><par n="region/e__n"/></e>
+    <e lm="mugere"><i>muger</i><par n="region/e__n"/></e>
     <e lm="mughe"><i>mughe</i><par n="pane__n"/></e>
     <e lm="mugnecone"><i>mugnecone</i><par n="pane__n"/></e>
     <e lm="mugone"><i>mugone</i><par n="pane__n"/></e>
@@ -40446,7 +40446,7 @@
     <e lm="natante"><i>natante</i><par n="pane__n"/></e>
     <e lm="naturale"><i>naturale</i><par n="pane__n"/></e>
     <e lm="natzionalizatzione"><i>na</i><par n="tz/z"/><i>ionaliza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="nave"><i>nave</i><par n="region/e__n"/></e>
+    <e lm="nave"><i>nav</i><par n="region/e__n"/></e>
     <e lm="navigante"><i>navigante</i><par n="pane__n"/></e>
     <e lm="navigatzione"><i>naviga</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="navile"><i>navile</i><par n="pane__n"/></e>
@@ -41113,7 +41113,7 @@
     <e lm="roulotte"><i>roulotte</i><par n="pane__n"/></e>
     <e lm="rùdere"><i>rùdere</i><par n="pane__n"/></e>
     <e lm="rue"><i>rue</i><par n="pane__n"/></e>
-    <e lm="rughe"><i>rughe</i><par n="region/e__n"/></e>
+    <e lm="rughe"><i>rugh</i><par n="region/e__n"/></e>
     <e lm="rugrone"><i>rugrone</i><par n="pane__n"/></e>
     <e lm="ruiscore"><i>ruiscore</i><par n="pane__n"/></e>
     <e lm="rujore"><i>rujore</i><par n="pane__n"/></e>
@@ -41296,7 +41296,7 @@
     <e lm="suchete"><i>suchete</i><par n="pane__n"/></e>
     <e lm="sucursale"><i>sucursale</i><par n="pane__n"/></e>
     <e lm="sudore"><i>sudor</i><par n="traballador/e__n"/></e>
-    <e lm="sue"><i>sue</i><par n="region/e__n"/></e>
+    <e lm="sue"><i>su</i><par n="region/e__n"/></e>
     <e lm="suelate"><i>suelate</i><par n="pane__n"/></e>
     <e lm="suemele"><i>suemele</i><par n="pane__n"/></e>
     <e lm="sugapische"><i>sugapische</i><par n="pane__n"/></e>
