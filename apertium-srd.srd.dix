@@ -6275,6 +6275,7 @@
     <e lm="Giappone" r="LR"><p><l>Zapone</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
     <e lm="Giappone" r="LR"><p><l>Jiaponi</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
 
+    <e lm="Islanda"><i>Islanda</i><par n="Etiòpia__np"/></e>
     <e lm="Ispagna"><i>Ispagna</i><par n="Etiòpia__np"/></e>
     <e lm="Ispagna" r="LR"><p><l>Spànnia</l><r>Ispagna</r></p><par n="Etiòpia__np"/></e>
     <e lm="Ispagna" r="LR"><p><l>Ispanna</l><r>Ispagna</r></p><par n="Etiòpia__np"/></e>
@@ -6284,7 +6285,7 @@
     <e lm="Germània" r="LR"><p><l>Germania</l><r>Germània</r></p><par n="Etiòpia__np"/></e>
     <e lm="Germània" r="LR"><p><l>Zermània</l><r>Germània</r></p><par n="Etiòpia__np"/></e>
     <e lm="Cuba"><i>Cuba</i><par n="Etiòpia__np"/></e>
-    <e lm="Canada"><i>Canada</i><par n="Etiòpia__np"/></e>
+    <e lm="Canada"><i>Canada</i><par n="Afganistàn__np"/></e>
     <e lm="Cànada" r="LR"><p><l>Cànada</l><r>Canada</r></p><par n="Etiòpia__np"/></e>
     <e lm="Austria"><i>Austria</i><par n="Etiòpia__np"/></e>
     <e lm="Àustria" r="LR"><p><l>Àustria</l><r>Austria</r></p><par n="Etiòpia__np"/></e>
@@ -6389,7 +6390,6 @@
     <e lm="Turri"><i>Turri</i><par n="Afganistàn__np"/></e>
     <e lm="Ùssara Manna"><i>Ùssara<b/>Manna</i><par n="Etiòpia__np"/></e>
     <e lm="Biddexidru"><i>Biddexidru</i><par n="Afganistàn__np"/></e>
-    <e lm="Bissa Mara"><i>Bidda<b/>Mara</i><par n="Etiòpia__np"/></e>
     <e lm="Biddanoa Forru"><i>Biddanoa<b/>Forru</i><par n="Etiòpia__np"/></e>
     <e lm="Biddanoa Franca"><i>Biddanoa<b/>Franca</i><par n="Etiòpia__np"/></e>
 
@@ -12694,7 +12694,6 @@
     <e lm="PS"><i>PS</i><par n="PNB__n"/></e>
     <e lm="Queen"><i>Queen</i><par n="Linux__np"/></e>
     <e lm="Rai"><i>Rai</i><par n="TV__n"/></e>
-    <e lm="RAI"><i>RAI</i><par n="TV__n"/></e>
     <e lm="Ralph"><i>Ralph</i><par n="Antoni__np"/></e>
     <e lm="Ray"><i>Ray</i><par n="Antoni__np"/></e>
     <e lm="Raymond"><i>Raymond</i><par n="Saussure__np"/></e>
@@ -12765,7 +12764,6 @@
     <e lm="UFC"><i>UFC</i><par n="TV__n"/></e>
     <e lm="UK"><i>UK</i><par n="Afganistàn__np"/></e>
     <e lm="Unesco"><i>Unesco</i><par n="TV__n"/></e>
-    <e lm="UNESCO"><i>UNESCO</i><par n="TV__n"/></e>
     <e lm="Universal"><i>Universal</i><par n="Fiat__np"/></e>
     <e lm="URSS"><i>URSS</i><par n="TV__n"/></e>
     <e lm="US"><i>US</i><par n="TV__n"/></e>
@@ -51042,6 +51040,7 @@
     <e r="LR" lm="Biddexidru (italianu)"><p><l>Villacidro</l><r>Biddexidru</r></p><par n="Etiòpia__np" /></e>
     <e lm="Bidda Mara"><i>Bidda<b/>Mara</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Bidda Mara (italianu)"><p><l>Villamar</l><r>Bidda<b/>Mara</r></p><par n="Etiòpia__np" /></e>
+    <e r="LR" lm="Bissa Mara"><p><l>Bissa<b/>Mara</l><r>Bidda<b/>Mara</r></p><par n="Etiòpia__np" /></e>
     <e r="LR" lm="Biddanoa Forru (italianu)"><p><l>Villanovaforru</l><r>Biddanoa<b/>Forru</r></p><par n="Etiòpia__np" /></e>
     <e r="LR" lm="Biddanoa Franca (italianu)"><p><l>Villanovafranca</l><r>Biddanoa<b/>Franca</r></p><par n="Etiòpia__np" /></e>
     <e lm="Azos"><i>Azos</i><par n="Istados_Unidos__np"/></e>
