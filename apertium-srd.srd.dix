@@ -576,6 +576,12 @@
       <e>       <p><l>as</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="vàri/u__det" c="">
+      <e>       <p><l>os</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>us</l><r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>as</l><r>u<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="un/u_àteru__det" c="">
       <e r="LR"><p><l><b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
       <e r="LR"><p><l>u<b/>ateru</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3238,18 +3244,18 @@
     <e lm="puru"><i>puru</i><par n="o__cnjcoo"/></e>
     <e lm="in fatis"><i>in<b/>fatis</i><par n="o__cnjcoo"/></e>
     <e lm="overas"><i>overas</i><par n="o__cnjcoo"/></e>
-
     <e lm="ma"><i>ma</i><par n="o__cnjcoo"/></e>
-    <e lm="però"><i>però</i><par n="duncas__cnjadv"/></e>
-    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
-    <e lm="però" r="LR"><p><l>peròe</l><r>però</r></p><par n="duncas__cnjadv"/></e>
-    <e lm="però" r="LR"><p><l>peroe</l><r>però</r></p><par n="duncas__cnjadv"/></e>
+    <e lm="però"><i>però</i><par n="o__cnjcoo"/></e>
+    <e lm="però" r="LR"><p><l>peròe</l><r>però</r></p><par n="o__cnjcoo"/></e>
+    <e lm="però" r="LR"><p><l>peroe</l><r>però</r></p><par n="o__cnjcoo"/></e>
+
     <!--<e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="sende gasi"><i>sende<b/>gasi</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="de su restu"><i>de<b/>su<b/>restu</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="antis"><i>antis</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="imbetzes"><i>imbetzes</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="cando chi"><i>cando<b/>chi</i><par n="o__cnjcoo"/></e>-->
+    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
     <e lm="in càmbiu"><i>in<b/>càmbiu</i><par n="o__cnjcoo"/></e>
     <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
     <e lm="chi"><i>chi</i><par n="chi__cnjsub"/></e>
@@ -3486,7 +3492,7 @@
     <e lm="diversu"><i>divers</i><par n="àter/u__det"/></e>
     <e lm="nisciunu"><i>nisciun</i><par n="perun/u__det"/></e>
     <e lm="niunu"><i>niun</i><par n="perun/u__det"/></e>
-    <e lm="vàriu"><i>vàri</i><par n="àter/u__det"/></e>
+    <e lm="vàriu"><i>vàri</i><par n="vàri/u__det"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__det"/></e>
     <e lm="ambos duos"><i>amb</i><par n="amb/os_duos__det"/></e>
@@ -6052,7 +6058,6 @@
     <e lm="pariga"><i>pariga</i><par n="mesa__n"/></e>
     <e lm="parre"><i>parr</i><par n="region/e__n"/></e>
     <e lm="pedde"><i>pedd</i><par n="region/e__n"/></e>
-    <e lm="penùrtimu"><i>penùrtim</i><par n="mac/u__n"/></e>
     <e lm="perdighe"><i>perdigh</i><par n="region/e__n"/></e>
     <e lm="perfetu"><i>perfet</i><par n="mac/u__n"/></e>
     <e lm="pessighidu"><i>pessighid</i><par n="mac/u__n"/></e>
@@ -10372,10 +10377,15 @@
     <e lm="tertzu" r="LR" c="!LSC"><i>tertz</i><par n="prim/u__adj"/></e>
     <e lm="cuartu" r="LR" c="!LSC"><i>cuart</i><par n="prim/u__adj"/></e>
     <e lm="cuartu" r="LR" c="!LSC"><p><l>quart</l><r>cuart</r></p><par n="prim/u__adj"/></e>
-    <e lm="ùrtimu"><i>ùrtim</i><par n="prim/u__adj"/></e>
-    <e lm="ùrtimu" r="LR"><p><l>urtim</l><r>ùrtim</r></p><par n="prim/u__adj"/></e>
-    <e lm="penùrtimu"><i>penùrtim</i><par n="prim/u__adj"/></e>
-    <e lm="penùrtimu"><p><l>penurtim</l><r>penùrtim</r></p><par n="prim/u__adj"/></e>
+
+    <e lm="ùrtimu"><i>ùrtim</i><par n="frantzes/u__adj"/></e>
+    <e lm="ùrtimu" r="LR" c="!LSC"><p><l>urtim</l><r>ùrtim</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="penùrtimu"><i>penùrtim</i><par n="frantzes/u__adj"/></e>
+    <e lm="penùrtimu" r="LR" c="!LSC"><p><l>penurtim</l><r>penùrtim</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="ùrtimu"><i>ùrtim</i><par n="amig/u__n"/></e>
+    <e lm="ùrtimu" r="LR" c="!LSC"><p><l>urtim</l><r>ùrtim</r></p><par n="amig/u__n"/></e>
+    <e lm="penùrtimu"><i>penùrtim</i><par n="amig/u__n"/></e>
+    <e lm="penùrtimu" r="LR" c="!LSC"><p><l>penurtim</l><r>penùrtim</r></p><par n="amig/u__n"/></e>
 
     <e lm="su de duos"><i></i><par n="/su_de__adj"/><p><l><b/>de<b/>duos</l><r><g><b/>de<b/>duos</g></r></p></e>
     <e lm="su de tres"><i></i><par n="/su_de__adj"/><p><l><b/>de<b/>tres</l><r><g><b/>de<b/>tres</g></r></p></e>
@@ -10589,7 +10599,6 @@
 
     <e lm="sagradu"><i>sagrad</i><par n="frantzes/u__adj"/></e>
     <e lm="piessignu"><i>piessign</i><par n="frantzes/u__adj"/></e>
-    <e lm="bolontàriu"><i>bolontàri</i><par n="frantzes/u__adj"/></e>
 
     <e lm="sovièticu"><i>sovièti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="sovièticu" r="LR"><p><l>sovieti</l><r>sovièti</r></p><par n="linguìsti/cu__adj"/></e>
@@ -11499,7 +11508,6 @@
     <e lm="pàllidu"><i>pàllid</i><par n="frantzes/u__adj"/></e>
     <e lm="parcu"><i>parc</i><par n="frantzes/u__adj"/></e>
     <e lm="pàsidu"><i>pàsid</i><par n="frantzes/u__adj"/></e>
-    <e lm="penùrtimu"><i>penùrtim</i><par n="frantzes/u__adj"/></e>
     <e lm="perigulosu"><i>perigulos</i><par n="frantzes/u__adj"/></e>
     <e lm="pretzisu"><i>pretzis</i><par n="frantzes/u__adj"/></e>
     <e lm="prevìdidu"><i>prevìdid</i><par n="frantzes/u__adj"/></e>
@@ -11537,22 +11545,56 @@
     <e lm="sulenu"><i>sulen</i><par n="frantzes/u__adj"/></e>
     <e lm="supremu"><i>suprem</i><par n="frantzes/u__adj"/></e>
     <e lm="surdu"><i>surd</i><par n="frantzes/u__adj"/></e>
+    <e lm="surdu"><i>surd</i><par n="amig/u__n"/></e>
     <e lm="tìmigu"><i>tìmig</i><par n="frantzes/u__adj"/></e>
+    <e lm="tìmigu"><i>tìmig</i><par n="amig/u__n"/></e>
     <e lm="tontu"><i>tont</i><par n="frantzes/u__adj"/></e>
+    <e lm="tontu"><i>tont</i><par n="amig/u__n"/></e>
     <e lm="tostu"><i>tost</i><par n="frantzes/u__adj"/></e>
     <e lm="tramposu"><i>trampos</i><par n="frantzes/u__adj"/></e>
+    <e lm="tramposu"><i>trampos</i><par n="amig/u__n"/></e>
     <e lm="transitòriu"><i>transitòri</i><par n="frantzes/u__adj"/></e>
     <e lm="tundu"><i>tund</i><par n="frantzes/u__adj"/></e>
     <e lm="tzurpu"><i>tzurp</i><par n="frantzes/u__adj"/></e>
+    <e lm="tzurpu"><i>tzurp</i><par n="amig/u__n"/></e>
     <e lm="umanu"><i>uman</i><par n="frantzes/u__adj"/></e>
     <e lm="universitàriu"><i>universitàri</i><par n="frantzes/u__adj"/></e>
-    <e lm="ùrtimu"><i>ùrtim</i><par n="frantzes/u__adj"/></e>
+    <e lm="universitàriu"><i>universitàri</i><par n="amig/u__n"/></e>
     <e lm="veterinàriu"><i>veterinàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="veterinàriu"><i>veterinàri</i><par n="amig/u__n"/></e>
     <e lm="virtudosu"><i>virtudos</i><par n="frantzes/u__adj"/></e>
-    <e lm="volontàriu"><i>volontàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="virtudosu"><i>virtudos</i><par n="amig/u__n"/></e>
+
     <e lm="voluntàriu"><i>voluntàri</i><par n="frantzes/u__adj"/></e>
-    <e lm="volontàriu"><i>volontàri</i><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>volontàri</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>volontari</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>boluntàri</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>boluntari</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>bolontàri</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>bolontari</l><r>voluntàri</r></p><par n="frantzes/u__adj"/></e>
     <e lm="voluntàriu"><i>voluntàri</i><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>volontàri</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>volontari</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>boluntàri</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>boluntari</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>bolontàri</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="voluntàriu" r="LR" c="!LSC"><p><l>bolontari</l><r>voluntàri</r></p><par n="amig/u__n"/></e>
+    <e lm="involuntàriu"><i>involuntàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>involontàri</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>involontari</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>inboluntàri</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>inboluntari</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>inbolontàri</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="involuntàriu" r="LR" c="!LSC"><p><l>inbolontari</l><r>involuntàri</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntariosu"><i>voluntarios</i><par n="frantzes/u__adj"/></e>
+    <e lm="voluntariosu" r="LR" c="!LSC"><p><l>volontarios</l><r>voluntarios</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntariosu" r="LR" c="!LSC"><p><l>boluntarios</l><r>voluntarios</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="voluntariosu" r="LR" c="!LSC"><p><l>bolontarios</l><r>voluntarios</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="volonteri"><i>volonter</i><par n="banduler/i__adj"/></e>
+    <e lm="volonteri" r="LR" c="!LSC"><p><l>volunter</l><r>volonter</r></p><par n="banduler/i__adj"/></e>
+    <e lm="volonteri" r="LR" c="!LSC"><p><l>bolonter</l><r>volonter</r></p><par n="banduler/i__adj"/></e>
+    <e lm="volonteri" r="LR" c="!LSC"><p><l>bolunter</l><r>volonter</r></p><par n="banduler/i__adj"/></e>
+
     <e lm="istendardu"><i>istendard</i><par n="frantzes/u__adj"/></e>
     <e lm="atmosfèricu"><i>atmosfèric</i><par n="frantzes/u__adj"/></e>
  
@@ -46317,7 +46359,6 @@
     <e lm="invasore"><i>invasor</i><par n="cunservador/e__adj"/></e>
     <e lm="invioladu"><i>inviolad</i><par n="frantzes/u__adj"/></e>
     <e lm="inviudadu"><i>inviudad</i><par n="frantzes/u__adj"/></e>
-    <e lm="involontàriu"><i>involontàri</i><par n="frantzes/u__adj"/></e>
     <e lm="iònicu"><i>iòni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="iperbòreu"><i>iperbòre</i><par n="frantzes/u__adj"/></e>
     <e lm="iperistruidu"><i>iperistruid</i><par n="frantzes/u__adj"/></e>
@@ -49748,6 +49789,7 @@
     <e lm="terteniesu"><i>tertenies</i><par n="frantzes/u__adj"/></e>
     <e lm="tertziàriu"><i>tertziàri</i><par n="frantzes/u__adj"/></e>
     <e lm="tertzùrtimu"><i>tertzùrtim</i><par n="frantzes/u__adj"/></e>
+    <e lm="tertzùrtimu"><i>tertzùrtim</i><par n="amig/u__n"/></e>
     <e lm="tesanu"><i>tesan</i><par n="frantzes/u__adj"/></e>
     <e lm="testamentàriu"><i>testamentàri</i><par n="frantzes/u__adj"/></e>
     <e lm="testarrudu"><i>testarrud</i><par n="frantzes/u__adj"/></e>
@@ -50419,10 +50461,8 @@
     <e lm="vocativu"><i>vocativ</i><par n="frantzes/u__adj"/></e>
     <e lm="volàsticu"><i>volàsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="volenterosu"><i>volenteros</i><par n="frantzes/u__adj"/></e>
-    <e lm="volonteri"><i>volonter</i><par n="banduler/i__adj"/></e>
     <e lm="voltàicu"><i>voltài</i><par n="linguìsti/cu__adj"/></e>
     <e lm="volumètricu"><i>volumètri</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="voluntariosu"><i>voluntarios</i><par n="frantzes/u__adj"/></e>
     <e lm="votadu"><i>votad</i><par n="frantzes/u__adj"/></e>
     <e lm="votivu"><i>votiv</i><par n="frantzes/u__adj"/></e>
     <e lm="vulcànicu"><i>vulcàni</i><par n="linguìsti/cu__adj"/></e>
