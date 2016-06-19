@@ -6346,8 +6346,8 @@
     <e lm="Filadèlfia"><i>Filadèlfia</i><par n="Etiòpia__np"/></e>
     <e lm="Carbònia"><i>Carbònia</i><par n="Etiòpia__np"/></e>
     <e lm="Carbònia" r="LR"><p><l>Carbonia</l><r>Carbònia</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Alighèra"><i>Alighèra</i><par n="Etiòpia__np"/></e>
-    <e lm="Alighèra" r="LR"><p><l>Alighera</l><r>Alighèra</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Alighera"><i>Alighera</i><par n="Etiòpia__np"/></e>
+    <e lm="Alighera" r="LR"><p><l>Alighèra</l><r>Alighera</r></p><par n="Etiòpia__np"/></e>
     <e lm="Dalmazia"><i>Dalmazia</i><par n="Etiòpia__np"/></e>
     <e lm="Prussia"><i>Prussia</i><par n="Etiòpia__np"/></e>
     <e lm="Lucca"><i>Lucca</i><par n="Etiòpia__np"/></e>
@@ -12561,7 +12561,7 @@
     <e lm="Emily"><i>Emily</i><par n="Maria__np"/></e>
     <e lm="Erzegovina"><i>Erzegovina</i><par n="Etiòpia__np"/></e>
     <e lm="Este"><i>Este</i><par n="Saussure__np"/></e>
-    <e lm="FAO"><i>FAO</i><par n="TV__n"/></e>
+    <e lm="Fao"><i>Fao</i><par n="TV__n"/></e>
     <e lm="FBI"><i>FBI</i><par n="TV__n"/></e>
     <e lm="FC"><i>FC</i><par n="PNB__n"/></e>
     <e lm="Fiat"><i>Fiat</i><par n="Fiat__np"/></e>
