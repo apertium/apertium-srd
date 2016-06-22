@@ -11651,7 +11651,7 @@
     <e lm="meda"><i>meda</i><par n="bene__adv"/></e>
     <e lm="posca"><i>posca</i><par n="bene__adv"/></e>
     <e lm="s'in casu mai"><i>s'in<b/>casu<b/>mai</i><par n="bene__adv"/></e>
-    <!--<e lm="a beru"><i>a<b/>beru</i><par n="bene__adv"/></e>-->
+    <e lm="a beru"><i>a<b/>beru</i><par n="bene__adv"/></e>
 
     <e lm="puru"><i>puru</i><par n="bene__adv"/></e>
     <e lm="no"><i></i><par n="/no__adv"/></e>
