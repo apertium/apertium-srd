@@ -6016,7 +6016,8 @@
     <e lm="innotzente"><i>innotzente</i><par n="pane__n"/></e>
     <e lm="installatore"><i>installator</i><par n="traballador/e__n"/></e>
     <e lm="integrazione"><i>integrazion</i><par n="region/e__n"/></e>
-    <e lm="intelligente"><i>intelligente</i><par n="pane__n"/></e>
+    <e lm="intelligente"><i>intelligent</i><par n="traballador/e__n"/></e>
+    <e lm="intelligente"><i>intelligent</i><par n="cunservador/e__adj"/></e>
     <e lm="interditu"><i>interdit</i><par n="mac/u__n"/></e>
     <e lm="internadu"><i>internad</i><par n="amig/u__n"/></e>
     <e lm="intervista"><i>intervista</i><par n="mesa__n"/></e>
@@ -45256,7 +45257,7 @@
     <e lm="epidermiceddu"><i>epidermicedd</i><par n="frantzes/u__adj"/></e>
     <e lm="epidèrmicu"><i>epidèrmi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="epilèticu"><i>epilèti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="episcopale"><i>episcopal</i><par n="cunservador/e__adj"/></e>
+    <e lm="episcopale"><i>episcopal</i><par n="fàtzil/e__adj"/></e>
     <e lm="epistolante"><i>epistolant</i><par n="fàtzil/e__adj"/></e>
     <e lm="erbale"><i>erbal</i><par n="cunservador/e__adj"/></e>
     <e lm="erbidu"><i>erbid</i><par n="frantzes/u__adj"/></e>
