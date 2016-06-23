@@ -4505,8 +4505,8 @@
     <e lm="chìmicu"><i>chìmic</i><par n="amig/u__n"/></e>
     <e lm="idràulicu"><i>idràulic</i><par n="amig/u__n"/></e>
     <e lm="mecànicu"><i>mecànic</i><par n="amig/u__n"/></e>
-    <e lm="cantone"><i>cantone</i><par n="region/e__n"/></e>
-    <e lm="cantzone"><i>cantzone</i><par n="region/e__n"/></e>
+    <e lm="cantone"><i>canton</i><par n="region/e__n"/></e>
+    <e lm="cantzone"><i>cantzon</i><par n="region/e__n"/></e>
     <e lm="presèntzia"><i>pres</i><par n="difer/èntzia__n"/></e>
     <e lm="insistèntzia"><i>insist</i><par n="difer/èntzia__n"/></e>
     <e lm="lissèntzia"><i>liss</i><par n="difer/èntzia__n"/></e>
@@ -4918,7 +4918,7 @@
 
     <e lm="esponente"><i>esponent</i><par n="albanes/e__n"/></e>
     <e lm="residente"><i>resident</i><par n="albanes/e__n"/></e>
-    <e lm="cliente"><i>cliente</i><par n="albanes/e__n"/></e>
+    <e lm="cliente"><i>client</i><par n="albanes/e__n"/></e>
     <e lm="ciclista"><i>ciclista</i><par n="dentista__n"/></e>
     <e lm="buddista"><i>buddista</i><par n="dentista__n"/></e>
     <e lm="buddista" r="LR"><p><l>buddhista</l><r>buddista</r></p><par n="dentista__n"/></e>
@@ -4955,7 +4955,7 @@
     <e lm="artista"><i>artista</i><par n="dentista__n"/></e>
     <e lm="trombettista"><i>trombettista</i><par n="dentista__n"/></e>
     <e lm="alchimista"><i>alchimista</i><par n="dentista__n"/></e>
-    <e lm="rapresentante"><i>rapresentante</i><par n="albanes/e__n"/></e>
+    <e lm="rapresentante"><i>rapresentant</i><par n="albanes/e__n"/></e>
     <e lm="analista"><i>analista</i><par n="dentista__n"/></e>
     <e lm="annalista"><i>annalista</i><par n="dentista__n"/></e>
     <e lm="copista"><i>copista</i><par n="dentista__n"/></e>
