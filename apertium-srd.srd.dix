@@ -3758,6 +3758,7 @@
     <e lm="nechesa"><i>nechesa</i><par n="mesa__n"/></e>
     <e lm="neologismu"><i>neologism</i><par n="mac/u__n"/></e>
     <e lm="pari-pari"><i>pari-pari</i><par n="pane__n"/></e>
+    <e lm="pari-pari"><i>pari-pari</i><par n="meda__adj"/></e>
     <e lm="pertzentuale"><i>pertzentual</i><par n="region/e__n"/></e> 
     <e lm="pesonante"><i>pesonante</i><par n="pane__n"/></e>
     <e lm="petorras"><i>petorras</i><par n="lapis__n"/></e>
@@ -36669,7 +36670,7 @@
     <e lm="senegadura"><i>senegadura</i><par n="mesa__n"/></e>
     <e lm="senegra"><i>senegra</i><par n="mesa__n"/></e>
     <e lm="senesia"><i>senesia</i><par n="mesa__n"/></e>
-    <e lm="sennora"><i>sennora</i><par n="mesa__n"/></e>
+    <e lm="sennore"><i>sennor</i><par n="traballador/e__n"/></e>
     <e lm="sentidu"><i>sentid</i><par n="mac/u__n"/></e>
     <e lm="sentina"><i>sentina</i><par n="mesa__n"/></e>
     <e lm="sentinella"><i>sentinella</i><par n="mesa__n"/></e>
@@ -41227,7 +41228,6 @@
     <e lm="senabre"><i>senabre</i><par n="pane__n"/></e>
     <e lm="senatoriale"><i>senatoriale</i><par n="pane__n"/></e>
     <e lm="sene"><i>sene</i><par n="pane__n"/></e>
-    <e lm="sennore"><i>sennore</i><par n="pane__n"/></e>
     <e lm="sensale"><i>sensale</i><par n="pane__n"/></e>
     <e lm="sensore"><i>sensore</i><par n="pane__n"/></e>
     <e lm="sensualidade"><i>sensualidad</i><par n="region/e__n"/></e>
