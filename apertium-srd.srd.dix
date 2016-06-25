@@ -5055,13 +5055,13 @@
     <e lm="nord"><i>nord</i><par n="nord__n"/></e>
     <e lm="nord" r="LR" c="!LSC"><p><l>norti</l><r>nord</r></p><par n="nord__n"/></e>
     <e lm="sud"><i>sud</i><par n="nord__n"/></e>
-    <e lm="otzidente"><i>otzidente</i><par n="nord__n"/></e>
-    <e lm="otzidente" r="LR"><p><l>occidente</l><r>otzidente</r></p><par n="nord__n"/></e>
     <e lm="est"><i>est</i><par n="nord__n"/></e>
     <e lm="estu"><i>estu</i><par n="nord__n"/></e>
     <e lm="ovest"><i>ovest</i><par n="nord__n"/></e>
     <e lm="ovest" r="LR" c="!LSC"><p><l>uestu</l><r>ovest</r></p><par n="nord__n"/></e>
-    <e lm="oriente"><i>oriente</i><par n="pane__n"/></e>
+    <e lm="otzidente"><i>otzidente</i><par n="nord__n"/></e>
+    <e lm="otzidente" r="LR"><p><l>occidente</l><r>otzidente</r></p><par n="nord__n"/></e>
+    <e lm="oriente"><i>oriente</i><par n="nord__n"/></e>
 
 
     <e lm="macu"><i>mac</i><par n="mac/u__n"/></e>
@@ -5513,9 +5513,7 @@
     <e lm="abrile" r="LR"><p><l>abrili</l><r>abrile</r></p><par n="pane__n"/></e>
     <e lm="abrile" r="LR"><p><l>aprile</l><r>abrile</r></p><par n="pane__n"/></e>
     <e lm="maju"><i>maj</i><par n="mac/u__n"/></e>
-    <e lm="làmpadas"><i>làmpadas</i><par n="lapis__n"/></e>
     <e lm="làmpadas" r="LR"><p><l>lampadas</l><r>làmpadas</r></p><par n="lapis__n"/></e>
-    <e lm="trìulas"><i>trìulas</i><par n="lapis__n"/></e>
     <e lm="triulas" r="LR"><p><l>triulas</l><r>trìulas</r></p><par n="lapis__n"/></e>
     <e lm="austu"><i>aust</i><par n="mac/u__n"/></e>
     <e lm="cabudanni"><i>cabudanni</i><par n="pane__n"/></e>
@@ -5610,7 +5608,6 @@
     <e lm="dura"><i>dura</i><par n="mesa__n"/></e>
     <e lm="edilìtzia"><i>edilìtzia</i><par n="mesa__n"/></e>
     <e lm="farta"><i>farta</i><par n="mesa__n"/></e>
-    <e lm="fata"><i>fata</i><par n="mesa__n"/></e>
     <e lm="finca"><i>finca</i><par n="mesa__n"/></e>
     <e lm="firma,"><i>firma,</i><par n="mesa__n"/></e>
     <e lm="fura"><i>fura</i><par n="mesa__n"/></e>
@@ -6106,7 +6103,6 @@
     <e lm="pessighidu"><i>pessighid</i><par n="mac/u__n"/></e>
     <e lm="pessone"><i>pesson</i><par n="region/e__n"/></e>
     <e lm="pessonàgiu"><i>pessonàgi</i><par n="mac/u__n"/></e>
-    <e lm="petorras"><i>petorras</i><par n="lapis__n"/></e>
     <e lm="pianta"><i>pianta</i><par n="mesa__n"/></e>
     <e lm="piessinnu"><i>piessinn</i><par n="mac/u__n"/></e>
     <e lm="pilota"><i>pilota</i><par n="pane__n"/></e>
@@ -15439,7 +15435,6 @@
     <e lm="finantziamentu"><i>finantziament</i><par n="mac/u__n"/></e>
     <e lm="findeaju"><i>findeaj</i><par n="mac/u__n"/></e>
     <e lm="finestrinu"><i>finestrin</i><par n="mac/u__n"/></e>
-    <e lm="fines"><i>fines</i><par n="lapis__n"/></e>
     <e lm="finghimentu"><i>finghiment</i><par n="mac/u__n"/></e>
     <e lm="fìnicu"><i>fìnic</i><par n="mac/u__n"/></e>
     <e lm="finimentu"><i>finiment</i><par n="mac/u__n"/></e>
@@ -40750,7 +40745,6 @@
     <e lm="pèsame"><i>pèsame</i><par n="pane__n"/></e>
     <e lm="pesantore"><i>pesantore</i><par n="pane__n"/></e>
     <e lm="pesonale"><i>pesonale</i><par n="pane__n"/></e>
-    <e lm="pesonante"><i>pesonante</i><par n="pane__n"/></e>
     <e lm="pesone"><i>pesone</i><par n="pane__n"/></e>
     <e lm="pespereghe"><i>pespereghe</i><par n="pane__n"/></e>
     <e lm="pèssighe"><i>pèssighe</i><par n="pane__n"/></e>
