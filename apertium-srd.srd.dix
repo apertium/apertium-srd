@@ -843,6 +843,15 @@
       <e>       <p><l>s</l><r><s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="àter/u__adj">
+      <e>       <p><l>u</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>o</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>a</l><r>u<s n="adj"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>os</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>us</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>as</l><r>u<s n="adj"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
 
 
     <pardef n="frantzes/u__adj" c="p.10 / 105">
@@ -3717,7 +3726,7 @@
     <e lm="biudu"><i>biud</i><par n="amig/u__n"/></e>
     <e lm="bòcia"><i>bòcia</i><par n="mesa__n"/></e>
     <e lm="bùidu"><i>bùid</i><par n="amig/u__n"/></e>
-    <e lm="burocrate"><i>burocrate</i><par n="pane__n"/></e>
+    <e lm="burocrate"><i>burocrate</i><par n="dentista__n"/></e>
     <e lm="cabarra"><i>cabarra</i><par n="mesa__n"/></e>
     <e lm="cavalieri"><i>cavalieri</i><par n="pane__n"/></e>
     <e lm="chinisa"><i>chinisa</i><par n="mesa__n"/></e>
@@ -5141,7 +5150,7 @@
     <e lm="diàmetru"><i>diàmetr</i><par n="mac/u__n"/></e>
     <e lm="rispetu"><i>rispet</i><par n="mac/u__n"/></e>
     <e lm="situ"><i>sit</i><par n="mac/u__n"/></e>
-    <e lm="profetu"><i>profet</i><par n="mac/u__n"/></e>
+    <e lm="profetu"><i>profet</i><par n="amig/u__n"/></e>
     <e lm="topònimu"><i>topònim</i><par n="mac/u__n"/></e>
     <e lm="caminu"><i>camin</i><par n="mac/u__n"/></e>
     <e lm="partidu"><i>partid</i><par n="mac/u__n"/></e>
@@ -11399,7 +11408,7 @@
     <e lm="artisanu"><i>artisan</i><par n="frantzes/u__adj"/></e>
     <e lm="assolutu"><i>assolut</i><par n="frantzes/u__adj"/></e>
     <e lm="atentu"><i>atent</i><par n="frantzes/u__adj"/></e>
-    <e lm="àteru"><i>àter</i><par n="frantzes/u__adj"/></e>
+    <e lm="àteru"><i>àter</i><par n="àter/u__adj"/></e>
     <e lm="autu"><i>aut</i><par n="frantzes/u__adj"/></e>
     <e lm="avesadu"><i>avesad</i><par n="frantzes/u__adj"/></e>
     <e lm="bagadiu"><i>bagadi</i><par n="frantzes/u__adj"/></e>
@@ -28595,7 +28604,6 @@
     <e lm="agru"><i>agr</i><par n="frantzes/u__adj"/></e>
     <e lm="allegru"><i>allegr</i><par n="frantzes/u__adj"/></e>
     <e lm="antepassadu"><i>antepassad</i><par n="frantzes/u__adj"/></e>
-    <e lm="antimàfia"><i>antimàfia</i><par n="mesa__n"/></e>
     <e lm="apostivigadu"><i>apostivigad</i><par n="frantzes/u__adj"/></e>
     <e lm="bundante"><i>bundant</i><par n="fàtzil/e__adj"/></e>
     <e lm="chervu"><i>cherv</i><par n="frantzes/u__adj"/></e>
@@ -35146,7 +35154,7 @@
     <e lm="patologia"><i>patologia</i><par n="mesa__n"/></e>
     <e lm="patotza"><i>patotza</i><par n="mesa__n"/></e>
     <e lm="patranga"><i>patranga</i><par n="mesa__n"/></e>
-    <e lm="patriarca"><i>patriarca</i><par n="mesa__n"/></e>
+    <e lm="patriarca"><i>patriarca</i><par n="pane__n"/></e>
     <e lm="patrimòniu"><i>patrimòni</i><par n="mac/u__n"/></e>
     <e lm="patriotismu"><i>patriotismu</i><par n="anarchismu__n"/></e>
     <e lm="patrùllia"><i>patrùllia</i><par n="mesa__n"/></e>
@@ -42162,7 +42170,7 @@
     <e lm="anticlericale"><i>anticlerical</i><par n="fàtzil/e__adj"/></e>
     <e lm="antifeudale"><i>antifeudal</i><par n="fàtzil/e__adj"/></e>
     <e lm="antigale"><i>antigal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="antimàfia"><i>antimàfia</i><par n="meda__adj"/></e>
+    <e lm="antimàfia"><i>antimàfia</i><par n="matessi__adj"/></e>
     <e lm="antitraditzionalista"><i>antitradi</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
     <e lm="antitzipadore"><i>antitzipador</i><par n="fàtzil/e__adj"/></e>
     <e lm="aparente"><i>aparent</i><par n="fàtzil/e__adj"/></e>
@@ -43052,7 +43060,6 @@
     <e lm="triunfale"><i>triunfal</i><par n="fàtzil/e__adj"/></e>
     <e lm="trobeale"><i>trobeal</i><par n="fàtzil/e__adj"/></e>
     <e lm="tropicale"><i>tropical</i><par n="fàtzil/e__adj"/></e>
-    <e lm="tua"><i>tua</i><par n="meda__adj"/></e>
     <e lm="tupàdile"><i>tupàdil</i><par n="fàtzil/e__adj"/></e>
     <e lm="turnista"><i>turnista</i><par n="meda__adj"/></e>
     <e lm="tutelàbile"><i>tutelàbil</i><par n="fàtzil/e__adj"/></e>
@@ -48167,7 +48174,6 @@
     <e lm="noitzu"><i>noitz</i><par n="frantzes/u__adj"/></e>
     <e lm="nominadu"><i>nominad</i><par n="frantzes/u__adj"/></e>
     <e lm="nominativu"><i>nominativ</i><par n="frantzes/u__adj"/></e>
-    <e lm="nonu"><i>non</i><par n="frantzes/u__adj"/></e>
     <e lm="noragugumesu"><i>noragugumes</i><par n="frantzes/u__adj"/></e>
     <e lm="nordafricanu"><i>nordafrican</i><par n="frantzes/u__adj"/></e>
     <e lm="nordamericanu"><i>nordamerican</i><par n="frantzes/u__adj"/></e>
