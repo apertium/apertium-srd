@@ -541,6 +541,10 @@
       <e>              <p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="issoro__adj" c="p.29">
+      <e>              <p><l></l><r><s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
     <pardef n="issoro__prn" c="p.29">
       <e>              <p><l></l><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
@@ -10417,6 +10421,8 @@
 
     <e lm="issoro"><i>issoro</i><par n="issoro__det"/></e>
     <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__det"/></e>
+    <e lm="issoro"><i>issoro</i><par n="issoro__adj"/></e>
+    <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__adj"/></e>
     <e lm="issoro"><i>issoro</i><par n="issoro__prn"/></e>
     <e lm="issoro" r="LR" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__prn"/></e>
 
