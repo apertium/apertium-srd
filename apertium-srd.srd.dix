@@ -3239,6 +3239,11 @@
       <e r="LR"><p><l>com</l><r>cum</r></p></e> <!-- @!LSC -->
     </pardef>
 
+    <pardef n="à/a">
+      <e>       <p><l>à</l><r>à</r></p></e>
+      <e r="LR"><p><l>a</l><r>à</r></p></e> <!-- @!LSC -->
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -3747,7 +3752,6 @@
     <e lm="croatu"><i>croat</i><par n="amig/u__n"/></e>
     <e lm="cualifica"><i>cualifica</i><par n="mesa__n"/></e>
     <e lm="cultismu"><i>cultism</i><par n="mac/u__n"/></e>
-    <e lm="cumponente"><i>cumponente</i><par n="pane__n"/></e>
     <e lm="decursu"><i>decurs</i><par n="mac/u__n"/></e>
     <e lm="defuntu"><i>defunt</i><par n="amig/u__n"/></e>
     <e lm="deroga"><i>deroga</i><par n="mesa__n"/></e>
@@ -3851,6 +3855,7 @@
     <e lm="mare"><i>mare</i><par n="pane__n"/></e>
     <e lm="mare" r="LR"><p><l>mari</l><r>mare</r></p><par n="pane__n"/></e>
     <e lm="cumponente"><par n="cum/com"/><i>ponent</i><par n="region/e__n"/></e>
+    <e lm="cumponente"><par n="cum/com"/><i>ponente</i><par n="pane__n"/></e>
     <e lm="podere"><i>podere</i><par n="pane__n"/></e>
     <e lm="podere" r="LR"><p><l>potere</l><r>podere</r></p><par n="pane__n"/></e>
     <e lm="sustenidore"><i>sustenidor</i><par n="traballador/e__n"/></e>
@@ -5909,7 +5914,6 @@
     <e lm="cugùmere"><i>cugùmere</i><par n="pane__n"/></e>
     <e lm="cumbata"><i>cumbata</i><par n="mesa__n"/></e>
     <e lm="cumbidare"><i>cumbidar</i><par n="region/e__n"/></e>
-    <e lm="cumbivisore"><i>cumbivisore</i><par n="pane__n"/></e>
     <e lm="cumbènnidu"><i>cumbènnid</i><par n="mac/u__n"/></e>
     <e lm="cumpostu"><par n="cum/com"/><i>post</i><par n="mac/u__n"/></e>
     <e lm="cumpridu"><par n="cum/com"/><i>prid</i><par n="mac/u__n"/></e>
@@ -10933,7 +10937,7 @@
     <e lm="binàriu"><i>binàri</i><par n="frantzes/u__adj"/></e>
     <e lm="poderosu"><i>poderos</i><par n="frantzes/u__adj"/></e>
     <e lm="fritu"><i>frit</i><par n="frantzes/u__adj"/></e>
-    <e lm="minoritàriu"><i>minoritàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="minoritàriu"><i>minorit</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="tìpicu"><i>tìpi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="tìpicu" r="LR"><p><l>tipi</l><r>tìpi</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="esternu"><i>estern</i><par n="frantzes/u__adj"/></e>
@@ -39163,6 +39167,8 @@
     <e lm="cunventzione"><i>cunven</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunvintzione"><i>cunvin</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunvividore"><par n="cun/con"/><i>vividor</i><par n="traballador/e__n"/></e>
+    <e lm="cumbivisore" r="LR" c="!LSC"><p><l>cumbivisor</l><r>cunvividor</r></p><par n="traballador/e__n"/></e>
+    <e lm="cumbivisore" r="LR" c="!LSC"><p><l>cumbividor</l><r>cunvividor</r></p><par n="traballador/e__n"/></e>
     <e lm="cunvocatzione"><i>cunvoca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cuotidianidade"><i>cuotidianidad</i><par n="region/e__n"/></e>
     <e lm="cuotziente"><i>cuotziente</i><par n="pane__n"/></e>
