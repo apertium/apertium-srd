@@ -3423,7 +3423,6 @@
     <e lm="che a"><i>che<b/></i><par n="a__pr"/></e>
     <e lm="pro mèdiu de"><i>pro<b/>m</i><par n="è/e"/><i>diu<b/></i><par n="/de__pr"/></e>
     <e lm="francu"><i>francu</i><par n="a__pr"/></e>
-    <e lm="tràmite"><i>tr</i><par n="à/a"/><i>mite</i><par n="a__pr"/></e>
     <e lm="mediante"><i>mediante</i><par n="a__pr"/></e>
     <e lm="durante"><i>durante</i><par n="a__pr"/></e>
     <!--<e lm="rasente"><i>rasente</i><par n="a__pr"/></e>-->
@@ -6351,7 +6350,6 @@
     <e lm="Cuba"><i>Cuba</i><par n="Etiòpia__np"/></e>
     <e lm="Canada"><i>Canada</i><par n="Afganistàn__np"/></e>
     <e lm="Cànada" r="LR"><p><l>Cànada</l><r>Canada</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Azerbaigiàn"><i>Azerbaigi</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Azerbaigiàn" r="LR"><p><l>Azerbaigian</l><r>Azerbaigiàn</r></p><par n="Etiòpia__np"/></e>
     <e lm="Kazakistàn"><i>Kazakist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Kazakistàn" r="LR"><p><l>Kazakistan</l><r>Kazakistàn</r></p><par n="Etiòpia__np"/></e>
@@ -6479,7 +6477,6 @@
 
     <e lm="Sudan"><i>Sudan</i><par n="Afganistàn__np"/></e>
 
-    <e lm="Afganistàn"><i>Afganist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afghanistàn</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afghanistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afganistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
@@ -11660,23 +11657,19 @@
     <e lm="serente"><i>serent</i><par n="fàtzil/e__adj"/></e>
 
 
-    <e lm="tecnologicu"><i>tecnologi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="temporale"><i>temporal</i><par n="fàtzil/e__adj"/></e>
     <e lm="protagonista"><i>protagonista</i><par n="meda__adj"/></e>
     <e lm="coladu"><i>colad</i><par n="frantzes/u__adj"/></e>
     <e lm="sollìtzitu"><i>soll</i><par n="ì/i"/><i>tzit</i><par n="frantzes/u__adj"/></e>
     <e lm="asciutu"><i>asciut</i><par n="frantzes/u__adj"/></e>
     <e lm="vicanicu"><i>vicani</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="artisticu"><i>artisti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="artìsticu"><i>artistì</i><par n="linguìsti/cu__adj"/></e>
     <e lm="austriacu"><i>austria</i><par n="linguìsti/cu__adj"/></e>
     <e lm="complessivu"><i>complessiv</i><par n="frantzes/u__adj"/></e>
-    <e lm="comicu"><i>comi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="congru"><i>congr</i><par n="frantzes/u__adj"/></e>
     <e lm="resolutu"><i>resolut</i><par n="frantzes/u__adj"/></e>
     <e lm="illètzitu"><i>ill</i><par n="è/e"/><i>tzit</i><par n="frantzes/u__adj"/></e>
     <e lm="libicu"><i>libi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="mecanicu"><i>mecani</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="numericu"><i>numeri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="respetivu"><i>respetiv</i><par n="frantzes/u__adj"/></e>
 
 
@@ -20476,7 +20469,7 @@
     <e lm="romànticu"><i>rom</i><par n="à/a"/><i>nti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="mototziclìsticu"><i>mototzicl</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="giornalìsticu"><i>giornal</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="giornalìsticu" r="LR"><p><l>ziornalìsti</l><r>giornalistic</r></p><par n="linguìsti/cu__adj"/></e>
+    <e lm="giornalìsticu" r="LR"><p><l>ziornalìsti</l><r>giornalìstic</r></p><par n="linguìsti/cu__adj"/></e>
     <e lm="umorìsticu"><i>umor</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
 
     <!-- SECTION: Verbs -->
@@ -28626,19 +28619,12 @@
     <e lm="cumpartu"><par n="cum/com"/><i>part</i><par n="frantzes/u__adj"/></e>
     <e lm="deretu"><i>deret</i><par n="frantzes/u__adj"/></e>
     <e lm="dimustrativu"><i>dimustrativ</i><par n="frantzes/u__adj"/></e>
-    <e lm="federadu"><i>federad</i><par n="frantzes/u__adj"/></e>
-    <e lm="fine"><i>fin</i><par n="fàtzil/e__adj"/></e>
     <e lm="fintu"><i>fint</i><par n="frantzes/u__adj"/></e>
     <e lm="florofaunìsticu"><i>florofaun</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="gesuita"><i>gesuita</i><par n="pane__n"/></e>
     <e lm="gùrpinu"><i>g</i><par n="ù/u"/><i>rpin</i><par n="frantzes/u__adj"/></e>
-    <e lm="impreu"><i>impre</i><par n="mac/u__n"/></e>
     <e lm="intestadu"><i>intestadu</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunsertadu"><i>iscunsertad</i><par n="frantzes/u__adj"/></e>
-    <e lm="istima"><i>istima</i><par n="mesa__n"/></e>
     <e lm="lìbicu"><i>l</i><par n="ì/i"/><i>bi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="missu"><i>miss</i><par n="mac/u__n"/></e>
-    <e lm="modde"><i>modd</i><par n="fàtzil/e__adj"/></e>
     <e lm="ordinativu"><i>ordinativ</i><par n="frantzes/u__adj"/></e>
     <e lm="organizadu"><i>organizad</i><par n="frantzes/u__adj"/></e>
     <e lm="patriotardu"><i>patriotard</i><par n="frantzes/u__adj"/></e>
@@ -28646,16 +28632,11 @@
     <e lm="pessighidu"><i>pessighid</i><par n="frantzes/u__adj"/></e>
     <e lm="politziotu"><i>politziot</i><par n="amig/u__n"/></e>
     <e lm="prantu"><i>prant</i><par n="mac/u__n"/></e>
-    <e lm="pseudònimu"><i>pseud</i><par n="ò/o"/><i>nim</i><par n="mac/u__n"/></e>
     <e lm="remenadu"><i>remenad</i><par n="frantzes/u__adj"/></e>
-    <e lm="ricursu"><i>ricurs</i><par n="mac/u__n"/></e>
     <e lm="romanicu"><i>romani</i><par n="linguìsti/cu__adj"/></e>
     <e lm="segadu"><i>segad</i><par n="frantzes/u__adj"/></e>
-    <e lm="sobra"><i>sobra</i><par n="meda__adj"/></e>
-    <e lm="sùddidu"><i>s</i><par n="ù/u"/><i>ddid</i><par n="mac/u__n"/></e>
     <e lm="sutapostu"><i>sutapost</i><par n="frantzes/u__adj"/></e>
     <e lm="sutascritu"><i>sutascrit</i><par n="frantzes/u__adj"/></e>
-    <e lm="temporale"><i>temporal</i><par n="fàtzil/e__adj"/></e>
     <e lm="tortu"><i>tort</i><par n="frantzes/u__adj"/></e>
     <e lm="turìsticu"><i>turisti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="viola"><i>viola</i><par n="meda__adj"/></e>
@@ -35759,7 +35740,6 @@
     <e lm="prantella"><i>prantella</i><par n="mesa__n"/></e>
     <e lm="prantofa"><i>prantofa</i><par n="mesa__n"/></e>
     <e lm="prantonadura"><i>prantonadura</i><par n="mesa__n"/></e>
-    <e lm="prantu"><i>prant</i><par n="mac/u__n"/></e>
     <e lm="prantzadora"><i>prantzadora</i><par n="mesa__n"/></e>
     <e lm="prantzadura"><i>prantzadura</i><par n="mesa__n"/></e>
     <e lm="prantzighedda"><i>prantzighedda</i><par n="mesa__n"/></e>
@@ -41309,7 +41289,6 @@
     <e lm="sifone"><i>sifone</i><par n="pane__n"/></e>
     <e lm="sigajone"><i>sigajone</i><par n="pane__n"/></e>
     <e lm="signalatzione"><i>signala</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="signale"><i>signale</i><par n="pane__n"/></e>
     <e lm="significadore"><i>significador</i><par n="traballador/e__n"/></e>
     <e lm="signore"><i>signore</i><par n="pane__n"/></e>
     <e lm="silentziadore"><i>silentziador</i><par n="traballador/e__n"/></e>
@@ -42044,7 +42023,6 @@
     <e lm="poleddu"><i>poledd</i><par n="amig/u__n"/></e>
     <e lm="politològicu"><i>politol</i><par n="ò/o"/><i>gic</i><par n="amig/u__n"/></e>
     <e lm="politòlogu"><i>polit</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
-    <e lm="politziotu"><i>politziot</i><par n="amig/u__n"/></e>
     <e lm="politziotu"><i>politziot</i><par n="frantzes/u__adj"/></e>
     <e lm="pontificadu"><i>pontificad</i><par n="amig/u__n"/></e>
     <e lm="pòrticu"><i>p</i><par n="ò/o"/><i>rtic</i><par n="amig/u__n"/></e>
@@ -42219,7 +42197,6 @@
     <e lm="brilliadore"><i>brilliador</i><par n="fàtzil/e__adj"/></e>
     <e lm="bronchiale"><i>bronchial</i><par n="fàtzil/e__adj"/></e>
     <e lm="brutale"><i>brutal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="bundante"><i>bundant</i><par n="fàtzil/e__adj"/></e>
     <e lm="burràbile"><i>burr</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="cabitzuda"><i>cabitzuda</i><par n="meda__adj"/></e>
     <e lm="cacuminale"><i>cacuminal</i><par n="fàtzil/e__adj"/></e>
@@ -43100,7 +43077,6 @@
     <e lm="vile"><i>vil</i><par n="fàtzil/e__adj"/></e>
     <e lm="vinculante"><i>vinculant</i><par n="fàtzil/e__adj"/></e>
     <e lm="violàbile"><i>viol</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="viola"><i>viola</i><par n="meda__adj"/></e>
     <e lm="vìrgine"><i>v</i><par n="ì/i"/><i>rgin</i><par n="fàtzil/e__adj"/></e>
     <e lm="virile"><i>viril</i><par n="fàtzil/e__adj"/></e>
     <e lm="visìbile"><i>vis</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
@@ -45029,7 +45005,6 @@
     <e lm="diminutivu"><i>diminutiv</i><par n="frantzes/u__adj"/></e>
     <e lm="dimissionàriu"><i>dimission</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="dimìtidu"><i>dim</i><par n="ì/i"/><i>tid</i><par n="frantzes/u__adj"/></e>
-    <e lm="dimustrativu"><i>dimustrativ</i><par n="frantzes/u__adj"/></e>
     <e lm="dinàmicu"><i>din</i><par n="à/a"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="dinàsticu"><i>din</i><par n="à/a"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="dìnniu"><i>d</i><par n="ì/i"/><i>nni</i><par n="frantzes/u__adj"/></e>
@@ -46629,7 +46604,6 @@
     <e lm="iscunfidadu"><i>iscunfidad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunfortadu"><i>iscunfortad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunsacradu"><i>iscunsacrad</i><par n="frantzes/u__adj"/></e>
-    <e lm="iscunsertadu"><i>iscunsertad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscunsoladu"><i>iscunsolad</i><par n="frantzes/u__adj"/></e>
     <e lm="iscuntentu"><i>iscuntent</i><par n="frantzes/u__adj"/></e>
     <e lm="iscùpidu"><i>isc</i><par n="ù/u"/><i>pid</i><par n="frantzes/u__adj"/></e>
@@ -47207,7 +47181,6 @@
     <e lm="liberincu"><i>liberin</i><par n="linguìsti/cu__adj"/></e>
     <e lm="libertàriu"><i>libert</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="libertu"><i>libert</i><par n="frantzes/u__adj"/></e>
-    <e lm="lìbicu"><i>l</i><par n="ì/i"/><i>bi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="libidinosu"><i>libidinos</i><par n="frantzes/u__adj"/></e>
     <e lm="licantzu"><i>licantz</i><par n="frantzes/u__adj"/></e>
     <e lm="licanzu"><i>licanz</i><par n="frantzes/u__adj"/></e>
