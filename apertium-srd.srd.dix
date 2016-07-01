@@ -11086,8 +11086,8 @@
     <e lm="cuntraente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
     <e lm="potente"><i>potent</i><par n="fàtzil/e__adj"/></e>
     <e lm="meridionale"><i>meridional</i><par n="fàtzil/e__adj"/></e>
-    <e lm="istandard"><i>istandard</i><par n="fàtzil/e__adj"/></e>
-    <e lm="istandard" r="LR"><p><l>standard</l><r>istandard</r></p><par n="fàtzil/e__adj"/></e>
+    <e lm="istandard"><i>istandard</i><par n="matessi__adj"/></e>
+    <e lm="istandard" r="LR"><p><l>standard</l><r>istandard</r></p><par n="matessi__adj"/></e>
     <e lm="comune"><i>comun</i><par n="fàtzil/e__adj"/></e>
     <e lm="difìtzile"><i>dif</i><par n="ì/i"/><i>tzil</i><par n="fàtzil/e__adj"/></e>
     <e lm="difìtzile" r="LR"><p><l>difizil</l><r>difìtzil</r></p><par n="fàtzil/e__adj"/></e>
