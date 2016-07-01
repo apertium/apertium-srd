@@ -3793,7 +3793,6 @@
     <e lm="islavu"><i>islav</i><par n="amig/u__n"/></e>
     <e lm="islovacu"><i>islovac</i><par n="amig/u__n"/></e>
     <e lm="ladru"><i>ladr</i><par n="amig/u__n"/></e>
-    <e lm="làmpadas"><i>l</i><par n="à/a"/><i>mpadas</i><par n="lapis__n"/></e>
     <e lm="lombardu"><i>lombard</i><par n="amig/u__n"/></e>
     <e lm="marigosu"><i>marigos</i><par n="mac/u__n"/></e>
     <e lm="matemàticu"><i>matem</i><par n="à/a"/><i>tic</i><par n="amig/u__n"/></e>
@@ -3806,9 +3805,10 @@
     <e lm="pari-pari"><i>pari-pari</i><par n="pane__n"/></e>
     <e lm="pari-pari"><i>pari-pari</i><par n="meda__adj"/></e>
     <e lm="pertzentuale"><i>pertzentual</i><par n="region/e__n"/></e> 
-    <e lm="pesonante"><i>pesonante</i><par n="pane__n"/></e>
+    <e lm="pesonante"><i>pesonant</i><par n="albanes/e__n"/></e>
     <e lm="petorras"><i>petorras</i><par n="lapis__n"/></e>
     <e lm="piricoco"><i>piricoco</i><par n="pane__n"/></e>
+    <e lm="piricoco" r="LR"><p><l>piricocco</l><r>piricoco</r></p><par n="pane__n"/></e>
     <e lm="plusbalia"><i>plusbalia</i><par n="mesa__n"/></e>
     <e lm="pòberu"><i>p</i><par n="ò/o"/><i>ber</i><par n="amig/u__n"/></e>
     <e lm="protetu"><i>protet</i><par n="mac/u__n"/></e>
@@ -3819,6 +3819,7 @@
     <e lm="sessadu"><i>sessad</i><par n="amig/u__n"/></e>
     <e lm="sofisma"><i>sofisma</i><par n="pane__n"/></e>
     <e lm="trìulas"><i>tr</i><par n="ì/i"/><i>ulas</i><par n="lapis__n"/></e>
+    <e lm="triulas" r="LR"><p><l>triulas</l><r>trìulas</r></p><par n="lapis__n"/></e>
     <e lm="vènetu"><i>v</i><par n="è/e"/><i>net</i><par n="amig/u__n"/></e>
 
     <e lm="eletore"><i>eletor</i><par n="traballador/e__n"/></e>
@@ -5558,8 +5559,6 @@
     <e lm="abrile" r="LR"><p><l>abrili</l><r>abrile</r></p><par n="pane__n"/></e>
     <e lm="abrile" r="LR"><p><l>aprile</l><r>abrile</r></p><par n="pane__n"/></e>
     <e lm="maju"><i>maj</i><par n="mac/u__n"/></e>
-    <e lm="làmpadas" r="LR"><p><l>lampadas</l><r>làmpadas</r></p><par n="lapis__n"/></e>
-    <e lm="triulas" r="LR"><p><l>triulas</l><r>trìulas</r></p><par n="lapis__n"/></e>
     <e lm="austu"><i>aust</i><par n="mac/u__n"/></e>
     <e lm="cabudanni"><i>cabudanni</i><par n="pane__n"/></e>
     <e lm="cabudanni" r="LR"><p><l>cabidanni</l><r>cabudanni</r></p><par n="pane__n"/></e>
@@ -5851,7 +5850,6 @@
     <e lm="alienadu"><i>alienad</i><par n="amig/u__n"/></e>
     <e lm="alligria"><i>alligria</i><par n="mesa__n"/></e>
     <e lm="alliongiadu"><i>alliongiad</i><par n="amig/u__n"/></e>
-    <e lm="allogaderi"><i>allogaderi</i><par n="dentista__n"/></e>
     <e lm="amantiosu"><i>amantios</i><par n="amig/u__n"/></e>
     <e lm="ambissione"><i>ambission</i><par n="region/e__n"/></e>
     <e lm="ammissione"><i>ammission</i><par n="region/e__n"/></e>
@@ -5977,7 +5975,6 @@
     <e lm="discapassu"><i>discapass</i><par n="mac/u__n"/></e>
     <e lm="discunfiàntziadu"><i>discunfi</i><par n="à/a"/><i>ntziad</i><par n="amig/u__n"/></e>
     <e lm="disocupadu"><i>disocupad</i><par n="amig/u__n"/></e>
-    <e lm="dispenseri"><i>dispenseri</i><par n="dentista__n"/></e>
     <e lm="dividendo"><i>dividendo</i><par n="pane__n"/></e>
     <e lm="dolo"><i>dolo</i><par n="pane__n"/></e>
     <e lm="dose"><i>dos</i><par n="region/e__n"/></e>
@@ -6015,7 +6012,6 @@
     <e lm="gabinetu"><i>gabinet</i><par n="mac/u__n"/></e>
     <e lm="gatiu"><i>gati</i><par n="amig/u__n"/></e>
     <e lm="geunu"><i>geun</i><par n="mac/u__n"/></e>
-    <e lm="gherreri"><i>gherreri</i><par n="dentista__n"/></e>
     <e lm="gherrileri"><i>gherrileri</i><par n="pane__n"/></e>
     <e lm="giambada"><i>giambada</i><par n="mesa__n"/></e>
     <e lm="giovaneddu"><i>giovanedd</i><par n="mac/u__n"/></e>
@@ -11525,9 +11521,6 @@
     <e lm="manuscritu"><i>manuscrit</i><par n="frantzes/u__adj"/></e>
     <e lm="massaju"><i>massaj</i><par n="frantzes/u__adj"/></e>
     <e lm="mèigu"><i>m</i><par n="è/e"/><i>ig</i><par n="frantzes/u__adj"/></e>
-    <e lm="meravilliosu"><i>meravigios</i><par n="frantzes/u__adj"/></e>
-    <e lm="meravigiosu" r="LR" c="!LSC"><p><l>meravillios</l><r>meravigios</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="meravigiosu" r="LR" c="!LSC"><p><l>meravizos</l><r>meravigios</r></p><par n="frantzes/u__adj"/></e>
     <e lm="minutu"><i>minut</i><par n="frantzes/u__adj"/></e>
     <e lm="mìscrinu"><i>m</i><par n="ì/i"/><i>scrin</i><par n="frantzes/u__adj"/></e>
     <e lm="misteriosu"><i>misterios</i><par n="frantzes/u__adj"/></e>
@@ -33137,7 +33130,6 @@
     <e lm="istea"><i>istea</i><par n="mesa__n"/></e>
     <e lm="isteca"><i>isteca</i><par n="mesa__n"/></e>
     <e lm="istecaja"><i>istecaja</i><par n="mesa__n"/></e>
-    <e lm="istemma"><i>istemma</i><par n="mesa__n"/></e>
     <e lm="istenografia"><i>istenografia</i><par n="mesa__n"/></e>
     <e lm="istentina"><i>istentina</i><par n="mesa__n"/></e>
     <e lm="istera"><i>istera</i><par n="mesa__n"/></e>
@@ -33348,7 +33340,6 @@
     <e lm="làmina"><i>l</i><par n="à/a"/><i>mina</i><par n="mesa__n"/></e>
     <e lm="lamita"><i>lamita</i><par n="mesa__n"/></e>
     <e lm="lampa"><i>lampa</i><par n="mesa__n"/></e>
-    <e lm="lampada"><i>lampada</i><par n="mesa__n"/></e>
     <e lm="làmpada"><i>l</i><par n="à/a"/><i>mpada</i><par n="mesa__n"/></e>
     <e lm="lampadina"><i>lampadina</i><par n="mesa__n"/></e>
     <e lm="làmpana"><i>l</i><par n="à/a"/><i>mpana</i><par n="mesa__n"/></e>
@@ -39424,7 +39415,6 @@
     <e lm="falange"><i>falange</i><par n="pane__n"/></e>
     <e lm="faltadore"><i>faltador</i><par n="traballador/e__n"/></e>
     <e lm="faltziatritze"><i>faltziatritze</i><par n="pane__n"/></e>
-    <e lm="fàmene"><i>f</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
     <e lm="famigore"><i>famigore</i><par n="pane__n"/></e>
     <e lm="familiaridade"><i>familiaridad</i><par n="region/e__n"/></e>
     <e lm="fanale"><i>fanale</i><par n="pane__n"/></e>
@@ -40341,7 +40331,6 @@
     <e lm="merchedale"><i>merchedale</i><par n="pane__n"/></e>
     <e lm="merdone"><i>merdone</i><par n="pane__n"/></e>
     <e lm="merdule"><i>merdule</i><par n="pane__n"/></e>
-    <e lm="mere"><i>mere</i><par n="pane__n"/></e>
     <e lm="merendone"><i>merendone</i><par n="pane__n"/></e>
     <e lm="meridione"><i>meridione</i><par n="pane__n"/></e>
     <e lm="merie"><i>merie</i><par n="pane__n"/></e>
@@ -47715,6 +47704,8 @@
     <e lm="mentzu"><i>mentz</i><par n="frantzes/u__adj"/></e>
     <e lm="meravigiadu"><i>meravigiad</i><par n="frantzes/u__adj"/></e>
     <e lm="meravigiosu"><i>meravigios</i><par n="frantzes/u__adj"/></e>
+    <e lm="meravigiosu" r="LR" c="!LSC"><p><l>meravillios</l><r>meravigios</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="meravigiosu" r="LR" c="!LSC"><p><l>meravizos</l><r>meravigios</r></p><par n="frantzes/u__adj"/></e>
     <e lm="meravilliadu"><i>meravilliad</i><par n="frantzes/u__adj"/></e>
     <e lm="mercueddidu"><i>mercueddid</i><par n="frantzes/u__adj"/></e>
     <e lm="mercuriadu"><i>mercuriad</i><par n="frantzes/u__adj"/></e>
@@ -52632,6 +52623,44 @@
     <e lm="vegetarianu"><i>vegetarian</i><par n="amig/u__n"/></e>
 
     <e lm="a disora"><i>a<b/>disora</i><par n="matessi__adj"/></e>
+
+    <e lm="aterue"><i>aterue</i><par n="bene__adv"/></e>
+    <e lm="badas"><i>badas</i><par n="bene__adv"/></e>
+    <e lm="belle"><i>belle</i><par n="bene__adv"/></e>
+    <e lm="bellu"><i>bellu</i><par n="bene__adv"/></e>
+    <e lm="cue"><i>cue</i><par n="bene__adv"/></e>
+    <e lm="etc"><i>etc</i><par n="bene__adv"/></e>
+    <e lm="fora"><i>fora</i><par n="bene__adv"/></e>
+    <e lm="forte"><i>forte</i><par n="bene__adv"/></e>
+    <e lm="giosso"><i>giosso</i><par n="bene__adv"/></e>
+    <e lm="immoi"><i>immoi</i><par n="bene__adv"/></e>
+    <e lm="incras"><i>incras</i><par n="bene__adv"/></e>
+    <e lm="in cue"><i>in<b/>cue</i><par n="bene__adv"/></e>
+    <e lm="mentras"><i>mentras</i><par n="bene__adv"/></e>
+    <e lm="non"><i>non</i><par n="bene__adv"/></e>
+    <e lm="oras"><i>oras</i><par n="bene__adv"/></e>
+    <e lm="pare"><i>pare</i><par n="bene__adv"/></e>
+    <e lm="probe"><i>probe</i><par n="bene__adv"/></e>
+    <e lm="pròpiu"><i>pròpiu</i><par n="bene__adv"/></e>
+    <e lm="segus"><i>segus</i><par n="bene__adv"/></e>
+    <e lm="s'ispissu"><i>s'ispissu</i><par n="bene__adv"/></e>
+    <e lm="via"><i>via</i><par n="bene__adv"/></e>
+
+    <e lm="allogaderi"><i>allogader</i><par n="ingegner/i__n"/></e>
+    <e lm="dessinnatzione"><i>dessinnatzion</i><par n="region/e__n"/></e>
+    <e lm="dispenseri"><i>dispenser</i><par n="ingegner/i__n"/></e>
+    <e lm="duca"><i>duca</i><par n="mesa__n"/></e>
+    <e lm="fàmene"><i>fàmen</i><par n="region/e__n"/></e>
+    <e lm="gherreri"><i>gherrer</i><par n="ingegner/i__n"/></e>
+    <e lm="illusu"><i>illus</i><par n="amig/u__n"/></e>
+    <e lm="disillusu"><i>disillus</i><par n="amig/u__n"/></e>
+    <e lm="immòbile"><i>immòbile</i><par n="pane__n"/></e>
+    <e lm="iscumpartu"><i>iscumpart</i><par n="mac/u__n"/></e>
+    <e lm="iscunsertadu"><i>iscunsertad</i><par n="amig/u__n"/></e>
+    <e lm="istemma"><i>istemma</i><par n="pane__n"/></e>
+    <e lm="làmpadas"><i>làmpadas</i><par n="lapis__n"/></e>
+    <e lm="locu"><i>loc</i><par n="mac/u__n"/></e>
+    <e lm="suspesu"><i>suspes</i><par n="amig/u__n"/></e>
 
 </section>
 
