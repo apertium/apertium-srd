@@ -637,6 +637,7 @@
     <pardef n="cont/e__n">
       <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>issa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>essa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
       <e>       <p><l>essas</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -39543,6 +39544,79 @@
     <e lm="friore"><i>friore</i><par n="pane__n"/></e>
     <e lm="friscale"><i>friscale</i><par n="pane__n"/></e>
     <e lm="frischete"><i>frischete</i><par n="pane__n"/></e>
+
+     <e lm="allogaderi"><i>allogader</i><par n="ingegner/i__n"/></e>
+     <e lm="attivista"><i>attivista</i><par n="dentista__n"/></e>
+     <e lm="birde"><i>bird</i><par n="albanes/e__n"/></e>
+     <e lm="bividore"><i>bividor</i><par n="traballador/e__n"/></e>
+     <e lm="cafè"><i>cafè</i><par n="pane__n"/></e>
+     <e lm="campione"><i>campion</i><par n="poet/a__n"/></e>
+     <e lm="consulente"><i>consulent</i><par n="albanes/e__n"/></e>
+     <e lm="cummertziante"><i>cummertziant</i><par n="albanes/e__n"/></e>
+     <e lm="cuncessore"><i>cuncessor</i><par n="traballador/e__n"/></e>
+     <e lm="cunvivente"><i>cunvivent</i><par n="albanes/e__n"/></e>
+     <e lm="càrtzere"><i>càrtzere</i><par n="pane__n"/></e>
+     <e lm="còjube"><i>còjub</i><par n="albanes/e__n"/></e>
+     <e lm="dotzente"><i>dotzent</i><par n="albanes/e__n"/></e>
+     <e lm="fine"><i>fine</i><par n="pane__n"/></e>   
+     <e lm="fine"><i>fin</i><par n="region/e__n"/></e> 
+     <e lm="franchista"><i>franchista</i><par n="dentista__n"/></e>
+     <e lm="fronte"><i>front</i><par n="region/e__n"/></e>
+     <e lm="fronte"><i>fronte</i><par n="pane__n"/></e>
+     <e lm="giudicante"><i>giudicant</i><par n="albanes/e__n"/></e>
+     <e lm="giòvia"><i>giòvia</i><par n="pane__n"/></e>
+     <e lm="gìuighe"><i>gìuigh</i><par n="cont/e__n"/></e>
+     <e lm="imbiadore"><i>imbiador</i><par n="traballador/e__n"/></e>
+     <e lm="impitadore"><i>impitador</i><par n="traballador/e__n"/></e>
+     <e lm="incartamentu"><i>incartament</i><par n="amig/u__n"/></e>
+     <e lm="ingegneri"><i>ingegner</i><par n="ingegner/i__n"/></e>
+     <e lm="ingrugiada"><i>ingrugiada</i><par n="mesa__n"/></e>
+     <e lm="interprete"><i>interpret</i><par n="albanes/e__n"/></e>
+     <e lm="natzionalitàriu"><i>natzionalitàri</i><par n="amig/u__n"/></e>
+     <e lm="parente"><i>parent</i><par n="albanes/e__n"/></e>
+     <e lm="patzifista"><i>patzifista</i><par n="dentista__n"/></e>
+     <e lm="portaboghe"><i>portabogh</i><par n="albanes/e__n"/></e>
+     <e lm="predetzessore"><i>predetzessor</i><par n="traballador/e__n"/></e>
+     <e lm="presente"><i>present</i><par n="albanes/e__n"/></e> 
+     <e lm="referendu"><i>referend</i><par n="mac/u__n"/></e>
+     <e lm="sicore"><i>sicore</i><par n="pane__n"/></e>
+     <e lm="simplesa"><i>simplesa</i><par n="mesa__n"/></e>
+     <e lm="subraprus"><i>subrapr</i><par n="temp/us__n"/></e>
+     <e lm="testimòngiu"><i>testimòngi</i><par n="amig/u__n"/></e>
+     <e lm="àrbore"><i>àrbore</i><par n="pane__n"/></e>  
+     <e lm="èuru"><i>èur</i><par n="mac/u__n"/></e>
+
+    <e lm="azeru"><i>azer</i><par n="amig/u__n"/></e>
+    <e lm="bosnìacu"><i>bosnìac</i><par n="amig/u__n"/></e>
+    <e lm="canadesu"><i>canades</i><par n="amig/u__n"/></e>
+    <e lm="contribuidore"><i>contribuidor</i><par n="traballador/e__n"/></e>
+    <e lm="danesu"><i>danes</i><par n="amig/u__n"/></e>
+    <e lm="defensore"><i>defensor</i><par n="traballador/e__n"/></e>
+    <e lm="dente"><i>dente</i><par n="pane__n"/></e>
+    <e lm="esatore"><i>esator</i><par n="traballador/e__n"/></e>
+    <e lm="finlandesu"><i>finlandes</i><par n="amig/u__n"/></e>
+    <e lm="funtziònàriu"><i>funtziònàri</i><par n="amig/u__n"/></e>
+    <e lm="giaponesu"><i>giapones</i><par n="amig/u__n"/></e>
+    <e lm="lampada"><i>lampada</i><par n="mesa__n"/></e>
+    <e lm="libertu"><i>libert</i><par n="amig/u__n"/></e>
+    <e lm="mafiosu"><i>mafios</i><par n="amig/u__n"/></e>
+    <e lm="mercante"><i>mercant</i><par n="albanes/e__n"/></e>
+    <e lm="mere"><i>mer</i><par n="albanes/e__n"/></e>
+    <e lm="musicante"><i>musicante</i><par n="albanes/e__n"/></e>
+    <e lm="nie"><i>nie</i><par n="pane__n"/></e>
+    <e lm="polonesu"><i>polones</i><par n="amig/u__n"/></e>
+    <e lm="primore"><i>primore</i><par n="pane__n"/></e>
+    <e lm="primorosu"><i>primoros</i><par n="amig/u__n"/></e>
+    <e lm="prùere"><i>prùere</i><par n="pane__n"/></e>
+    <e lm="salentinu"><i>salentin</i><par n="amig/u__n"/></e>
+    <e lm="votante"><i>votant</i><par n="albanes/e__n"/></e>
+
+    <e lm="defensore"><i>defensor</i><par n="traballador/e__n"/></e>
+    <e lm="istiale"><i>istial</i><par n="fàtzil/e__adj"/></e>
+
+    <e lm="mentres"><i>mentres</i><par n="bene__adv"/></e>
+    <e lm="casi"><i>casi</i><par n="bene__adv"/></e>
+
     <e lm="friscore"><i>friscore</i><par n="pane__n"/></e>
     <e lm="fritore"><i>fritore</i><par n="pane__n"/></e>
     <e lm="fritzione"><i>fri</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
