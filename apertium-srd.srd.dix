@@ -637,8 +637,8 @@
     <pardef n="cont/e__n">
       <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>issa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>essa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>issa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
       <e>       <p><l>essas</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
@@ -705,6 +705,7 @@
 
     <pardef n="nord__n">
       <e>       <p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
   
     <pardef n="temp/us__n">
@@ -39558,7 +39559,6 @@
      <e lm="càrtzere"><i>càrtzere</i><par n="pane__n"/></e>
      <e lm="còjube"><i>còjub</i><par n="albanes/e__n"/></e>
      <e lm="dotzente"><i>dotzent</i><par n="albanes/e__n"/></e>
-     <e lm="fine"><i>fine</i><par n="pane__n"/></e>   
      <e lm="fine"><i>fin</i><par n="region/e__n"/></e> 
      <e lm="franchista"><i>franchista</i><par n="dentista__n"/></e>
      <e lm="fronte"><i>front</i><par n="region/e__n"/></e>
@@ -39605,9 +39605,7 @@
     <e lm="musicante"><i>musicante</i><par n="albanes/e__n"/></e>
     <e lm="nie"><i>nie</i><par n="pane__n"/></e>
     <e lm="polonesu"><i>polones</i><par n="amig/u__n"/></e>
-    <e lm="primore"><i>primore</i><par n="pane__n"/></e>
     <e lm="primorosu"><i>primoros</i><par n="amig/u__n"/></e>
-    <e lm="prùere"><i>prùere</i><par n="pane__n"/></e>
     <e lm="salentinu"><i>salentin</i><par n="amig/u__n"/></e>
     <e lm="votante"><i>votant</i><par n="albanes/e__n"/></e>
 
@@ -39622,7 +39620,6 @@
     <e lm="fritzione"><i>fri</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="froàmene"><i>fro</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
     <e lm="froe"><i>froe</i><par n="pane__n"/></e>
-    <e lm="fronte"><i>fronte</i><par n="pane__n"/></e>
     <e lm="frontone"><i>frontone</i><par n="pane__n"/></e>
     <e lm="froràmene"><i>fror</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
     <e lm="frore"><i>frore</i><par n="pane__n"/></e>
