@@ -3490,6 +3490,7 @@
     <e lm="calesi siat"><i>calesi<b/>siat</i><par n="calesi_siat__prn"/></e>
     <e lm="calesi-siat" r="LR"><p><l>calesi-siat</l><r>calesi<b/>siat</r></p><par n="calesi_siat__prn"/></e>
     <e lm="calesi chi siat"><i>calesi<b/>chi<b/>siat</i><par n="calesi_siat__prn"/></e>
+    <e lm="cale si siat cosa"><i>cale<b/>si<b/>siat<b/>cosa</i><par n="calesi_siat__prn"/></e>
 
     <e lm="calesi siat"><i>calesi<b/>siat</i><par n="matessi__adj"/></e>
     <e lm="calesi cherzat"><i>calesi<b/>cherzat</i><par n="matessi__adj"/></e>
@@ -3508,6 +3509,10 @@
     <e lm="custu"><i>custu</i><par n="nudda__prn"/></e>
     <e lm="unu"><i>un</i><par n="un/u__prn"/></e>
     <e lm="tale"><i>tale</i><par n="nudda__prn"/></e>
+
+    <e lm="àteru"><i></i><par n="à/a"/><i>ter</i><par n="àter/u__prn"/></e>
+    <e lm="pagu"><i>pag</i><par n="àter/u__prn"/></e>
+
 
     <!-- SECTION: Determiners -->
 
