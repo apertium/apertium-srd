@@ -3475,14 +3475,15 @@
     <e lm="unu àteru"><i>un</i><par n="un/u_àteru__prn"/></e>
     <e lm="cadaunu"><i>cadaun</i><par n="cadaun/u__prn"/></e>
     <e lm="ognunu"><i>ognun</i><par n="cadaun/u__prn"/></e>
+    <e lm="onniunu"><i>onniun</i><par n="cadaun/u__prn"/></e>
     <e lm="cussu"><i>cussu</i><par n="cussu__prn"/></e>
     <e lm="totu"><i>tot</i><par n="totu__prn"/></e>
 
     <e lm="ambos"><i>amb</i><par n="amb/os__prn"/></e>
     <e lm="ambos duos"><p><l>ambos<b/>duos</l><r>ambos<b/>duos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="ambas duas"><p><l>ambas<b/>duas</l><r>ambos<b/>duos<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-    <e lm="unos cuantos"><p><l>unos<b/>cuantos</l><r>unos<b/>cuantos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
-    <e lm="unas cuantas"><p><l>unas<b/>cuantas</l><r>unos<b/>cuantos<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="unos cantos"><p><l>unos<b/>cantos</l><r>unos<b/>cantos<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="unas cantas"><p><l>unas<b/>cantas</l><r>unos<b/>cantos<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="perunu"><i>perun</i><par n="perun/u__prn"/></e>
     <e lm="calicunu"><i>calicun</i><par n="perun/u__prn"/></e>
     <e lm="nemos"><i>nemos</i><par n="nemos__prn"/></e>
@@ -5521,7 +5522,6 @@
 
     <e lm="santu"><i>sant</i><par n="amig/u__n"/></e>
     <e lm="santu" r="LR"><p><l>San</l><r>Santu</r></p><par n="anarchismu__n"/></e>
-    <e lm="fotografu"><i>fotograf</i><par n="amig/u__n"/></e>
     <e lm="espertu"><i>espert</i><par n="amig/u__n"/></e>
     <e lm="amigu"><i>amig</i><par n="amig/u__n"/></e>
     <e lm="patronu"><i>patron</i><par n="amig/u__n"/></e>
@@ -44106,7 +44106,6 @@
     <e lm="canischiadore"><i>canischiador</i><par n="traballador/e__n"/></e>
     <e lm="cannidu"><i>cannid</i><par n="frantzes/u__adj"/></e>
     <e lm="cannonadu"><i>cannonad</i><par n="frantzes/u__adj"/></e>
-    <e lm="canonicu"><i>canoni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="canònicu"><i>can</i><par n="ò/o"/><i>ni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="cansadu"><i>cansad</i><par n="frantzes/u__adj"/></e>
     <e lm="cansieddu"><i>cansiedd</i><par n="frantzes/u__adj"/></e>
