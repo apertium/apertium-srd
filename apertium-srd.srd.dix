@@ -6268,8 +6268,6 @@
     <e lm="rèditu"><i>r</i><par n="è/e"/><i>dit</i><par n="mac/u__n"/></e>
     <e lm="sanguìneu"><i>sangu</i><par n="ì/i"/><i>ne</i><par n="mac/u__n"/></e>
     <e lm="sanitàriu"><i>sanit</i><par n="à/a"/><i>ri</i><par n="amig/u__n"/></e>
-    <e lm="sarbadore"><i>sarbador</i><par n="traballador/e__n"/></e>
-    <e lm="sarbadore"><i>sarbador</i><par n="fàtzil/e__adj"/></e>
     <e lm="sighidu"><i>sighid</i><par n="mac/u__n"/></e>
     <e lm="simple"><i>simple</i><par n="pane__n"/></e>
     <e lm="singiale"><i>singiale</i><par n="pane__n"/></e>
@@ -6284,7 +6282,8 @@
     <e lm="suprimidu"><i>suprimid</i><par n="mac/u__n"/></e>
     <e lm="suspèndidu"><i>susp</i><par n="è/e"/><i>ndid</i><par n="amig/u__n"/></e>
     <e lm="sustennu"><i>sustenn</i><par n="mac/u__n"/></e>
-    <e lm="sutzessore"><i>sutzessore</i><par n="pane__n"/></e>
+    <e lm="sutzessore"><i>sutzessor</i><par n="traballador/e__n"/></e>
+    <e lm="sutzessore"><i>sutzessor</i><par n="fàtzil/e__adj"/></e>
     <e lm="sègliu"><i>s</i><par n="è/e"/><i>gli</i><par n="mac/u__n"/></e>
     <e lm="tesoreri"><i>tesoreri</i><par n="pane__n"/></e>
     <e lm="testarrudu"><i>testarrud</i><par n="mac/u__n"/></e>
