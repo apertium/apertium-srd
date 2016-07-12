@@ -23,6 +23,7 @@
     <sdef n="cnjcoo" c="Coordinating conjunction"/> 
     <sdef n="cnjsub" c="Subordinating conjunction"/> 
     <sdef n="cnjadv" c="Adverbial conjunction"/> 
+    <sdef n="ij"     c="Interjection"/> 
 
     <sdef n="m"      c="Masculine"/> 
     <sdef n="f"      c="Feminine"/> 
@@ -243,6 +244,12 @@
 
     <pardef n="duncas__cnjadv" c="">
       <e>       <p><l></l><r><s n="cnjadv"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Interjeccions -->
+
+    <pardef n="salude__ij" c="">
+      <e>       <p><l></l><r><s n="ij"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Preposizioni -->
@@ -1196,6 +1203,57 @@
       <e>       <p><l>aerent</l><r>àere<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e>       <p><l>àpidu</l><r>àere<s n="vbmod"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="/àere__vblex">
+      <e>       <p><l>àere</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e>
+      <e r="LR"><p><l>aer</l><r>àere<s n="vblex"/><s n="inf"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>aende</l><r>àere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+      <e r="LR"><p><l>aendi</l><r>àere<s n="vblex"/><s n="ger"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>aendi</l><r>àere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+
+      <e>       <p><l>apo</l><r>àere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r>àere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>ada</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>adi</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>amus</l><r>àere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r>àere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ana</l><r>àere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>aia</l><r>àere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aias</l><r>àere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+
+      <e r="LR"><p><l>aiada</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>aiad</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>iat</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e r="LR"><p><l>ari</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>aiat</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e>       <p><l>aìamus</l><r>àere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>aiamus</l><r>àere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>aiais</l><r>àere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>aiant</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>aian</l><r>àere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+
+      <e>       <p><l>apa</l><r>àere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>apas</l><r>àere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>apat</l><r>àere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>apamus</l><r>àere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>apais</l><r>àere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>apant</l><r>àere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>aere</l><r>àere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aeres</l><r>àere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aeret</l><r>àere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>aeremus</l><r>àere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>aereis</l><r>àere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>aerent</l><r>àere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>àpidu</l><r>àere<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
 
@@ -6442,8 +6500,6 @@
     <e lm="Turkmenistàn" r="LR"><p><l>Turkmenistan</l><r>Turkmenistàn</r></p><par n="Etiòpia__np"/></e>
     <e lm="Kirgizistàn"><i>Kirgizist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Kirgizistàn" r="LR"><p><l>Kirgizistan</l><r>Kirgizistàn</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Afganistàn"><i>Afganist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
-    <e lm="Afganistàn" r="LR"><p><l>Afganistan</l><r>Afganistàn</r></p><par n="Etiòpia__np"/></e>
     <e lm="Austria"><i>Austria</i><par n="Etiòpia__np"/></e>
     <e lm="Àustria" r="LR"><p><l>Àustria</l><r>Austria</r></p><par n="Etiòpia__np"/></e>
     <e lm="Austràlia"><i>Austr</i><par n="à/a"/><i>lia</i><par n="Etiòpia__np"/></e>
@@ -6564,9 +6620,9 @@
 
     <e lm="Sudan"><i>Sudan</i><par n="Afganistàn__np"/></e>
 
+    <e lm="Afganistàn"><i>Afganist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afghanistàn</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afghanistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Afganistàn" r="LR"><p><l>Afganistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afgànistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Biscaglia"><i>Biscaglia</i><par n="Afganistàn__np"/></e>
@@ -6579,7 +6635,6 @@
     <e lm="Mèssicu"><i>M</i><par n="è/e"/><i>ssicu</i><par n="Afganistàn__np"/></e>
     <e lm="Mèssicu" r="LR"><p><l>Messico</l><r>Mèssicu</r></p><par n="Afganistàn__np"/></e>
     <e lm="Mèssicu" r="LR"><p><l>Mexico</l><r>Mèssicu</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Mèssicu" r="LR"><p><l>Messicu</l><r>Mèssicu</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Nazaret"><i>Nazaret</i><par n="Afganistàn__np"/></e>
     <e lm="Israele"><i>Israele</i><par n="Afganistàn__np"/></e>
@@ -12000,7 +12055,7 @@
     <!--<e lm="una bia"><i>una<b/>bia</i><par n="bene__adv"/></e>-->
     <e lm="tando"><i>tando</i><par n="bene__adv"/></e>
     <e lm="ala"><i>ala</i><par n="bene__adv"/></e>
-    <e lm="aba"><i>aba</i><par n="bene__adv"/></e>
+    <e lm="aba"><i>aba</i><par n="salude__ij"/></e>
     <e lm="luego"><i>luego</i><par n="bene__adv"/></e>
     <e lm="a mesu die"><i>a<b/>mesu<b/>die</i><par n="bene__adv"/></e>
     <e lm="a mesu note"><i>a<b/>mesu<b/>note</i><par n="bene__adv"/></e>
@@ -12110,6 +12165,7 @@
 
     <e lm="èssere"><i></i><par n="/èssere__vbser"/></e>
     <e lm="àere"><i></i><par n="/àere__vbhaver"/></e>
+    <e lm="àere"><i></i><par n="/àere__vblex"/></e>
     <e lm="àere de"><i></i><par n="/àere__vbmod"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
 
     <e lm="bisogniare"><i>bisogni</i><par n="bisogni/are__vblex"/></e>
@@ -52906,6 +52962,7 @@
     <e lm="ue"><i>ue</i><par n="bene__adv"/></e>
     <e lm="una bia"><i>una<b/>bia</i><par n="bene__adv"/></e>
 
+    <e lm="salude"><i>salude</i><par n="salude__ij"/></e>
 </section>
 
   <section id="apostrophe" type="postblank">
