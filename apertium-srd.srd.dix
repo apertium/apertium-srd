@@ -2894,7 +2894,7 @@
       <e>       <p><l>ìere</l><r><s n="vblex"/><s n="inf"/></r></p></e>
 
       <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>iende</l><r>iere<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
+      <e>       <p><l>iende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e> <!-- @!LSC -->
 
       <e>       <p><l>issu</l><r><s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>issa</l><r><s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -3336,6 +3336,16 @@
     <pardef n="cum/com">
       <e>       <p><l>cum</l><r>cum</r></p></e>
       <e r="LR"><p><l>com</l><r>cum</r></p></e> <!-- @!LSC -->
+    </pardef>
+
+    <pardef n="gn/nn">
+      <e>       <p><l>gn</l><r>gn</r></p></e>
+      <e r="LR"><p><l>nn</l><r>gn</r></p></e>
+    </pardef>
+
+    <pardef n="e/i">
+      <e>       <p><l>e</l><r>e</r></p></e>
+      <e r="LR"><p><l>i</l><r>e</r></p></e> <!-- @!LSC -->
     </pardef>
 
     <pardef n="à/a">
@@ -12214,7 +12224,6 @@
     <e lm="valorizare"><i>valoriz</i><par n="cant/are__vblex"/></e>
     <e lm="punnare"><i>punn</i><par n="cant/are__vblex"/></e>
     <e lm="pregontare"><i>pregont</i><par n="cant/are__vblex"/></e>
-    <e lm="pregontare" r="LR"><p><l>pregunt</l><r>pregont</r></p><par n="cant/are__vblex"/></e>
     <e lm="dimandare"><i>dimand</i><par n="cant/are__vblex"/></e>
     <e lm="megiorare"><i>megior</i><par n="cant/are__vblex"/></e>
     <e lm="megiorare" r="LR"><p><l>mezor</l><r>megior</r></p><par n="cant/are__vblex"/></e>
@@ -12243,7 +12252,6 @@
     <e lm="cundennare" r="LR"><p><l>cundann</l><r>cundenn</r></p><par n="cant/are__vblex"/></e>
     <e lm="progettare"><i>progett</i><par n="cant/are__vblex"/></e>
     <e lm="relatare"><i>relat</i><par n="cant/are__vblex"/></e>
-    <e lm="destintare"><i>destin</i><par n="cant/are__vblex"/></e>
     <e lm="influentzare"><i>influentz</i><par n="cant/are__vblex"/></e>
     <e lm="italianisare"><i>italianis</i><par n="cant/are__vblex"/></e>
     <e lm="preoccupare"><i>preoccup</i><par n="cant/are__vblex"/></e>
@@ -12300,7 +12308,6 @@
     <e lm="permìtere"><p><l>permìt</l><r>permìtere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="permìtere"><p><l>permit</l><r>permìtere</r></p><par n="tim/o__vblex"/></e>
 
-    <e lm="divenire"><i>diven</i><par n="fin/ire__vblex"/></e>
     <!--<e lm="trasire"><i>tras</i><par n="fin/ire__vblex"/></e>-->
     <e lm="costruire"><i>costru</i><par n="fin/ire__vblex"/></e>
     <e lm="cunstituire"><par n="cun/con"/><i>stitu</i><par n="fin/ire__vblex"/></e>
@@ -12461,7 +12468,6 @@
     <e lm="arrenèschere"><p><l>arrenesc</l><r>arrenèschere</r></p><par n="aesc/o__vblex"/></e>
     <e lm="arrivare"><i>arriv</i><par n="cant/are__vblex"/></e>
     <e lm="asciutare"><i>asciut</i><par n="cant/are__vblex"/></e>
-    <e lm="astrare"><i>astr</i><par n="cant/are__vblex"/></e>
     <e lm="atrevire"><p><l>atrev</l><r>atrevire</r></p><par n="ped/ire__vblex"/></e>
     <e lm="caentare"><i>caent</i><par n="cant/are__vblex"/></e>
     <e lm="concluire"><p><l>conclu</l><r>concluire</r></p><par n="ped/ire__vblex"/></e>
@@ -12473,7 +12479,7 @@
     <e lm="dansare"><i>dans</i><par n="cant/are__vblex"/></e>
     <e lm="defèndere"><p><l>defènd</l><r>defèndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="defèndere"><p><l>defend</l><r>defèndere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="dessignare"><i>dessign</i><par n="cant/are__vblex"/></e>
+    <e lm="dessignare"><i>dessi</i><par n="gn/nn"/><i></i><par n="cant/are__vblex"/></e>
     <e lm="dipositare"><p><l>diposit</l><r>dipositare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="dipositare"><p><l>dipòsit</l><r>dipositare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="dubbitare"><p><l>dubbit</l><r>dubbitare</r></p><par n="vigil/are__vblex"/></e>
@@ -21962,7 +21968,7 @@
     <e lm="insambenare"><i>insamben</i><par n="cant/are__vblex"/></e>
     <e lm="insambentare"><i>insambent</i><par n="cant/are__vblex"/></e>
     <e lm="inseddare"><i>insedd</i><par n="cant/are__vblex"/></e>
-    <e lm="insegnare"><i>insegn</i><par n="cant/are__vblex"/></e>
+    <e lm="insegnare"><i>ins</i><par n="e/i"/><i>gn</i><par n="cant/are__vblex"/></e>
     <e lm="inserrare"><i>inserr</i><par n="cant/are__vblex"/></e>
     <e lm="insertare"><i>insert</i><par n="cant/are__vblex"/></e>
     <e lm="insingiare"><i>insing</i><par n="assing/iare__vblex"/></e>
@@ -25038,6 +25044,8 @@
     <e lm="diferentziare"><p><l>diferèntzi</l><r>diferentziare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="dignificare"><p><l>dignific</l><r>dignificare</r></p><par n="aplic/are__vblex"/></e>
     <e lm="dignificare"><p><l>dignìfic</l><r>dignificare</r></p><par n="àplic/o__vblex"/></e>
+    <e r="LR" lm="dinnificare"><p><l>dinnific</l><r>dignificare</r></p><par n="aplic/are__vblex"/></e>
+    <e r="LR" lm="dinnificare"><p><l>dinnìfic</l><r>dignificare</r></p><par n="àplic/o__vblex"/></e>
     <e lm="dilliriare"><p><l>dilliri</l><r>dilliriare</r></p><par n="vigil/are__vblex"/></e>
     <e lm="dilliriare"><p><l>dillìri</l><r>dilliriare</r></p><par n="vìgil/o__vblex"/></e>
     <e lm="dindonare"><p><l>dindon</l><r>dindonare</r></p><par n="vigil/are__vblex"/></e>
