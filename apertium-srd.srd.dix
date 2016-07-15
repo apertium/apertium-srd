@@ -11789,7 +11789,9 @@
     <e lm="belle"><i>belle</i><par n="guasi__preadv"/></e>
     <e lm="fin"><i>fin</i><par n="guasi__preadv"/></e>
     <e lm="finas"><i>finas</i><par n="guasi__preadv"/></e>
-    <e lm="bene`"><i>bene`</i><par n="guasi__preadv"/></e>
+    <e lm="bene`"><i>bene</i><par n="guasi__preadv"/></e>
+    <e lm="male`"><i>male</i><par n="guasi__preadv"/></e>
+    <e lm="meda`"><i>meda</i><par n="guasi__preadv"/></e>
     <e lm="aici"><i>aici</i><par n="guasi__preadv"/></e>
 
 
@@ -41595,6 +41597,7 @@
     <e lm="testirde"><i>testirde</i><par n="pane__n"/></e>
     <e lm="testone"><i>testone</i><par n="pane__n"/></e>
     <e lm="testùine"><i>test</i><par n="ù/u"/><i>ine</i><par n="pane__n"/></e>
+    <e lm="testùine"><i>test</i><par n="ù/u"/><i>in</i><par n="region/e__n"/></e>
     <e lm="tetemeche"><i>tetemeche</i><par n="pane__n"/></e>
     <e lm="teterigore"><i>teterigore</i><par n="pane__n"/></e>
     <e lm="teterore"><i>teterore</i><par n="pane__n"/></e>
@@ -42064,6 +42067,7 @@
     <e lm="festeri"><i>fester</i><par n="ingegner/i__n"/></e>
     <e lm="fidantzadu"><i>fidantzad</i><par n="amig/u__n"/></e>
     <e lm="fidutziàriu"><i>fidutzi</i><par n="à/a"/><i>ri</i><par n="amig/u__n"/></e>
+    <e lm="fidutziàriu"><i>fidutzi</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="figiastru"><i>figiastr</i><par n="amig/u__n"/></e>
     <e lm="figieddu"><i>figiedd</i><par n="amig/u__n"/></e>
     <e lm="figiolu"><i>figiol</i><par n="amig/u__n"/></e>
@@ -52951,11 +52955,13 @@
     <e lm="brexit"><i>brexit</i><par n="mesa__n"/></e>
 
     <e lm="sobràntzia"><i>sobr</i><par n="import/àntzia__n"/></e>
-    <e lm="testùine"><i>test</i><par n="ù/u"/><i>in</i><par n="region/e__n"/></e>
     <e lm="cunfiantziàriu"><par n="cun/con"/><i>fiantziàri</i><par n="frantzes/u__adj"/></e>
     <e lm="abitudinàriu"><i>abitudin</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="cuntzessionàriu"><par n="cun/con"/><i>tzessionàri</i><par n="frantzes/u__adj"/></e>
     <e lm="porrogu"><i>porrog</i><par n="frantzes/u__adj"/></e>
+
+    <e lm="a manera òvia"><i>a<b/>manera<b/>òvia</i><par n="bene__adv"/></e>
+    <e lm="a manera lògica"><i>a<b/>manera<b/>lògica</i><par n="bene__adv"/></e>
 
 </section>
 
