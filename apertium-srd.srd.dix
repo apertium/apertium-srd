@@ -68,6 +68,7 @@
     <sdef n="ger"    c="Gerund"/> 
     <sdef n="inf"    c="Infinitive"/> 
     <sdef n="imp"    c="Imperative"/> 
+    <sdef n="fti"    c="Future"/>
 
     <sdef n="sent"   c="Sentence marker"/> 
     <sdef n="cm"     c="Comma"/> 
@@ -12617,6 +12618,9 @@
     <e lm="b'at" r="LR"><p><l>c'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>ch'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>nc'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="b'ant"><p><l>b'ant</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+    <e lm="b'at a àere"><p><l>b'at<b/>a<b/>àere</l><r>b'at<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="b'ant a àere"><p><l>b'ant<b/>a<b/>àere</l><r>b'at<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
     <!-- SECTION: Inclusions massives -->
 
@@ -45013,8 +45017,6 @@
     <e lm="cussentziosu"><i>cussentzios</i><par n="frantzes/u__adj"/></e>
     <e lm="cussigiadore"><i>cussigiador</i><par n="cunservador/e__adj"/></e>
     <e lm="cussigiadore"><i>cussigiador</i><par n="traballador/e__n"/></e>
-    <e lm="cussu"><i>cuss</i><par n="frantzes/u__adj"/></e>
-    <e lm="custu"><i>cust</i><par n="frantzes/u__adj"/></e>
     <e lm="cuzinesu"><i>cuzines</i><par n="frantzes/u__adj"/></e>
     <e lm="dadivosu"><i>dadivos</i><par n="frantzes/u__adj"/></e>
     <e lm="dadore"><i>dador</i><par n="cunservador/e__adj"/></e>
