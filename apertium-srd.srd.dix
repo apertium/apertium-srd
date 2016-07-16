@@ -2562,6 +2562,34 @@
     </pardef>
 
 
+    <pardef n="sol/o__vblex"> <!-- como tim/o__vblex, pero sin imp, pis, ifi -->
+      <e>       <p><l>o</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>es</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>et</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>imus</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ides</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ent</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ia</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ias</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>iat</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ìamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>iamus</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+      <e>       <p><l>iais</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>iant</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>a</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>at</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ais</l><r><s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ant</l><r><s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ende</l><r><s n="vblex"/><s n="ger"/><j/></r></p><par n="S__cantende"/></e>
+    </pardef>
+
+
     <pardef n="tìng/here__vblex">	<!-- paradigma I del curretore ortogràficu para verbos en [cg]here, excepto schere -->
       <e>       <p><l>here</l><r><s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
@@ -28038,7 +28066,7 @@
     <e lm="sètzere"><p><l>sètz</l><r>sètzere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="sètzere"><p><l>setz</l><r>sètzere</r></p><par n="tim/o__vblex"/></e>
     <e lm="sòlere"><p><l>sòl</l><r>sòlere</r></p><par n="tìm/ere__vblex"/></e>
-    <e lm="sòlere"><p><l>sol</l><r>sòlere</r></p><par n="tim/o__vblex"/></e>
+    <e lm="sòlere"><p><l>sol</l><r>sòlere</r></p><par n="sol/o__vblex"/></e>
     <e lm="sòrbere"><p><l>sòrb</l><r>sòrbere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="sòrbere"><p><l>sorb</l><r>sòrbere</r></p><par n="tim/o__vblex"/></e>
     <e lm="subèrghere"><p><l>subèrg</l><r>subèrghere</r></p><par n="tìng/here__vblex"/></e>
