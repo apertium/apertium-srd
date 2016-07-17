@@ -3446,12 +3446,11 @@
     <e lm="chi"><i>chi</i><par n="chi__rel"/></e>
     <e lm="cale"><i>cale</i><par n="chi__rel"/></e> <!-- CHECK -->
 
-    <!-- Probablemente esto es un rel.adv -->
-    <e lm="comente"><i>comente</i><par n="chi__cnjsub"/></e>
-    <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
-    <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
-    <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="chi__cnjsub"/></e>
-    <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="chi__cnjsub"/></e>
+    <e lm="comente"><i>comente</i><par n="cando__rel"/></e>
+    <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="cando__rel"/></e>
+    <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="cando__rel"/></e>
+    <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="cando__rel"/></e>
+    <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="cando__rel"/></e>
 
     <e lm="cando"><i>cando</i><par n="cando__rel"/></e>
     <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="cando__rel"/></e>
