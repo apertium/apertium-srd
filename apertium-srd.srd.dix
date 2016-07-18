@@ -8,6 +8,7 @@
     <sdef n="det"    c="Determiner"/> 
     <sdef n="abbr"   c="Abbreviation"/> 
     <sdef n="acr"    c="Acronym"/> 
+    <sdef n="percent"    c=""/>
     <sdef n="adv"    c="Adverb"/> 
     <sdef n="preadv" c="Pre-adverb"/> 
     <sdef n="predet" c="Pre-determiner"/> 
@@ -107,6 +108,8 @@
 
     <pardef n="numeros">
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l>°</l><r>°<s n="num"/></r></p></e> <!-- degree -->
     </pardef>
 
     <!-- SECTION: Clitics -->
@@ -2612,6 +2615,7 @@
       <e>       <p><l>e</l><r><s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
       <e>       <p><l>at</l><r><s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>amus</l><r><s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>amus</l><r><s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__canta"/></e>
       <e>       <p><l>ide</l><r><s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>ide</l><r><s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__canta"/></e>
       <e>       <p><l>ant</l><r><s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
