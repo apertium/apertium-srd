@@ -10864,8 +10864,6 @@
     <e lm="giapponesu"><i>giappones</i><par n="frantzes/u__adj"/></e>
     <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
     <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="svedesu"><i>svedes</i><par n="frantzes/u__adj"/></e>
-    <e lm="svedesu" r="LR"><p><l>ivedes</l><r>svedes</r></p><par n="frantzes/u__adj"/></e>
     <e lm="frantzesu"><i>frantzes</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu"><i>ingles</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="frantzes/u__adj"/></e>
@@ -10953,8 +10951,6 @@
     <e lm="giapponesu"><i>giappones</i><par n="amig/u__n"/></e>
     <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
     <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
-    <e lm="svedesu"><i>svedes</i><par n="amig/u__n"/></e>
-    <e lm="svedesu" r="LR"><p><l>ivedes</l><r>svedes</r></p><par n="amig/u__n"/></e>
     <e lm="frantzesu"><i>frantzes</i><par n="amig/u__n"/></e>
     <e lm="inglesu"><i>ingles</i><par n="amig/u__n"/></e>
     <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="amig/u__n"/></e>
@@ -47212,6 +47208,10 @@
     <e lm="isvantagiosu"><i>isvantagios</i><par n="frantzes/u__adj"/></e>
     <e lm="isvedesu"><i>isvedes</i><par n="frantzes/u__adj"/></e>
     <e lm="isvedesu"><i>isvedes</i><par n="amig/u__n"/></e>
+    <e lm="svedesu" r="LR"><p><l>svedes</l><r>isvedes</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="svedesu" r="LR"><p><l>svedes</l><r>isvedes</r></p><par n="amig/u__n"/></e>
+    <e lm="svedesu" r="LR"><p><l>ivedes</l><r>isvedes</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="svedesu" r="LR"><p><l>ivedes</l><r>isvedes</r></p><par n="amig/u__n"/></e>
     <e lm="isvioladu"><i>isviolad</i><par n="frantzes/u__adj"/></e>
     <e lm="isvirginadu"><i>isvirginad</i><par n="frantzes/u__adj"/></e>
     <e lm="isvirginare"><i>isvirginar</i><par n="cunservador/e__adj"/></e>
