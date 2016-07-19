@@ -32227,7 +32227,7 @@
     <e lm="gentòria"><i>gent</i><par n="ò/o"/><i>ria</i><par n="mesa__n"/></e>
     <e lm="gentziana"><i>gentziana</i><par n="mesa__n"/></e>
     <e lm="geologia"><i>geologia</i><par n="mesa__n"/></e>
-    <e lm="geòmetra"><i>ge</i><par n="ò/o"/><i>metra</i><par n="mesa__n"/></e>
+    <e lm="geòmetra"><i>ge</i><par n="ò/o"/><i>metra</i><par n="pane__n"/></e>
     <e lm="geometria"><i>geometria</i><par n="mesa__n"/></e>
     <e lm="geopolìtica"><i>geopol</i><par n="ì/i"/><i>tica</i><par n="mesa__n"/></e>
     <e lm="geosinonimia"><i>geosinonimia</i><par n="mesa__n"/></e>
@@ -46057,7 +46057,7 @@
     <e lm="genovesu"><i>genoves</i><par n="frantzes/u__adj"/></e>
     <e lm="genuinu"><i>genuin</i><par n="frantzes/u__adj"/></e>
     <e lm="geològicu"><i>geol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="geòlogu"><i>ge</i><par n="ò/o"/><i>log</i><par n="frantzes/u__adj"/></e>
+    <e lm="geòlogu"><i>ge</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
     <e lm="geomètricu"><i>geom</i><par n="è/e"/><i>tri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="geopolìticu"><i>geopol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="georgianu"><i>georgian</i><par n="frantzes/u__adj"/></e>
@@ -53147,6 +53147,9 @@
     <e lm="a manera generale"><i>a<b/>manera<b/>generale</i><par n="bene__adv"/></e>
     <e lm="a manera generosa"><i>a<b/>manera<b/>generosa</i><par n="bene__adv"/></e>
     <e lm="a manera geogràfica"><i>a<b/>manera<b/>geogràfica</i><par n="bene__adv"/></e>
+    <e lm="a manera geològica"><i>a<b/>manera<b/>geològica</i><par n="bene__adv"/></e>
+    <e lm="a manera geomètrica"><i>a<b/>manera<b/>geomètrica</i><par n="bene__adv"/></e>
+    <e lm="a manera architetònica"><i>a<b/>manera<b/>architetònica</i><par n="bene__adv"/></e>
     <e lm="a manera giurìdica"><i>a<b/>manera<b/>giurìdica</i><par n="bene__adv"/></e>
     <e lm="a manera giusta"><i>a<b/>manera<b/>giusta</i><par n="bene__adv"/></e>
     <e lm="a manera gloriosa"><i>a<b/>manera<b/>gloriosa</i><par n="bene__adv"/></e>
