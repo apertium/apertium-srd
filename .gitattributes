@@ -14,7 +14,6 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
-/printzipeddu.txt -text
 /srd.prob -text svneol=unset#unset
 /test_verbs.bash -text
 texts/cuento.vislcg.txt -text
