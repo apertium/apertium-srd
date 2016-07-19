@@ -11413,7 +11413,7 @@
     <e lm="auspicàbile"><i>auspic</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="autorizàbile"><i>autoriz</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="averiguàbile"><i>averigu</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="bendidore"><i>bendidor</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bendidore"><i>bendidor</i><par n="cunservador/e__adj"/></e>
     <e lm="bilìngue"><i>bil</i><par n="ì/i"/><i>ngu</i><par n="fàtzil/e__adj"/></e>
     <e lm="bimestrale"><i>bimestral</i><par n="fàtzil/e__adj"/></e>
     <e lm="causale"><i>causal</i><par n="fàtzil/e__adj"/></e>
@@ -18072,7 +18072,7 @@
     <e lm="padrenostru"><i>padrenostr</i><par n="mac/u__n"/></e>
     <e lm="padrinu"><i>padrin</i><par n="mac/u__n"/></e>
     <e lm="padronadu"><i>padronad</i><par n="mac/u__n"/></e>
-    <e lm="padronu"><i>padron</i><par n="mac/u__n"/></e>
+    <e lm="padronu"><i>padron</i><par n="amig/u__n"/></e>
     <e lm="padru"><i>padr</i><par n="mac/u__n"/></e>
     <e lm="paesàgiu"><i>paes</i><par n="à/a"/><i>gi</i><par n="mac/u__n"/></e>
     <e lm="pagamentu"><i>pagament</i><par n="mac/u__n"/></e>
@@ -41154,7 +41154,6 @@
     <e lm="presentadore"><i>presentador</i><par n="traballador/e__n"/></e>
     <e lm="presente"><i>presente</i><par n="pane__n"/></e>
     <e lm="prèside"><i>pr</i><par n="è/e"/><i>side</i><par n="pane__n"/></e>
-    <e lm="presse"><i>presse</i><par n="pane__n"/></e>
     <e lm="prestigiadore"><i>prestigiador</i><par n="traballador/e__n"/></e>
     <e lm="presuntzione"><i>presun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="pretatzione"><i>preta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -43000,7 +42999,7 @@
     <e lm="pendente"><i>pendent</i><par n="fàtzil/e__adj"/></e>
     <e lm="pendentile"><i>pendentil</i><par n="fàtzil/e__adj"/></e>
     <e lm="penitente"><i>penitent</i><par n="fàtzil/e__adj"/></e>
-    <e lm="pensadore"><i>pensador</i><par n="fàtzil/e__adj"/></e>
+    <e lm="pensadore"><i>pensador</i><par n="cunservador/e__adj"/></e>
     <e lm="pènsile"><i>p</i><par n="è/e"/><i>nsil</i><par n="fàtzil/e__adj"/></e>
     <e lm="perale"><i>peral</i><par n="fàtzil/e__adj"/></e>
     <e lm="perfetzionista"><i>perfe</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
