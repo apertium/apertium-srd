@@ -651,10 +651,27 @@
       <e>       <p><l>e</l><r>e<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l><r>e<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>essa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>issa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>issa</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
       <e r="LR"><p><l>esse</l><r>e<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
       <e>       <p><l>essas</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
+    </pardef>
+
+    <pardef n="pr/ìntzipe__n">
+      <e>       <p><l>ìntzipe</l><r>ìntzipe<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>intzipe</l><r>ìntzipe<s n="n"/><s n="m"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>incipe</l><r>ìntzipe<s n="n"/><s n="m"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e>       <p><l>ìntzipes</l><r>ìntzipe<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>intzipes</l><r>ìntzipe<s n="n"/><s n="m"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>incipes</l><r>ìntzipe<s n="n"/><s n="m"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e>       <p><l>intzipessa</l><r>ìntzipe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>intzipissa</l><r>ìntzipe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>intzipesse</l><r>ìntzipe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>incipissa</l><r>ìntzipe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>incipesse</l><r>ìntzipe<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e>       <p><l>intzipessas</l><r>ìntzipe<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>intzipesses</l><r>ìntzipe<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>incipesses</l><r>ìntzipe<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
     </pardef>
 
     <pardef n="re__n">
@@ -4124,7 +4141,6 @@
     <e lm="poeta"><i>poet</i><par n="poet/a__n"/></e>
     <e lm="conte"><i>cont</i><par n="cont/e__n"/></e>
     <e lm="barone"><i>baron</i><par n="cont/e__n"/></e>
-    <e lm="printzipe"><i>printzip</i><par n="cont/e__n"/></e>
     <e lm="atore"><i>ator</i><par n="cont/e__n"/></e>
     <e lm="atore" r="LR"><p><l>attor</l><r>ator</r></p><par n="cont/e__n"/></e>
     <e lm="atore" r="LR"><p><l>attrice</l><r>atore</r></p><par n="mesa__n"/></e>
@@ -36009,7 +36025,7 @@
     <e lm="primitzia"><i>primitzia</i><par n="mesa__n"/></e>
     <e lm="primìtzia"><i>prim</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
     <e lm="printzesa"><i>printzesa</i><par n="mesa__n"/></e>
-    <e lm="printzipeddu"><i>printzipedd</i><par n="mac/u__n"/></e>
+    <e lm="printzipeddu"><i>prin</i><par n="tz/c"/><i>ipedd</i><par n="amig/u__n"/></e>
     <e lm="priorissa"><i>priorissa</i><par n="mesa__n"/></e>
     <e lm="prìsia"><i>pr</i><par n="ì/i"/><i>sia</i><par n="mesa__n"/></e>
     <e lm="prisma"><i>prisma</i><par n="mesa__n"/></e>
@@ -41164,7 +41180,7 @@
     <e lm="prighigione"><i>prighigione</i><par n="pane__n"/></e>
     <e lm="primate"><i>primate</i><par n="pane__n"/></e>
     <e lm="primore"><i>primore</i><par n="pane__n"/></e>
-    <e lm="prìntzipe"><i>pr</i><par n="ì/i"/><i>ntzipe</i><par n="pane__n"/></e>
+    <e lm="prìntzipe"><i>pr</i><par n="pr/ìntzipe__n"/></e>
     <e lm="printzipiante"><i>printzipiante</i><par n="pane__n"/></e>
     <e lm="priore"><i>priore</i><par n="pane__n"/></e>
     <e lm="pripigione"><i>pripigione</i><par n="pane__n"/></e>
