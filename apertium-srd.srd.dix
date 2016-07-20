@@ -69,7 +69,7 @@
     <sdef n="ger"    c="Gerund"/> 
     <sdef n="inf"    c="Infinitive"/> 
     <sdef n="imp"    c="Imperative"/> 
-    <sdef n="fti"    c="Future"/>
+    <sdef n="fti"    c="Future"/> <!-- @!LSC -->
 
     <sdef n="sent"   c="Sentence marker"/> 
     <sdef n="cm"     c="Comma"/> 
@@ -12660,6 +12660,7 @@
     <e lm="e-i" r="LR"><p><l>e-i</l><r>e<s n="cnjcoo"/></r></p></e> <!-- ez dakit zer den 'i'a hemen -->
     <e lm="e i" r="LR"><p><l>e<b/>i</l><r>e<s n="cnjcoo"/></r></p></e> <!-- ez dakit zer den 'i'a hemen -->
 
+<!--
     <e lm="b'at"><p><l>b'at</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>c'at</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'at" r="LR"><p><l>c'est</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -12668,6 +12669,7 @@
     <e lm="b'ant"><p><l>b'ant</l><r>b'at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
     <e lm="b'at a àere"><p><l>b'at<b/>a<b/>àere</l><r>b'at<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="b'ant a àere"><p><l>b'ant<b/>a<b/>àere</l><r>b'at<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+-->
 
     <!-- SECTION: Inclusions massives -->
 
