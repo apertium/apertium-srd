@@ -6240,8 +6240,8 @@
     <e lm="innotzente"><i>innotzent</i><par n="albanes/e__n"/></e>
     <e lm="installatore"><i>installator</i><par n="traballador/e__n"/></e>
     <e lm="integrazione"><i>integrazion</i><par n="region/e__n"/></e>
-    <e lm="intelligente"><i>intelligent</i><par n="traballador/e__n"/></e>
-    <e lm="intelligente"><i>intelligent</i><par n="cunservador/e__adj"/></e>
+    <e lm="intelligente"><i>intelligente</i><par n="albanes/e__n"/></e>
+    <e lm="intelligente"><i>intelligent</i><par n="fàtzil/e__adj"/></e>
     <e lm="interditu"><i>interdit</i><par n="amig/u__n"/></e>
     <e lm="internadu"><i>internad</i><par n="amig/u__n"/></e>
     <e lm="intervista"><i>intervista</i><par n="mesa__n"/></e>
@@ -39662,7 +39662,7 @@
     <e lm="filaghe"><i>filaghe</i><par n="pane__n"/></e>
     <e lm="filete"><i>filete</i><par n="pane__n"/></e>
     <e lm="filiaghe"><i>filiaghe</i><par n="pane__n"/></e>
-    <e lm="filiale"><i>filiale</i><par n="pane__n"/></e>
+    <e lm="filiale"><i>filial</i><par n="region/e__n"/></e>
     <e lm="fìlighe"><i>f</i><par n="ì/i"/><i>lighe</i><par n="pane__n"/></e>
     <e lm="filingione"><i>filingion</i><par n="region/e__n"/></e>
     <e lm="filòstrighe"><i>fil</i><par n="ò/o"/><i>strighe</i><par n="pane__n"/></e>
@@ -40936,7 +40936,7 @@
     <e lm="pastosidade"><i>pastosidad</i><par n="region/e__n"/></e>
     <e lm="pastùmene"><i>past</i><par n="ù/u"/><i>mene</i><par n="pane__n"/></e>
     <e lm="pasturale"><i>pasturale</i><par n="pane__n"/></e>
-    <e lm="patente"><i>patente</i><par n="pane__n"/></e>
+    <e lm="patente"><i>patent</i><par n="region/e__n"/></e>
     <e lm="paternidade"><i>paternidad</i><par n="region/e__n"/></e>
     <e lm="pàtile"><i>p</i><par n="à/a"/><i>tile</i><par n="pane__n"/></e>
     <e lm="patitzione"><i>pati</i><par n="tz/z"/><i>ion</i></e>
@@ -41683,7 +41683,7 @@
     <e lm="tetione"><i>tetione</i><par n="pane__n"/></e>
     <e lm="tidone"><i>tidone</i><par n="pane__n"/></e>
     <e lm="tigione"><i>tigione</i><par n="pane__n"/></e>
-    <e lm="tigre"><i>tigre</i><par n="pane__n"/></e>
+    <e lm="tigre"><i>tigr</i><par n="region/e__n"/></e>
     <e lm="timone"><i>timone</i><par n="pane__n"/></e>
     <e lm="timore"><i>timore</i><par n="pane__n"/></e>
     <e lm="timperighe"><i>timperighe</i><par n="pane__n"/></e>
@@ -42160,7 +42160,7 @@
     <e lm="geògrafu"><i>ge</i><par n="ò/o"/><i>graf</i><par n="amig/u__n"/></e>
     <e lm="geònimu"><i>ge</i><par n="ò/o"/><i>nim</i><par n="amig/u__n"/></e>
     <e lm="ghiadore"><i>ghiador</i><par n="traballador/e__n"/></e>
-    <e lm="giaju"><i>giaj</i><par n="amig/u__n"/></e>
+    <e lm="giaju"><i>giaj</i><par n="mac/u__n"/></e>
     <e lm="giardineri"><i>giardiner</i><par n="ingegner/i__n"/></e>
     <e lm="ginecòlogu"><i>ginec</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
     <e lm="giogadore"><i>giogador</i><par n="traballador/e__n"/></e>
@@ -42209,7 +42209,7 @@
     <e lm="manniosu"><i>mannios</i><par n="amig/u__n"/></e>
     <e lm="mannu"><i>mann</i><par n="amig/u__n"/></e>
     <e lm="marchesu"><i>marches</i><par n="amig/u__n"/></e>
-    <e lm="massivu"><i>massiv</i><par n="amig/u__n"/></e>
+    <e lm="massivu"><i>massiv</i><par n="frantzes/u__adj"/></e>
     <e lm="mèigu"><i>m</i><par n="è/e"/><i>ig</i><par n="amig/u__n"/></e>
     <e lm="minadore"><i>minador</i><par n="traballador/e__n"/></e>
     <e lm="mòngiu"><i>m</i><par n="ò/o"/><i>ngi</i><par n="amig/u__n"/></e>
@@ -42315,6 +42315,11 @@
     <e lm="vitzeisposu"><i>vitzeispos</i><par n="amig/u__n"/></e>
     <e lm="vitzeministru"><i>vitzeministr</i><par n="amig/u__n"/></e>
     <e lm="zirigheddu"><i>zirighedd</i><par n="amig/u__n"/></e>
+
+
+   
+
+
 
 <!-- SECTION: adjetivos extraídos de CROS a partir de los paradigmas /A, /B, /b, /C, y /c -->
 
@@ -45858,7 +45863,7 @@
     <e lm="fratadu"><i>fratad</i><par n="frantzes/u__adj"/></e>
     <e lm="fratosu"><i>fratos</i><par n="frantzes/u__adj"/></e>
     <e lm="fraudolentu"><i>fraudolent</i><par n="frantzes/u__adj"/></e>
-    <e lm="frau"><i>fra</i><par n="frantzes/u__adj"/></e>
+    <e lm="frau"><i>fra</i><par n="mac/u__n"/></e>
     <e lm="frazadu"><i>frazad</i><par n="frantzes/u__adj"/></e>
     <e lm="frazigadu"><i>frazigad</i><par n="frantzes/u__adj"/></e>
     <e lm="frazigone"><i>frazigon</i><par n="cunservador/e__adj"/></e>
