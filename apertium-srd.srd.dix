@@ -20911,6 +20911,8 @@
     <e lm="apeddare"><i>apedd</i><par n="cant/are__vblex"/></e>
     <e lm="apellare"><i>apell</i><par n="cant/are__vblex"/></e>
     <e lm="apensamentare"><i>apensament</i><par n="cant/are__vblex"/></e>
+    <e lm="apessamentare" r="LR" c="!LSC"><p><l>apessament</l><r>apensament</r></p><par n="cant/are__vblex"/></e>
+    <e lm="appessamentare" r="LR" c="!LSC"><p><l>appessament</l><r>apensament</r></p><par n="cant/are__vblex"/></e>
     <e lm="apentare"><i>apent</i><par n="cant/are__vblex"/></e>
     <e lm="aperrinzare"><i>aperrinz</i><par n="cant/are__vblex"/></e>
     <e lm="apesonare"><i>apeson</i><par n="cant/are__vblex"/></e>
@@ -42028,11 +42030,11 @@
     <e lm="virginidade"><i>virginidad</i><par n="region/e__n"/></e>
     <e lm="virtualidade"><i>virtualidad</i><par n="region/e__n"/></e>
     <e lm="virtude"><i>virtud</i><par n="region/e__n"/></e>
-    <e lm="visconte"><i>visconte</i><par n="pane__n"/></e>
+    <e lm="visconte"><i>viscont</i><par n="cont/e__n"/></e>
     <e lm="visone"><i>visone</i><par n="pane__n"/></e>
     <e lm="vitalidade"><i>vitalidad</i><par n="region/e__n"/></e>
     <e lm="vite"><i>vit</i><par n="region/e__n"/></e>
-    <e lm="vitze"><i>vitze</i><par n="region/e__n"/></e>
+    <e lm="vitze"><i>vitz</i><par n="region/e__n"/></e>
     <e lm="vitzeretore"><i>vitzeretore</i><par n="pane__n"/></e>
     <e lm="vocatzione"><i>voca</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="volgaridade"><i>volgaridad</i><par n="region/e__n"/></e>
