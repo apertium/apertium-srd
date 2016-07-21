@@ -2,7 +2,7 @@
 <dictionary>
 <!-- http://www.regione.sardegna.it/documenti/1_72_20060418160308.pdf -->
 <!-- -->
-  <alphabet>ABCDEFGHIJLMNOPRSTUVZÀÈÒÌÙabcdefghijlmnoprstuvzàèòìùáéíóúKQYXWÍĞĀŚĘÉÂŞÖÑÇkqyxwíğāśęéâşöñıōṃçïūžš</alphabet>
+  <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzẮẰẴĂẤẦẨẬǍÅÅÃÃĄĄĀẢȂẠªÆḆĆĈČČĊĎĐĐḌḌḎÐÐĔĔẾỀỄỂỆĚĚẼĖĖĘḖḔĒƏĞĞĜǦĠĠĢḠȞĦḤḤḪH̱ĬǏĨĮĪĪỈỊİĲĴJ̌ḰĶḲḴĹĽĽŁŁĻḶḺǇṀṂŃŇṄŅṆṈŊŎŎỐỒỔỘǑƟŐÕØØǪṒŌŌỎỌỞỢƠƆºŒŘṘṚṞŚŚŜŠŠṠȘŞṢṢSSSŤȚṬṬṮŬǓŮǗǛǙǕŰŨŪŪỦȔỤỨỪỮỬỰƯŴÝỲŶŸȜắằẵăấầẩậǎååããąąāảȃạªæḇćĉččċďđđḍḍḏððĕĕếềễểệěěẽėėęḗḕēəğğĝǧġġģḡȟħḥḥḫẖĭǐĩįīīỉịı̇ĳĵǰḱķḳḵĺľľłłļḷḻǉṁṃńňṅņṇṉŋŏŏốồổộǒɵőõøøǫṓōōỏọởợơɔºœřṙṛṟśśŝššṡșşṣṣſßťțṭṭṯŭǔůǘǜǚǖűũūūủȕụứừữửựưŵýỳŷÿȝ</alphabet>
   <sdefs>
     <sdef n="n"      c="Noun"/> 
     <sdef n="det"    c="Determiner"/> 
@@ -53357,6 +53357,9 @@
 
     <e lm="isvìtzeru"><i>isvìtzer</i><par n="amig/u__n"/></e>
     <e lm="isvìtzeru"><i>isvìtzer</i><par n="frantzes/u__adj"/></e>
+
+    <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’at<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’ant<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
 </section>
 
