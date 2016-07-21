@@ -5171,8 +5171,9 @@
     <e lm="buddista" r="LR"><p><l>buddhista</l><r>buddista</r></p><par n="dentista__n"/></e>
     <e lm="buddista"><i>buddista</i><par n="meda__adj"/></e>
     <e lm="buddista" r="LR"><p><l>buddhista</l><r>buddista</r></p><par n="meda__adj"/></e>
-    <!--<e lm="nazista"><i>nazista</i><par n="dentista__n"/></e>-->
-    <e lm="gesuita"><i>gesuita</i><par n="pane__n"/></e>
+    <e lm="nazista"><i>nazista</i><par n="dentista__n"/></e>
+    <e lm="neonazista"><i>neonazista</i><par n="dentista__n"/></e>
+    <e lm="gesuita"><i>gesuita</i><par n="dentista__n"/></e>
     <e lm="gesuita"><i>gesuita</i><par n="meda__adj"/></e>
     <e lm="islamista"><i>islamista</i><par n="dentista__n"/></e>
     <e lm="islamista"><i>islamista</i><par n="meda__adj"/></e>
@@ -53674,6 +53675,8 @@
     <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’at<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’ant<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
+    <e lm="impàrere"><p><l>impàr</l><r>impàrere</r></p><par n="tìm/ere__vblex"/></e>
+    <e lm="impàrere"><p><l>impar</l><r>impàrere</r></p><par n="tim/o__vblex"/></e>
 </section>
 
   <section id="apostrophe" type="postblank">
