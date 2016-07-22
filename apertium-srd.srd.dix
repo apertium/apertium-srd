@@ -11065,6 +11065,9 @@
     <e lm="alfabèticu"><i>alfab</i><par n="è/e"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="solu"><i>sol</i><par n="frantzes/u__adj"/></e>
     <e lm="modernu"><i>modern</i><par n="frantzes/u__adj"/></e>
+    <e lm="postmodernu"><i>postmodern</i><par n="frantzes/u__adj"/></e>
+    <e lm="premodernu"><i>premodern</i><par n="frantzes/u__adj"/></e>
+    <e lm="supermodernu"><i>supermodern</i><par n="frantzes/u__adj"/></e>
     <e lm="patzìficu"><i>patz</i><par n="ì/i"/><i>fi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="melodiosu"><i>melodios</i><par n="frantzes/u__adj"/></e>
     <e lm="pretziosu"><i>pretzios</i><par n="frantzes/u__adj"/></e>
@@ -28833,12 +28836,10 @@
     <e lm="prantu"><i>prant</i><par n="mac/u__n"/></e>
     <e lm="prantu"><i>prant</i><par n="frantzes/u__adj"/></e>
     <e lm="remenadu"><i>remenad</i><par n="frantzes/u__adj"/></e>
-    <e lm="romanicu"><i>romani</i><par n="linguìsti/cu__adj"/></e>
     <e lm="segadu"><i>segad</i><par n="frantzes/u__adj"/></e>
     <e lm="sutapostu"><i>sutapost</i><par n="frantzes/u__adj"/></e>
     <e lm="sutascritu"><i>sutascrit</i><par n="frantzes/u__adj"/></e>
     <e lm="tortu"><i>tort</i><par n="frantzes/u__adj"/></e>
-    <e lm="turìsticu"><i>turisti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="viola"><i>viola</i><par n="meda__adj"/></e>
 
 
