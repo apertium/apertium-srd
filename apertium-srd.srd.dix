@@ -12619,12 +12619,14 @@
     <e lm="km"><i>km</i><par n="a.C.__abbr"/></e>
     <e lm="ab"><i>ab</i><par n="a.C.__abbr"/></e>
     <e lm="a.C."><i>a.C</i><par n="a.C.__abbr"/></e>
-    <e lm="a.C." r="LR"><p><l>a.<b/>C.</l><r>a.C.</r></p><par n="a.C.__abbr"/></e>
+    <e lm="a.C." r="LR"><p><l>a.<b/>C.</l><r>a.C</r></p><par n="a.C.__abbr"/></e>
     <e lm="d.C."><i>d.C</i><par n="a.C.__abbr"/></e>
-    <e lm="a.C." r="LR"><p><l>d.<b/>C.</l><r>d.C.</r></p><par n="a.C.__abbr"/></e>
-    <e lm="etc."><i>etc</i><par n="a.C.__abbr"/></e>
-    <e lm="etc." r="LR"><p><l>etz</l><r>etc</r></p><par n="a.C.__abbr"/></e>
-    <e lm="etc." r="LR"><p><l>ecc</l><r>etc</r></p><par n="a.C.__abbr"/></e>
+    <e lm="a.C." r="LR"><p><l>d.<b/>C.</l><r>d.C</r></p><par n="a.C.__abbr"/></e>
+    <e lm="etc."><i>etc.</i><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>etz.</l><r>etc.</r></p><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>ecc.</l><r>etc.</r></p><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>etz</l><r>etc.</r></p><par n="a.C.__abbr"/></e>
+    <e lm="etc." r="LR"><p><l>ecc</l><r>etc.</r></p><par n="a.C.__abbr"/></e>
     <e lm="p.es."><i>p.es.</i><par n="a.C.__abbr"/></e>
     <e lm="p.es." r="LR"><p><l>p.<b/>es.</l><r>p.es.</r></p><par n="a.C.__abbr"/></e>
 
