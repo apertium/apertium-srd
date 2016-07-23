@@ -5641,8 +5641,6 @@
     <e lm="machinàriu"><i>machin</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
     <e lm="programàriu"><i>program</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
     <e lm="vulcanu"><i>vulcan</i><par n="mac/u__n"/></e>
-    <e lm="otzeanu"><i>otzean</i><par n="mac/u__n"/></e>
-    <e lm="otzeanu" r="LR"><p><l>ocean</l><r>otzean</r></p><par n="mac/u__n"/></e>
     <e lm="riu"><i>ri</i><par n="mac/u__n"/></e>
     <e lm="telèfonu"><i>tel</i><par n="è/e"/><i>fon</i><par n="mac/u__n"/></e>
     <e lm="frigorìferu"><i>frigor</i><par n="ì/i"/><i>fer</i><par n="mac/u__n"/></e>
@@ -18084,7 +18082,7 @@
     <e lm="ostinu"><i>ostin</i><par n="mac/u__n"/></e>
     <e lm="otàgonu"><i>ot</i><par n="à/a"/><i>gon</i><par n="mac/u__n"/></e>
     <e lm="otavinu"><i>otavin</i><par n="mac/u__n"/></e>
-    <e lm="otzèanu"><i>otz</i><par n="è/e"/><i>an</i><par n="mac/u__n"/></e>
+    <e lm="otzèanu"><i>o</i><par n="tz/c"/><i></i><par n="è/e"/><i>an</i><par n="mac/u__n"/></e>
     <e lm="òvulu"><i></i><par n="ò/o"/><i>vul</i><par n="mac/u__n"/></e>
     <e lm="pabadu"><i>pabad</i><par n="mac/u__n"/></e>
     <e lm="pabantzolu"><i>pabantzol</i><par n="mac/u__n"/></e>
@@ -53718,6 +53716,14 @@
     <e lm="dae deretu"><i>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="giai dae deretu"><i>giai<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="infrutuosu"><i>infrutuos</i><par n="frantzes/u__adj"/></e>
+    <e lm="Bisàntziu"><i>Bisàntziu</i><par n="Afganistàn__np"/></e>
+    <e lm="Bòsforu"><i>Bòsforu</i><par n="Afganistàn__np"/></e>
+    <e lm="Egeu"><i>Egeu</i><par n="Afganistàn__np"/></e>
+    <e lm="Tirrenu"><i>Tirrenu</i><par n="Afganistàn__np"/></e>
+    <e lm="Adriàticu"><i>Adriàticu</i><par n="Afganistàn__np"/></e>
+    <e lm="Jonicu"><i>Jonicu</i><par n="Afganistàn__np"/></e>
+    <e lm="Atlànticu"><i>Atlànticu</i><par n="Afganistàn__np"/></e>
+    <e lm="Danùbiu"><i>Danùbiu</i><par n="Po__np"/></e>
 
 </section>
 
