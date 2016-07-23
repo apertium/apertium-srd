@@ -11332,7 +11332,7 @@
     <e lm="generale" r="LR"><p><l>zeneral</l><r>general</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="otzidentale"><i>otzidental</i><par n="fàtzil/e__adj"/></e>
     <e lm="otzidentale" r="LR"><p><l>occidental</l><r>otzidental</r></p><par n="fàtzil/e__adj"/></e>
-    <e lm="tzentrale"><par n="tz/c"/><i>entral</i><par n="fàtzil/e__adj"/></e>
+    <e lm="tzentrale"><par n="tz/z"/><i>entral</i><par n="fàtzil/e__adj"/></e>
     <e lm="ispetziale"><i>ispetzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="bastante"><i>bastant</i><par n="fàtzil/e__adj"/></e>
     <e lm="atuale"><i>atual</i><par n="fàtzil/e__adj"/></e>
@@ -20191,8 +20191,8 @@
     <e lm="tzentàuru"><par n="tz/c"/><i>entàur</i><par n="mac/u__n"/></e>
     <e lm="tzentèsimu"><par n="tz/c"/><i>entèsim</i><par n="mac/u__n"/></e>
     <e lm="tzentìmetru"><par n="tz/c"/><i>entìmetr</i><par n="mac/u__n"/></e>
-    <e lm="tzentralinu"><par n="tz/c"/><i>entralin</i><par n="mac/u__n"/></e>
-    <e lm="tzentralismu"><par n="tz/c"/><i>entralism</i><par n="anarchismu__n"/></e>
+    <e lm="tzentralinu"><par n="tz/z"/><i>entralin</i><par n="mac/u__n"/></e>
+    <e lm="tzentralismu"><par n="tz/z"/><i>entralism</i><par n="anarchismu__n"/></e>
     <e lm="tzeparatzu"><par n="tz/c"/><i>eparatz</i><par n="mac/u__n"/></e>
     <e lm="tzeperàrgiu"><par n="tz/c"/><i>eperàrgi</i><par n="mac/u__n"/></e>
     <e lm="tzeracatzu"><par n="tz/c"/><i>eracatz</i><par n="mac/u__n"/></e>
@@ -20574,7 +20574,7 @@
     <e lm="sentimentalista"><i>sentimentalista</i><par n="dentista__n"/></e>
     <e lm="separatista"><i>separatista</i><par n="dentista__n"/></e>
     <e lm="sugetivista"><i>sugetivista</i><par n="dentista__n"/></e>
-    <e lm="tzentralista"><par n="tz/c"/><i>entralista</i><par n="dentista__n"/></e>
+    <e lm="tzentralista"><par n="tz/z"/><i>entralista</i><par n="dentista__n"/></e>
     <e lm="tzinista"><par n="tz/c"/><i>inista</i><par n="dentista__n"/></e>
     <e lm="vocalista"><i>vocalista</i><par n="dentista__n"/></e>
     <e lm="cosmopolita"><i>cosmopolita</i><par n="dentista__n"/></e>
@@ -20657,7 +20657,7 @@
     <e lm="sentimentalista"><i>sentimentalista</i><par n="meda__adj"/></e>
     <e lm="separatista"><i>separatista</i><par n="meda__adj"/></e>
     <e lm="sugetivista"><i>sugetivista</i><par n="meda__adj"/></e>
-    <e lm="tzentralista"><par n="tz/c"/><i>entralista</i><par n="meda__adj"/></e>
+    <e lm="tzentralista"><par n="tz/z"/><i>entralista</i><par n="meda__adj"/></e>
     <e lm="tzinista"><par n="tz/c"/><i>inista</i><par n="meda__adj"/></e>
     <e lm="cosmopolita"><i>cosmopolita</i><par n="meda__adj"/></e>
     <e lm="romànticu"><i>rom</i><par n="à/a"/><i>nti</i><par n="linguìsti/cu__adj"/></e>
@@ -38071,8 +38071,8 @@
     <e lm="tzenòbida"><par n="tz/c"/><i>enòbida</i><par n="mesa__n"/></e>
     <e lm="tzensura"><par n="tz/c"/><i>ensura</i><par n="mesa__n"/></e>
     <e lm="tzentilena"><par n="tz/c"/><i>entilena</i><par n="mesa__n"/></e>
-    <e lm="tzentralismu"><par n="tz/c"/><i>entralismu</i><par n="anarchismu__n"/></e>
-    <e lm="tzentrìfuga"><par n="tz/c"/><i>entrìfuga</i><par n="mesa__n"/></e>
+    <e lm="tzentralismu"><par n="tz/z"/><i>entralismu</i><par n="anarchismu__n"/></e>
+    <e lm="tzentrìfuga"><par n="tz/z"/><i>entrìfuga</i><par n="mesa__n"/></e>
     <e lm="tzentùria"><par n="tz/c"/><i>entùria</i><par n="mesa__n"/></e>
     <e lm="tzepa"><par n="tz/c"/><i>epa</i><par n="mesa__n"/></e>
     <e lm="tzèpara"><i>tz</i><par n="è/e"/><i>para</i><par n="mesa__n"/></e>
@@ -40237,6 +40237,8 @@
     <e lm="ispurtiore"><i>ispurtiore</i><par n="pane__n"/></e>
     <e lm="isrobbadore"><i>isrobbador</i><par n="traballador/e__n"/></e>
     <e lm="istàbile"><i>ist</i><par n="à/a"/><i>bile</i><par n="pane__n"/></e>
+    <e lm="istàbile"><i>ist</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="instàbile"><i>inst</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="istafile"><i>istafile</i><par n="pane__n"/></e>
     <e lm="istagnale"><i>istagnale</i><par n="pane__n"/></e>
     <e lm="istalagmite"><i>istalagmite</i><par n="pane__n"/></e>
@@ -41889,7 +41891,7 @@
     <e lm="tzellulòide"><par n="tz/c"/><i>ellulòide</i><par n="pane__n"/></e>
     <e lm="tzensore"><par n="tz/c"/><i>ensore</i><par n="pane__n"/></e>
     <e lm="tzensuradore"><par n="tz/c"/><i>ensurador</i><par n="traballador/e__n"/></e>
-    <e lm="tzentralidade"><par n="tz/c"/><i>entralidad</i><par n="region/e__n"/></e>
+    <e lm="tzentralidade"><par n="tz/z"/><i>entralidad</i><par n="region/e__n"/></e>
     <e lm="tzenturione"><par n="tz/c"/><i>enturione</i><par n="pane__n"/></e>
     <e lm="tzeracùmene"><par n="tz/c"/><i>eracùmene</i><par n="pane__n"/></e>
     <e lm="tzerbone"><par n="tz/c"/><i>erbone</i><par n="pane__n"/></e>
@@ -53684,6 +53686,51 @@
 
     <e lm="impàrere"><p><l>impàr</l><r>impàrere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="impàrere"><p><l>impar</l><r>impàrere</r></p><par n="tim/o__vblex"/></e>
+
+
+    <e lm="as dolu mannu"><i>a<b/>dolu<b/>mannu</i><par n="bene__adv"/></e>
+    <e lm="Santìssima Trinidade"><i>Santìssima<b/>Trinidade</i><par n="Wikipedia__np"/></e>
+    <e lm="Carissimi"><i>Carissimi</i><par n="Saussure__np"/></e>
+    <e lm="San"><i>San</i><par n="Linux__np"/></e>
+    <e lm="comunicadu"><i>comunicad</i><par n="mac/u__n"/></e>
+    <e lm="creatividade"><i>creatividad</i><par n="region/e__n"/></e>
+    <e lm="credibilidade"><i>credibilidad</i><par n="region/e__n"/></e>
+    <e lm="cristianidade"><i>cristianidad</i><par n="region/e__n"/></e>
+    <e lm="cumplessidade"><i>cumplessidad</i><par n="region/e__n"/></e>
+    <e lm="eroina"><i>eroina</i><par n="mesa__n"/></e>
+    <e lm="fertilidade"><i>fertilidad</i><par n="region/e__n"/></e>
+    <e lm="filipinu"><i>filipin</i><par n="amig/u__n"/></e>
+    <e lm="folclorismu"><i>folclorism</i><par n="mac/u__n"/></e>
+    <e lm="francòfonu"><i>francòfon</i><par n="amig/u__n"/></e>
+    <e lm="intelligente"><i>intelligent</i><par n="traballador/e__n"/></e>
+    <e lm="isponda"><i>isponda</i><par n="mesa__n"/></e>
+    <e lm="latinidade"><i>latinidad</i><par n="region/e__n"/></e>
+    <e lm="legalidade"><i>legalidad</i><par n="region/e__n"/></e>
+    <e lm="maternidade"><i>maternidad</i><par n="region/e__n"/></e>
+    <e lm="pasada"><i>pasada</i><par n="mesa__n"/></e>
+    <e lm="programariu"><i>programari</i><par n="mac/u__n"/></e>
+    <e lm="sardòfonu"><i>sardòfon</i><par n="amig/u__n"/></e>
+    <e lm="status"><i>stat</i><par n="temp/us__n"/></e>
+    <e lm="tirolesu"><i>tiroles</i><par n="amig/u__n"/></e>
+    <e lm="variabilidade"><i>variabilidad</i><par n="region/e__n"/></e>
+    <e lm="vitze"><i>vitze</i><par n="pane__n"/></e>
+    <e lm="tirolesu"><i>tiroles</i><par n="frantzes/u__adj"/></e>
+    <e lm="transfrontaleru"><i>transfrontaler</i><par n="frantzes/u__adj"/></e>
+    <e lm="sardòfonu"><i>sardòfon</i><par n="frantzes/u__adj"/></e>
+    <e lm="ischitzofrènicu"><i>ischitzofrèni</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="discretzionale"><i>discretzional</i><par n="fàtzil/e__adj"/></e>
+    <e lm="discriminatòriu"><i>discriminatòri</i><par n="frantzes/u__adj"/></e>
+    <e lm="disomogèneu"><i>disomogène</i><par n="frantzes/u__adj"/></e>
+    <e lm="diretivu"><i>diretiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="illustradore"><i>illustrador</i><par n="cunservador/e__adj"/></e>
+    <e lm="inammissìbile"><i>inammissìbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="incantadore"><i>incantador</i><par n="cunservador/e__adj"/></e>
+    <e lm="irresonàbile"><i>irresonàbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="resonàbile"><i>resonàbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="parificare"><i>parific</i><par n="seg/are__vblex"/></e>
+    <e lm="dae deretu"><i>dae<b/>deretu</i><par n="bene__adv"/></e>
+    <e lm="giai dae deretu"><i>giai<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
+
 </section>
 
   <section id="apostrophe" type="postblank">
