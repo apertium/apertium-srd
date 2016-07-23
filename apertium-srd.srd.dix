@@ -6242,7 +6242,7 @@
     <e lm="innotzente"><i>innotzent</i><par n="albanes/e__n"/></e>
     <e lm="installatore"><i>installator</i><par n="traballador/e__n"/></e>
     <e lm="integrazione"><i>integrazion</i><par n="region/e__n"/></e>
-    <e lm="intelligente"><i>intelligente</i><par n="albanes/e__n"/></e>
+    <e lm="intelligente"><i>intelligent</i><par n="albanes/e__n"/></e>
     <e lm="intelligente"><i>intelligent</i><par n="fàtzil/e__adj"/></e>
     <e lm="interditu"><i>interdit</i><par n="amig/u__n"/></e>
     <e lm="internadu"><i>internad</i><par n="amig/u__n"/></e>
@@ -53692,7 +53692,6 @@
     <e lm="filipinu"><i>filipin</i><par n="amig/u__n"/></e>
     <e lm="folclorismu"><i>folclorism</i><par n="mac/u__n"/></e>
     <e lm="francòfonu"><i>francòfon</i><par n="amig/u__n"/></e>
-    <e lm="intelligente"><i>intelligent</i><par n="traballador/e__n"/></e>
     <e lm="isponda"><i>isponda</i><par n="mesa__n"/></e>
     <e lm="pasada"><i>pasada</i><par n="mesa__n"/></e>
     <e lm="programariu"><i>programari</i><par n="mac/u__n"/></e>
@@ -53724,6 +53723,7 @@
     <e lm="Jonicu"><i>Jonicu</i><par n="Afganistàn__np"/></e>
     <e lm="Atlànticu"><i>Atlànticu</i><par n="Afganistàn__np"/></e>
     <e lm="Danùbiu"><i>Danùbiu</i><par n="Po__np"/></e>
+    <e lm="in summa"><i>in<b/>summa</i><par n="bene__adv"/></e>
 
 </section>
 
