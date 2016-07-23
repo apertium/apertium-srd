@@ -12762,7 +12762,8 @@
     <e lm="cm"><i>cm</i><par n="a.C.__abbr"/></e>
     <e lm="Columbia"><i>Columbia</i><par n="Fiat__np"/></e>
     <e lm="Cooper"><i>Cooper</i><par n="Saussure__np"/></e>
-    <e lm="Costantinopoli"><i>Costantinopoli</i><par n="Etiòpia__np"/></e>
+    <e lm="Costantinòpoli"><i>Costantinòpoli</i><par n="Etiòpia__np"/></e>
+    <e lm="Costantinòpoli" r="LR"><p><l>Costantinopoli</l><r>Costantinòpoli</r></p><par n="Etiòpia__np"/></e>
     <e lm="Costanzo"><i>Costanzo</i><par n="Antoni__np"/></e>
     <e lm="Costanzo"><i>Costanzo</i><par n="Saussure__np"/></e>
     <e lm="CSS"><i>CSS</i><par n="PNB__n"/></e>
@@ -23574,6 +23575,7 @@
     <e lm="torojare"><i>toroj</i><par n="cant/are__vblex"/></e>
     <e lm="torrare"><i>torr</i><par n="cant/are__vblex"/></e>
     <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
+    <e lm="torrare a nàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>nàrrere</l><r><g><b/>a<b/>nàrrere</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -47877,7 +47879,6 @@
     <e lm="massimosu"><i>massimos</i><par n="frantzes/u__adj"/></e>
     <e lm="massissu"><i>massiss</i><par n="frantzes/u__adj"/></e>
     <e lm="massitzu"><i>massitz</i><par n="frantzes/u__adj"/></e>
-    <e lm="massivu"><i>massiv</i><par n="frantzes/u__adj"/></e>
     <e lm="massuddu"><i>massudd</i><par n="frantzes/u__adj"/></e>
     <e lm="mastigadore"><i>mastigador</i><par n="cunservador/e__adj"/></e>
     <e lm="mastigadore"><i>mastigador</i><par n="traballador/e__n"/></e>
@@ -53105,7 +53106,6 @@
     <e lm="in manera cumparativa"><i>in<b/>manera<b/>cumparativa</i><par n="bene__adv"/></e>
     <e lm="in manera cumprida"><i>in<b/>manera<b/>cumprida</i><par n="bene__adv"/></e>
     <e lm="in manera complessiva"><i>in<b/>manera<b/>complessiva</i><par n="bene__adv"/></e>
-    <e lm="in manera cumprida"><i>in<b/>manera<b/>cumprida</i><par n="bene__adv"/></e>
     <e lm="in manera cuncreta"><i>in<b/>manera<b/>cuncreta</i><par n="bene__adv"/></e>
     <e lm="in manera parente"><i>in<b/>manera<b/>parente</i><par n="bene__adv"/></e>
     <e lm="in manera congra"><i>in<b/>manera<b/>congra</i><par n="bene__adv"/></e>
@@ -53156,7 +53156,6 @@
     <e lm="in manera esagerada"><i>in<b/>manera<b/>esagerada</i><par n="bene__adv"/></e>
     <e lm="in manera cabale"><i>in<b/>manera<b/>cabale</i><par n="bene__adv"/></e>
     <e lm="in manera cumpleta"><i>in<b/>manera<b/>cumpleta</i><par n="bene__adv"/></e>
-    <e lm="in manera crara"><i>in<b/>manera<b/>crara</i><par n="bene__adv"/></e>
     <e lm="in manera esprìmida"><i>in<b/>manera<b/>esprìmida</i><par n="bene__adv"/></e>
     <e lm="in manera esterna"><i>in<b/>manera<b/>esterna</i><par n="bene__adv"/></e>
     <e lm="in manera estèndida"><i>in<b/>manera<b/>estèndida</i><par n="bene__adv"/></e>
@@ -53414,7 +53413,6 @@
     <e lm="a manera cumparativa" r="LR"><p><l>a<b/>manera<b/>cumparativa</l><r>in<b/>manera<b/>cumparativa</r></p><par n="bene__adv"/></e>
     <e lm="a manera cumprida" r="LR"><p><l>a<b/>manera<b/>cumprida</l><r>in<b/>manera<b/>cumprida</r></p><par n="bene__adv"/></e>
     <e lm="a manera complessiva" r="LR"><p><l>a<b/>manera<b/>complessiva</l><r>in<b/>manera<b/>complessiva</r></p><par n="bene__adv"/></e>
-    <e lm="a manera cumprida" r="LR"><p><l>a<b/>manera<b/>cumprida</l><r>in<b/>manera<b/>cumprida</r></p><par n="bene__adv"/></e>
     <e lm="a manera cuncreta" r="LR"><p><l>a<b/>manera<b/>cuncreta</l><r>in<b/>manera<b/>cuncreta</r></p><par n="bene__adv"/></e>
     <e lm="a manera parente" r="LR"><p><l>a<b/>manera<b/>parente</l><r>in<b/>manera<b/>parente</r></p><par n="bene__adv"/></e>
     <e lm="a manera congra" r="LR"><p><l>a<b/>manera<b/>congra</l><r>in<b/>manera<b/>congra</r></p><par n="bene__adv"/></e>
@@ -53465,7 +53463,6 @@
     <e lm="a manera esagerada" r="LR"><p><l>a<b/>manera<b/>esagerada</l><r>in<b/>manera<b/>esagerada</r></p><par n="bene__adv"/></e>
     <e lm="a manera cabale" r="LR"><p><l>a<b/>manera<b/>cabale</l><r>in<b/>manera<b/>cabale</r></p><par n="bene__adv"/></e>
     <e lm="a manera cumpleta" r="LR"><p><l>a<b/>manera<b/>cumpleta</l><r>in<b/>manera<b/>cumpleta</r></p><par n="bene__adv"/></e>
-    <e lm="a manera crara" r="LR"><p><l>a<b/>manera<b/>crara</l><r>in<b/>manera<b/>crara</r></p><par n="bene__adv"/></e>
     <e lm="a manera esprìmida" r="LR"><p><l>a<b/>manera<b/>esprìmida</l><r>in<b/>manera<b/>esprìmida</r></p><par n="bene__adv"/></e>
     <e lm="a manera esterna" r="LR"><p><l>a<b/>manera<b/>esterna</l><r>in<b/>manera<b/>esterna</r></p><par n="bene__adv"/></e>
     <e lm="a manera estèndida" r="LR"><p><l>a<b/>manera<b/>estèndida</l><r>in<b/>manera<b/>estèndida</r></p><par n="bene__adv"/></e>
@@ -53693,26 +53690,17 @@
     <e lm="Carissimi"><i>Carissimi</i><par n="Saussure__np"/></e>
     <e lm="San"><i>San</i><par n="Linux__np"/></e>
     <e lm="comunicadu"><i>comunicad</i><par n="mac/u__n"/></e>
-    <e lm="creatividade"><i>creatividad</i><par n="region/e__n"/></e>
-    <e lm="credibilidade"><i>credibilidad</i><par n="region/e__n"/></e>
-    <e lm="cristianidade"><i>cristianidad</i><par n="region/e__n"/></e>
     <e lm="cumplessidade"><i>cumplessidad</i><par n="region/e__n"/></e>
-    <e lm="eroina"><i>eroina</i><par n="mesa__n"/></e>
-    <e lm="fertilidade"><i>fertilidad</i><par n="region/e__n"/></e>
     <e lm="filipinu"><i>filipin</i><par n="amig/u__n"/></e>
     <e lm="folclorismu"><i>folclorism</i><par n="mac/u__n"/></e>
     <e lm="francòfonu"><i>francòfon</i><par n="amig/u__n"/></e>
     <e lm="intelligente"><i>intelligent</i><par n="traballador/e__n"/></e>
     <e lm="isponda"><i>isponda</i><par n="mesa__n"/></e>
-    <e lm="latinidade"><i>latinidad</i><par n="region/e__n"/></e>
-    <e lm="legalidade"><i>legalidad</i><par n="region/e__n"/></e>
-    <e lm="maternidade"><i>maternidad</i><par n="region/e__n"/></e>
     <e lm="pasada"><i>pasada</i><par n="mesa__n"/></e>
     <e lm="programariu"><i>programari</i><par n="mac/u__n"/></e>
     <e lm="sardòfonu"><i>sardòfon</i><par n="amig/u__n"/></e>
     <e lm="status"><i>stat</i><par n="temp/us__n"/></e>
     <e lm="tirolesu"><i>tiroles</i><par n="amig/u__n"/></e>
-    <e lm="variabilidade"><i>variabilidad</i><par n="region/e__n"/></e>
     <e lm="vitze"><i>vitze</i><par n="pane__n"/></e>
     <e lm="tirolesu"><i>tiroles</i><par n="frantzes/u__adj"/></e>
     <e lm="transfrontaleru"><i>transfrontaler</i><par n="frantzes/u__adj"/></e>
@@ -53724,12 +53712,12 @@
     <e lm="diretivu"><i>diretiv</i><par n="frantzes/u__adj"/></e>
     <e lm="illustradore"><i>illustrador</i><par n="cunservador/e__adj"/></e>
     <e lm="inammissìbile"><i>inammissìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="incantadore"><i>incantador</i><par n="cunservador/e__adj"/></e>
     <e lm="irresonàbile"><i>irresonàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="resonàbile"><i>resonàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="parificare"><i>parific</i><par n="seg/are__vblex"/></e>
     <e lm="dae deretu"><i>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="giai dae deretu"><i>giai<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
+    <e lm="infrutuosu"><i>infrutuos</i><par n="frantzes/u__adj"/></e>
 
 </section>
 
