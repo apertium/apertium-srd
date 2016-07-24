@@ -5324,12 +5324,22 @@
     <e lm="nord" r="LR" c="!LSC"><p><l>norti</l><r>nord</r></p><par n="nord__n"/></e>
     <e lm="sud"><i>sud</i><par n="nord__n"/></e>
     <e lm="est"><i>est</i><par n="nord__n"/></e>
+    <e lm="nord-est"><i>nord-est</i><par n="nord__n"/></e>
+    <e lm="sud-est"><i>sud-est</i><par n="nord__n"/></e>
     <e lm="estu"><i>estu</i><par n="nord__n"/></e>
     <e lm="ovest"><i>ovest</i><par n="nord__n"/></e>
     <e lm="ovest" r="LR" c="!LSC"><p><l>uestu</l><r>ovest</r></p><par n="nord__n"/></e>
+    <e lm="nord-ovest"><i>nord-ovest</i><par n="nord__n"/></e>
+    <e lm="sud-ovest"><i>sud-ovest</i><par n="nord__n"/></e>
     <e lm="otzidente"><i>otzidente</i><par n="nord__n"/></e>
     <e lm="otzidente" r="LR"><p><l>occidente</l><r>otzidente</r></p><par n="nord__n"/></e>
+    <e lm="nord-otzidente"><i>nord-otzidente</i><par n="nord__n"/></e>
+    <e lm="nord-otzidente" r="LR"><p><l>nord-occidente</l><r>nord-otzidente</r></p><par n="nord__n"/></e>
+    <e lm="sud-otzidente"><i>sud-otzidente</i><par n="nord__n"/></e>
+    <e lm="sud-otzidente" r="LR"><p><l>sud-occidente</l><r>sud-otzidente</r></p><par n="nord__n"/></e>
     <e lm="oriente"><i>oriente</i><par n="nord__n"/></e>
+    <e lm="nord-oriente"><i>nord-oriente</i><par n="nord__n"/></e>
+    <e lm="sud-oriente"><i>sud-oriente</i><par n="nord__n"/></e>
 
 
     <e lm="macu"><i>mac</i><par n="mac/u__n"/></e>
@@ -5345,7 +5355,7 @@
     <e lm="vocabulàriu" r="LR"><p><l>bocabulari</l><r>vocabulàri</r></p><par n="mac/u__n"/></e>
     <e lm="vocabulàriu" r="LR"><p><l>vocabulari</l><r>vocabulàri</r></p><par n="mac/u__n"/></e>
 
-    <e lm="cunservatoriu"><par n="cun/con"/><i>servatori</i><par n="mac/u__n"/></e>
+    <e lm="cunservatòriu"><par n="cun/con"/><i>servatòri</i><par n="mac/u__n"/></e>
     <e lm="seminàriu"><i>semin</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
     <e lm="glossàriu"><i>gloss</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
     <e lm="dibàtidu"><i>dib</i><par n="à/a"/><i>tid</i><par n="mac/u__n"/></e>
@@ -5661,8 +5671,6 @@
     <e lm="riu"><i>ri</i><par n="mac/u__n"/></e>
     <e lm="telèfonu"><i>tel</i><par n="è/e"/><i>fon</i><par n="mac/u__n"/></e>
     <e lm="frigorìferu"><i>frigor</i><par n="ì/i"/><i>fer</i><par n="mac/u__n"/></e>
-    <e lm="paìsu"><i>pa</i><par n="ì/i"/><i>s</i><par n="mac/u__n"/></e>
-    <e lm="paìsu" r="LR"><p><l>pais</l><r>paìs</r></p><par n="mac/u__n"/></e>
     <e lm="pilastru"><i>pilastr</i><par n="mac/u__n"/></e>
     <e lm="istùdiu"><i>ist</i><par n="ù/u"/><i>di</i><par n="mac/u__n"/></e>
     <e lm="istùdiu" r="LR"><p><l>istudi</l><r>istùdi</r></p><par n="mac/u__n"/></e>
@@ -6209,7 +6217,6 @@
     <e lm="feudalesimu"><i>feudalesim</i><par n="mac/u__n"/></e>
     <e lm="fide"><i>fid</i><par n="region/e__n"/></e>
     <e lm="fintu"><i>fint</i><par n="mac/u__n"/></e>
-    <e lm="firma"><i>firma</i><par n="mesa__n"/></e>
     <e lm="firmada"><i>firmada</i><par n="mesa__n"/></e>
     <e lm="firmu"><i>firm</i><par n="mac/u__n"/></e>
     <e lm="fitianu"><i>fitian</i><par n="mac/u__n"/></e>
@@ -6539,10 +6546,10 @@
     <e lm="Firenze"><i>Firenze</i><par n="Etiòpia__np"/></e>
     <e lm="Russillione"><i>Russillione</i><par n="Afganistàn__np"/></e>
 
-    <e lm="Giappone"><i>Giappone</i><par n="Afganistàn__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Giapone</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Zapone</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Giappone" r="LR"><p><l>Jiaponi</l><r>Giappone</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Giapone"><i>Giapone</i><par n="Afganistàn__np"/></e>
+    <e lm="Giapone" r="LR"><p><l>Giappone</l><r>Giapone</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Giapone" r="LR"><p><l>Zapone</l><r>Giapone</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Giapone" r="LR"><p><l>Jiaponi</l><r>Giapone</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Islanda"><i>Islanda</i><par n="Etiòpia__np"/></e>
     <e lm="Ispagna"><i>Ispagna</i><par n="Etiòpia__np"/></e>
@@ -6583,10 +6590,8 @@
     <e lm="Ucraìna"><i>Ucra</i><par n="ì/i"/><i>na</i><par n="Etiòpia__np"/></e>
     <e lm="Ucraìna" r="LR"><p><l>Ucraina</l><r>Ucraìna</r></p><par n="Etiòpia__np"/></e>
     <e lm="Sìria"><i>S</i><par n="ì/i"/><i>ria</i><par n="Etiòpia__np"/></e>
-    <e lm="Sìria" r="LR"><p><l>Siria</l><r>Sìria</r></p><par n="Etiòpia__np"/></e>
     <e lm="Romania"><i>Romania</i><par n="Etiòpia__np"/></e>
     <e lm="Armènia"><i>Arm</i><par n="è/e"/><i>nia</i><par n="Etiòpia__np"/></e>
-    <e lm="Armènia" r="LR"><p><l>Armenia</l><r>Armènia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Vienna"><i>Vienna</i><par n="Etiòpia__np"/></e>
     <e lm="Mosca"><i>Mosca</i><par n="Etiòpia__np"/></e>
     <e lm="Avignone"><i>Avignone</i><par n="Etiòpia__np"/></e>
@@ -6596,34 +6601,32 @@
     <e lm="Euskadi"><i>Euskadi</i><par n="Afganistàn__np"/></e>
     <e lm="Gaza"><i>Gaza</i><par n="Etiòpia__np"/></e>
     <e lm="Califòrnia"><i>Calif</i><par n="ò/o"/><i>rnia</i><par n="Etiòpia__np"/></e>
-    <e lm="Califòrnia" r="LR"><p><l>California</l><r>Califòrnia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Inghilterra"><i>Inghilterra</i><par n="Etiòpia__np"/></e>
     <e lm="Corea"><i>Corea</i><par n="Etiòpia__np"/></e>
     <e lm="Corea" r="LR"><p><l>Korea</l><r>Corea</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Iscotzia"><i>Iscotzia</i><par n="Etiòpia__np"/></e>
-    <e lm="Iscotzia" r="LR"><p><l>Iscozia</l><r>Iscotzia</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Iscòtzia"><i>Isc</i><par n="ò/o"/><i>tzia</i><par n="Etiòpia__np"/></e>
+    <e lm="Iscotzia" r="LR"><p><l>Iscozia</l><r>Iscòtzia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Pennsylvania"><i>Pennsylvania</i><par n="Etiòpia__np"/></e>
     <e lm="Filadèlfia"><i>Filad</i><par n="è/e"/><i>lfia</i><par n="Etiòpia__np"/></e>
     <e lm="Carbònia"><i>Carb</i><par n="ò/o"/><i>nia</i><par n="Etiòpia__np"/></e>
     <e lm="Carbònia" r="LR"><p><l>Carbonia</l><r>Carbònia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Alighera"><i>Alighera</i><par n="Etiòpia__np"/></e>
     <e lm="Alighera" r="LR"><p><l>Alighèra</l><r>Alighera</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Dalmazia"><i>Dalmazia</i><par n="Etiòpia__np"/></e>
-    <e lm="Prussia"><i>Prussia</i><par n="Etiòpia__np"/></e>
+    <e lm="Dalmàtzia"><i>Dalm</i><par n="à/a"/><i>tzia</i><par n="Etiòpia__np"/></e>
+    <e lm="Prússia"><i>Prússia</i><par n="Etiòpia__np"/></e>
     <e lm="Lucca"><i>Lucca</i><par n="Etiòpia__np"/></e>
     <e lm="Guyana"><i>Guyana</i><par n="Etiòpia__np"/></e>
-    <e lm="Birmania"><i>Birmania</i><par n="Etiòpia__np"/></e>
+    <e lm="Birmània"><i>Birm</i><par n="à/a"/><i>nia</i><par n="Etiòpia__np"/></e>
     <e lm="Aruba"><i>Aruba</i><par n="Etiòpia__np"/></e>
     <e lm="Barcellona"><i>Barcellona</i><par n="Etiòpia__np"/></e>
-    <e lm="Enna"><i>Enna</i><par n="Etiòpia__np"/></e>
-    <e lm="Lione"><i>Lione</i><par n="Etiòpia__np"/></e>
     <e lm="Barcellona" r="LR"><p><l>Barcelona</l><r>Barcellona</r></p><par n="Etiòpia__np"/></e>
     <e lm="Barcellona" r="LR"><p><l>Bartzellona</l><r>Barcellona</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Enna"><i>Enna</i><par n="Etiòpia__np"/></e>
+    <e lm="Lione"><i>Lione</i><par n="Etiòpia__np"/></e>
     <e lm="Navarra"><i>Navarra</i><par n="Etiòpia__np"/></e>
     <e lm="Algèria"><i>Alg</i><par n="è/e"/><i>ria</i><par n="Etiòpia__np"/></e>
-    <e lm="Algèria" r="LR"><p><l>Algeria</l><r>Algèria</r></p><par n="Etiòpia__np"/></e>
     <e lm="Algèria" r="LR"><p><l>Alzeria</l><r>Algèria</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Tracia"><i>Tracia</i><par n="Etiòpia__np"/></e>
+    <e lm="Tràtzia"><i>Trà</i><par n="tz/c"/><i>ia</i><par n="Etiòpia__np"/></e>
     <e lm="Girona"><i>Girona</i><par n="Etiòpia__np"/></e>
     <e lm="Loyola"><i>Loyola</i><par n="Etiòpia__np"/></e>
     <e lm="Monza"><i>Monza</i><par n="Etiòpia__np"/></e>
@@ -6634,7 +6637,6 @@
     <e lm="Aragona"><i>Aragona</i><par n="Etiòpia__np"/></e>
     <e lm="Kinshasa"><i>Kinshasa</i><par n="Etiòpia__np"/></e>
     <e lm="Valèntzia"><i>Val</i><par n="è/e"/><i>ntzia</i><par n="Etiòpia__np"/></e>
-    <e lm="Valèntzia" r="LR"><p><l>Valentzia</l><r>Valèntzia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Valèntzia" r="LR"><p><l>Valencia</l><r>Valèntzia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Andorra"><i>Andorra</i><par n="Etiòpia__np"/></e>
     <e lm="Aràbia Saudita"><i>Ar</i><par n="à/a"/><i>bia<b/>Saudita</i><par n="Etiòpia__np"/></e>
@@ -6704,13 +6706,13 @@
     <e lm="Nazaret"><i>Nazaret</i><par n="Afganistàn__np"/></e>
     <e lm="Israele"><i>Israele</i><par n="Afganistàn__np"/></e>
     <e lm="Orlando"><i>Orlando</i><par n="Afganistàn__np"/></e>
-    <e lm="Budapest"><i>Budapest</i><par n="Afganistàn__np"/></e>
+    <e lm="Budapèst"><i>Budap</i><par n="è/e"/><i>st</i><par n="Afganistàn__np"/></e>
     <e lm="Tibet"><i>Tibet</i><par n="Afganistàn__np"/></e>
     <e lm="Montserrat"><i>Montserrat</i><par n="Afganistàn__np"/></e>
     <e lm="Montreal"><i>Montreal</i><par n="Afganistàn__np"/></e>
     <e lm="Iràq"><i>Ir</i><par n="à/a"/><i>q</i><par n="Afganistàn__np"/></e>
     <e lm="Iràq" r="LR"><p><l>Iràk</l><r>Iràq</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Iràq" r="LR"><p><l>Iraq</l><r>Iràq</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Bagdad"><i>Bagd</i><par n="à/a"/><i>d</i><par n="Afganistàn__np"/></e>
     <e lm="Betlem"><i>Betlem</i><par n="Afganistàn__np"/></e>
     <e lm="New York"><i>New<b/>York</i><par n="Afganistàn__np"/></e>
     <e lm="New York City"><i>New<b/>York<b/>City</i><par n="Afganistàn__np"/></e>
@@ -6723,12 +6725,13 @@
     <e lm="Parigi"><i>Parigi</i><par n="Afganistàn__np"/></e>
     <e lm="Parigi" r="LR"><p><l>Parizi</l><r>Parigi</r></p><par n="Afganistàn__np"/></e>
     <e lm="Camerun"><i>Camerun</i><par n="Afganistàn__np"/></e>
-    <e lm="Milanu" r="LR"><p><l>Milano</l><r>Milanu</r></p><par n="Afganistàn__np"/></e>
     <e lm="Milanu"><i>Milanu</i><par n="Afganistàn__np"/></e>
+    <e lm="Milanu" r="LR"><p><l>Milano</l><r>Milanu</r></p><par n="Afganistàn__np"/></e>
 
     <e lm="Portugallu"><i>Portugallu</i><par n="Afganistàn__np"/></e>
-    <e lm="Iran"><i>Iran</i><par n="Afganistàn__np"/></e>
-    <e lm="Iran" r="LR"><p><l>Iràn</l><r>Iran</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Portugallo" r="LR"><p><l>Portugallo</l><r>Portugallu</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Iràn"><i>Ir</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
+    <e lm="Teheràn"><i>Teher</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Galles"><i>Galles</i><par n="Afganistàn__np"/></e>
     <e lm="Washington"><i>Washington</i><par n="Afganistàn__np"/></e>
     <e lm="Lìbanu"><i>L</i><par n="ì/i"/><i>banu</i><par n="Afganistàn__np"/></e>
@@ -6759,7 +6762,6 @@
     <e lm="Hanoi"><i>Hanoi</i><par n="Afganistàn__np"/></e>
     <e lm="Abidjàn"><i>Abidj</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Abidjàn" r="LR"><p><l>Abidjan</l><r>Abidjàn</r></p><par n="Afganistàn__np"/></e>
-    <e lm="Teheran"><i>Teheran</i><par n="Afganistàn__np"/></e>
     <e lm="Amsterdam"><i>Amsterdam</i><par n="Afganistàn__np"/></e>
     <e lm="Stanford"><i>Stanford</i><par n="Afganistàn__np"/></e>
     <e lm="San Marino"><i>San<b/>Marino</i><par n="Afganistàn__np"/></e>
@@ -6819,16 +6821,18 @@
 
     <e lm="Istados Unidos"><i>Istados<b/>Unidos</i><par n="Istados_Unidos__np"/></e>
 
-    <e lm="Logos Bascios"><i>Logos<b/>Bascios</i><par n="Istados_Unidos__np"/></e>
-    <e lm="Logos Bascios" r="LR"><p><l>Paisus<b/>Bascios</l><r>Logos<b/>Bascios</r></p><par n="Istados_Unidos__np"/></e>
-    <e lm="Logos Bascios" r="LR"><p><l>Paisos<b/>Bascios</l><r>Logos<b/>Bascios</r></p><par n="Istados_Unidos__np"/></e>
+    <e lm="Paisos Bàscios"><i>Paisos<b/>B</i><par n="à/a"/><i>scios</i><par n="Istados_Unidos__np"/></e>
+    <e lm="Paisos Bàscios" r="LR"><p><l>Logos<b/>Bassos</l><r>Paisos<b/>Bàscios</r></p><par n="Istados_Unidos__np"/></e>
+    <e lm="Paisos Bàscios" r="LR"><p><l>Logos<b/>Bascios</l><r>Paisos<b/>Bàscios</r></p><par n="Istados_Unidos__np"/></e>
+    <e lm="Paisos Bàscios" r="LR"><p><l>Paisus<b/>Bascios</l><r>Paisos<b/>Bàscios</r></p><par n="Istados_Unidos__np"/></e>
+    <e lm="Paisos Bàscios" r="LR"><p><l>Paisos<b/>Bassos</l><r>Paisos<b/>Bàscios</r></p><par n="Istados_Unidos__np"/></e>
 
     <e lm="Antoni"><i>Antoni</i><par n="Antoni__np"/></e>
     <e lm="Luis"><i>Luis</i><par n="Antoni__np"/></e>
     <e lm="Andria"><i>Andria</i><par n="Antoni__np"/></e>
     <e lm="Jean"><i>Jean</i><par n="Antoni__np"/></e>
     <e lm="Gesus"><i>Gesus</i><par n="Antoni__np"/></e>
-    <e lm="Gregoriu"><i>Gregoriu</i><par n="Antoni__np"/></e>
+    <e lm="Gregòriu"><i>Gregòriu</i><par n="Antoni__np"/></e>
     <e lm="Giuanne"><i>Giuanne</i><par n="Antoni__np"/></e>
     <e lm="Tom"><i>Tom</i><par n="Antoni__np"/></e>
     <e lm="Theo"><i>Theo</i><par n="Antoni__np"/></e>
@@ -10600,7 +10604,7 @@
     <e lm="Sarajevo"><i>Sarajevo</i><par n="Afganistàn__np"/></e>
     <e lm="Dakar"><i>Dakar</i><par n="Afganistàn__np"/></e>
     <e lm="Honduras"><i>Honduras</i><par n="Afganistàn__np"/></e>
-    <e lm="Bucarest"><i>Bucarest</i><par n="Afganistàn__np"/></e>
+    <e lm="Bucarèst"><i>Bucar</i><par n="è/e"/><i>st</i><par n="Afganistàn__np"/></e>
     <e lm="Lussemburgu"><i>Lussemburgu</i><par n="Afganistàn__np"/></e>
     <e lm="Bèlgiu"><i>B</i><par n="è/e"/><i>lgiu</i><par n="Afganistàn__np"/></e>
     <e lm="Dublinu"><i>Dublinu</i><par n="Afganistàn__np"/></e>
@@ -10893,10 +10897,9 @@
     <e lm="polacu"><i>pola</i><par n="linguìsti/cu__adj"/></e>
     <e lm="polacu" r="LR"><p><l>polacc</l><r>polac</r></p><par n="frantzes/u__adj"/></e>
     <e lm="aragonesu"><i>aragones</i><par n="frantzes/u__adj"/></e>
-    <e lm="basciu"><i>basci</i><par n="frantzes/u__adj"/></e>
-    <e lm="giapponesu"><i>giappones</i><par n="frantzes/u__adj"/></e>
-    <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="giaponesu"><i>giapones</i><par n="frantzes/u__adj"/></e>
+    <e lm="giaponesu" r="LR"><p><l>giappones</l><r>giapones</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="giaponesu" r="LR"><p><l>zapones</l><r>giapones</r></p><par n="frantzes/u__adj"/></e>
     <e lm="frantzesu"><i>frantzes</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu"><i>ingles</i><par n="frantzes/u__adj"/></e>
     <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="frantzes/u__adj"/></e>
@@ -10975,15 +10978,15 @@
     <e lm="toscanu"><i>venetzian</i><par n="frantzes/u__adj"/></e>
     <e lm="logudoresu"><i>logudores</i><par n="frantzes/u__adj"/></e>
     <e lm="grecu"><i>gre</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="grecu"><i>grec</i><par n="amig/u__n"/></e>
 
     <e lm="anglicanu"><i>anglican</i><par n="amig/u__n"/></e>
     <e lm="polacu"><i>pola</i><par n="amig/u__n"/></e>
     <e lm="polacu" r="LR"><p><l>polacc</l><r>polac</r></p><par n="amig/u__n"/></e>
     <e lm="aragonesu"><i>aragones</i><par n="amig/u__n"/></e>
-    <e lm="basciu"><i>basci</i><par n="amig/u__n"/></e>
-    <e lm="giapponesu"><i>giappones</i><par n="amig/u__n"/></e>
-    <e lm="giapponesu" r="LR"><p><l>giapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
-    <e lm="giapponesu" r="LR"><p><l>zapones</l><r>giappones</r></p><par n="amig/u__n"/></e>
+    <e lm="giaponesu"><i>giapones</i><par n="amig/u__n"/></e>
+    <e lm="giaponesu" r="LR"><p><l>giappones</l><r>giapones</r></p><par n="amig/u__n"/></e>
+    <e lm="giaponesu" r="LR"><p><l>zapones</l><r>giapones</r></p><par n="amig/u__n"/></e>
     <e lm="frantzesu"><i>frantzes</i><par n="amig/u__n"/></e>
     <e lm="inglesu"><i>ingles</i><par n="amig/u__n"/></e>
     <e lm="inglesu" r="LR"><p><l>ingres</l><r>ingles</r></p><par n="amig/u__n"/></e>
@@ -11092,7 +11095,7 @@
     <e lm="autònomu"><i>aut</i><par n="ò/o"/><i>nom</i><par n="frantzes/u__adj"/></e>
 
     <e lm="ebraicu"><i>ebrai</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="obrigatoriu"><i>obrigatori</i><par n="frantzes/u__adj"/></e>
+    <e lm="obrigatòriu"><i>obrigatòri</i><par n="frantzes/u__adj"/></e>
     <e lm="sistèmicu"><i>sist</i><par n="è/e"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="prenu"><i>pren</i><par n="frantzes/u__adj"/></e>
     <e lm="prenu" r="LR"><p><l>pien</l><r>pren</r></p><par n="frantzes/u__adj"/></e>
@@ -11379,6 +11382,7 @@
     <e lm="artifitziale"><i>artifitzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="artifitziale" r="LR"><p><l>artifitzìal</l><r>artifitzial</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="sud-otzidentale"><i>sud-otzidental</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nord-otzidentale"><i>nord-otzidental</i><par n="fàtzil/e__adj"/></e>
     <e lm="populare"><i>popular</i><par n="fàtzil/e__adj"/></e>
     <e lm="populare" r="LR"><p><l>popolar</l><r>popular</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="impressionante"><i>impressionant</i><par n="fàtzil/e__adj"/></e>
@@ -11407,6 +11411,8 @@
     <e lm="possìbile"><i>poss</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="possìbile" r="LR"><p><l>possibil</l><r>possìbil</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="orientale"><i>oriental</i><par n="fàtzil/e__adj"/></e>
+    <e lm="nord-orientale"><i>nord-oriental</i><par n="fàtzil/e__adj"/></e>
+    <e lm="sud-orientale"><i>sud-oriental</i><par n="fàtzil/e__adj"/></e>
     <e lm="reghente"><i>reghent</i><par n="fàtzil/e__adj"/></e>
     <e lm="spirituale"><i>spiritual</i><par n="fàtzil/e__adj"/></e>
 
@@ -11629,6 +11635,7 @@
     <e lm="bancàriu"><i>banc</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="bàndidu"><i>b</i><par n="à/a"/><i>ndid</i><par n="frantzes/u__adj"/></e>
     <e lm="bàsciu"><i>b</i><par n="à/a"/><i>sci</i><par n="frantzes/u__adj"/></e>
+    <e lm="bàsciu"><i>b</i><par n="à/a"/><i>sci</i><par n="amig/u__n"/></e>
     <e lm="benefitziàriu"><i>benefitzi</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="beru"><i>ber</i><par n="frantzes/u__adj"/></e>
     <e lm="biaitu"><i>biait</i><par n="frantzes/u__adj"/></e>
@@ -12775,7 +12782,7 @@
     <e lm="cm"><i>cm</i><par n="a.C.__abbr"/></e>
     <e lm="Columbia"><i>Columbia</i><par n="Fiat__np"/></e>
     <e lm="Cooper"><i>Cooper</i><par n="Saussure__np"/></e>
-    <e lm="Costantinòpoli"><i>Costantinòpoli</i><par n="Etiòpia__np"/></e>
+    <e lm="Costantinòpoli"><i>Costantin</i><par n="ò/o"/><i>poli</i><par n="Etiòpia__np"/></e>
     <e lm="Costantinòpoli" r="LR"><p><l>Costantinopoli</l><r>Costantinòpoli</r></p><par n="Etiòpia__np"/></e>
     <e lm="Costanzo"><i>Costanzo</i><par n="Antoni__np"/></e>
     <e lm="Costanzo"><i>Costanzo</i><par n="Saussure__np"/></e>
@@ -39808,7 +39815,6 @@
     <e lm="esatore"><i>esator</i><par n="traballador/e__n"/></e>
     <e lm="finlandesu"><i>finlandes</i><par n="amig/u__n"/></e>
     <e lm="funtziònàriu"><i>funtziòn</i><par n="à/a"/><i>ri</i><par n="amig/u__n"/></e>
-    <e lm="giaponesu"><i>giapones</i><par n="amig/u__n"/></e>
     <e lm="lampada"><i>lampada</i><par n="mesa__n"/></e>
     <e lm="libertu"><i>libert</i><par n="amig/u__n"/></e>
     <e lm="mafiosu"><i>mafios</i><par n="amig/u__n"/></e>
@@ -46174,7 +46180,6 @@
     <e lm="giàllinu"><i>gi</i><par n="à/a"/><i>llin</i><par n="frantzes/u__adj"/></e>
     <e lm="giamaicanu"><i>giamaican</i><par n="frantzes/u__adj"/></e>
     <e lm="giampanadu"><i>giampanad</i><par n="frantzes/u__adj"/></e>
-    <e lm="giaponesu"><i>giapones</i><par n="frantzes/u__adj"/></e>
     <e lm="giarràspidu"><i>giarr</i><par n="à/a"/><i>spid</i><par n="frantzes/u__adj"/></e>
     <e lm="giaunesu"><i>giaunes</i><par n="frantzes/u__adj"/></e>
     <e lm="giavesu"><i>giaves</i><par n="frantzes/u__adj"/></e>
@@ -51870,12 +51875,10 @@
     <e lm="BBC"><i>BBC</i><par n="Fiat__np"/></e>
     <e lm="Bertone"><i>Bertone</i><par n="Saussure__np"/></e>
     <e lm="Bielorùssia"><i>Bielor</i><par n="ù/u"/><i>ssia</i><par n="Etiòpia__np"/></e>
-    <e lm="Birmània"><i>Birm</i><par n="à/a"/><i>nia</i><par n="Etiòpia__np"/></e>
     <e lm="Bismarck"><i>Bismarck</i><par n="Saussure__np"/></e>
     <e lm="BMW"><i>BMW</i><par n="Fiat__np"/></e>
     <e lm="Boèmia"><i>Bo</i><par n="è/e"/><i>mia</i><par n="Etiòpia__np"/></e>
     <e lm="Bompiani"><i>Bompiani</i><par n="Saussure__np"/></e>
-    <e lm="Bosnia"><i>Bosnia</i><par n="Etiòpia__np"/></e>
     <e lm="Boston"><i>Boston</i><par n="Afganistàn__np"/></e>
     <e lm="Britània"><i>Brit</i><par n="à/a"/><i>nia</i><par n="Etiòpia__np"/></e>
     <e lm="Bugatti"><i>Bugatti</i><par n="Fiat__np"/></e>
@@ -51886,7 +51889,8 @@
     <e lm="Carìntzia"><i>Car</i><par n="ì/i"/><i>ntzia</i><par n="Etiòpia__np"/></e>
     <e lm="Castìglia"><i>Cast</i><par n="ì/i"/><i>glia</i><par n="Etiòpia__np"/></e>
     <e lm="CBS"><i>CBS</i><par n="Fiat__np"/></e>
-    <e lm="Cecoslovàcchia"><i>Cecoslov</i><par n="à/a"/><i>cchia</i><par n="Etiòpia__np"/></e>
+    <e lm="Cecoslovàchia"><i>Cecoslov</i><par n="à/a"/><i>chia</i><par n="Etiòpia__np"/></e>
+    <e lm="Cecoslovàcchia" r="LR"><p><l>Cecoslovàcchia</l><r>Cecoslovàchia</r></p><par n="Afganistàn__np"/></e>
     <e lm="Champions League"><i>Champions<b/>League</i><par n="Fiat__np"/></e>
     <e lm="Chevrolet"><i>Chevrolet</i><par n="Fiat__np"/></e>
     <e lm="Chile"><i>Chile</i><par n="Afganistàn__np"/></e>
@@ -51895,7 +51899,6 @@
     <e lm="Coca-Cola"><i>Coca-Cola</i><par n="Fiat__np"/></e>
     <e lm="CONCACAF"><i>CONCACAF</i><par n="Fiat__np"/></e>
     <e lm="Corsica"><i>Corsica</i><par n="Etiòpia__np"/></e>
-    <e lm="Dalmàtzia"><i>Dalm</i><par n="à/a"/><i>tzia</i><par n="Etiòpia__np"/></e>
     <e lm="Damocles"><i>Damocles</i><par n="Antoni__np"/></e>
     <e lm="de Beauharnais"><i>de<b/>Beauharnais</i><par n="Saussure__np"/></e>
     <e lm="de Bougainville"><i>de<b/>Bougainville</i><par n="Saussure__np"/></e>
@@ -51965,6 +51968,8 @@
     <e lm="Lazio"><i>Lazio</i><par n="Fiat__np"/></e>
     <e lm="Leibniz"><i>Leibniz</i><par n="Saussure__np"/></e>
     <e lm="Letònia"><i>Let</i><par n="ò/o"/><i>nia</i><par n="Etiòpia__np"/></e>
+    <e lm="Letònia" r="LR"><p><l>Lettònia</l><r>Letònia</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Letònia" r="LR"><p><l>Lettonia</l><r>Letònia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Lille"><i>Lille</i><par n="Afganistàn__np"/></e>
     <e lm="Linné"><i>Linné</i><par n="Saussure__np"/></e>
     <e lm="Liverpool"><i>Liverpool</i><par n="Afganistàn__np"/></e>
@@ -51973,7 +51978,6 @@
     <e lm="Lotus"><i>Lotus</i><par n="Fiat__np"/></e>
     <e lm="Louisiana"><i>Louisiana</i><par n="Etiòpia__np"/></e>
     <e lm="Luftwaffe"><i>Luftwaffe</i><par n="Fiat__np"/></e>
-    <e lm="Macedònia"><i>Maced</i><par n="ò/o"/><i>nia</i><par n="Etiòpia__np"/></e>
     <e lm="Manchester City"><i>Manchester<b/>City</i><par n="Milan__np"/></e>
     <e lm="Manchester"><i>Manchester</i><par n="Afganistàn__np"/></e>
     <e lm="Manchester United"><i>Manchester<b/>United</i><par n="Milan__np"/></e>
@@ -52002,7 +52006,7 @@
     <e lm="Normandia"><i>Normandia</i><par n="Etiòpia__np"/></e>
     <e lm="Norvègia"><i>Norv</i><par n="è/e"/><i>gia</i><par n="Etiòpia__np"/></e>
     <e lm="Nova Scotia"><i>Nova<b/>Scotia</i><par n="Etiòpia__np"/></e>
-    <e lm="np.ant.f.sg"><i>np.ant.f.sg</i><par n="Afganistàn__np"/></e>
+    <e lm="Rosario"><i>Rosario</i><par n="Afganistàn__np"/></e>
     <e lm="Nueva Granada"><i>Nueva<b/>Granada</i><par n="Etiòpia__np"/></e>
     <e lm="Nueva Pamplona"><i>Nueva<b/>Pamplona</i><par n="Etiòpia__np"/></e>
     <e lm="Nueva Segovia"><i>Nueva<b/>Segovia</i><par n="Etiòpia__np"/></e>
@@ -52811,6 +52815,7 @@
     <e lm="guardianu"><i>guardian</i><par n="amig/u__n"/></e>
     <e lm="guardianu"><i>guardian</i><par n="frantzes/u__adj"/></e>
     <e lm="haitianu"><i>haitian</i><par n="amig/u__n"/></e>
+    <e lm="hawaianu"><i>hawaian</i><par n="amig/u__n"/></e>
     <e lm="isolanu"><i>isolan</i><par n="amig/u__n"/></e>
     <e lm="istrianu"><i>istrian</i><par n="amig/u__n"/></e>
     <e lm="istrianu"><i>istrian</i><par n="frantzes/u__adj"/></e>
@@ -53075,8 +53080,8 @@
     <e lm="cuntzessionàriu"><par n="cun/con"/><i>tzessionàri</i><par n="frantzes/u__adj"/></e>
     <e lm="porrogu"><i>porrog</i><par n="frantzes/u__adj"/></e>
 
-    <e lm="in manera òvia"><i>in<b/>manera<b/>òvia</i><par n="bene__adv"/></e>
-    <e lm="in manera lògica"><i>in<b/>manera<b/>lògica</i><par n="bene__adv"/></e>
+    <e lm="in manera òvia"><i>in<b/>manera<b/></i><par n="ò/o"/><i>via</i><par n="bene__adv"/></e>
+    <e lm="in manera lògica"><i>in<b/>manera<b/>l</i><par n="ò/o"/><i>gica</i><par n="bene__adv"/></e>
     <e lm="in manera adeguada"><i>in<b/>manera<b/>adeguada</i><par n="bene__adv"/></e>
     <e lm="in manera afetuosa"><i>in<b/>manera<b/>afetuosa</i><par n="bene__adv"/></e>
     <e lm="in manera allegra"><i>in<b/>manera<b/>allegra</i><par n="bene__adv"/></e>
@@ -53090,29 +53095,29 @@
     <e lm="in manera antitzipada"><i>in<b/>manera<b/>antitzipada</i><par n="bene__adv"/></e>
     <e lm="in manera aberta"><i>in<b/>manera<b/>aberta</i><par n="bene__adv"/></e>
     <e lm="in manera apassionada"><i>in<b/>manera<b/>apassionada</i><par n="bene__adv"/></e>
-    <e lm="in manera apòsita"><i>in<b/>manera<b/>apòsita</i><par n="bene__adv"/></e>
+    <e lm="in manera apòsita"><i>in<b/>manera<b/>ap</i><par n="ò/o"/><i>sita</i><par n="bene__adv"/></e>
     <e lm="in manera aprofundida"><i>in<b/>manera<b/>aprofundida</i><par n="bene__adv"/></e>
     <e lm="in manera apropriada"><i>in<b/>manera<b/>apropriada</i><par n="bene__adv"/></e>
-    <e lm="in manera artìstica"><i>in<b/>manera<b/>artìstica</i><par n="bene__adv"/></e>
+    <e lm="in manera artìstica"><i>in<b/>manera<b/>art</i><par n="ì/i"/><i>stica</i><par n="bene__adv"/></e>
     <e lm="in manera asciuta"><i>in<b/>manera<b/>asciuta</i><par n="bene__adv"/></e>
     <e lm="in manera assoluta"><i>in<b/>manera<b/>assoluta</i><par n="bene__adv"/></e>
     <e lm="in manera astrata"><i>in<b/>manera<b/>astrata</i><par n="bene__adv"/></e>
     <e lm="in manera ativa"><i>in<b/>manera<b/>ativa</i><par n="bene__adv"/></e>
-    <e lm="in manera autèntica"><i>in<b/>manera<b/>autèntica</i><par n="bene__adv"/></e>
-    <e lm="in manera automàtica"><i>in<b/>manera<b/>automàtica</i><par n="bene__adv"/></e>
-    <e lm="in manera autònoma"><i>in<b/>manera<b/>autònoma</i><par n="bene__adv"/></e>
-    <e lm="in manera avèrtida"><i>in<b/>manera<b/>avèrtida</i><par n="bene__adv"/></e>
-    <e lm="in manera bàsica"><i>in<b/>manera<b/>bàsica</i><par n="bene__adv"/></e>
+    <e lm="in manera autèntica"><i>in<b/>manera<b/>aut</i><par n="è/e"/><i>ntica</i><par n="bene__adv"/></e>
+    <e lm="in manera automàtica"><i>in<b/>manera<b/>autom</i><par n="à/a"/><i>tica</i><par n="bene__adv"/></e>
+    <e lm="in manera autònoma"><i>in<b/>manera<b/>aut</i><par n="ò/o"/><i>noma</i><par n="bene__adv"/></e>
+    <e lm="in manera avèrtida"><i>in<b/>manera<b/>av</i><par n="è/e"/><i>rtida</i><par n="bene__adv"/></e>
+    <e lm="in manera bàsica"><i>in<b/>manera<b/>b</i><par n="à/a"/><i>sica</i><par n="bene__adv"/></e>
     <e lm="in manera bella"><i>in<b/>manera<b/>bella</i><par n="bene__adv"/></e>
     <e lm="in manera brava"><i>in<b/>manera<b/>brava</i><par n="bene__adv"/></e>
     <e lm="in manera breve"><i>in<b/>manera<b/>breve</i><par n="bene__adv"/></e>
     <e lm="in manera caente"><i>in<b/>manera<b/>caente</i><par n="bene__adv"/></e>
-    <e lm="in manera càndida"><i>in<b/>manera<b/>càndida</i><par n="bene__adv"/></e>
+    <e lm="in manera càndida"><i>in<b/>manera<b/>c</i><par n="à/a"/><i>ndida</i><par n="bene__adv"/></e>
     <e lm="in manera cara"><i>in<b/>manera<b/>cara</i><par n="bene__adv"/></e>
-    <e lm="in manera catòlica"><i>in<b/>manera<b/>catòlica</i><par n="bene__adv"/></e>
+    <e lm="in manera catòlica"><i>in<b/>manera<b/>cat</i><par n="ò/o"/><i>lica</i><par n="bene__adv"/></e>
     <e lm="in manera crara"><i>in<b/>manera<b/>crara</i><par n="bene__adv"/></e>
-    <e lm="in manera chìmica"><i>in<b/>manera<b/>chìmica</i><par n="bene__adv"/></e>
-    <e lm="in manera chirùrgica"><i>in<b/>manera<b/>chirùrgica</i><par n="bene__adv"/></e>
+    <e lm="in manera chìmica"><i>in<b/>manera<b/>ch</i><par n="ì/i"/><i>mica</i><par n="bene__adv"/></e>
+    <e lm="in manera chirùrgica"><i>in<b/>manera<b/>chir</i><par n="ù/u"/><i>rgica</i><par n="bene__adv"/></e>
     <e lm="in manera tzirculare"><i>in<b/>manera<b/>tzirculare</i><par n="bene__adv"/></e>
     <e lm="in manera clandestina"><i>in<b/>manera<b/>clandestina</i><par n="bene__adv"/></e>
     <e lm="in manera coerente"><i>in<b/>manera<b/>coerente</i><par n="bene__adv"/></e>
@@ -53125,27 +53130,27 @@
     <e lm="in manera congra"><i>in<b/>manera<b/>congra</i><par n="bene__adv"/></e>
     <e lm="in manera consecutiva"><i>in<b/>manera<b/>consecutiva</i><par n="bene__adv"/></e>
     <e lm="in manera cunsighente"><i>in<b/>manera<b/>cunsighente</i><par n="bene__adv"/></e>
-    <e lm="in manera contemporànea"><i>in<b/>manera<b/>contemporànea</i><par n="bene__adv"/></e>
-    <e lm="in manera contrària"><i>in<b/>manera<b/>contrària</i><par n="bene__adv"/></e>
+    <e lm="in manera contemporànea"><i>in<b/>manera<b/>contempor</i><par n="à/a"/><i>nea</i><par n="bene__adv"/></e>
+    <e lm="in manera contrària"><i>in<b/>manera<b/>contr</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera cubada"><i>in<b/>manera<b/>cubada</i><par n="bene__adv"/></e>
     <e lm="in manera currente"><i>in<b/>manera<b/>currente</i><par n="bene__adv"/></e>
     <e lm="in manera creativa"><i>in<b/>manera<b/>creativa</i><par n="bene__adv"/></e>
     <e lm="in manera cristiana"><i>in<b/>manera<b/>cristiana</i><par n="bene__adv"/></e>
-    <e lm="in manera crìtica"><i>in<b/>manera<b/>crìtica</i><par n="bene__adv"/></e>
+    <e lm="in manera crìtica"><i>in<b/>manera<b/>cr</i><par n="ì/i"/><i>tica</i><par n="bene__adv"/></e>
     <e lm="in manera cumulativa"><i>in<b/>manera<b/>cumulativa</i><par n="bene__adv"/></e>
     <e lm="in manera fichete"><i>in<b/>manera<b/>fichete</i><par n="bene__adv"/></e>
     <e lm="in manera dannosa"><i>in<b/>manera<b/>dannosa</i><par n="bene__adv"/></e>
-    <e lm="in manera dèpida"><i>in<b/>manera<b/>dèpida</i><par n="bene__adv"/></e>
+    <e lm="in manera dèpida"><i>in<b/>manera<b/>d</i><par n="è/e"/><i>pida</i><par n="bene__adv"/></e>
     <e lm="in manera detzisa"><i>in<b/>manera<b/>detzisa</i><par n="bene__adv"/></e>
     <e lm="in manera dinna"><i>in<b/>manera<b/>dinna</i><par n="bene__adv"/></e>
     <e lm="in manera deliberada"><i>in<b/>manera<b/>deliberada</i><par n="bene__adv"/></e>
     <e lm="in manera delicada"><i>in<b/>manera<b/>delicada</i><par n="bene__adv"/></e>
-    <e lm="in manera democràtica"><i>in<b/>manera<b/>democràtica</i><par n="bene__adv"/></e>
+    <e lm="in manera democràtica"><i>in<b/>manera<b/>democr</i><par n="à/a"/><i>tica</i><par n="bene__adv"/></e>
     <e lm="in manera destra"><i>in<b/>manera<b/>destra</i><par n="bene__adv"/></e>
     <e lm="in manera dichiarada"><i>in<b/>manera<b/>dichiarada</i><par n="bene__adv"/></e>
     <e lm="in manera diferente"><i>in<b/>manera<b/>diferente</i><par n="bene__adv"/></e>
     <e lm="in manera ispainada"><i>in<b/>manera<b/>ispainada</i><par n="bene__adv"/></e>
-    <e lm="in manera dinàmica"><i>in<b/>manera<b/>dinàmica</i><par n="bene__adv"/></e>
+    <e lm="in manera dinàmica"><i>in<b/>manera<b/>din</i><par n="à/a"/><i>mica</i><par n="bene__adv"/></e>
     <e lm="in manera discreta"><i>in<b/>manera<b/>discreta</i><par n="bene__adv"/></e>
     <e lm="in manera malassortada"><i>in<b/>manera<b/>malassortada</i><par n="bene__adv"/></e>
     <e lm="in manera disinteressada"><i>in<b/>manera<b/>disinteressada</i><par n="bene__adv"/></e>
@@ -53156,38 +53161,38 @@
     <e lm="in manera divina"><i>in<b/>manera<b/>divina</i><par n="bene__adv"/></e>
     <e lm="in manera durche"><i>in<b/>manera<b/>durche</i><par n="bene__adv"/></e>
     <e lm="in manera dolorosa"><i>in<b/>manera<b/>dolorosa</i><par n="bene__adv"/></e>
-    <e lm="in manera dòpia"><i>in<b/>manera<b/>dòpia</i><par n="bene__adv"/></e>
-    <e lm="in manera dèvida"><i>in<b/>manera<b/>dèvida</i><par n="bene__adv"/></e>
+    <e lm="in manera dòpia"><i>in<b/>manera<b/>d</i><par n="ò/o"/><i>pia</i><par n="bene__adv"/></e>
+    <e lm="in manera dèvida"><i>in<b/>manera<b/>d</i><par n="è/e"/><i>vida</i><par n="bene__adv"/></e>
     <e lm="in manera resoluta"><i>in<b/>manera<b/>resoluta</i><par n="bene__adv"/></e>
     <e lm="in manera tosta"><i>in<b/>manera<b/>tosta</i><par n="bene__adv"/></e>
     <e lm="in manera educativa"><i>in<b/>manera<b/>educativa</i><par n="bene__adv"/></e>
     <e lm="in manera eficatze"><i>in<b/>manera<b/>eficatze</i><par n="bene__adv"/></e>
     <e lm="in manera elegante"><i>in<b/>manera<b/>elegante</i><par n="bene__adv"/></e>
-    <e lm="in manera elètrica"><i>in<b/>manera<b/>elètrica</i><par n="bene__adv"/></e>
+    <e lm="in manera elètrica"><i>in<b/>manera<b/>el</i><par n="è/e"/><i>trica</i><par n="bene__adv"/></e>
     <e lm="in manera enorme"><i>in<b/>manera<b/>enorme</i><par n="bene__adv"/></e>
-    <e lm="in manera ecuànime"><i>in<b/>manera<b/>ecuànime</i><par n="bene__adv"/></e>
+    <e lm="in manera ecuànime"><i>in<b/>manera<b/>ecu</i><par n="à/a"/><i>nime</i><par n="bene__adv"/></e>
     <e lm="in manera ecuivalente"><i>in<b/>manera<b/>ecuivalente</i><par n="bene__adv"/></e>
     <e lm="in manera esagerada"><i>in<b/>manera<b/>esagerada</i><par n="bene__adv"/></e>
     <e lm="in manera cabale"><i>in<b/>manera<b/>cabale</i><par n="bene__adv"/></e>
     <e lm="in manera cumpleta"><i>in<b/>manera<b/>cumpleta</i><par n="bene__adv"/></e>
-    <e lm="in manera esprìmida"><i>in<b/>manera<b/>esprìmida</i><par n="bene__adv"/></e>
+    <e lm="in manera esprìmida"><i>in<b/>manera<b/>espr</i><par n="ì/i"/><i>mida</i><par n="bene__adv"/></e>
     <e lm="in manera esterna"><i>in<b/>manera<b/>esterna</i><par n="bene__adv"/></e>
-    <e lm="in manera estèndida"><i>in<b/>manera<b/>estèndida</i><par n="bene__adv"/></e>
+    <e lm="in manera estèndida"><i>in<b/>manera<b/>est</i><par n="è/e"/><i>ndida</i><par n="bene__adv"/></e>
     <e lm="in manera estrema"><i>in<b/>manera<b/>estrema</i><par n="bene__adv"/></e>
     <e lm="in manera eterna"><i>in<b/>manera<b/>eterna</i><par n="bene__adv"/></e>
-    <e lm="in manera ètnica"><i>in<b/>manera<b/>ètnica</i><par n="bene__adv"/></e>
+    <e lm="in manera ètnica"><i>in<b/>manera<b/></i><par n="è/e"/><i>tnica</i><par n="bene__adv"/></e>
     <e lm="in manera ladina"><i>in<b/>manera<b/>ladina</i><par n="bene__adv"/></e>
     <e lm="in manera farsa"><i>in<b/>manera<b/>farsa</i><par n="bene__adv"/></e>
     <e lm="in manera cuntenta"><i>in<b/>manera<b/>cuntenta</i><par n="bene__adv"/></e>
     <e lm="in manera firma"><i>in<b/>manera<b/>firma</i><par n="bene__adv"/></e>
     <e lm="in manera fiera"><i>in<b/>manera<b/>fiera</i><par n="bene__adv"/></e>
     <e lm="in manera figurada"><i>in<b/>manera<b/>figurada</i><par n="bene__adv"/></e>
-    <e lm="in manera filosòfica"><i>in<b/>manera<b/>filosòfica</i><par n="bene__adv"/></e>
+    <e lm="in manera filosòfica"><i>in<b/>manera<b/>filos</i><par n="ò/o"/><i>fica</i><par n="bene__adv"/></e>
     <e lm="in manera fine"><i>in<b/>manera<b/>fine</i><par n="bene__adv"/></e>
-    <e lm="in manera fìsica"><i>in<b/>manera<b/>fìsica</i><par n="bene__adv"/></e>
+    <e lm="in manera fìsica"><i>in<b/>manera<b/>f</i><par n="ì/i"/><i>sica</i><par n="bene__adv"/></e>
     <e lm="in manera fundada"><i>in<b/>manera<b/>fundada</i><par n="bene__adv"/></e>
-    <e lm="in manera fonètica"><i>in<b/>manera<b/>fonètica</i><par n="bene__adv"/></e>
-    <e lm="in manera forfetària"><i>in<b/>manera<b/>forfetària</i><par n="bene__adv"/></e>
+    <e lm="in manera fonètica"><i>in<b/>manera<b/>fon</i><par n="è/e"/><i>tica</i><par n="bene__adv"/></e>
+    <e lm="in manera forfetària"><i>in<b/>manera<b/>forfet</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera fortunada"><i>in<b/>manera<b/>fortunada</i><par n="bene__adv"/></e>
     <e lm="in manera fortzada"><i>in<b/>manera<b/>fortzada</i><par n="bene__adv"/></e>
     <e lm="in manera frita"><i>in<b/>manera<b/>frita</i><par n="bene__adv"/></e>
@@ -53195,21 +53200,21 @@
     <e lm="in manera gelosa"><i>in<b/>manera<b/>gelosa</i><par n="bene__adv"/></e>
     <e lm="in manera generale"><i>in<b/>manera<b/>generale</i><par n="bene__adv"/></e>
     <e lm="in manera generosa"><i>in<b/>manera<b/>generosa</i><par n="bene__adv"/></e>
-    <e lm="in manera geogràfica"><i>in<b/>manera<b/>geogràfica</i><par n="bene__adv"/></e>
-    <e lm="in manera geològica"><i>in<b/>manera<b/>geològica</i><par n="bene__adv"/></e>
-    <e lm="in manera geomètrica"><i>in<b/>manera<b/>geomètrica</i><par n="bene__adv"/></e>
-    <e lm="in manera architetònica"><i>in<b/>manera<b/>architetònica</i><par n="bene__adv"/></e>
-    <e lm="in manera giurìdica"><i>in<b/>manera<b/>giurìdica</i><par n="bene__adv"/></e>
+    <e lm="in manera geogràfica"><i>in<b/>manera<b/>geogr</i><par n="à/a"/><i>fica</i><par n="bene__adv"/></e>
+    <e lm="in manera geològica"><i>in<b/>manera<b/>geol</i><par n="ò/o"/><i>gica</i><par n="bene__adv"/></e>
+    <e lm="in manera geomètrica"><i>in<b/>manera<b/>geom</i><par n="è/e"/><i>trica</i><par n="bene__adv"/></e>
+    <e lm="in manera architetònica"><i>in<b/>manera<b/>architet</i><par n="ò/o"/><i>nica</i><par n="bene__adv"/></e>
+    <e lm="in manera giurìdica"><i>in<b/>manera<b/>giur</i><par n="ì/i"/><i>dica</i><par n="bene__adv"/></e>
     <e lm="in manera giusta"><i>in<b/>manera<b/>giusta</i><par n="bene__adv"/></e>
     <e lm="in manera gloriosa"><i>in<b/>manera<b/>gloriosa</i><par n="bene__adv"/></e>
-    <e lm="in manera gràfica"><i>in<b/>manera<b/>gràfica</i><par n="bene__adv"/></e>
+    <e lm="in manera gràfica"><i>in<b/>manera<b/>gr</i><par n="à/a"/><i>fica</i><par n="bene__adv"/></e>
     <e lm="in manera grande"><i>in<b/>manera<b/>grande</i><par n="bene__adv"/></e>
     <e lm="in manera gratuita"><i>in<b/>manera<b/>gratuita</i><par n="bene__adv"/></e>
     <e lm="in manera grave"><i>in<b/>manera<b/>grave</i><par n="bene__adv"/></e>
-    <e lm="in manera ideològica"><i>in<b/>manera<b/>ideològica</i><par n="bene__adv"/></e>
-    <e lm="in manera idònea"><i>in<b/>manera<b/>idònea</i><par n="bene__adv"/></e>
-    <e lm="in manera igiènica"><i>in<b/>manera<b/>igiènica</i><par n="bene__adv"/></e>
-    <e lm="in manera illètzita"><i>in<b/>manera<b/>illètzita</i><par n="bene__adv"/></e>
+    <e lm="in manera ideològica"><i>in<b/>manera<b/>ideol</i><par n="ò/o"/><i>gica</i><par n="bene__adv"/></e>
+    <e lm="in manera idònea"><i>in<b/>manera<b/>id</i><par n="ò/o"/><i>nea</i><par n="bene__adv"/></e>
+    <e lm="in manera igiènica"><i>in<b/>manera<b/>igi</i><par n="è/e"/><i>nica</i><par n="bene__adv"/></e>
+    <e lm="in manera illètzita"><i>in<b/>manera<b/>ill</i><par n="è/e"/><i>tzita</i><par n="bene__adv"/></e>
     <e lm="in manera immensa"><i>in<b/>manera<b/>immensa</i><par n="bene__adv"/></e>
     <e lm="in manera indipendente"><i>in<b/>manera<b/>indipendente</i><par n="bene__adv"/></e>
     <e lm="in manera indireta"><i>in<b/>manera<b/>indireta</i><par n="bene__adv"/></e>
@@ -53224,161 +53229,161 @@
     <e lm="in manera interessada"><i>in<b/>manera<b/>interessada</i><par n="bene__adv"/></e>
     <e lm="in manera interna"><i>in<b/>manera<b/>interna</i><par n="bene__adv"/></e>
     <e lm="in manera intima"><i>in<b/>manera<b/>intima</i><par n="bene__adv"/></e>
-    <e lm="in manera intrìnseca"><i>in<b/>manera<b/>intrìnseca</i><par n="bene__adv"/></e>
+    <e lm="in manera intrìnseca"><i>in<b/>manera<b/>intr</i><par n="ì/i"/><i>nseca</i><par n="bene__adv"/></e>
     <e lm="in manera desemprada"><i>in<b/>manera<b/>desemprada</i><par n="bene__adv"/></e>
-    <e lm="in manera involuntària"><i>in<b/>manera<b/>involuntària</i><par n="bene__adv"/></e>
+    <e lm="in manera involuntària"><i>in<b/>manera<b/>involunt</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera isulada"><i>in<b/>manera<b/>isulada</i><par n="bene__adv"/></e>
-    <e lm="in manera fracòngia"><i>in<b/>manera<b/>fracòngia</i><par n="bene__adv"/></e>
+    <e lm="in manera fracòngia"><i>in<b/>manera<b/>frac</i><par n="ò/o"/><i>ngia</i><par n="bene__adv"/></e>
     <e lm="in manera larga"><i>in<b/>manera<b/>larga</i><par n="bene__adv"/></e>
-    <e lm="in manera lèbia"><i>in<b/>manera<b/>lèbia</i><par n="bene__adv"/></e>
-    <e lm="in manera legìtima"><i>in<b/>manera<b/>legìtima</i><par n="bene__adv"/></e>
-    <e lm="in manera literària"><i>in<b/>manera<b/>literària</i><par n="bene__adv"/></e>
+    <e lm="in manera lèbia"><i>in<b/>manera<b/>l</i><par n="è/e"/><i>bia</i><par n="bene__adv"/></e>
+    <e lm="in manera legìtima"><i>in<b/>manera<b/>leg</i><par n="ì/i"/><i>tima</i><par n="bene__adv"/></e>
+    <e lm="in manera literària"><i>in<b/>manera<b/>liter</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera leve"><i>in<b/>manera<b/>leve</i><par n="bene__adv"/></e>
     <e lm="in manera limitada"><i>in<b/>manera<b/>limitada</i><par n="bene__adv"/></e>
-    <e lm="in manera linguìstica"><i>in<b/>manera<b/>linguìstica</i><par n="bene__adv"/></e>
+    <e lm="in manera linguìstica"><i>in<b/>manera<b/>lingu</i><par n="ì/i"/><i>stica</i><par n="bene__adv"/></e>
     <e lm="in manera longa"><i>in<b/>manera<b/>longa</i><par n="bene__adv"/></e>
-    <e lm="in manera majoritària"><i>in<b/>manera<b/>majoritària</i><par n="bene__adv"/></e>
+    <e lm="in manera majoritària"><i>in<b/>manera<b/>majorit</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera marcada"><i>in<b/>manera<b/>marcada</i><par n="bene__adv"/></e>
     <e lm="in manera massitza"><i>in<b/>manera<b/>massitza</i><par n="bene__adv"/></e>
-    <e lm="in manera màssima"><i>in<b/>manera<b/>màssima</i><par n="bene__adv"/></e>
+    <e lm="in manera màssima"><i>in<b/>manera<b/>m</i><par n="à/a"/><i>ssima</i><par n="bene__adv"/></e>
     <e lm="in manera massiva"><i>in<b/>manera<b/>massiva</i><par n="bene__adv"/></e>
-    <e lm="in manera matemàtica"><i>in<b/>manera<b/>matemàtica</i><par n="bene__adv"/></e>
-    <e lm="in manera mecànica"><i>in<b/>manera<b/>mecànica</i><par n="bene__adv"/></e>
-    <e lm="in manera mèdia"><i>in<b/>manera<b/>mèdia</i><par n="bene__adv"/></e>
+    <e lm="in manera matemàtica"><i>in<b/>manera<b/>matem</i><par n="à/a"/><i>tica</i><par n="bene__adv"/></e>
+    <e lm="in manera mecànica"><i>in<b/>manera<b/>mec</i><par n="à/a"/><i>nica</i><par n="bene__adv"/></e>
+    <e lm="in manera mèdia"><i>in<b/>manera<b/>m</i><par n="è/e"/><i>dia</i><par n="bene__adv"/></e>
     <e lm="in manera mera"><i>in<b/>manera<b/>mera</i><par n="bene__adv"/></e>
     <e lm="in manera meravigiosa"><i>in<b/>manera<b/>meravigiosa</i><par n="bene__adv"/></e>
     <e lm="in manera meritada"><i>in<b/>manera<b/>meritada</i><par n="bene__adv"/></e>
-    <e lm="in manera mìnima"><i>in<b/>manera<b/>mìnima</i><par n="bene__adv"/></e>
+    <e lm="in manera mìnima"><i>in<b/>manera<b/>m</i><par n="ì/i"/><i>nima</i><par n="bene__adv"/></e>
     <e lm="in manera minuta"><i>in<b/>manera<b/>minuta</i><par n="bene__adv"/></e>
     <e lm="in manera misteriosa"><i>in<b/>manera<b/>misteriosa</i><par n="bene__adv"/></e>
     <e lm="in manera moderada"><i>in<b/>manera<b/>moderada</i><par n="bene__adv"/></e>
     <e lm="in manera moderna"><i>in<b/>manera<b/>moderna</i><par n="bene__adv"/></e>
     <e lm="in manera motivada"><i>in<b/>manera<b/>motivada</i><par n="bene__adv"/></e>
-    <e lm="in manera mùtua"><i>in<b/>manera<b/>mùtua</i><par n="bene__adv"/></e>
-    <e lm="in manera netzessària"><i>in<b/>manera<b/>netzessària</i><par n="bene__adv"/></e>
+    <e lm="in manera mùtua"><i>in<b/>manera<b/>m</i><par n="ù/u"/><i>tua</i><par n="bene__adv"/></e>
+    <e lm="in manera netzessària"><i>in<b/>manera<b/>netzess</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera negativa"><i>in<b/>manera<b/>negativa</i><par n="bene__adv"/></e>
     <e lm="in manera nerviosa"><i>in<b/>manera<b/>nerviosa</i><par n="bene__adv"/></e>
     <e lm="in manera neta"><i>in<b/>manera<b/>neta</i><par n="bene__adv"/></e>
-    <e lm="in manera numèrica"><i>in<b/>manera<b/>numèrica</i><par n="bene__adv"/></e>
+    <e lm="in manera numèrica"><i>in<b/>manera<b/>num</i><par n="è/e"/><i>rica</i><par n="bene__adv"/></e>
     <e lm="in manera noa"><i>in<b/>manera<b/>noa</i><par n="bene__adv"/></e>
-    <e lm="in manera obligatòria"><i>in<b/>manera<b/>obligatòria</i><par n="bene__adv"/></e>
+    <e lm="in manera obligatòria"><i>in<b/>manera<b/>obligat</i><par n="ò/o"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera obietiva"><i>in<b/>manera<b/>obietiva</i><par n="bene__adv"/></e>
     <e lm="in manera ogetiva"><i>in<b/>manera<b/>ogetiva</i><par n="bene__adv"/></e>
     <e lm="in manera onesta"><i>in<b/>manera<b/>onesta</i><par n="bene__adv"/></e>
     <e lm="in manera onorada"><i>in<b/>manera<b/>onorada</i><par n="bene__adv"/></e>
     <e lm="in manera operativa"><i>in<b/>manera<b/>operativa</i><par n="bene__adv"/></e>
     <e lm="in manera oportuna"><i>in<b/>manera<b/>oportuna</i><par n="bene__adv"/></e>
-    <e lm="in manera ordinària"><i>in<b/>manera<b/>ordinària</i><par n="bene__adv"/></e>
-    <e lm="in manera orgànica"><i>in<b/>manera<b/>orgànica</i><par n="bene__adv"/></e>
+    <e lm="in manera ordinària"><i>in<b/>manera<b/>ordin</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
+    <e lm="in manera orgànica"><i>in<b/>manera<b/>org</i><par n="à/a"/><i>nica</i><par n="bene__adv"/></e>
     <e lm="in manera paghiosa"><i>in<b/>manera<b/>paghiosa</i><par n="bene__adv"/></e>
     <e lm="in manera parallela"><i>in<b/>manera<b/>parallela</i><par n="bene__adv"/></e>
     <e lm="in manera piessigna"><i>in<b/>manera<b/>piessigna</i><par n="bene__adv"/></e>
     <e lm="in manera passiva"><i>in<b/>manera<b/>passiva</i><par n="bene__adv"/></e>
     <e lm="in manera maca"><i>in<b/>manera<b/>maca</i><par n="bene__adv"/></e>
-    <e lm="in manera pèrdida"><i>in<b/>manera<b/>pèrdida</i><par n="bene__adv"/></e>
+    <e lm="in manera pèrdida"><i>in<b/>manera<b/>p</i><par n="è/e"/><i>rdida</i><par n="bene__adv"/></e>
     <e lm="in manera perenne"><i>in<b/>manera<b/>perenne</i><par n="bene__adv"/></e>
     <e lm="in manera perigulosa"><i>in<b/>manera<b/>perigulosa</i><par n="bene__adv"/></e>
     <e lm="in manera permanente"><i>in<b/>manera<b/>permanente</i><par n="bene__adv"/></e>
     <e lm="in manera grae"><i>in<b/>manera<b/>grae</i><par n="bene__adv"/></e>
     <e lm="in manera piana"><i>in<b/>manera<b/>piana</i><par n="bene__adv"/></e>
     <e lm="in manera prena"><i>in<b/>manera<b/>prena</i><par n="bene__adv"/></e>
-    <e lm="in manera polìtica"><i>in<b/>manera<b/>polìtica</i><par n="bene__adv"/></e>
+    <e lm="in manera polìtica"><i>in<b/>manera<b/>pol</i><par n="ì/i"/><i>tica</i><par n="bene__adv"/></e>
     <e lm="in manera pobulare"><i>in<b/>manera<b/>pobulare</i><par n="bene__adv"/></e>
     <e lm="in manera positiva"><i>in<b/>manera<b/>positiva</i><par n="bene__adv"/></e>
-    <e lm="in manera pòvera"><i>in<b/>manera<b/>pòvera</i><par n="bene__adv"/></e>
+    <e lm="in manera pòvera"><i>in<b/>manera<b/>p</i><par n="ò/o"/><i>vera</i><par n="bene__adv"/></e>
     <e lm="in manera pretzedente"><i>in<b/>manera<b/>pretzedente</i><par n="bene__adv"/></e>
     <e lm="in manera primidia"><i>in<b/>manera<b/>primidia</i><par n="bene__adv"/></e>
     <e lm="in manera preventiva"><i>in<b/>manera<b/>preventiva</i><par n="bene__adv"/></e>
     <e lm="in manera prima"><i>in<b/>manera<b/>prima</i><par n="bene__adv"/></e>
-    <e lm="in manera primària"><i>in<b/>manera<b/>primària</i><par n="bene__adv"/></e>
-    <e lm="in manera prioritària"><i>in<b/>manera<b/>prioritària</i><par n="bene__adv"/></e>
+    <e lm="in manera primària"><i>in<b/>manera<b/>prim</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
+    <e lm="in manera prioritària"><i>in<b/>manera<b/>priorit</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera privada"><i>in<b/>manera<b/>privada</i><par n="bene__adv"/></e>
     <e lm="in manera produtiva"><i>in<b/>manera<b/>produtiva</i><par n="bene__adv"/></e>
     <e lm="in manera progressiva"><i>in<b/>manera<b/>progressiva</i><par n="bene__adv"/></e>
     <e lm="in manera pronta"><i>in<b/>manera<b/>pronta</i><par n="bene__adv"/></e>
-    <e lm="in manera pròpia"><i>in<b/>manera<b/>pròpia</i><par n="bene__adv"/></e>
+    <e lm="in manera pròpia"><i>in<b/>manera<b/>pr</i><par n="ò/o"/><i>pia</i><par n="bene__adv"/></e>
     <e lm="in manera imbeniente"><i>in<b/>manera<b/>imbeniente</i><par n="bene__adv"/></e>
-    <e lm="in manera provisòria"><i>in<b/>manera<b/>provisòria</i><par n="bene__adv"/></e>
+    <e lm="in manera provisòria"><i>in<b/>manera<b/>provis</i><par n="ò/o"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera prudente"><i>in<b/>manera<b/>prudente</i><par n="bene__adv"/></e>
     <e lm="in manera imprudente"><i>in<b/>manera<b/>imprudente</i><par n="bene__adv"/></e>
-    <e lm="in manera psicològica"><i>in<b/>manera<b/>psicològica</i><par n="bene__adv"/></e>
-    <e lm="in manera pùblica"><i>in<b/>manera<b/>pùblica</i><par n="bene__adv"/></e>
+    <e lm="in manera psicològica"><i>in<b/>manera<b/>psicol</i><par n="ò/o"/><i>gica</i><par n="bene__adv"/></e>
+    <e lm="in manera pùblica"><i>in<b/>manera<b/>p</i><par n="ù/u"/><i>blica</i><par n="bene__adv"/></e>
     <e lm="in manera pura"><i>in<b/>manera<b/>pura</i><par n="bene__adv"/></e>
     <e lm="in manera cuotidiana"><i>in<b/>manera<b/>cuotidiana</i><par n="bene__adv"/></e>
     <e lm="in manera lestra"><i>in<b/>manera<b/>lestra</i><par n="bene__adv"/></e>
     <e lm="in manera rara"><i>in<b/>manera<b/>rara</i><par n="bene__adv"/></e>
-    <e lm="in manera realìstica"><i>in<b/>manera<b/>realìstica</i><par n="bene__adv"/></e>
+    <e lm="in manera realìstica"><i>in<b/>manera<b/>real</i><par n="ì/i"/><i>stica</i><par n="bene__adv"/></e>
     <e lm="in manera reghente"><i>in<b/>manera<b/>reghente</i><par n="bene__adv"/></e>
     <e lm="in manera regulare"><i>in<b/>manera<b/>regulare</i><par n="bene__adv"/></e>
     <e lm="in manera religiosa"><i>in<b/>manera<b/>religiosa</i><par n="bene__adv"/></e>
     <e lm="in manera retroativa"><i>in<b/>manera<b/>retroativa</i><par n="bene__adv"/></e>
-    <e lm="in manera rèida"><i>in<b/>manera<b/>rèida</i><par n="bene__adv"/></e>
+    <e lm="in manera rèida"><i>in<b/>manera<b/>r</i><par n="è/e"/><i>ida</i><par n="bene__adv"/></e>
     <e lm="in manera rica"><i>in<b/>manera<b/>rica</i><par n="bene__adv"/></e>
-    <e lm="in manera tètera"><i>in<b/>manera<b/>tètera</i><par n="bene__adv"/></e>
+    <e lm="in manera tètera"><i>in<b/>manera<b/>t</i><par n="è/e"/><i>tera</i><par n="bene__adv"/></e>
     <e lm="in manera rigorosa"><i>in<b/>manera<b/>rigorosa</i><par n="bene__adv"/></e>
-    <e lm="in manera repìtida"><i>in<b/>manera<b/>repìtida</i><par n="bene__adv"/></e>
+    <e lm="in manera repìtida"><i>in<b/>manera<b/>rep</i><par n="ì/i"/><i>tida</i><par n="bene__adv"/></e>
     <e lm="in manera tunda"><i>in<b/>manera<b/>tunda</i><par n="bene__adv"/></e>
     <e lm="in manera salda"><i>in<b/>manera<b/>salda</i><par n="bene__adv"/></e>
     <e lm="in manera iscassa"><i>in<b/>manera<b/>iscassa</i><par n="bene__adv"/></e>
-    <e lm="in manera sientìfica"><i>in<b/>manera<b/>sientìfica</i><par n="bene__adv"/></e>
-    <e lm="in manera segundària"><i>in<b/>manera<b/>segundària</i><par n="bene__adv"/></e>
+    <e lm="in manera sientìfica"><i>in<b/>manera<b/>sient</i><par n="ì/i"/><i>fica</i><par n="bene__adv"/></e>
+    <e lm="in manera segundària"><i>in<b/>manera<b/>segund</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera signada"><i>in<b/>manera<b/>signada</i><par n="bene__adv"/></e>
     <e lm="in manera segreta"><i>in<b/>manera<b/>segreta</i><par n="bene__adv"/></e>
     <e lm="in manera simple"><i>in<b/>manera<b/>simple</i><par n="bene__adv"/></e>
     <e lm="in manera sentida"><i>in<b/>manera<b/>sentida</i><par n="bene__adv"/></e>
     <e lm="in manera separada"><i>in<b/>manera<b/>separada</i><par n="bene__adv"/></e>
     <e lm="in manera serena"><i>in<b/>manera<b/>serena</i><par n="bene__adv"/></e>
-    <e lm="in manera sèria"><i>in<b/>manera<b/>sèria</i><par n="bene__adv"/></e>
+    <e lm="in manera sèria"><i>in<b/>manera<b/>s</i><par n="è/e"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera severa"><i>in<b/>manera<b/>severa</i><par n="bene__adv"/></e>
     <e lm="in manera isfatzada"><i>in<b/>manera<b/>isfatzada</i><par n="bene__adv"/></e>
     <e lm="in manera significativa"><i>in<b/>manera<b/>significativa</i><par n="bene__adv"/></e>
-    <e lm="in manera simbòlica"><i>in<b/>manera<b/>simbòlica</i><par n="bene__adv"/></e>
+    <e lm="in manera simbòlica"><i>in<b/>manera<b/>simb</i><par n="ò/o"/><i>lica</i><par n="bene__adv"/></e>
     <e lm="in manera sintzera"><i>in<b/>manera<b/>sintzera</i><par n="bene__adv"/></e>
-    <e lm="in manera sistemàtica"><i>in<b/>manera<b/>sistemàtica</i><par n="bene__adv"/></e>
-    <e lm="in manera bàndida"><i>in<b/>manera<b/>bàndida</i><par n="bene__adv"/></e>
-    <e lm="in manera sollìtzita"><i>in<b/>manera<b/>sollìtzita</i><par n="bene__adv"/></e>
+    <e lm="in manera sistemàtica"><i>in<b/>manera<b/>sistem</i><par n="à/a"/><i>tica</i><par n="bene__adv"/></e>
+    <e lm="in manera bàndida"><i>in<b/>manera<b/>b</i><par n="à/a"/><i>ndida</i><par n="bene__adv"/></e>
+    <e lm="in manera sollìtzita"><i>in<b/>manera<b/>soll</i><par n="ì/i"/><i>tzita</i><par n="bene__adv"/></e>
     <e lm="in manera dillindada"><i>in<b/>manera<b/>dillindada</i><par n="bene__adv"/></e>
     <e lm="in manera ispetzificada"><i>in<b/>manera<b/>ispetzificada</i><par n="bene__adv"/></e>
     <e lm="in manera imbiada"><i>in<b/>manera<b/>imbiada</i><par n="bene__adv"/></e>
-    <e lm="in manera ispontànea"><i>in<b/>manera<b/>ispontànea</i><par n="bene__adv"/></e>
+    <e lm="in manera ispontànea"><i>in<b/>manera<b/>ispont</i><par n="à/a"/><i>nea</i><par n="bene__adv"/></e>
     <e lm="in manera isportiva"><i>in<b/>manera<b/>isportiva</i><par n="bene__adv"/></e>
     <e lm="in manera istraca"><i>in<b/>manera<b/>istraca</i><par n="bene__adv"/></e>
-    <e lm="in manera istòrica"><i>in<b/>manera<b/>istòrica</i><par n="bene__adv"/></e>
+    <e lm="in manera istòrica"><i>in<b/>manera<b/>ist</i><par n="ò/o"/><i>rica</i><par n="bene__adv"/></e>
     <e lm="in manera istrana"><i>in<b/>manera<b/>istrana</i><par n="bene__adv"/></e>
-    <e lm="in manera istraordinària"><i>in<b/>manera<b/>istraordinària</i><par n="bene__adv"/></e>
-    <e lm="in manera istratègica"><i>in<b/>manera<b/>istratègica</i><par n="bene__adv"/></e>
+    <e lm="in manera istraordinària"><i>in<b/>manera<b/>istraordin</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
+    <e lm="in manera istratègica"><i>in<b/>manera<b/>istrat</i><par n="è/e"/><i>gica</i><par n="bene__adv"/></e>
     <e lm="in manera istrinta"><i>in<b/>manera<b/>istrinta</i><par n="bene__adv"/></e>
     <e lm="in manera istudiada"><i>in<b/>manera<b/>istudiada</i><par n="bene__adv"/></e>
     <e lm="in manera trassende"><i>in<b/>manera<b/>trassende</i><par n="bene__adv"/></e>
     <e lm="in manera tonta"><i>in<b/>manera<b/>tonta</i><par n="bene__adv"/></e>
     <e lm="in manera subordinada"><i>in<b/>manera<b/>subordinada</i><par n="bene__adv"/></e>
     <e lm="in manera bastante"><i>in<b/>manera<b/>bastante</i><par n="bene__adv"/></e>
-    <e lm="in manera sussidiària"><i>in<b/>manera<b/>sussidiària</i><par n="bene__adv"/></e>
+    <e lm="in manera sussidiària"><i>in<b/>manera<b/>sussidi</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera tale"><i>in<b/>manera<b/>tale</i><par n="bene__adv"/></e>
-    <e lm="in manera tècnica"><i>in<b/>manera<b/>tècnica</i><par n="bene__adv"/></e>
-    <e lm="in manera tecnològica"><i>in<b/>manera<b/>tecnològica</i><par n="bene__adv"/></e>
-    <e lm="in manera telefònica"><i>in<b/>manera<b/>telefònica</i><par n="bene__adv"/></e>
+    <e lm="in manera tècnica"><i>in<b/>manera<b/>t</i><par n="è/e"/><i>cnica</i><par n="bene__adv"/></e>
+    <e lm="in manera tecnològica"><i>in<b/>manera<b/>tecnol</i><par n="ò/o"/><i>gica</i><par n="bene__adv"/></e>
+    <e lm="in manera telefònica"><i>in<b/>manera<b/>telef</i><par n="ò/o"/><i>nica</i><par n="bene__adv"/></e>
     <e lm="in manera temporale"><i>in<b/>manera<b/>temporale</i><par n="bene__adv"/></e>
-    <e lm="in manera teòrica"><i>in<b/>manera<b/>teòrica</i><par n="bene__adv"/></e>
-    <e lm="in manera tìpica"><i>in<b/>manera<b/>tìpica</i><par n="bene__adv"/></e>
+    <e lm="in manera teòrica"><i>in<b/>manera<b/>te</i><par n="ò/o"/><i>rica</i><par n="bene__adv"/></e>
+    <e lm="in manera tìpica"><i>in<b/>manera<b/>t</i><par n="ì/i"/><i>pica</i><par n="bene__adv"/></e>
     <e lm="in manera chieta"><i>in<b/>manera<b/>chieta</i><par n="bene__adv"/></e>
-    <e lm="in manera transitòria"><i>in<b/>manera<b/>transitòria</i><par n="bene__adv"/></e>
+    <e lm="in manera transitòria"><i>in<b/>manera<b/>transit</i><par n="ò/o"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera trista"><i>in<b/>manera<b/>trista</i><par n="bene__adv"/></e>
-    <e lm="in manera ùrtima"><i>in<b/>manera<b/>ùrtima</i><par n="bene__adv"/></e>
+    <e lm="in manera ùrtima"><i>in<b/>manera<b/></i><par n="ù/u"/><i>rtima</i><par n="bene__adv"/></e>
     <e lm="in manera umana"><i>in<b/>manera<b/>umana</i><par n="bene__adv"/></e>
-    <e lm="in manera ùnica"><i>in<b/>manera<b/>ùnica</i><par n="bene__adv"/></e>
-    <e lm="in manera pèrpere"><i>in<b/>manera<b/>pèrpere</i><par n="bene__adv"/></e>
+    <e lm="in manera ùnica"><i>in<b/>manera<b/></i><par n="ù/u"/><i>nica</i><par n="bene__adv"/></e>
+    <e lm="in manera pèrpere"><i>in<b/>manera<b/>p</i><par n="è/e"/><i>rpere</i><par n="bene__adv"/></e>
     <e lm="in manera unida"><i>in<b/>manera<b/>unida</i><par n="bene__adv"/></e>
-    <e lm="in manera unitària"><i>in<b/>manera<b/>unitària</i><par n="bene__adv"/></e>
+    <e lm="in manera unitària"><i>in<b/>manera<b/>unit</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera apretosa"><i>in<b/>manera<b/>apretosa</i><par n="bene__adv"/></e>
-    <e lm="in manera vàlida"><i>in<b/>manera<b/>vàlida</i><par n="bene__adv"/></e>
-    <e lm="in manera vària"><i>in<b/>manera<b/>vària</i><par n="bene__adv"/></e>
+    <e lm="in manera vàlida"><i>in<b/>manera<b/>v</i><par n="à/a"/><i>lida</i><par n="bene__adv"/></e>
+    <e lm="in manera vària"><i>in<b/>manera<b/>v</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
     <e lm="in manera covarda"><i>in<b/>manera<b/>covarda</i><par n="bene__adv"/></e>
     <e lm="in manera violenta"><i>in<b/>manera<b/>violenta</i><par n="bene__adv"/></e>
     <e lm="in manera visiva"><i>in<b/>manera<b/>visiva</i><par n="bene__adv"/></e>
     <e lm="in manera bia"><i>in<b/>manera<b/>bia</i><par n="bene__adv"/></e>
-    <e lm="in manera voluntària"><i>in<b/>manera<b/>voluntària</i><par n="bene__adv"/></e>
-    <e lm="in manera bòlida"><i>in<b/>manera<b/>bòlida</i><par n="bene__adv"/></e>
+    <e lm="in manera voluntària"><i>in<b/>manera<b/>volunt</i><par n="à/a"/><i>ria</i><par n="bene__adv"/></e>
+    <e lm="in manera bòlida"><i>in<b/>manera<b/>b</i><par n="ò/o"/><i>lida</i><par n="bene__adv"/></e>
     <e lm="in manera manifesta"><i>in<b/>manera<b/>manifesta</i><par n="bene__adv"/></e>
     <e lm="in manera istrumentale"><i>in<b/>manera<b/>istrumentale</i><par n="bene__adv"/></e>
 
@@ -53689,8 +53694,7 @@
     <e lm="a manera manifesta" r="LR"><p><l>a<b/>manera<b/>manifesta</l><r>in<b/>manera<b/>manifesta</r></p><par n="bene__adv"/></e>
     <e lm="a manera istrumentale" r="LR"><p><l>a<b/>manera<b/>istrumentale</l><r>in<b/>manera<b/>istrumentale</r></p><par n="bene__adv"/></e>
 
-    <e lm="isvìtzeru"><i>isvìtzer</i><par n="amig/u__n"/></e>
-    <e lm="isvìtzeru"><i>isvìtzer</i><par n="frantzes/u__adj"/></e>
+    <e lm="isvìtzeru"><i>isv</i><par n="ì/i"/><i>tzer</i><par n="amig/u__n"/></e>
 
     <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’at<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="chi non b’at remèdiu" r="LR"><p><l>chi<b/>non<b/>b’ant<b/>remèdiu</l><r>chi<b/>non<b/>b’at<b/>remèdiu<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -53700,47 +53704,65 @@
 
 
     <e lm="as dolu mannu"><i>a<b/>dolu<b/>mannu</i><par n="bene__adv"/></e>
-    <e lm="Santìssima Trinidade"><i>Santìssima<b/>Trinidade</i><par n="Wikipedia__np"/></e>
+    <e lm="Santìssima Trinidade"><i>Sant</i><par n="ì/i"/><i>ssima<b/>Trinidade</i><par n="Wikipedia__np"/></e>
     <e lm="Carissimi"><i>Carissimi</i><par n="Saussure__np"/></e>
     <e lm="San"><i>San</i><par n="Linux__np"/></e>
     <e lm="comunicadu"><i>comunicad</i><par n="mac/u__n"/></e>
-    <e lm="cumplessidade"><i>cumplessidad</i><par n="region/e__n"/></e>
     <e lm="filipinu"><i>filipin</i><par n="amig/u__n"/></e>
     <e lm="folclorismu"><i>folclorism</i><par n="mac/u__n"/></e>
-    <e lm="francòfonu"><i>francòfon</i><par n="amig/u__n"/></e>
+    <e lm="francòfonu"><i>franc</i><par n="ò/o"/><i>fon</i><par n="amig/u__n"/></e>
     <e lm="isponda"><i>isponda</i><par n="mesa__n"/></e>
     <e lm="pasada"><i>pasada</i><par n="mesa__n"/></e>
     <e lm="programariu"><i>programari</i><par n="mac/u__n"/></e>
-    <e lm="sardòfonu"><i>sardòfon</i><par n="amig/u__n"/></e>
+    <e lm="sardòfonu"><i>sard</i><par n="ò/o"/><i>fon</i><par n="amig/u__n"/></e>
     <e lm="status"><i>stat</i><par n="temp/us__n"/></e>
     <e lm="tirolesu"><i>tiroles</i><par n="amig/u__n"/></e>
     <e lm="vitze"><i>vitze</i><par n="pane__n"/></e>
     <e lm="tirolesu"><i>tiroles</i><par n="frantzes/u__adj"/></e>
     <e lm="transfrontaleru"><i>transfrontaler</i><par n="frantzes/u__adj"/></e>
-    <e lm="sardòfonu"><i>sardòfon</i><par n="frantzes/u__adj"/></e>
-    <e lm="ischitzofrènicu"><i>ischitzofrèni</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="discretzionale"><i>discretzional</i><par n="fàtzil/e__adj"/></e>
-    <e lm="discriminatòriu"><i>discriminatòri</i><par n="frantzes/u__adj"/></e>
-    <e lm="disomogèneu"><i>disomogène</i><par n="frantzes/u__adj"/></e>
+    <e lm="sardòfonu"><i>sard</i><par n="ò/o"/><i>fon</i><par n="frantzes/u__adj"/></e>
+    <e lm="ischitzofrènicu"><i>ischitzofr</i><par n="è/e"/><i>ni</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="discretzionale"><i>discre</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
+    <e lm="discriminatòriu"><i>discriminat</i><par n="ò/o"/><i>ri</i><par n="frantzes/u__adj"/></e>
+    <e lm="disomogèneu"><i>disomog</i><par n="è/e"/><i>ne</i><par n="frantzes/u__adj"/></e>
     <e lm="diretivu"><i>diretiv</i><par n="frantzes/u__adj"/></e>
     <e lm="illustradore"><i>illustrador</i><par n="cunservador/e__adj"/></e>
-    <e lm="inammissìbile"><i>inammissìbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="irresonàbile"><i>irresonàbil</i><par n="fàtzil/e__adj"/></e>
-    <e lm="resonàbile"><i>resonàbil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="inammissìbile"><i>inammiss</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="irresonàbile"><i>irreson</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="resonàbile"><i>reson</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="parificare"><i>parific</i><par n="seg/are__vblex"/></e>
     <e lm="dae deretu"><i>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="giai dae deretu"><i>giai<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="infrutuosu"><i>infrutuos</i><par n="frantzes/u__adj"/></e>
-    <e lm="Bisàntziu"><i>Bisàntziu</i><par n="Afganistàn__np"/></e>
-    <e lm="Bòsforu"><i>Bòsforu</i><par n="Afganistàn__np"/></e>
+    <e lm="Bisàntziu"><i>Bis</i><par n="à/a"/><i>ntziu</i><par n="Afganistàn__np"/></e>
+    <e lm="Bòsforu"><i>B</i><par n="ò/o"/><i>sforu</i><par n="Afganistàn__np"/></e>
     <e lm="Egeu"><i>Egeu</i><par n="Afganistàn__np"/></e>
     <e lm="Tirrenu"><i>Tirrenu</i><par n="Afganistàn__np"/></e>
-    <e lm="Adriàticu"><i>Adriàticu</i><par n="Afganistàn__np"/></e>
+    <e lm="Adriàticu"><i>Adri</i><par n="à/a"/><i>ticu</i><par n="Afganistàn__np"/></e>
     <e lm="Jonicu"><i>Jonicu</i><par n="Afganistàn__np"/></e>
-    <e lm="Atlànticu"><i>Atlànticu</i><par n="Afganistàn__np"/></e>
-    <e lm="Danùbiu"><i>Danùbiu</i><par n="Po__np"/></e>
+    <e lm="Atlànticu"><i>Atl</i><par n="à/a"/><i>nticu</i><par n="Afganistàn__np"/></e>
+    <e lm="Danùbiu"><i>Dan</i><par n="ù/u"/><i>biu</i><par n="Po__np"/></e>
     <e lm="in summa"><i>in<b/>summa</i><par n="bene__adv"/></e>
-
+    <e lm="Matzedònia"><i>Ma</i><par n="tz/c"/><i>edònia</i><par n="Etiòpia__np"/></e>
+    <e lm="Olanda"><i>Olanda</i><par n="Etiòpia__np"/></e>
+    <e lm="Bòsnia"><i>B</i><par n="ò/o"/><i>snia</i><par n="Etiòpia__np"/></e>
+    <e lm="Erzegòvina"><i>Erzeg</i><par n="ò/o"/><i>vina</i><par n="Etiòpia__np"/></e>
+    <e lm="Mònaco"><i>M</i><par n="ò/o"/><i>naco</i><par n="Afganistàn__np"/></e>
+    <e lm="monegascu"><i>monegascu</i><par n="frantzes/u__adj"/></e>
+    <e lm="monegascu"><i>monegascu</i><par n="amig/u__n"/></e>
+    <e lm="Tzipru"><i>Tzipru</i><par n="Afganistàn__np"/></e>
+    <e lm="Tzipru" r="LR"><p><l>Cipru</l><r>Tzipru</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Tzipru" r="LR"><p><l>Cipro</l><r>Tzipru</r></p><par n="Afganistàn__np"/></e>
+    <e lm="Estònia"><i>Est</i><par n="ò/o"/><i>nia</i><par n="Etiòpia__np"/></e>
+    <e lm="Islovàchia"><i>Islov</i><par n="à/a"/><i>chia</i><par n="Etiòpia__np"/></e>
+    <e lm="Grèghia"><i>Gr</i><par n="è/e"/><i>ghia</i><par n="Etiòpia__np"/></e>
+    <e lm="Majorca"><i>Majorca</i><par n="Etiòpia__np"/></e>
+    <e lm="Majorca" r="LR"><p><l>Maiorca</l><r>Majorca</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="Palma de Majorca"><i>Palma<b/>de<b/>Majorca</i><par n="Etiòpia__np"/></e>
+    <e lm="Palma de Majorca" r="LR"><p><l>Palma<b/>de<b/>Maiorca</l><r>Palma<b/>de<b/>Majorca</r></p><par n="frantzes/u__adj"/></e>
+    <e lm="Minorca"><i>Minorca</i><par n="Etiòpia__np"/></e>
+    <e lm="Ibiza"><i>Ibiza</i><par n="Etiòpia__np"/></e>
+    <e lm="Formentera"><i>Majorca</i><par n="Etiòpia__np"/></e>
 </section>
 
   <section id="apostrophe" type="postblank">
