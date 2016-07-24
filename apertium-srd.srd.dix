@@ -3425,6 +3425,11 @@
       <e r="LR"><p><l>nn</l><r>gn</r></p></e>
     </pardef>
 
+    <pardef n="d/t">
+      <e>       <p><l>d</l><r>d</r></p></e>
+      <e r="LR"><p><l>t</l><r>d</r></p></e> <!-- @!LSC -->
+    </pardef>
+
     <pardef n="e/i">
       <e>       <p><l>e</l><r>e</r></p></e>
       <e r="LR"><p><l>i</l><r>e</r></p></e> <!-- @!LSC -->
@@ -5181,6 +5186,14 @@
     <e lm="islamista"><i>islamista</i><par n="meda__adj"/></e>
     <e lm="progressista"><i>progressista</i><par n="dentista__n"/></e>
     <e lm="progressista"><i>progressista</i><par n="meda__adj"/></e>
+    <e lm="trotzkista"><i>trotzkista</i><par n="dentista__n"/></e>
+    <e lm="trotzkista"><i>trotzkista</i><par n="meda__adj"/></e>
+    <e lm="leninista"><i>leninista</i><par n="dentista__n"/></e>
+    <e lm="leninista"><i>leninista</i><par n="meda__adj"/></e>
+    <e lm="maoista"><i>maoista</i><par n="dentista__n"/></e>
+    <e lm="maoista"><i>maoista</i><par n="meda__adj"/></e>
+    <e lm="istalinista"><i>istalinista</i><par n="dentista__n"/></e>
+    <e lm="istalinista"><i>istalinista</i><par n="meda__adj"/></e>
     <e lm="marxista"><i>marxista</i><par n="dentista__n"/></e>
     <e lm="marxista"><i>marxista</i><par n="meda__adj"/></e>
     <e lm="laburista"><i>laburista</i><par n="dentista__n"/></e>
@@ -5293,6 +5306,10 @@
     <e lm="comunismu"><i>comunismu</i><par n="anarchismu__n"/></e>
     <e lm="liberalismu"><i>liberalismu</i><par n="anarchismu__n"/></e>
     <e lm="marxismu"><i>marxismu</i><par n="anarchismu__n"/></e>
+    <e lm="istalinismu"><i>istalinismu</i><par n="anarchismu__n"/></e>
+    <e lm="maoismu"><i>maoismu</i><par n="anarchismu__n"/></e>
+    <e lm="trotzkismu"><i>trotzkismu</i><par n="anarchismu__n"/></e>
+    <e lm="leninismu"><i>leninismu</i><par n="anarchismu__n"/></e>
     <e lm="unilateralismu"><i>unilateralismu</i><par n="anarchismu__n"/></e>
     <e lm="imperialismu"><i>imperialismu</i><par n="anarchismu__n"/></e>
     <e lm="nazismu"><i>nazismu</i><par n="anarchismu__n"/></e>
@@ -5850,7 +5867,7 @@
     <e lm="edilìtzia"><i>edil</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
     <e lm="farta"><i>farta</i><par n="mesa__n"/></e>
     <e lm="finca"><i>finca</i><par n="mesa__n"/></e>
-    <e lm="firma,"><i>firma,</i><par n="mesa__n"/></e>
+    <e lm="firma"><i>firma</i><par n="mesa__n"/></e>
     <e lm="fura"><i>fura</i><par n="mesa__n"/></e>
     <e lm="gana"><i>gana</i><par n="mesa__n"/></e>
     <e lm="garantzia"><i>garantzia</i><par n="mesa__n"/></e>
@@ -5864,8 +5881,7 @@
     <e lm="intrada"><i>intrada</i><par n="mesa__n"/></e>
     <e lm="istima"><i>istima</i><par n="mesa__n"/></e>
     <e lm="lìtera"><i>l</i><par n="ì/i"/><i>tera</i><par n="mesa__n"/></e>
-    <e lm="magistradura"><i>magistradura</i><par n="mesa__n"/></e>
-    <e lm="magistratura"><i>magistratura</i><par n="mesa__n"/></e>
+    <e lm="magistradura"><i>magistra</i><par n="d/t"/><i>ura</i><par n="mesa__n"/></e>
     <e lm="magra"><i>magra</i><par n="mesa__n"/></e>
     <e lm="mela"><i>mela</i><par n="mesa__n"/></e>
     <e lm="moda"><i>moda</i><par n="mesa__n"/></e>
@@ -11095,7 +11111,6 @@
     <e lm="religiosu"><i>religios</i><par n="frantzes/u__adj"/></e>
     <e lm="religiosu" r="LR"><p><l>relizios</l><r>religios</r></p><par n="frantzes/u__adj"/></e>
     <e lm="religiosu" r="LR"><p><l>arreligios</l><r>religios</r></p><par n="frantzes/u__adj"/></e>
-    <e lm="sanscritu"><i>sanscrit</i><par n="frantzes/u__adj"/></e>
     <e lm="istràngiu"><i>istr</i><par n="à/a"/><i>ngi</i><par n="frantzes/u__adj"/></e>
     <e lm="istràngiu" r="LR"><p><l>istranz</l><r>istràngi</r></p><par n="frantzes/u__adj"/></e>
     <e lm="istràngiu" r="LR"><p><l>stràngi</l><r>istràngi</r></p><par n="frantzes/u__adj"/></e>
@@ -43190,6 +43205,7 @@
     <e lm="sacrificale"><i>sacrifical</i><par n="fàtzil/e__adj"/></e>
     <e lm="sàligu"><i>s</i><par n="à/a"/><i>lig</i><par n="frantzes/u__adj"/></e>
     <e lm="sànscritu"><i>s</i><par n="à/a"/><i>nscrit</i><par n="frantzes/u__adj"/></e>
+    <e lm="sànscritu"><i>s</i><par n="à/a"/><i>nscrit</i><par n="mac/u__n"/></e>
     <e lm="santzionàbile"><i>san</i><par n="tz/z"/><i>ionàbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="sartàrgia"><i>sart</i><par n="à/a"/><i>rgia</i><par n="meda__adj"/></e>
     <e lm="satànicu"><i>sat</i><par n="à/a"/><i>ni</i><par n="linguìsti/cu__adj"/></e>
