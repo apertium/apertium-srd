@@ -6643,7 +6643,6 @@
     <e lm="Andorra"><i>Andorra</i><par n="Etiòpia__np"/></e>
     <e lm="Aràbia Saudita"><i>Ar</i><par n="à/a"/><i>bia<b/>Saudita</i><par n="Etiòpia__np"/></e>
     <e lm="Aràbia Saudita" r="LR"><p><l>Aràbia<b/>saudita</l><r>Aràbia<b/>Saudita</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Mesopotàmia"><i>Mesopotàmia</i><par n="Etiòpia__np"/></e>
     <e lm="Colòmbia"><i>Col</i><par n="ò/o"/><i>mbia</i><par n="Etiòpia__np"/></e>
     <e lm="Alaska"><i>Alaska</i><par n="Etiòpia__np"/></e>
     <e lm="Pànama"><i>P</i><par n="à/a"/><i>nama</i><par n="Etiòpia__np"/></e>
@@ -12983,7 +12982,6 @@
     <e lm="Palestina"><i>Palestina</i><par n="Etiòpia__np"/></e>
     <e lm="Paperino"><i>Paperino</i><par n="Antoni__np"/></e>
     <e lm="PCI"><i>PCI</i><par n="PNB__n"/></e>
-    <e lm="Persia"><i>Persia</i><par n="Etiòpia__np"/></e>
     <e lm="Philadelphia"><i>Philadelphia</i><par n="Etiòpia__np"/></e>
     <e lm="Phil"><i>Phil</i><par n="Antoni__np"/></e>
     <e lm="Philip"><i>Philip</i><par n="Antoni__np"/></e>
@@ -53747,6 +53745,7 @@
     <e lm="Olanda"><i>Olanda</i><par n="Etiòpia__np"/></e>
     <e lm="Bòsnia"><i>B</i><par n="ò/o"/><i>snia</i><par n="Etiòpia__np"/></e>
     <e lm="Erzegòvina"><i>Erzeg</i><par n="ò/o"/><i>vina</i><par n="Etiòpia__np"/></e>
+    <e lm="Bòsnia e Erzegòvina"><i>B</i><par n="ò/o"/><i>snia<b/>e<b/>Erzeg</i><par n="ò/o"/><i>vina</i><par n="Etiòpia__np"/></e>
     <e lm="Mònaco"><i>M</i><par n="ò/o"/><i>naco</i><par n="Afganistàn__np"/></e>
     <e lm="monegascu"><i>monegascu</i><par n="frantzes/u__adj"/></e>
     <e lm="monegascu"><i>monegascu</i><par n="amig/u__n"/></e>
