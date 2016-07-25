@@ -6572,8 +6572,8 @@
     <e lm="Turkmenistàn" r="LR"><p><l>Turkmenistan</l><r>Turkmenistàn</r></p><par n="Etiòpia__np"/></e>
     <e lm="Kirgizistàn"><i>Kirgizist</i><par n="à/a"/><i>n</i><par n="Afganistàn__np"/></e>
     <e lm="Kirgizistàn" r="LR"><p><l>Kirgizistan</l><r>Kirgizistàn</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Austria"><i>Austria</i><par n="Etiòpia__np"/></e>
-    <e lm="Àustria" r="LR"><p><l>Àustria</l><r>Austria</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Àustria"><i>Àustria</i><par n="Etiòpia__np"/></e>
+    <e lm="Àustria" r="LR"><p><l>Austria</l><r>Àustria</r></p><par n="Etiòpia__np"/></e>
     <e lm="Austràlia"><i>Austr</i><par n="à/a"/><i>lia</i><par n="Etiòpia__np"/></e>
     <e lm="Turchia"><i>Turchia</i><par n="Etiòpia__np"/></e>
     <e lm="Sudàfrica"><i>Sud</i><par n="à/a"/><i>frica</i><par n="Etiòpia__np"/></e>
@@ -6606,6 +6606,7 @@
     <e lm="Corea" r="LR"><p><l>Korea</l><r>Corea</r></p><par n="Etiòpia__np"/></e>
     <e lm="Iscòtzia"><i>Isc</i><par n="ò/o"/><i>tzia</i><par n="Etiòpia__np"/></e>
     <e lm="Iscotzia" r="LR"><p><l>Iscozia</l><r>Iscòtzia</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Iscotzia" r="LR"><p><l>Iscòzia</l><r>Iscòtzia</r></p><par n="Etiòpia__np"/></e>
     <e lm="Pennsylvania"><i>Pennsylvania</i><par n="Etiòpia__np"/></e>
     <e lm="Filadèlfia"><i>Filad</i><par n="è/e"/><i>lfia</i><par n="Etiòpia__np"/></e>
     <e lm="Carbònia"><i>Carb</i><par n="ò/o"/><i>nia</i><par n="Etiòpia__np"/></e>
@@ -6613,7 +6614,7 @@
     <e lm="Alighera"><i>Alighera</i><par n="Etiòpia__np"/></e>
     <e lm="Alighera" r="LR"><p><l>Alighèra</l><r>Alighera</r></p><par n="Etiòpia__np"/></e>
     <e lm="Dalmàtzia"><i>Dalm</i><par n="à/a"/><i>tzia</i><par n="Etiòpia__np"/></e>
-    <e lm="Prússia"><i>Prússia</i><par n="Etiòpia__np"/></e>
+    <e lm="Prùssia"><i>Prùssia</i><par n="Etiòpia__np"/></e>
     <e lm="Lucca"><i>Lucca</i><par n="Etiòpia__np"/></e>
     <e lm="Guyana"><i>Guyana</i><par n="Etiòpia__np"/></e>
     <e lm="Birmània"><i>Birm</i><par n="à/a"/><i>nia</i><par n="Etiòpia__np"/></e>
@@ -6626,7 +6627,8 @@
     <e lm="Navarra"><i>Navarra</i><par n="Etiòpia__np"/></e>
     <e lm="Algèria"><i>Alg</i><par n="è/e"/><i>ria</i><par n="Etiòpia__np"/></e>
     <e lm="Algèria" r="LR"><p><l>Alzeria</l><r>Algèria</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Tràtzia"><i>Trà</i><par n="tz/c"/><i>ia</i><par n="Etiòpia__np"/></e>
+    <e lm="Algèria" r="LR"><p><l>Alzèria</l><r>Algèria</r></p><par n="Etiòpia__np"/></e>
+    <e lm="Tràtzia"><i>Tr</i><par n="à/a"/><i></i><par n="tz/c"/><i>ia</i><par n="Etiòpia__np"/></e>
     <e lm="Girona"><i>Girona</i><par n="Etiòpia__np"/></e>
     <e lm="Loyola"><i>Loyola</i><par n="Etiòpia__np"/></e>
     <e lm="Monza"><i>Monza</i><par n="Etiòpia__np"/></e>
@@ -6641,7 +6643,7 @@
     <e lm="Andorra"><i>Andorra</i><par n="Etiòpia__np"/></e>
     <e lm="Aràbia Saudita"><i>Ar</i><par n="à/a"/><i>bia<b/>Saudita</i><par n="Etiòpia__np"/></e>
     <e lm="Aràbia Saudita" r="LR"><p><l>Aràbia<b/>saudita</l><r>Aràbia<b/>Saudita</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Mesopotamia"><i>Mesopotamia</i><par n="Etiòpia__np"/></e>
+    <e lm="Mesopotàmia"><i>Mesopotàmia</i><par n="Etiòpia__np"/></e>
     <e lm="Colòmbia"><i>Col</i><par n="ò/o"/><i>mbia</i><par n="Etiòpia__np"/></e>
     <e lm="Alaska"><i>Alaska</i><par n="Etiòpia__np"/></e>
     <e lm="Pànama"><i>P</i><par n="à/a"/><i>nama</i><par n="Etiòpia__np"/></e>
@@ -12750,7 +12752,6 @@
     <e lm="Bernardino"><i>Bernardino</i><par n="Saussure__np"/></e>
     <e lm="BMW"><i>BMW</i><par n="TV__n"/></e>
     <e lm="Bobby"><i>Bobby</i><par n="Antoni__np"/></e>
-    <e lm="Boemia"><i>Boemia</i><par n="Etiòpia__np"/></e>
     <e lm="Bond"><i>Bond</i><par n="Saussure__np"/></e>
     <e lm="Borgogna"><i>Borgogna</i><par n="Etiòpia__np"/></e>
     <e lm="Britannia"><i>Britannia</i><par n="Etiòpia__np"/></e>
@@ -52025,7 +52026,6 @@
     <e lm="Philips"><i>Philips</i><par n="Saussure__np"/></e>
     <e lm="Pomèria"><i>Pom</i><par n="è/e"/><i>ria</i><par n="Etiòpia__np"/></e>
     <e lm="Proventza"><i>Proventza</i><par n="Etiòpia__np"/></e>
-    <e lm="Prùssia"><i>Pr</i><par n="ù/u"/><i>ssia</i><par n="Etiòpia__np"/></e>
     <e lm="Quebec"><i>Quebec</i><par n="Afganistàn__np"/></e>
     <e lm="Québec"><i>Québec</i><par n="Afganistàn__np"/></e>
     <e lm="RAF"><i>RAF</i><par n="Fiat__np"/></e>
