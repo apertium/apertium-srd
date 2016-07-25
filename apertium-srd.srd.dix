@@ -3537,6 +3537,7 @@
     <e lm="duncas"><i>duncas</i><par n="duncas__cnjadv"/></e>
     <e lm="sende chi"><i>sende<b/>chi</i><par n="duncas__cnjadv"/></e>
     <e lm="gai"><i>gai</i><par n="duncas__cnjadv"/></e>
+    <e lm="gai chi"><i>gai<b/>chi</i><par n="duncas__cnjadv"/></e>
     <e lm="segundu"><i>segundu</i><par n="duncas__cnjadv"/></e>
     <e lm="mentras"><i>mentras</i><par n="duncas__cnjadv"/></e>
     <e lm="mentras" r="LR"><p><l>mentres</l><r>mentras</r></p><par n="duncas__cnjadv"/></e>
@@ -3562,6 +3563,8 @@
     <e lm="intre"><i>intre</i><par n="a__pr"/></e>
     <e lm="tra"><i>tra</i><par n="a__pr"/></e>
     <e lm="che a"><i>che<b/>a</i><par n="a__pr"/></e>
+    <e lm="finas dae"><i>finas<b/>dae</i><par n="a__pr"/></e>
+    <e lm="fintzas dae"><i>fintzas<b/>dae</i><par n="a__pr"/></e>
 
     <e lm="tràmite"><i>tr</i><par n="à/a"/><i>mite</i><par n="a__pr"/></e>
     <e lm="acanta"><i>acanta</i><par n="a__pr"/></e>
@@ -3570,7 +3573,6 @@
     <e lm="nointames"><i>nointames</i><par n="a__pr"/></e>
     <e lm="ultres"><i>ultres</i><par n="a__pr"/></e>
 
-    <e lm="po"><i>po</i><par n="a__pr"/></e> <!-- pro(?) -->
     <e lm="fintzas"><i>fintzas</i><par n="a__pr"/></e>
     <e lm="fintzas" r="LR" c="!LSC"><p><l>fìntzas</l><r>fintzas</r></p><par n="a__pr"/></e>
     <e lm="finas"><i>finas</i><par n="a__pr"/></e>
@@ -6540,7 +6542,7 @@
     <e lm="Tzina" r="LR"><p><l>Cina</l><r>Tzina</r></p><par n="Etiòpia__np"/></e>
     <e lm="Tzina" r="LR"><p><l>Chìna</l><r>Tzina</r></p><par n="Etiòpia__np"/></e>
     <e lm="Londra"><i>Londra</i><par n="Etiòpia__np"/></e>
-    <e lm="Albania"><i>Albania</i><par n="Etiòpia__np"/></e>
+    <e lm="Albània"><i>Albània</i><par n="Etiòpia__np"/></e>
     <e lm="Irlanda"><i>Irlanda</i><par n="Etiòpia__np"/></e>
     <e lm="Grecia"><i>Grecia</i><par n="Etiòpia__np"/></e>
     <e lm="Firenze"><i>Firenze</i><par n="Etiòpia__np"/></e>
@@ -6582,7 +6584,6 @@
     <e lm="Tunisia"><i>Tunisia</i><par n="Etiòpia__np"/></e>
     <e lm="Geòrgia"><i>Ge</i><par n="ò/o"/><i>rgia</i><par n="Etiòpia__np"/></e>
     <e lm="Geòrgia" r="LR"><p><l>Georgia</l><r>Geòrgia</r></p><par n="Etiòpia__np"/></e>
-    <e lm="Calabria"><i>Calabria</i><par n="Etiòpia__np"/></e>
     <e lm="Argentina"><i>Argentina</i><par n="Etiòpia__np"/></e>
     <e lm="Florida"><i>Florida</i><par n="Etiòpia__np"/></e>
     <e lm="Indotzina"><i>Indotzina</i><par n="Etiòpia__np"/></e>
@@ -6721,8 +6722,6 @@
     <e lm="York"><i>York</i><par n="Afganistàn__np"/></e>
     <e lm="Ho Chi Minh"><i>Ho<b/>Chi<b/>Minh</i><par n="Afganistàn__np"/></e>
     <e lm="Ho Chi Minh City"><i>Ho<b/>Chi<b/>Minh<b/>City</i><par n="Afganistàn__np"/></e>
-    <e lm="Napoli"><i>Napoli</i><par n="Afganistàn__np"/></e>
-    <e lm="Napoli" r="LR"><p><l>Nàpule</l><r>Napoli</r></p><par n="Afganistàn__np"/></e>
     <e lm="Parigi"><i>Parigi</i><par n="Afganistàn__np"/></e>
     <e lm="Parigi" r="LR"><p><l>Parizi</l><r>Parigi</r></p><par n="Afganistàn__np"/></e>
     <e lm="Camerun"><i>Camerun</i><par n="Afganistàn__np"/></e>
@@ -10599,6 +10598,7 @@
     <e lm="Gerusalemme"><i>Gerusalemme</i><par n="Afganistàn__np"/></e>
     <e lm="Helsinki"><i>Helsinki</i><par n="Afganistàn__np"/></e>
     <e lm="Nàpoli"><i>N</i><par n="à/a"/><i>poli</i><par n="Afganistàn__np"/></e>
+    <e lm="Napoli" r="LR"><p><l>Nàpule</l><r>Nàpoli</r></p><par n="Afganistàn__np"/></e>
     <e lm="Haiti"><i>Haiti</i><par n="Afganistàn__np"/></e>
     <e lm="Vietnam"><i>Vietnam</i><par n="Afganistàn__np"/></e>
     <e lm="Oslo"><i>Oslo</i><par n="Afganistàn__np"/></e>
@@ -11321,7 +11321,7 @@
     <e lm="nucleare"><i>nuclear</i><par n="fàtzil/e__adj"/></e>
     <e lm="multilìngue"><i>multil</i><par n="ì/i"/><i>ngu</i><par n="fàtzil/e__adj"/></e>
     <e lm="militare"><i>militar</i><par n="fàtzil/e__adj"/></e>
-    <e lm="personale"><i>personal</i><par n="fàtzil/e__adj"/></e>
+   <e lm="personale"><i>personal</i><par n="fàtzil/e__adj"/></e>
     <e lm="fertile"><i>fertil</i><par n="fàtzil/e__adj"/></e>
     <e lm="coloniale"><i>colonial</i><par n="fàtzil/e__adj"/></e>
     <e lm="innossente"><i>innossent</i><par n="fàtzil/e__adj"/></e>
@@ -51326,14 +51326,12 @@
     <e lm="Campubassu"><i>Campubassu</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Campubassu (italianu)"><p><l>Campobasso</l><r>Campubassu</r></p><par n="Afganistàn__np" /></e>
     <e lm="Campania"><i>Campania</i><par n="Etiòpia__np"/></e>
-    <e r="LR" lm="Nàpoli (italianu)"><p><l>Napoli</l><r>Nàpoli</r></p><par n="Afganistàn__np" /></e>
     <e lm="Basilicata"><i>Basilicata</i><par n="Etiòpia__np"/></e>
     <e lm="Potenza"><i>Potenza</i><par n="Etiòpia__np"/></e>
     <e lm="Pùglia"><i>P</i><par n="ù/u"/><i>glia</i><par n="Etiòpia__np"/></e>
     <e r="LR" lm="Pùglia (italianu)"><p><l>Puglia</l><r>Pùglia</r></p><par n="Etiòpia__np" /></e>
     <e lm="Bari"><i>Bari</i><par n="Afganistàn__np"/></e>
     <e lm="Calàbria"><i>Cal</i><par n="à/a"/><i>bria</i><par n="Etiòpia__np"/></e>
-    <e r="LR" lm="Calàbria (italianu)"><p><l>Calabria</l><r>Calàbria</r></p><par n="Etiòpia__np" /></e>
     <e lm="Catanzaro"><i>Catanzaro</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Sitzìlia (italianu)"><p><l>Sicilia</l><r>Sitzìlia</r></p><par n="Etiòpia__np" /></e>
     <e r="LR" lm="Palermu (italianu)"><p><l>Palermo</l><r>Palermu</r></p><par n="Afganistàn__np" /></e>
@@ -53731,13 +53729,17 @@
     <e lm="parificare"><i>parific</i><par n="seg/are__vblex"/></e>
     <e lm="dae deretu"><i>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="giai dae deretu"><i>giai<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
+    <e lm="finas dae deretu"><i>finas<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
+    <e lm="fintzas dae deretu"><i>fintzas<b/>dae<b/>deretu</i><par n="bene__adv"/></e>
     <e lm="infrutuosu"><i>infrutuos</i><par n="frantzes/u__adj"/></e>
     <e lm="Bisàntziu"><i>Bis</i><par n="à/a"/><i>ntziu</i><par n="Afganistàn__np"/></e>
     <e lm="Bòsforu"><i>B</i><par n="ò/o"/><i>sforu</i><par n="Afganistàn__np"/></e>
     <e lm="Egeu"><i>Egeu</i><par n="Afganistàn__np"/></e>
     <e lm="Tirrenu"><i>Tirrenu</i><par n="Afganistàn__np"/></e>
     <e lm="Adriàticu"><i>Adri</i><par n="à/a"/><i>ticu</i><par n="Afganistàn__np"/></e>
-    <e lm="Jonicu"><i>Jonicu</i><par n="Afganistàn__np"/></e>
+    <e lm="Iònicu"><i>Iònicu</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Jonicu"><p><l>Jonicu</l><r>Iònicu</r></p><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Jonicu"><p><l>Jònicu</l><r>Iònicu</r></p><par n="Afganistàn__np"/></e>
     <e lm="Atlànticu"><i>Atl</i><par n="à/a"/><i>nticu</i><par n="Afganistàn__np"/></e>
     <e lm="Danùbiu"><i>Dan</i><par n="ù/u"/><i>biu</i><par n="Po__np"/></e>
     <e lm="in summa"><i>in<b/>summa</i><par n="bene__adv"/></e>
