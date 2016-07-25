@@ -3473,11 +3473,10 @@
     <e lm="e"><i></i><par n="/e__cnjcoo"/></e>
     <!--<e lm="finas"><i>finas</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="nemmancu"><i>nemmancu</i><par n="o__cnjcoo"/></e>-->
-    <!--<e lm="in prus"><i>in<b/>prus</i><par n="o__cnjcoo"/></e>-->
     <e lm="ne"><i></i><par n="/ne__cnjcoo"/></e>
     <e lm="o"><i>o</i><par n="o__cnjcoo"/></e>
     <e lm="opuru"><i>opuru</i><par n="o__cnjcoo"/></e>
-    <e lm="puru"><i>puru</i><par n="o__cnjcoo"/></e>
+    <e lm="puru"><i>puru</i><par n="duncas__cnjadv"/></e>
     <e lm="in fatis"><i>in<b/>fatis</i><par n="o__cnjcoo"/></e>
     <e lm="overas"><i>overas</i><par n="o__cnjcoo"/></e>
     <e lm="ma"><i>ma</i><par n="o__cnjcoo"/></e>
@@ -3485,14 +3484,9 @@
     <e lm="però" r="LR"><p><l>peròe</l><r>però</r></p><par n="o__cnjcoo"/></e>
     <e lm="però" r="LR"><p><l>peroe</l><r>però</r></p><par n="o__cnjcoo"/></e>
 
-    <!--<e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="o__cnjcoo"/></e>-->
     <!--<e lm="sende gasi"><i>sende<b/>gasi</i><par n="o__cnjcoo"/></e>-->
-    <!--<e lm="de su restu"><i>de<b/>su<b/>restu</i><par n="o__cnjcoo"/></e>-->
-    <!--<e lm="antis"><i>antis</i><par n="o__cnjcoo"/></e>-->
-    <!--<e lm="imbetzes"><i>imbetzes</i><par n="o__cnjcoo"/></e>-->
-    <!--<e lm="cando chi"><i>cando<b/>chi</i><par n="o__cnjcoo"/></e>-->
     <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
-    <e lm="in càmbiu"><i>in<b/>c</i><par n="à/a"/><i>mbiu</i><par n="o__cnjcoo"/></e>
+    <e lm="in càmbiu"><i>in<b/>c</i><par n="à/a"/><i>mbiu</i><par n="chi__cnjsub"/></e>
     <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
     <e lm="chi"><i>chi</i><par n="chi__cnjsub"/></e>
     <e lm="si"><i>si</i><par n="duncas__cnjadv"/></e>
@@ -52935,7 +52929,7 @@
     <e lm="a mala gana"><i>a<b/>mala<b/>gana</i><par n="bene__adv"/></e>
     <e lm="a mangianu"><i>a<b/>mangianu</i><par n="bene__adv"/></e>
     <e lm="a merie"><i>a<b/>merie</i><par n="bene__adv"/></e>
-    <e lm="antis"><i>antis</i><par n="o__cnjcoo"/></e>
+    <e lm="antis"><i>antis</i><par n="duncas__cnjadv"/></e>
     <e lm="a nuddue"><i>a<b/>nuddue</i><par n="bene__adv"/></e>
     <e lm="a palas"><i>a<b/>palas</i><par n="bene__adv"/></e>
     <e lm="a pitzu"><i>a<b/>pitzu</i><par n="bene__adv"/></e>
@@ -52956,7 +52950,7 @@
     <e lm="a ue"><i>a<b/>ue</i><par n="bene__adv"/></e>
     <e lm="bastat chi"><i>bastat<b/>chi</i><par n="chi__cnjsub"/></e>
     <e lm="bastis chi"><i>bastis<b/>chi</i><par n="chi__cnjsub"/></e>
-    <e lm="cando chi"><i>cando<b/>chi</i><par n="o__cnjcoo"/></e>
+    <e lm="cando chi"><i>cando<b/>chi</i><par n="duncas__cnjadv"/></e>
     <e lm="cando"><i>cando</i><par n="bene__adv"/></e>
     <e lm="cando non cando"><i>cando<b/>non<b/>cando</i><par n="bene__adv"/></e>
     <e lm="cara"><i>cara</i><par n="bene__adv"/></e>
@@ -52983,13 +52977,13 @@
     <e lm="de nudda"><i>de<b/>nudda</i><par n="bene__adv"/></e>
     <e lm="deprus"><i>deprus</i><par n="bene__adv"/></e>
     <e lm="deseguru"><i>deseguru</i><par n="bene__adv"/></e>
-    <e lm="de su restu"><i>de<b/>su<b/>restu</i><par n="o__cnjcoo"/></e>
-    <e lm="difatis"><i>difatis</i><par n="o__cnjcoo"/></e>
-    <e lm="duncas"><i>duncas</i><par n="o__cnjcoo"/></e>
+    <e lm="de su restu"><i>de<b/>su<b/>restu</i><par n="chi__cnjsub"/></e>
+    <e lm="difatis"><i>difatis</i><par n="duncas__cnjadv"/></e>
+    <e lm="duncas"><i>duncas</i><par n="duncas__cnjadv"/></e>
     <e lm="ellus"><i>ellus</i><par n="bene__adv"/></e>
     <e lm="emo"><i>emo</i><par n="bene__adv"/></e>
     <e lm="finas a cando"><i>finas<b/>a<b/>cando</i><par n="chi__cnjsub"/></e>
-    <e lm="finas"><i>finas</i><par n="o__cnjcoo"/></e>
+    <e lm="finas"><i>finas</i><par n="chi__cnjsub"/></e>
     <e lm="fintzas"><i>fintzas</i><par n="o__cnjcoo"/></e>
     <e lm="francu"><i>francu</i><par n="chi__cnjsub"/></e>
     <e lm="imbetzes"><i>imbetzes</i><par n="o__cnjcoo"/></e>
@@ -53008,7 +53002,7 @@
     <e lm="in palas"><i>in<b/>palas</i><par n="bene__adv"/></e>
     <e lm="in pessu chi"><i>in<b/>pessu<b/>chi</i><par n="chi__cnjsub"/></e>
     <e lm="in pitzu"><i>in<b/>pitzu</i><par n="bene__adv"/></e>
-    <e lm="in prus"><i>in<b/>prus</i><par n="o__cnjcoo"/></e>
+    <e lm="in prus"><i>in<b/>prus</i><par n="chi__cnjsub"/></e>
     <e lm="in segus"><i>in<b/>segus</i><par n="bene__adv"/></e>
     <e lm="in s’ìnteri"><i>in<b/>s’</i><par n="ì/i"/><i>nteri</i><par n="chi__cnjsub"/></e>
     <e lm="in subra"><i>in<b/>subra</i><par n="bene__adv"/></e>
@@ -53022,12 +53016,12 @@
     <e lm="pagu mancu"><i>pagu<b/>mancu</i><par n="bene__adv"/></e>
     <e lm="pagu prus"><i>pagu<b/>prus</i><par n="bene__adv"/></e>
     <e lm="peri"><i>peri</i><par n="o__cnjcoo"/></e>
-    <e lm="pro cussu"><i>pro<b/>cussu</i><par n="o__cnjcoo"/></e>
-    <e lm="pro custu"><i>pro<b/>custu</i><par n="o__cnjcoo"/></e>
-    <e lm="pro esempru"><i>pro<b/>esempru</i><par n="o__cnjcoo"/></e>
-    <e lm="pro nàrrere unu paragone"><i>pro<b/>n</i><par n="à/a"/><i>rrere<b/>unu<b/>paragone</i><par n="o__cnjcoo"/></e>
+    <e lm="pro cussu"><i>pro<b/>cussu</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro custu"><i>pro<b/>custu</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro esempru"><i>pro<b/>esempru</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro nàrrere unu paragone"><i>pro<b/>n</i><par n="à/a"/><i>rrere<b/>unu<b/>paragone</i><par n="duncas__cnjadv"/></e>
     <e lm="pro nudda"><i>pro<b/>nudda</i><par n="bene__adv"/></e>
-    <e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="o__cnjcoo"/></e>
+    <e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="duncas__cnjadv"/></e>
     <e lm="prus o mancu"><i>prus<b/>o<b/>mancu</i><par n="bene__adv"/></e>
     <e lm="prus pagu"><i>prus<b/>pagu</i><par n="bene__adv"/></e>
     <e lm="rue·rue"><i>rue·rue</i><par n="bene__adv"/></e>
@@ -53036,7 +53030,7 @@
     <e lm="siat"><i>siat</i><par n="o__cnjcoo"/></e>
     <e lm="s’in casu"><i>s’in<b/>casu</i><par n="bene__adv"/></e>
     <e lm="si no est chi"><i>si<b/>no<b/>est<b/>chi</i><par n="chi__cnjsub"/></e>
-    <e lm="tando"><i>tando</i><par n="o__cnjcoo"/></e>
+    <e lm="tando"><i>tando</i><par n="duncas__cnjadv"/></e>
     <e lm="ue"><i>ue</i><par n="bene__adv"/></e>
     <e lm="una bia"><i>una<b/>bia</i><par n="bene__adv"/></e>
 
