@@ -3487,6 +3487,7 @@
     <!--<e lm="sende gasi"><i>sende<b/>gasi</i><par n="o__cnjcoo"/></e>-->
     <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
     <e lm="in càmbiu"><i>in<b/>c</i><par n="à/a"/><i>mbiu</i><par n="chi__cnjsub"/></e>
+    <e lm="ca"><i>ca</i><par n="duncas__cnjadv"/></e>
     <e lm="ca"><i>ca</i><par n="chi__cnjsub"/></e>
     <e lm="chi"><i>chi</i><par n="chi__cnjsub"/></e>
     <e lm="si"><i>si</i><par n="duncas__cnjadv"/></e>
@@ -39647,7 +39648,6 @@
     <e lm="fatalidade"><i>fatalidad</i><par n="region/e__n"/></e>
     <e lm="fatibilidade"><i>fatibilidad</i><par n="region/e__n"/></e>
     <e lm="fatze"><i>fatze</i><par n="pane__n"/></e>
-    <e lm="fàtzile"><i>f</i><par n="à/a"/><i>tzile</i><par n="pane__n"/></e>
     <e lm="fatzilitatzione"><i>fa</i><par n="tz/z"/><i>ilita</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="fatzione"><i>fa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="fatzone"><i>fatzone</i><par n="pane__n"/></e>
@@ -39832,7 +39832,7 @@
     <e lm="froe"><i>froe</i><par n="pane__n"/></e>
     <e lm="frontone"><i>frontone</i><par n="pane__n"/></e>
     <e lm="froràmene"><i>fror</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
-    <e lm="frore"><i>frore</i><par n="pane__n"/></e>
+    <e lm="frore"><i>fror</i><par n="region/e__n"/></e>
     <e lm="fruale"><i>fruale</i><par n="pane__n"/></e>
     <e lm="frue"><i>frue</i><par n="pane__n"/></e>
     <e lm="frùmene"><i>fr</i><par n="ù/u"/><i>mene</i><par n="pane__n"/></e>
@@ -40031,7 +40031,7 @@
     <e lm="gurone"><i>gurone</i><par n="pane__n"/></e>
     <e lm="gurpe"><i>gurpe</i><par n="pane__n"/></e>
     <e lm="gurule"><i>gurule</i><par n="pane__n"/></e>
-    <e lm="guvernante"><i>guvernante</i><par n="pane__n"/></e>
+    <e lm="guvernante"><i>guvernante</i><par n="dentista__n"/></e>
     <e lm="ideale"><i>ideale</i><par n="pane__n"/></e>
     <e lm="idealidade"><i>idealidad</i><par n="region/e__n"/></e>
     <e lm="ischematizatzione"><i>ischematiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -40543,7 +40543,7 @@
     <e lm="marrone"><i>marrone</i><par n="pane__n"/></e>
     <e lm="marrupione"><i>marrupione</i><par n="pane__n"/></e>
     <e lm="martinicone"><i>martinicone</i><par n="pane__n"/></e>
-    <e lm="màrtire"><i>m</i><par n="à/a"/><i>rtire</i><par n="pane__n"/></e>
+    <e lm="màrtire"><i>m</i><par n="à/a"/><i>rtire</i><par n="dentista__n"/></e>
     <e lm="marturàmene"><i>martur</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
     <e lm="marturatzone"><i>marturatzone</i><par n="pane__n"/></e>
     <e lm="marturidade"><i>marturidad</i><par n="region/e__n"/></e>
@@ -41557,7 +41557,7 @@
     <e lm="similitùdine"><i>similit</i><par n="ù/u"/><i>dine</i><par n="pane__n"/></e>
     <e lm="similtade"><i>similtad</i><par n="region/e__n"/></e>
     <e lm="simingione"><i>simingione</i><par n="pane__n"/></e>
-    <e lm="simpatizante"><i>simpatizante</i><par n="pane__n"/></e>
+    <e lm="simpatizante"><i>simpatizante</i><par n="dentista__n"/></e>
     <e lm="simplitzidade"><i>simplitzidad</i><par n="region/e__n"/></e>
     <e lm="simpridade"><i>simpridad</i><par n="region/e__n"/></e>
     <e lm="simuladore"><i>simulador</i><par n="traballador/e__n"/></e>
@@ -43335,6 +43335,7 @@
     <e lm="vidabidente"><i>vidabident</i><par n="fàtzil/e__adj"/></e>
     <e lm="vidale"><i>vidal</i><par n="fàtzil/e__adj"/></e>
     <e lm="vietnamita"><i>vietnamita</i><par n="meda__adj"/></e>
+    <e lm="vietnamita"><i>vietnamita</i><par n="dentista__n"/></e>
     <e lm="vile"><i>vil</i><par n="fàtzil/e__adj"/></e>
     <e lm="vinculante"><i>vinculant</i><par n="fàtzil/e__adj"/></e>
     <e lm="violàbile"><i>viol</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
@@ -46597,6 +46598,7 @@
     <e lm="invariàbile"><i>invari</i><par n="à/a"/><i>bil</i><par n="cunservador/e__adj"/></e>
     <e lm="invariadu"><i>invariad</i><par n="frantzes/u__adj"/></e>
     <e lm="invasore"><i>invasor</i><par n="cunservador/e__adj"/></e>
+    <e lm="invasore"><i>invasor</i><par n="traballador/e__n"/></e>
     <e lm="invioladu"><i>inviolad</i><par n="frantzes/u__adj"/></e>
     <e lm="inviudadu"><i>inviudad</i><par n="frantzes/u__adj"/></e>
     <e lm="iònicu"><i>i</i><par n="ò/o"/><i>ni</i><par n="linguìsti/cu__adj"/></e>
@@ -50666,6 +50668,7 @@
     <e lm="venenosu"><i>venenos</i><par n="frantzes/u__adj"/></e>
     <e lm="vènetu"><i>v</i><par n="è/e"/><i>net</i><par n="frantzes/u__adj"/></e>
     <e lm="venetzuelanu"><i>venetzuelan</i><par n="frantzes/u__adj"/></e>
+    <e lm="venetzuelanu"><i>venetzuelan</i><par n="amig/u__n"/></e>
     <e lm="vengadore"><i>vengador</i><par n="cunservador/e__adj"/></e>
     <e lm="vengadore"><i>vengador</i><par n="traballador/e__n"/></e>
     <e lm="vengamentosu"><i>vengamentos</i><par n="frantzes/u__adj"/></e>
