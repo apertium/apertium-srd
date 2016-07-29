@@ -691,6 +691,16 @@
       <e r="LR"><p><l>esses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
     </pardef>
 
+    <pardef n="duc/a__n">
+      <e>       <p><l>a</l><r>a<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>as</l><r>a<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>hessa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>hissa</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e r="LR"><p><l>hesse</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
+      <e>       <p><l>hessas</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>hesses</l><r>e<s n="n"/><s n="f"/><s n="pl"/></r></p></e>	<!-- @!LSC (CROS) -->
+    </pardef>
+
     <pardef n="pr/ìntzipe__n">
       <e>       <p><l>ìntzipe</l><r>ìntzipe<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>intzipe</l><r>ìntzipe<s n="n"/><s n="m"/><s n="sg"/></r></p></e>	<!-- @!LSC (CROS) -->
@@ -5434,7 +5444,8 @@
     <e lm="perìgulu"><i>per</i><par n="ì/i"/><i>gul</i><par n="mac/u__n"/></e>
     <e lm="pianu"><i>pian</i><par n="mac/u__n"/></e>
     <e lm="cuotidianu"><i>cuotidian</i><par n="mac/u__n"/></e>
-    <e lm="protzessu"><i>protzess</i><par n="mac/u__n"/></e>
+    <e lm="protzessu"><i>pro</i><par n="tz/c"/><i>ess</i><par n="mac/u__n"/></e>
+    <e lm="protzessore"><i>pro</i><par n="tz/c"/><i>essore</i><par n="pane__n"/></e>
     <e lm="òbrigu"><i></i><par n="ò/o"/><i>brig</i><par n="mac/u__n"/></e>
     <e lm="dipartimentu"><i>dipartiment</i><par n="mac/u__n"/></e>
     <e lm="àbacu"><i></i><par n="à/a"/><i>bac</i><par n="mac/u__n"/></e>
@@ -11319,7 +11330,7 @@
     <e lm="professionale"><i>professional</i><par n="fàtzil/e__adj"/></e>
     <e lm="setentrionale"><i>setentrional</i><par n="fàtzil/e__adj"/></e>
     <e lm="diagonale"><i>diagonal</i><par n="fàtzil/e__adj"/></e>
-    <e lm="protzessuale"><i>protzessual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="protzessuale"><i>pro</i><par n="tz/c"/><i>essual</i><par n="fàtzil/e__adj"/></e>
     <e lm="legale"><i>legal</i><par n="fàtzil/e__adj"/></e>
     <e lm="lughente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
     <e lm="cuntraente"><i>lughent</i><par n="fàtzil/e__adj"/></e>
@@ -12390,7 +12401,11 @@
     <e lm="progettare"><i>progett</i><par n="cant/are__vblex"/></e>
     <e lm="relatare"><i>relat</i><par n="cant/are__vblex"/></e>
     <e lm="influentzare"><i>influentz</i><par n="cant/are__vblex"/></e>
-    <e lm="italianisare"><i>italianis</i><par n="cant/are__vblex"/></e>
+    <e lm="italianizare"><i>italianiz</i><par n="cant/are__vblex"/></e>
+    <e lm="italianizatzione"><i>italianizatzion</i><par n="region/e__n"/></e>
+    <e lm="italianista"><i>italianist</i><par n="dentista__n"/></e>
+    <e lm="italianista"><i>italianist</i><par n="meda__adj"/></e>
+    <e lm="italianità"><i>italianidad</i><par n="region/e__n"/></e>
     <e lm="preoccupare"><i>preoccup</i><par n="cant/are__vblex"/></e>
     <e lm="ispirare"><i>ispir</i><par n="cant/are__vblex"/></e>
     <e lm="ispirare" r="LR"><p><l>inspir</l><r>ispir</r></p><par n="cant/are__vblex"/></e>
@@ -23213,7 +23228,7 @@
     <e lm="prosare"><i>pros</i><par n="cant/are__vblex"/></e>
     <e lm="protestare"><i>protest</i><par n="cant/are__vblex"/></e>
     <e lm="protocollare"><i>protocoll</i><par n="cant/are__vblex"/></e>
-    <e lm="protzessare"><i>protzess</i><par n="cant/are__vblex"/></e>
+    <e lm="protzessare"><i>pro</i><par n="tz/c"/><i>ess</i><par n="cant/are__vblex"/></e>
     <e lm="provare"><i>prov</i><par n="cant/are__vblex"/></e>
     <e lm="publitzizare"><i>publitziz</i><par n="cant/are__vblex"/></e>
     <e lm="pubujonare"><i>pubujon</i><par n="cant/are__vblex"/></e>
@@ -32499,7 +32514,6 @@
     <e lm="granadìllia"><i>granad</i><par n="ì/i"/><i>llia</i><par n="mesa__n"/></e>
     <e lm="grandesa"><i>grandesa</i><par n="mesa__n"/></e>
     <e lm="grandinada"><i>grandinada</i><par n="mesa__n"/></e>
-    <e lm="granduca"><i>granduca</i><par n="mesa__n"/></e>
     <e lm="gràndula"><i>gr</i><par n="à/a"/><i>ndula</i><par n="mesa__n"/></e>
     <e lm="granduledda"><i>granduledda</i><par n="mesa__n"/></e>
     <e lm="grangeria"><i>grangeria</i><par n="mesa__n"/></e>
@@ -44158,6 +44172,7 @@
     <e lm="brillantinu"><i>brillantin</i><par n="frantzes/u__adj"/></e>
     <e lm="brillu"><i>brill</i><par n="frantzes/u__adj"/></e>
     <e lm="britànnicu"><i>brit</i><par n="à/a"/><i>nni</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="britànnicu"><i>brit</i><par n="à/a"/><i>nnic</i><par n="amig/u__n"/></e>
     <e lm="brulladu"><i>brullad</i><par n="frantzes/u__adj"/></e>
     <e lm="brullanu"><i>brullan</i><par n="frantzes/u__adj"/></e>
     <e lm="brulleri"><i>bruller</i><par n="banduler/i__adj"/></e>
@@ -45893,6 +45908,13 @@
     <e lm="frallusteri"><i>fralluster</i><par n="banduler/i__adj"/></e>
     <e lm="franchilongu"><i>franchilong</i><par n="frantzes/u__adj"/></e>
     <e lm="francòfonu"><i>franc</i><par n="ò/o"/><i>fon</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglòfonu"><i>angl</i><par n="ò/o"/><i>fon</i><par n="frantzes/u__adj"/></e>
+    <e lm="francòfobu"><i>franc</i><par n="ò/o"/><i>fob</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglòfobu"><i>angl</i><par n="ò/o"/><i>fob</i><par n="frantzes/u__adj"/></e>
+    <e lm="germanòfobu"><i>german</i><par n="ò/o"/><i>fob</i><par n="frantzes/u__adj"/></e>
+    <e lm="francòfilu"><i>franc</i><par n="ò/o"/><i>fil</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglòfilu"><i>angl</i><par n="ò/o"/><i>fil</i><par n="frantzes/u__adj"/></e>
+    <e lm="germanòfilu"><i>german</i><par n="ò/o"/><i>fil</i><par n="frantzes/u__adj"/></e>
     <e lm="francudu"><i>francud</i><par n="frantzes/u__adj"/></e>
     <e lm="francu"><i>fran</i><par n="linguìsti/cu__adj"/></e>
     <e lm="frànghidu"><i>fr</i><par n="à/a"/><i>nghid</i><par n="frantzes/u__adj"/></e>
@@ -47287,6 +47309,7 @@
     <e lm="italianizadu"><i>italianizad</i><par n="frantzes/u__adj"/></e>
     <e lm="itàlicu"><i>it</i><par n="à/a"/><i>li</i><par n="linguìsti/cu__adj"/></e>
     <e lm="italòfonu"><i>ital</i><par n="ò/o"/><i>fon</i><par n="frantzes/u__adj"/></e>
+    <e lm="italòfonu"><i>ital</i><par n="ò/o"/><i>fon</i><par n="amig/u__n"/></e>
     <e lm="italoromanzu"><i>italoromanz</i><par n="frantzes/u__adj"/></e>
     <e lm="ìtalu"><i></i><par n="ì/i"/><i>tal</i><par n="frantzes/u__adj"/></e>
     <e lm="itineràriu"><i>itiner</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
@@ -52914,8 +52937,8 @@
 
     <e lm="dessinnatzione"><i>dessinna</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="dispenseri"><i>dispenser</i><par n="ingegner/i__n"/></e>
-    <e lm="duca"><i>duca</i><par n="mesa__n"/></e>
-    <e lm="duca"><i>duca</i><par n="pane__n"/></e>
+    <e lm="duca"><i>duc</i><par n="duc/a__n"/></e>
+    <e lm="granduca"><i>granduc</i><par n="duc/a__n"/></e>
     <e lm="fàmene"><i>f</i><par n="à/a"/><i>men</i><par n="region/e__n"/></e>
     <e lm="gherreri"><i>gherrer</i><par n="ingegner/i__n"/></e>
     <e lm="illusu"><i>illus</i><par n="amig/u__n"/></e>
@@ -53726,7 +53749,6 @@
     <e lm="comunicadu"><i>comunicad</i><par n="mac/u__n"/></e>
     <e lm="filipinu"><i>filipin</i><par n="amig/u__n"/></e>
     <e lm="folclorismu"><i>folclorism</i><par n="mac/u__n"/></e>
-    <e lm="francòfonu"><i>franc</i><par n="ò/o"/><i>fon</i><par n="amig/u__n"/></e>
     <e lm="isponda"><i>isponda</i><par n="mesa__n"/></e>
     <e lm="pasada"><i>pasada</i><par n="mesa__n"/></e>
     <e lm="programariu"><i>programari</i><par n="mac/u__n"/></e>
@@ -53804,7 +53826,65 @@
 
     <e lm="matzedòniu"><i>ma</i><par n="tz/c"/><i>ed</i><par n="ò/o"/><i>ni</i><par n="amig/u__n"/></e>
     <e lm="matzedòniu"><i>ma</i><par n="tz/c"/><i>ed</i><par n="ò/o"/><i>ni</i><par n="frantzes/u__adj"/></e>
-</section>
+
+    <e lm="anglo-americanu"><i>anglo-american</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-australianu"><i>anglo-australian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-caraibicu"><i>anglo-caraibi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="anglo-tzinesu"><i>anglo-</i><par n="tz/c"/><i>ines</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-egitzianu"><i>anglo-egi</i><par n="tz/z"/><i>ian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-frantzesu"><i>anglo-fran</i><par n="tz/c"/><i>es</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-franco-americanu"><i>anglo-franco-american</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-giaponesu"><i>anglo-giapones</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-indianu"><i>anglo-indian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-iranianu"><i>anglo-iranian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-irlandesu"><i>anglo-irlandes</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-israelianu"><i>anglo-israelian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-italianu"><i>anglo-italian</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-olandesu"><i>anglo-olandes</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-pakistanu"><i>anglo-pakistan</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-palestinesu"><i>anglo-palestines</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-russu"><i>anglo-russ</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglo-sovièticu"><i>anglo-sovièti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="angloamericanu"><i>angloamerican</i><par n="frantzes/u__adj"/></e>
+    <e lm="franco-britànnicu"><i>franco-britànni</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="franco-iranianu"><i>franco-iranian</i><par n="frantzes/u__adj"/></e>
+    <e lm="franco-prussianu"><i>franco-prussian</i><par n="frantzes/u__adj"/></e>
+    <e lm="franco-italianu"><i>franco-italian</i><par n="frantzes/u__adj"/></e>
+    <e lm="franco-tedescu"><i>franco-tedes</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="italo-americanu"><i>italo-american</i><par n="frantzes/u__adj"/></e>
+    <e lm="italo-austriacu"><i>italo-austria</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="italo-frantzesu"><i>italo-frantzes</i><par n="frantzes/u__adj"/></e>
+    <e lm="italo-isvìtzeru"><i>italo-isv</i><par n="ì/i"/><i></i><par n="tz/z"/><i>er</i><par n="frantzes/u__adj"/></e>
+    <e lm="italoamericanu"><i>italoamerican</i><par n="frantzes/u__adj"/></e>
+    <e lm="italoamericanu"><i>italoamerican</i><par n="amig/u__n"/></e>
+
+    <e lm="francofòbia"><i>francofòbia</i><par n="mesa__n"/></e>
+    <e lm="germanofòbia"><i>germanofòbia</i><par n="mesa__n"/></e>
+    <e lm="anglofòbia"><i>anglofòbia</i><par n="mesa__n"/></e>
+    <e lm="francofìlia"><i>francofìlia</i><par n="mesa__n"/></e>
+    <e lm="germanofìlia"><i>germanofìlia</i><par n="mesa__n"/></e>
+    <e lm="anglofìlia"><i>anglofìlia</i><par n="mesa__n"/></e>
+    <e lm="anglòfonu"><i>anglòfon</i><par n="amig/u__n"/></e>
+    <e lm="anglòfilu"><i>anglòfil</i><par n="amig/u__n"/></e>
+    <e lm="anglòfobu"><i>anglòfob</i><par n="amig/u__n"/></e>
+    <e lm="francòfonu"><i>francòfon</i><par n="amig/u__n"/></e>
+    <e lm="francòfilu"><i>francòfil</i><par n="amig/u__n"/></e>
+    <e lm="francòfobu"><i>francòfob</i><par n="amig/u__n"/></e>
+    <e lm="germanòfilu"><i>germanòfil</i><par n="amig/u__n"/></e>
+    <e lm="germanòfobu"><i>germanòfob</i><par n="amig/u__n"/></e>
+    <e lm="germanòfonu"><i>germanòfon</i><par n="amig/u__n"/></e>
+    <e lm="anglòfonu"><i>anglòfon</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglòfobu"><i>anglòfob</i><par n="frantzes/u__adj"/></e>
+    <e lm="francòfobu"><i>francòfob</i><par n="frantzes/u__adj"/></e>
+    <e lm="germanòfobu"><i>germanòfob</i><par n="frantzes/u__adj"/></e>
+    <e lm="anglòfilu"><i>anglòfil</i><par n="frantzes/u__adj"/></e>
+    <e lm="francòfilu"><i>francòfil</i><par n="frantzes/u__adj"/></e>
+    <e lm="germanòfilu"><i>germanòfil</i><par n="frantzes/u__adj"/></e>
+    <e lm="francòfonu"><i>francòfon</i><par n="frantzes/u__adj"/></e>
+    <e lm="germanòfonu"><i>germanòfon</i><par n="frantzes/u__adj"/></e>
+
+
+  </section>
 
   <section id="apostrophe" type="postblank">
     <e lm="s'" r="LR"><p><l>s'</l><r>su<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
