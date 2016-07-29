@@ -252,6 +252,9 @@
         <i>u</i>
       </e>
       <e>
+        <i>á</i>
+      </e>
+      <e>
         <i>é</i>
       </e>
       <e>
@@ -267,13 +270,16 @@
         <i>à</i>
       </e>
       <e>
-        <i>á</i>
-      </e>
-      <e>
         <i>è</i>
       </e>
       <e>
+        <i>ì</i>
+      </e>
+      <e>
         <i>ò</i>
+      </e>
+      <e>
+        <i>ù</i>
       </e>
       <e>
         <i>h</i>
@@ -323,9 +329,6 @@
       <e>
         <par n="caracter_general"/><i>ì</i>
       </e>
-      <e>
-        <i>ì</i>
-      </e>
     </pardef> 
 
    <pardef n="vocal_sin_h">
@@ -345,6 +348,9 @@
         <i>u</i>
       </e>
       <e>
+        <i>á</i>
+      </e>
+      <e>
         <i>é</i>
       </e>
       <e>
@@ -360,13 +366,16 @@
         <i>à</i>
       </e>
       <e>
-        <i>á</i>
-      </e>
-      <e>
         <i>è</i>
       </e>
       <e>
+        <i>ì</i>
+      </e>
+      <e>
         <i>ò</i>
+      </e>
+      <e>
+        <i>ù</i>
       </e>
       <e>
         <par n="caracter_general"/><i>a</i>
@@ -416,17 +425,35 @@
      <e>
         <p>
           <l><a/>no<b/></l>
-          <r>no<b/></r>
-        </p>
-        <par n="vocals"/>
-      </e>
-      <e>
-        <p>
-          <l><a/>no<b/></l>
           <r>non<b/></r>
         </p>
         <par n="consonants"/>
       </e>
+<!-- fa fallar no s', no b' etc.
+     <e>
+        <p>
+          <l><a/>no<b/><a/>lu<b/></l>
+          <r>no<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>lu<b/></l>
+          <r>no<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+-->
+
+     <e>
+        <p>
+          <l><a/>ne<b/></l>
+          <r>nen<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+
      <e>
         <p>
           <l><a/>sa<b/></l>
@@ -448,13 +475,6 @@
         </p>
         <par n="vocals"/>
       </e>
-     <e>
-        <p>
-          <l><a/>s'<b/><a/>unu<b/></l>
-          <r>s'unu<b/></r>
-        </p>
-      </e>
-
 
      <e>
         <p>
@@ -473,8 +493,8 @@
 
      <e>
         <p>
-          <l><a/>un'<b/></l>
-          <r>un'</r>
+          <l><a/>li<b/></l>
+          <r>l'</r>
         </p>
         <par n="vocals"/>
       </e>
@@ -482,6 +502,35 @@
         <p>
           <l><a/>lu<b/></l>
           <r>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>la<b/></l>
+          <r>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ddi<b/></l>
+          <r>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ddu<b/></l>
+          <r>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>dda<b/></l>
+          <r>dd'</r>
         </p>
         <par n="vocals"/>
       </e>
@@ -510,7 +559,21 @@
         <par n="vocals"/>
       </e>
 
+     <e>
+        <p>
+          <l><a/>nche<b/></l>
+          <r>nch'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
 
+     <e>
+        <p>
+          <l><a/>nde<b/></l>
+          <r>nd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
 
   </section>
 
