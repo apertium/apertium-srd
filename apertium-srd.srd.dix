@@ -3527,6 +3527,7 @@
     <e lm="pro chi"><i>pro<b/>chi</i><par n="chi__cnjsub"/></e>
     <!--<e lm="sende chi"><i>sende<b/>chi</i><par n="chi__cnjsub"/></e>-->
     <e lm="mancari"><i>mancari</i><par n="chi__cnjsub"/></e>
+    <e lm="mancari"><i>mancari</i><par n="duncas__cnjadv"/></e>
     <e lm="mancari chi"><i>mancari<b/>chi</i><par n="chi__cnjsub"/></e>
     <e lm="si puru"><i>si<b/>puru</i><par n="chi__cnjsub"/></e>
     <e lm="imbetzes chi"><i>imbetzes<b/>chi</i><par n="chi__cnjsub"/></e>
@@ -5146,22 +5147,23 @@
     <e lm="nova"><i>nova</i><par n="mesa__n"/></e>
     <e lm="orchestra"><i>orchestra</i><par n="mesa__n"/></e>
     <e lm="orchestra" r="LR"><p><l>orquestra</l><r>orchestra</r></p><par n="mesa__n"/></e>
+    <e lm="orchestrale"><i>orchestral</i><par n="fàtzil/e__adj"/></e>
+    <e lm="orchestrale" r="LR"><p><l>orquestral</l><r>orchestral</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="politzia"><i>politzia</i><par n="mesa__n"/></e>
     <e lm="giustìtzia"><i>giust</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
     <e lm="giustìtzia" r="LR"><p><l>zustìtzia</l><r>giustìtzia</r></p><par n="mesa__n"/></e>
     <e lm="giustìtzia" r="LR"><p><l>zustìssia</l><r>giustìtzia</r></p><par n="mesa__n"/></e>
     <e lm="polìtica"><i>pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/ca__n"/></e>
-    <e lm="polìtica" r="LR"><p><l>politi</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="polìtica" r="LR"><p><l>pòliti</l><r>polìti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="bibbia"><i>bibbia</i><par n="mesa__n"/></e>
     <e lm="tirannia"><i>tirannia</i><par n="mesa__n"/></e>
     <e lm="mariposa"><i>mariposa</i><par n="mesa__n"/></e>
+    <e lm="pàsida"><i>pàsida</i><par n="mesa__n"/></e>
     <e lm="orìgine" r="LR"><p><l>origine</l><r>orìgine</r></p><par n="mesa__n"/></e>
     <e lm="orìgine" r="LR"><p><l>orìzine</l><r>orìgine</r></p><par n="mesa__n"/></e>
     <e lm="orìgine" r="LR"><p><l>origini</l><r>orìgine</r></p><par n="mesa__n"/></e>
     <e lm="ferrovia"><i>ferrovia</i><par n="mesa__n"/></e>
     <e lm="màchina"><i>m</i><par n="à/a"/><i>china</i><par n="mesa__n"/></e>
-    <e lm="màchina" r="LR"><p><l>machina</l><r>màchina</r></p><par n="mesa__n"/></e>
     <e lm="massa"><i>massa</i><par n="mesa__n"/></e>
     <e lm="sèrie"><i>s</i><par n="è/e"/><i>ri</i><par n="region/e__n"/></e>
     <e lm="parabula"><i>parabula</i><par n="mesa__n"/></e>
@@ -5254,9 +5256,12 @@
     <e lm="violinista"><i>violinista</i><par n="dentista__n"/></e>
     <e lm="protagonista"><i>protagonista</i><par n="dentista__n"/></e>
     <e lm="comunista"><i>comunista</i><par n="dentista__n"/></e>
+    <e lm="anticomunista"><i>anticomunista</i><par n="dentista__n"/></e>
     <e lm="esperantista"><i>esperantista</i><par n="dentista__n"/></e>
     <e lm="capitalista"><i>capitalista</i><par n="dentista__n"/></e>
     <e lm="capitalista"><i>capitalista</i><par n="meda__adj"/></e>
+    <e lm="anticapitalista"><i>anticapitalista</i><par n="dentista__n"/></e>
+    <e lm="anticapitalista"><i>anticapitalista</i><par n="meda__adj"/></e>
     <e lm="pacifista"><i>pacifista</i><par n="dentista__n"/></e>
     <e lm="pacifista"><i>pacifista</i><par n="meda__adj"/></e>
     <e lm="camionista"><i>camionista</i><par n="dentista__n"/></e>
@@ -5291,6 +5296,8 @@
     <e lm="feudalismu"><i>feudalismu</i><par n="anarchismu__n"/></e>
     <e lm="fascismu"><i>fascismu</i><par n="anarchismu__n"/></e>
     <e lm="fascismu" r="LR"><p><l>fassismu</l><r>fascismu</r></p><par n="anarchismu__n"/></e>
+    <e lm="antifascismu"><i>antifascismu</i><par n="anarchismu__n"/></e>
+    <e lm="antifascismu" r="LR"><p><l>antifassismu</l><r>antifascismu</r></p><par n="anarchismu__n"/></e>
     <e lm="epicureismu"><i>epicureismu</i><par n="anarchismu__n"/></e>
     <e lm="eclettismu"><i>eclettismu</i><par n="anarchismu__n"/></e>
     <e lm="dadaismu"><i>dadaismu</i><par n="anarchismu__n"/></e>
@@ -5299,10 +5306,13 @@
     <e lm="assolutismu"><i>assolutismu</i><par n="anarchismu__n"/></e>
     <e lm="esperanto"><i>esperanto</i><par n="anarchismu__n"/></e>
     <e lm="capitalismu"><i>capitalismu</i><par n="anarchismu__n"/></e>
+    <e lm="anticapitalismu"><i>anticapitalismu</i><par n="anarchismu__n"/></e>
     <e lm="natzionalismu"><i>na</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
+    <e lm="antinatzionalismu"><i>antina</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
     <e lm="sotzialismu"><i>so</i><par n="tz/z"/><i>ialismu</i><par n="anarchismu__n"/></e>
     <e lm="mecanismu"><i>mecanism</i><par n="mac/u__n"/></e>
     <e lm="comunismu"><i>comunismu</i><par n="anarchismu__n"/></e>
+    <e lm="anticomunismu"><i>anticomunismu</i><par n="anarchismu__n"/></e>
     <e lm="liberalismu"><i>liberalismu</i><par n="anarchismu__n"/></e>
     <e lm="marxismu"><i>marxismu</i><par n="anarchismu__n"/></e>
     <e lm="istalinismu"><i>istalinismu</i><par n="anarchismu__n"/></e>
@@ -6990,7 +7000,7 @@
     <e lm="Alan"><i>Alan</i><par n="Antoni__np"/></e>
     <e lm="Anthony"><i>Anthony</i><par n="Antoni__np"/></e>
     <e lm="Andrea"><i>Andrea</i><par n="Antoni__np"/></e>
-    <e lm="Andrìa"><i>Andr</i><par n="ì/i"/><i>a</i><par n="Antoni__np"/></e>
+    <e lm="Andrìa"><i>Andr</i><par n="ì/i"/><i>a</i><par n="Antoni__np"/></e> <!-- VERIFY -->
 
 
     <e lm="Maria"><i>Maria</i><par n="Maria__np"/></e>
@@ -11253,6 +11263,7 @@
     <e lm="autonomista"><i>autonomista</i><par n="meda__adj"/></e>
     <e lm="autonomista"><i>autonomista</i><par n="dentista__n"/></e>
     <e lm="comunista"><i>comunista</i><par n="meda__adj"/></e>
+    <e lm="anticomunista"><i>anticomunista</i><par n="meda__adj"/></e>
     <e lm="esperantista"><i>esperantista</i><par n="meda__adj"/></e>
     <e lm="egoista"><i>egoista</i><par n="meda__adj"/></e>
     <e lm="egoista"><i>egoista</i><par n="dentista__n"/></e>
@@ -11423,6 +11434,8 @@
 
     <e lm="natzionalista"><i>na</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
     <e lm="natzionalista"><i>na</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
+    <e lm="antinatzionalista"><i>antina</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
+    <e lm="antinatzionalista"><i>antina</i><par n="tz/z"/><i>ionalista</i><par n="dentista__n"/></e>
     <e lm="sotzialista"><i>so</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="sotzialista"><i>so</i><par n="tz/z"/><i>ialista</i><par n="dentista__n"/></e>
 
@@ -11888,7 +11901,7 @@
     <e lm="male`"><i>male</i><par n="guasi__preadv"/></e>
     <e lm="meda`"><i>meda</i><par n="guasi__preadv"/></e>
     <e lm="aici"><i>aici</i><par n="guasi__preadv"/></e>
-
+    <e lm="bastante"><i>bastante</i><par n="guasi__preadv"/></e>
 
     <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
 
@@ -12086,7 +12099,6 @@
     <!--<e lm="pagu prus o mancu"><i>pagu<b/>prus<b/>o<b/>mancu</i><par n="bene__adv"/></e>-->
     <!--<e lm="de prus"><i>de<b/>prus</i><par n="bene__adv"/></e>-->
     <e lm="in prus"><i>in<b/>prus</i><par n="bene__adv"/></e>
-    <!--<e lm="prus pagu"><i>prus<b/>pagu</i><par n="bene__adv"/></e>-->
     <e lm="a su nessi"><i>a<b/>su<b/>nessi</i><par n="bene__adv"/></e>
     <!--<e lm="a su mancu"><i>a<b/>su<b/>mancu</i><par n="bene__adv"/></e>-->
     <e lm="a pustis"><i>a<b/>pustis</i><par n="bene__adv"/></e>
@@ -20533,6 +20545,8 @@
     <e lm="mototziclista"><i>mototziclista</i><par n="dentista__n"/></e>
     <e lm="fascista"><i>fascista</i><par n="dentista__n"/></e>
     <e lm="fascista" r="LR"><p><l>fassista</l><r>fascista</r></p><par n="dentista__n"/></e>
+    <e lm="antifascista"><i>antifascista</i><par n="dentista__n"/></e>
+    <e lm="antifascista" r="LR"><p><l>antifassista</l><r>antifascista</r></p><par n="dentista__n"/></e>
     <e lm="eclettista"><i>eclettista</i><par n="dentista__n"/></e>
     <e lm="dadaista"><i>dadaista</i><par n="dentista__n"/></e>
     <e lm="colonialista"><i>colonialista</i><par n="dentista__n"/></e>
@@ -20611,6 +20625,8 @@
     <e lm="politeista"><i>politeista</i><par n="meda__adj"/></e>
     <e lm="fascista"><i>fascista</i><par n="meda__adj"/></e>
     <e lm="fascista" r="LR"><p><l>fassista</l><r>fascista</r></p><par n="meda__adj"/></e>
+    <e lm="antifascista"><i>antifascista</i><par n="meda__adj"/></e>
+    <e lm="antifascista" r="LR"><p><l>antifassista</l><r>antifascista</r></p><par n="meda__adj"/></e>
     <e lm="eclettista"><i>eclettista</i><par n="meda__adj"/></e>
     <e lm="dadaista"><i>dadaista</i><par n="meda__adj"/></e>
     <e lm="colonialista"><i>colonialista</i><par n="meda__adj"/></e>
@@ -41329,6 +41345,7 @@
     <e lm="reste"><i>reste</i><par n="pane__n"/></e>
     <e lm="resùmene"><i>res</i><par n="ù/u"/><i>mene</i><par n="pane__n"/></e>
     <e lm="resurretzione"><i>resurre</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="insurretzione"><i>insurre</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="rètile"><i>r</i><par n="è/e"/><i>tile</i><par n="pane__n"/></e>
     <e lm="retore"><i>retor</i><par n="traballador/e__n"/></e>
     <e lm="retratadore"><i>retratador</i><par n="traballador/e__n"/></e>
@@ -52957,7 +52974,7 @@
     <e lm="ellus"><i>ellus</i><par n="bene__adv"/></e>
     <e lm="emo"><i>emo</i><par n="bene__adv"/></e>
     <e lm="finas a cando"><i>finas<b/>a<b/>cando</i><par n="chi__cnjsub"/></e>
-    <e lm="finas"><i>finas</i><par n="chi__cnjsub"/></e>
+    <e lm="finas"><i>finas</i><par n="duncas__cnjadv"/></e>
     <e lm="fintzas"><i>fintzas</i><par n="o__cnjcoo"/></e>
     <e lm="francu"><i>francu</i><par n="chi__cnjsub"/></e>
     <e lm="imbetzes"><i>imbetzes</i><par n="o__cnjcoo"/></e>
@@ -52998,6 +53015,10 @@
     <e lm="prus a prestu"><i>prus<b/>a<b/>prestu</i><par n="duncas__cnjadv"/></e>
     <e lm="prus o mancu"><i>prus<b/>o<b/>mancu</i><par n="bene__adv"/></e>
     <e lm="prus pagu"><i>prus<b/>pagu</i><par n="bene__adv"/></e>
+    <e r="LR" lm="prus de"><i>prus<b/>de</i><par n="duncas__cnjadv"/></e> <!-- LSC? -->
+    <e lm="bastante chi"><i>bastante<b/>chi</i><par n="chi__cnjsub"/></e>
+    <e lm="pro"><i>pro</i><par n="chi__cnjsub"/></e>
+
     <e lm="rue·rue"><i>rue·rue</i><par n="bene__adv"/></e>
     <e lm="sende chi"><i>sende<b/>chi</i><par n="chi__cnjsub"/></e>
     <e lm="sende gasi"><i>sende<b/>gasi</i><par n="o__cnjcoo"/></e>
