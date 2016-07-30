@@ -15676,7 +15676,7 @@
     <e lm="fedumeddu"><i>fedumedd</i><par n="mac/u__n"/></e>
     <e lm="feltru"><i>feltr</i><par n="mac/u__n"/></e>
     <e lm="feminàrgiu"><i>femin</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
-    <e lm="feminismu"><i>feminism</i><par n="anarchismu__n"/></e>
+    <e lm="feminismu"><i>feminismu</i><par n="anarchismu__n"/></e>
     <e lm="feminiu"><i>femini</i><par n="mac/u__n"/></e>
     <e lm="fenàrgiu"><i>fen</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
     <e lm="fenàriu"><i>fen</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
@@ -15988,7 +15988,6 @@
     <e lm="futaritzu"><i>futaritz</i><par n="mac/u__n"/></e>
     <e lm="futibentu"><i>futibent</i><par n="mac/u__n"/></e>
     <e lm="futìngiu"><i>fut</i><par n="ì/i"/><i>ngi</i><par n="mac/u__n"/></e>
-    <e lm="futurismu"><i>futurismu</i><par n="anarchismu__n"/></e>
     <e lm="futuru"><i>futur</i><par n="mac/u__n"/></e>
     <e lm="gabbanu"><i>gabban</i><par n="mac/u__n"/></e>
     <e lm="gabbellotu"><i>gabbellot</i><par n="mac/u__n"/></e>
@@ -20656,7 +20655,6 @@
     <e lm="favista"><i>favista</i><par n="dentista__n"/></e>
     <e lm="federalista"><i>federalista</i><par n="dentista__n"/></e>
     <e lm="feminista"><i>feminista</i><par n="dentista__n"/></e>
-    <e lm="futurista"><i>futurista</i><par n="dentista__n"/></e>
     <e lm="germanista"><i>germanista</i><par n="dentista__n"/></e>
     <e lm="gretzista"><i>gretzista</i><par n="dentista__n"/></e>
     <e lm="individualista"><i>individualista</i><par n="dentista__n"/></e>
@@ -20741,7 +20739,6 @@
     <e lm="favista"><i>favista</i><par n="meda__adj"/></e>
     <e lm="federalista"><i>federalista</i><par n="meda__adj"/></e>
     <e lm="feminista"><i>feminista</i><par n="meda__adj"/></e>
-    <e lm="futurista"><i>futurista</i><par n="meda__adj"/></e>
     <e lm="germanista"><i>germanista</i><par n="meda__adj"/></e>
     <e lm="gretzista"><i>gretzista</i><par n="meda__adj"/></e>
     <e lm="individualista"><i>individualista</i><par n="meda__adj"/></e>
@@ -31767,7 +31764,6 @@
     <e lm="feminàgia"><i>femin</i><par n="à/a"/><i>gia</i><par n="mesa__n"/></e>
     <e lm="feminalla"><i>feminalla</i><par n="mesa__n"/></e>
     <e lm="feminedda"><i>feminedda</i><par n="mesa__n"/></e>
-    <e lm="feminismu"><i>feminismu</i><par n="anarchismu__n"/></e>
     <e lm="fenu"><i>fen</i><par n="mac/u__n"/></e>
     <e lm="fenugrada"><i>fenugrada</i><par n="mesa__n"/></e>
     <e lm="feonzu"><i>feonz</i><par n="mac/u__n"/></e>
