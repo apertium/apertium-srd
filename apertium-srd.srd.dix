@@ -5007,7 +5007,6 @@
     <e lm="fabricatzione"><i>fabrica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="esploratzione"><i>esplora</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="emotzione"><i>emo</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="emanatzione"><i>emanatzion</i><par n="region/e__n"/></e>
     <e lm="elaboratzione"><i>elabora</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="educatzione"><i>educa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 
@@ -5024,7 +5023,6 @@
     <e lm="cunfetzione"><par n="cun/con"/><i>fe</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="creatzione"><i>crea</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="convintzione"><i>convin</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-    <e lm="contratzione"><i>contratzion</i><par n="region/e__n"/></e>
     <e lm="consultatzione"><i>consulta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 
     <e lm="costrutzione"><i>costru</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -5231,12 +5229,18 @@
     <e lm="maoista"><i>maoista</i><par n="meda__adj"/></e>
     <e lm="istalinista"><i>istalinista</i><par n="dentista__n"/></e>
     <e lm="istalinista"><i>istalinista</i><par n="meda__adj"/></e>
+    <e lm="patzificadore"><i>pa</i><par n="tz/c"/><i>ificador</i><par n="cunservador/e__adj"/></e>
+    <e lm="patzificadore"><i>pa</i><par n="tz/c"/><i>ificador</i><par n="traballador/e__n"/></e>
     <e lm="patzifista"><i>pa</i><par n="tz/c"/><i>ifista</i><par n="dentista__n"/></e>
     <e lm="patzifista"><i>pa</i><par n="tz/c"/><i>ifista</i><par n="meda__adj"/></e>
     <e lm="patzifismu"><i>pa</i><par n="tz/c"/><i>ifismu</i><par n="anarchismu__n"/></e>
     <e lm="riformista"><i>riformista</i><par n="dentista__n"/></e>
     <e lm="riformista"><i>riformista</i><par n="meda__adj"/></e>
     <e lm="riformismu"><i>riformismu</i><par n="anarchismu__n"/></e>
+    <e lm="darwinista"><i>darwinista</i><par n="dentista__n"/></e>
+    <e lm="darwinista"><i>darwinista</i><par n="meda__adj"/></e>
+    <e lm="darwinismu"><i>darwinismu</i><par n="anarchismu__n"/></e>
+    <e lm="darwinianu"><i>darwinian</i><par n="frantzes/u__adj"/></e>
     <e lm="marxista"><i>marxista</i><par n="dentista__n"/></e>
     <e lm="marxista"><i>marxista</i><par n="meda__adj"/></e>
     <e lm="marxismu"><i>marxismu</i><par n="anarchismu__n"/></e>
@@ -5247,6 +5251,7 @@
 
     <e lm="emigrante"><i>emigrant</i><par n="albanes/e__n"/></e>
     <e lm="protestante"><i>protestant</i><par n="albanes/e__n"/></e>
+    <e lm="protestante"><i>protestantismu</i><par n="anarchismu__n"/></e>
     <e lm="abitante"><i>abitant</i><par n="albanes/e__n"/></e>
     <e lm="cantante"><i>cantant</i><par n="albanes/e__n"/></e>
     <e lm="campione"><i>campion</i><par n="cont/e__n"/></e>
@@ -5259,6 +5264,7 @@
     <e lm="attivismu" r="LR"><p><l>attivismu</l><r>ativismu</r></p><par n="anarchismu__n"/></e>
     <e lm="terrorista"><i>terrorista</i><par n="dentista__n"/></e>
     <e lm="terrorista"><i>terrorista</i><par n="meda__adj"/></e>
+    <e lm="antiterrorista"><i>antiterrorista</i><par n="meda__adj"/></e>
     <e lm="dentista"><i>dentista</i><par n="dentista__n"/></e>
     <e lm="chitarrista"><i>chitarrista</i><par n="dentista__n"/></e>
     <e lm="artista"><i>artista</i><par n="dentista__n"/></e>
@@ -10977,8 +10983,10 @@
     <e lm="albanese"><i>albanes</i><par n="fàtzil/e__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
     <e lm="albanese" r="LR"><p><l>arbanes</l><r>albanes</r></p><par n="fàtzil/e__adj"/></e>	<!-- CROS reconoce sólo albanes- -->
     <e lm="italianu"><i>italian</i><par n="frantzes/u__adj"/></e>
+    <e lm="antiitalianu"><i>antiitalian</i><par n="frantzes/u__adj"/></e>
     <e lm="latinu"><i>latin</i><par n="frantzes/u__adj"/></e>
     <e lm="sardu"><i>sard</i><par n="frantzes/u__adj"/></e>
+    <e lm="antisardu"><i>antisard</i><par n="frantzes/u__adj"/></e>
     <e lm="castiglianu"><i>castiglian</i><par n="frantzes/u__adj"/></e>
     <e lm="ispagnolu"><i>ispagnol</i><par n="frantzes/u__adj"/></e>
     <e lm="ispagnolu" r="LR"><p><l>ispannol</l><r>ispagnol</r></p><par n="frantzes/u__adj"/></e>
@@ -12413,8 +12421,8 @@
     <e lm="influentzare"><i>influentz</i><par n="cant/are__vblex"/></e>
     <e lm="italianizare"><i>italianiz</i><par n="cant/are__vblex"/></e>
     <e lm="italianizatzione"><i>italianizatzion</i><par n="region/e__n"/></e>
-    <e lm="italianista"><i>italianist</i><par n="dentista__n"/></e>
-    <e lm="italianista"><i>italianist</i><par n="meda__adj"/></e>
+    <e lm="italianista"><i>italianista</i><par n="dentista__n"/></e>
+    <e lm="italianista"><i>italianista</i><par n="meda__adj"/></e>
     <e lm="italianidade"><i>italianidad</i><par n="region/e__n"/></e>
     <e lm="preoccupare"><i>preoccup</i><par n="cant/are__vblex"/></e>
     <e lm="ispirare"><i>ispir</i><par n="cant/are__vblex"/></e>
@@ -17572,6 +17580,7 @@
     <e lm="materàrgiu"><i>mater</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
     <e lm="materatzu"><i>materatz</i><par n="mac/u__n"/></e>
     <e lm="materialismu"><i>materialismu</i><par n="anarchismu__n"/></e>
+    <e lm="idealismu"><i>idealismu</i><par n="anarchismu__n"/></e>
     <e lm="materiatzu"><i>materiatz</i><par n="mac/u__n"/></e>
     <e lm="matonaju"><i>matonaj</i><par n="mac/u__n"/></e>
     <e lm="matrimòniu"><i>matrim</i><par n="ò/o"/><i>ni</i><par n="mac/u__n"/></e>
@@ -19296,6 +19305,7 @@
     <e lm="sarau"><i>sara</i><par n="mac/u__n"/></e>
     <e lm="sarcòfagu"><i>sarc</i><par n="ò/o"/><i>fag</i><par n="mac/u__n"/></e>
     <e lm="sardismu"><i>sardism</i><par n="mac/u__n"/></e>
+    <e lm="antisardismu"><i>antisardism</i><par n="mac/u__n"/></e>
     <e lm="sarmentu"><i>sarment</i><par n="mac/u__n"/></e>
     <e lm="sartafenu"><i>sartafen</i><par n="mac/u__n"/></e>
     <e lm="sartamentu"><i>sartament</i><par n="mac/u__n"/></e>
@@ -20636,6 +20646,7 @@
     <e lm="integrista"><i>integrista</i><par n="dentista__n"/></e>
     <e lm="integralista"><i>integralista</i><par n="dentista__n"/></e>
     <e lm="irredentista"><i>irredentista</i><par n="dentista__n"/></e>
+    <e lm="irredentista"><i>irredentista</i><par n="meda__adj"/></e>
     <e lm="ispagnolista"><i>ispagnolista</i><par n="dentista__n"/></e>
     <e lm="ispiritista"><i>ispiritista</i><par n="dentista__n"/></e>
     <e lm="latinista"><i>latinista</i><par n="dentista__n"/></e>
@@ -20651,6 +20662,7 @@
     <e lm="propagandista"><i>propagandista</i><par n="dentista__n"/></e>
     <e lm="regionalista"><i>regionalista</i><par n="dentista__n"/></e>
     <e lm="sardista"><i>sardista</i><par n="dentista__n"/></e>
+    <e lm="antisardismu"><i>antisardism</i><par n="mac/u__n"/></e>
     <e lm="sentimentalista"><i>sentimentalista</i><par n="dentista__n"/></e>
     <e lm="separatista"><i>separatista</i><par n="dentista__n"/></e>
     <e lm="sugetivista"><i>sugetivista</i><par n="dentista__n"/></e>
@@ -20735,6 +20747,7 @@
     <e lm="propagandista"><i>propagandista</i><par n="meda__adj"/></e>
     <e lm="regionalista"><i>regionalista</i><par n="meda__adj"/></e>
     <e lm="sardista"><i>sardista</i><par n="meda__adj"/></e>
+    <e lm="antisardista"><i>antisardista</i><par n="meda__adj"/></e>
     <e lm="sentimentalista"><i>sentimentalista</i><par n="meda__adj"/></e>
     <e lm="separatista"><i>separatista</i><par n="meda__adj"/></e>
     <e lm="sugetivista"><i>sugetivista</i><par n="meda__adj"/></e>
@@ -23973,7 +23986,7 @@
     <e lm="cagare"><i>cag</i><par n="seg/are__vblex"/></e>
     <e lm="calificare"><i>calific</i><par n="seg/are__vblex"/></e>
     <e lm="istratificare"><i>istratific</i><par n="seg/are__vblex"/></e>
-    <e lm="stratificare"><p><l>stratific</l><r>istratific</r></p><par n="seg/are__vblex"/></e>
+    <e r="LR" lm="stratificare"><p><l>stratific</l><r>istratific</r></p><par n="seg/are__vblex"/></e>
     <e lm="carcare"><i>carc</i><par n="seg/are__vblex"/></e>
     <e lm="carcigare"><i>carcig</i><par n="seg/are__vblex"/></e>
     <e lm="carellare"><i>carell</i><par n="seg/are__vblex"/></e>
@@ -32639,9 +32652,10 @@
     <e lm="guturia"><i>guturia</i><par n="mesa__n"/></e>
     <e lm="iconografia"><i>iconografia</i><par n="mesa__n"/></e>
     <e lm="idealista"><i>idealista</i><par n="dentista__n"/></e>
+    <e lm="idealista"><i>idealista</i><par n="meda__adj"/></e>
     <e lm="idioma"><i>idioma</i><par n="pane__n"/></e>
     <e lm="idiosincrasia"><i>idiosincrasia</i><par n="mesa__n"/></e>
-    <e lm="idolatra"><i>idolatra</i><par n="mesa__n"/></e>
+    <e lm="idolatra"><i>idolatra</i><par n="dentista__n"/></e>
     <e lm="idolatria"><i>idolatria</i><par n="mesa__n"/></e>
     <e lm="idrofilia"><i>idrofilia</i><par n="mesa__n"/></e>
     <e lm="ignoràntzia"><i>ignor</i><par n="import/àntzia__n"/></e>
@@ -38624,7 +38638,7 @@
     <e lm="ambasciadore"><i>ambasciador</i><par n="traballador/e__n"/></e>
     <e lm="ambitzione"><i>ambi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ambulante"><i>ambulant</i><par n="fàtzil/e__adj"/></e>
-    <e lm="ambulante"><i>ambulant</i><par n="dentista__n"/></e>
+    <e lm="ambulante"><i>ambulante</i><par n="dentista__n"/></e>
     <e lm="amenidade"><i>amenidad</i><par n="region/e__n"/></e>
     <e lm="amore"><i>amore</i><par n="pane__n"/></e>
     <e lm="anade"><i>anade</i><par n="pane__n"/></e>
@@ -39825,7 +39839,6 @@
      <e lm="interprete"><i>interpret</i><par n="albanes/e__n"/></e>
     <e lm="natzionalitàriu"><i>na</i><par n="tz/z"/><i>ionalitàri</i><par n="amig/u__n"/></e>
      <e lm="parente"><i>parent</i><par n="albanes/e__n"/></e>
-     <e lm="patzifista"><i>patzifista</i><par n="dentista__n"/></e>
      <e lm="portaboghe"><i>portabogh</i><par n="albanes/e__n"/></e>
      <e lm="presente"><i>present</i><par n="albanes/e__n"/></e> 
      <e lm="referendu"><i>referend</i><par n="mac/u__n"/></e>
@@ -43083,8 +43096,6 @@
     <e lm="paternale"><i>paternal</i><par n="fàtzil/e__adj"/></e>
     <e lm="patriarcale"><i>patriarcal</i><par n="fàtzil/e__adj"/></e>
     <e lm="patrimoniale"><i>patrimonial</i><par n="fàtzil/e__adj"/></e>
-    <e lm="patzificadore"><i>patzificador</i><par n="fàtzil/e__adj"/></e>
-    <e lm="patzifista"><i>patzifista</i><par n="meda__adj"/></e>
     <e lm="peculiare"><i>peculiar</i><par n="fàtzil/e__adj"/></e>
     <e lm="pedonale"><i>pedonal</i><par n="fàtzil/e__adj"/></e>
     <e lm="pedrale"><i>pedral</i><par n="fàtzil/e__adj"/></e>
@@ -47328,6 +47339,7 @@
     <e lm="isvìtzeru"><i>isv</i><par n="ì/i"/><i>tzer</i><par n="frantzes/u__adj"/></e>
     <e lm="isvoradu"><i>isvorad</i><par n="frantzes/u__adj"/></e>
     <e lm="italianismu"><i>italianism</i><par n="mac/u__n"/></e>
+    <e lm="antiitalianismu"><i>antiitalianism</i><par n="mac/u__n"/></e>
     <e lm="italianizadu"><i>italianizad</i><par n="frantzes/u__adj"/></e>
     <e lm="itàlicu"><i>it</i><par n="à/a"/><i>li</i><par n="linguìsti/cu__adj"/></e>
     <e lm="italòfonu"><i>ital</i><par n="ò/o"/><i>fon</i><par n="frantzes/u__adj"/></e>
@@ -47341,6 +47353,7 @@
     <e lm="iugoslavu"><i>iugoslav</i><par n="amig/u__n"/></e>
     <e lm="jersesu"><i>jerses</i><par n="frantzes/u__adj"/></e>
     <e lm="kazacu"><i>kaza</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="kazacu"><i>kazac</i><par n="amig/u__n"/></e>
     <e lm="labadu"><i>labad</i><par n="frantzes/u__adj"/></e>
     <e lm="labbiosu"><i>labbios</i><par n="frantzes/u__adj"/></e>
     <e lm="labreddiosu"><i>labreddios</i><par n="frantzes/u__adj"/></e>
