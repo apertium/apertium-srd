@@ -5141,11 +5141,9 @@
     <e lm="pestilèntzia"><i>pestil</i><par n="difer/èntzia__n"/></e>
     <e lm="residèntzia"><i>resid</i><par n="difer/èntzia__n"/></e>
     <e lm="provìntzia"><i>prov</i><par n="ì/i"/><i>ntzia</i><par n="mesa__n"/></e>
-    <e lm="provìntzia" r="LR"><p><l>provintzia</l><r>provìntzia</r></p><par n="mesa__n"/></e>
     <e lm="provìntzia" r="LR"><p><l>provìncia</l><r>provìntzia</r></p><par n="mesa__n"/></e>
     <e lm="provìntzia" r="LR"><p><l>provincia</l><r>provìntzia</r></p><par n="mesa__n"/></e>
     <e lm="linguìstica"><i>lingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/ca__n"/></e>
-    <e lm="linguìstica" r="LR"><p><l>linguisti</l><r>linguìsti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="terra"><i>terra</i><par n="mesa__n"/></e>
     <e lm="bidda"><i>bidda</i><par n="mesa__n"/></e>
     <e lm="teoria"><i>teoria</i><par n="mesa__n"/></e>
@@ -5241,6 +5239,20 @@
     <e lm="darwinista"><i>darwinista</i><par n="meda__adj"/></e>
     <e lm="darwinismu"><i>darwinismu</i><par n="anarchismu__n"/></e>
     <e lm="darwinianu"><i>darwinian</i><par n="frantzes/u__adj"/></e>
+    <e lm="impressionista"><i>impressionista</i><par n="dentista__n"/></e>
+    <e lm="impressionista"><i>impressionista</i><par n="meda__adj"/></e>
+    <e lm="impressionismu"><i>impressionismu</i><par n="anarchismu__n"/></e>
+    <e lm="cubista"><i>cubista</i><par n="dentista__n"/></e>
+    <e lm="cubista"><i>cubista</i><par n="meda__adj"/></e>
+    <e lm="cubismu"><i>cubismu</i><par n="anarchismu__n"/></e>
+    <e lm="surrealista"><i>surrealista</i><par n="dentista__n"/></e>
+    <e lm="surrealista"><i>surrealista</i><par n="meda__adj"/></e>
+    <e lm="surrealismu"><i>surrealismu</i><par n="anarchismu__n"/></e>
+    <e lm="surrealìsticu"><i>surrealìsti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="futurista"><i>futurista</i><par n="dentista__n"/></e>
+    <e lm="futurista"><i>futurista</i><par n="meda__adj"/></e>
+    <e lm="futurismu"><i>futurismu</i><par n="anarchismu__n"/></e>
+    <e lm="futurìsticu"><i>futurìstic</i><par n="frantzes/u__adj"/></e>
     <e lm="marxista"><i>marxista</i><par n="dentista__n"/></e>
     <e lm="marxista"><i>marxista</i><par n="meda__adj"/></e>
     <e lm="marxismu"><i>marxismu</i><par n="anarchismu__n"/></e>
@@ -6709,6 +6721,7 @@
     <e lm="Bretagna Manna"><i>Bretagna<b/>Manna</i><par n="Etiòpia__np"/></e>
 
 
+    <e lm="Bruxelles "><i>Bruxelles </i><par n="Afganistàn__np"/></e>
     <e lm="Àrbus"><i>Àrbus</i><par n="Afganistàn__np"/></e>
     <e lm="Barùmini"><i>Bar</i><par n="ù/u"/><i>mini</i><par n="Afganistàn__np"/></e>
     <e lm="Forru"><i>Forru</i><par n="Afganistàn__np"/></e>
@@ -7161,7 +7174,7 @@
 
     <e lm="Linux"><i>Linux</i><par n="Linux__np"/></e>
     <e lm="Dalai Lama"><i>Dalai<b/>Lama</i><par n="Linux__np"/></e>
-    <e lm="Cristu"><i>Cristu</i><par n="Linux__np"/></e>
+    <e lm="Cristu"><i>Cristu</i><par n="Antoni__np"/></e>
     <e lm="Zeus"><i>Zeus</i><par n="Linux__np"/></e>
     <e lm="Ford"><i>Ford</i><par n="Linux__np"/></e>
     <e lm="Life"><i>Life</i><par n="Linux__np"/></e>
@@ -11297,7 +11310,8 @@
     <e lm="iscientìficu" r="LR"><p><l>sientìfi</l><r>iscientìfi</r></p><par n="linguìsti/cu__adj"/></e>
 
     <e lm="linguìsticu"><i>lingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="linguìsticu" r="LR"><p><l>linguisti</l><r>linguìsti</r></p><par n="linguìsti/cu__adj"/></e>
+    <e lm="psicolinguìsticu"><i>psicolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="neurolinguìsticu"><i>neurolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
 
     <!--<e lm="banduleri"><i>banduler</i><par n="banduler/i__adj"/></e>-->
 
@@ -17614,6 +17628,8 @@
     <e lm="mediuevu"><i>mediuev</i><par n="mac/u__n"/></e>
     <e lm="megàfonu"><i>meg</i><par n="à/a"/><i>fon</i><par n="mac/u__n"/></e>
     <e lm="megalitismu"><i>megalitismu</i><par n="anarchismu__n"/></e>
+    <e lm="megalitu"><i>megalit</i><par n="mac/u__n"/></e>
+    <e lm="megalìticu"><i>megalìti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="megioramentu"><i>megiorament</i><par n="mac/u__n"/></e>
     <e lm="megioru"><i>megior</i><par n="mac/u__n"/></e>
     <e lm="meigadu"><i>meigad</i><par n="amig/u__n"/></e>
@@ -20609,6 +20625,7 @@
     <e lm="antifascista" r="LR"><p><l>antifassista</l><r>antifascista</r></p><par n="dentista__n"/></e>
     <e lm="eclettista"><i>eclettista</i><par n="dentista__n"/></e>
     <e lm="dadaista"><i>dadaista</i><par n="dentista__n"/></e>
+    <e lm="dadaista"><i>dadaista</i><par n="meda__adj"/></e>
     <e lm="colonialista"><i>colonialista</i><par n="dentista__n"/></e>
     <e lm="assolutista"><i>assolutista</i><par n="dentista__n"/></e>
     <e lm="liberalista"><i>liberalista</i><par n="dentista__n"/></e>
@@ -33848,6 +33865,7 @@
     <e lm="linghidura"><i>linghidura</i><par n="mesa__n"/></e>
     <e lm="lìngia"><i>l</i><par n="ì/i"/><i>ngia</i><par n="mesa__n"/></e>
     <e lm="linguista"><i>linguista</i><par n="dentista__n"/></e>
+    <e lm="psicolinguista"><i>psicolinguista</i><par n="dentista__n"/></e>
     <e lm="liniedda"><i>liniedda</i><par n="mesa__n"/></e>
     <e lm="linna"><i>linna</i><par n="mesa__n"/></e>
     <e lm="linnarba"><i>linnarba</i><par n="mesa__n"/></e>
@@ -46783,6 +46801,9 @@
     <e lm="iscènicu"><i>isc</i><par n="è/e"/><i>ni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="iscertedderi"><i>iscertedder</i><par n="banduler/i__adj"/></e>
     <e lm="iscèticu"><i>isc</i><par n="è/e"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="euroiscèticu"><i>euroisc</i><par n="è/e"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="iscèticismu"><i>isc</i><par n="è/e"/><i>ticismu</i><par n="anarchismu__n"/></e>
+    <e lm="euroiscèticismu"><i>euroisc</i><par n="è/e"/><i>ticismu</i><par n="anarchismu__n"/></e>
     <e lm="iscetosu"><i>iscetos</i><par n="frantzes/u__adj"/></e>
     <e lm="ischemàticu"><i>ischem</i><par n="à/a"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="ischerbeddadu"><i>ischerbeddad</i><par n="frantzes/u__adj"/></e>
@@ -50722,6 +50743,7 @@
     <e lm="valdostanu"><i>valdostan</i><par n="frantzes/u__adj"/></e>
     <e lm="valentone"><i>valenton</i><par n="cunservador/e__adj"/></e>
     <e lm="valentzianu"><i>valentzian</i><par n="frantzes/u__adj"/></e>
+    <e lm="valentzianu"><i>valentzian</i><par n="amig/u__n"/></e>
     <e lm="vàlidu"><i>v</i><par n="à/a"/><i>lid</i><par n="frantzes/u__adj"/></e>
     <e lm="vanareddu"><i>vanaredd</i><par n="frantzes/u__adj"/></e>
     <e lm="vandàlicu"><i>vand</i><par n="à/a"/><i>li</i><par n="linguìsti/cu__adj"/></e>
@@ -53922,6 +53944,13 @@
     <e lm="Apenninos"><i>Apenninos</i><par n="Istados_Unidos__np"/></e>
     <e lm="Apenninu"><i>Apenninu</i><par n="Afganistàn__np"/></e>
     <e lm="asteròide"><i>asteròide</i><par n="pane__n"/></e>
+    <e lm="rock"><i>rock</i><par n="anarchismu__n"/></e>
+    <e lm="punk"><i>punk</i><par n="anarchismu__n"/></e>
+    <e lm="jazz"><i>jazz</i><par n="anarchismu__n"/></e>
+    <e lm="rugby"><i>rugby</i><par n="anarchismu__n"/></e>
+    <e lm="basketball"><i>basketball</i><par n="anarchismu__n"/></e>
+    <e lm="football"><i>football</i><par n="anarchismu__n"/></e>
+    <e lm="baseball"><i>baseball</i><par n="anarchismu__n"/></e>
 
   </section>
 
