@@ -23683,6 +23683,7 @@
     <e lm="torrare"><i>torr</i><par n="cant/are__vblex"/></e>
     <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
     <e lm="torrare a nàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>nàrrere</l><r><g><b/>a<b/>nàrrere</g></r></p></e>
+    <e lm="torrare a comintzare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>comintzare</l><r><g><b/>a<b/>comintzare</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -48395,6 +48396,7 @@
     <e lm="naposu"><i>napos</i><par n="frantzes/u__adj"/></e>
     <e lm="narabuiesu"><i>narabuies</i><par n="frantzes/u__adj"/></e>
     <e lm="naradu"><i>narad</i><par n="frantzes/u__adj"/></e>
+    <e r="RL" lm="gai naradu"><i>gai<b/>narad</i><par n="frantzes/u__adj"/></e>
     <e lm="narbonàrgiu"><i>narbon</i><par n="à/a"/><i>rgi</i><par n="frantzes/u__adj"/></e>
     <e lm="narcaresu"><i>narcares</i><par n="frantzes/u__adj"/></e>
     <e lm="narcòticu"><i>narc</i><par n="ò/o"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
@@ -53947,6 +53949,9 @@
     <e lm="basketball"><i>basketball</i><par n="anarchismu__n"/></e>
     <e lm="football"><i>football</i><par n="anarchismu__n"/></e>
     <e lm="baseball"><i>baseball</i><par n="anarchismu__n"/></e>
+
+    <e lm="reconnoschìbile"><i>reconnosch</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
+    <e lm="Buenos Aires"><i>Buenos<b/>Aires</i><par n="Afganistàn__np"/></e>
 
   </section>
 
