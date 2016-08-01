@@ -4981,7 +4981,6 @@
     <e lm="ocupatzione"><i>ocupatzion</i><par n="region/e__n"/></e>
     <e lm="numeratzione"><i>numera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="notatzione"><i>notatzion</i><par n="region/e__n"/></e>
-    <e lm="manifestatzione"><i>manifestatzion</i><par n="region/e__n"/></e>
     <e lm="violatzione"><i>viola</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunventzione"><par n="cun/con"/><i>ven</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cunvintzione" r="LR"><p><l>cunvintzione</l><r>cunventzione</r></p><par n="mesa__n"/></e>
@@ -13380,7 +13379,8 @@
     <e lm="ammassu"><i>ammass</i><par n="mac/u__n"/></e>
     <e lm="ammentu"><i>amment</i><par n="mac/u__n"/></e>
     <e lm="ammeru"><i>ammer</i><par n="mac/u__n"/></e>
-    <e lm="ammiràlliu"><i>ammir</i><par n="à/a"/><i>lli</i><par n="mac/u__n"/></e>
+    <e lm="ammiràlliu"><i>ammir</i><par n="à/a"/><i>lli</i><par n="amig/u__n"/></e>
+    <e lm="vitzeammiràlliu"><i>vitzeammir</i><par n="à/a"/><i>lli</i><par n="amig/u__n"/></e>
     <e lm="ammiru"><i>ammir</i><par n="mac/u__n"/></e>
     <e lm="ammisturamentu"><i>ammisturament</i><par n="mac/u__n"/></e>
     <e lm="ammoddigamentu"><i>ammoddigament</i><par n="mac/u__n"/></e>
@@ -14709,7 +14709,7 @@
     <e lm="contrafusu"><i>contrafus</i><par n="mac/u__n"/></e>
     <e lm="contragèniu"><i>contrag</i><par n="è/e"/><i>ni</i><par n="mac/u__n"/></e>
     <e lm="contraltu"><i>contralt</i><par n="mac/u__n"/></e>
-    <e lm="contrammiràlliu"><i>contrammir</i><par n="à/a"/><i>lli</i><par n="mac/u__n"/></e>
+    <e lm="contrammiràlliu"><i>contrammir</i><par n="à/a"/><i>lli</i><par n="amig/u__n"/></e>
     <e lm="contramuru"><i>contramur</i><par n="mac/u__n"/></e>
     <e lm="contrapassu"><i>contrapass</i><par n="mac/u__n"/></e>
     <e lm="contrapellu"><i>contrapell</i><par n="mac/u__n"/></e>
