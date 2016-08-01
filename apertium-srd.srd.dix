@@ -4108,7 +4108,13 @@
     <e lm="impressadore"><i>impressadore</i><par n="pane__n"/></e>
     <e lm="compiladore"><i>compilador</i><par n="traballador/e__n"/></e>
     <e lm="pensadore"><i>pensador</i><par n="traballador/e__n"/></e>
-    <e lm="presidente"><i>presidente</i><par n="pane__n"/></e>
+    <e lm="presidente"><i>president</i><par n="traballador/e__n"/></e>
+    <e lm="copresidente"><i>copresident</i><par n="traballador/e__n"/></e>
+    <e lm="neopresidente"><i>neopresident</i><par n="traballador/e__n"/></e>
+    <e lm="vitzepresidente"><i>vi</i><par n="tz/c"/><i>epresident</i><par n="traballador/e__n"/></e>
+    <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="dentista__n"/></e>
+    <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
+    <e lm="semipresidentzialista"><i>semipresiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="dischente"><i>dischent</i><par n="albanes/e__n"/></e>
 
     <e lm="dovere"><i>dovere</i><par n="pane__n"/></e>
@@ -5240,9 +5246,9 @@
     <e lm="cubista"><i>cubista</i><par n="dentista__n"/></e>
     <e lm="cubista"><i>cubista</i><par n="meda__adj"/></e>
     <e lm="cubismu"><i>cubismu</i><par n="anarchismu__n"/></e>
-    <e lm="surrealista"><i>surrealista</i><par n="dentista__n"/></e>
-    <e lm="surrealista"><i>surrealista</i><par n="meda__adj"/></e>
-    <e lm="surrealismu"><i>surrealismu</i><par n="anarchismu__n"/></e>
+    <e lm="neorealista"><i>neorealista</i><par n="dentista__n"/></e>
+    <e lm="neorealista"><i>neorealista</i><par n="meda__adj"/></e>
+    <e lm="neorealismu"><i>neorealismu</i><par n="anarchismu__n"/></e>
     <e lm="surrealìsticu"><i>surrealìsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="futurista"><i>futurista</i><par n="dentista__n"/></e>
     <e lm="futurista"><i>futurista</i><par n="meda__adj"/></e>
@@ -6287,7 +6293,7 @@
     <e lm="fitianu"><i>fitian</i><par n="mac/u__n"/></e>
     <e lm="foranu"><i>foran</i><par n="mac/u__n"/></e>
     <e lm="fortzadu"><i>fortzad</i><par n="amig/u__n"/></e>
-    <e lm="francu"><i>franc</i><par n="mac/u__n"/></e>
+    <e lm="francu"><i>franc</i><par n="amig/u__n"/></e>
     <e lm="frase"><i>fras</i><par n="region/e__n"/></e>
     <e lm="fritu"><i>frit</i><par n="mac/u__n"/></e>
     <e lm="frode"><i>frod</i><par n="region/e__n"/></e>
@@ -11637,7 +11643,9 @@
     <e lm="politicante"><i>politicant</i><par n="fàtzil/e__adj"/></e>
     <e lm="preesistente"><i>preesistent</i><par n="fàtzil/e__adj"/></e>
     <e lm="preliminare"><i>preliminar</i><par n="fàtzil/e__adj"/></e>
-    <e lm="presidentziale"><i>presidentzial</i><par n="fàtzil/e__adj"/></e>
+    <e lm="presidentziale"><i>presiden</i><par n="tz/z"/><i>ial</i><par n="fàtzil/e__adj"/></e>
+    <e lm="semipresidentziale"><i>semipresiden</i><par n="tz/z"/><i>ial</i><par n="fàtzil/e__adj"/></e>
+    <e lm="vitzepresidentziale"><i>vi</i><par n="tz/c"/><i>epresiden</i><par n="tz/z"/><i>ial</i><par n="fàtzil/e__adj"/></e>
     <e lm="previdìbile"><i>previd</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="proponìbile"><i>propon</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="prorogàbile"><i>prorog</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
@@ -13886,7 +13894,7 @@
     <e lm="buratinu"><i>buratin</i><par n="mac/u__n"/></e>
     <e lm="burdellu"><i>burdell</i><par n="mac/u__n"/></e>
     <e lm="burgu"><i>burg</i><par n="mac/u__n"/></e>
-    <e lm="burocratesu"><i>burocrates</i><par n="mac/u__n"/></e>
+    <e lm="burocratesu"><i>burocrates</i><par n="amig/u__n"/></e>
     <e lm="buròcratu"><i>bur</i><par n="ò/o"/><i>crat</i><par n="mac/u__n"/></e>
     <e lm="burtzu"><i>burtz</i><par n="mac/u__n"/></e>
     <e lm="buscu"><i>busc</i><par n="mac/u__n"/></e>
@@ -14034,7 +14042,7 @@
     <e lm="campionadu"><i>campionad</i><par n="amig/u__n"/></e>
     <e lm="campionamentu"><i>campionament</i><par n="mac/u__n"/></e>
     <e lm="campionàrgiu"><i>campion</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
-    <e lm="campionu"><i>campion</i><par n="mac/u__n"/></e>
+    <e lm="campionu"><i>campion</i><par n="amig/u__n"/></e>
     <e lm="campòngiu"><i>camp</i><par n="ò/o"/><i>ngi</i><par n="mac/u__n"/></e>
     <e lm="campulinu"><i>campulin</i><par n="mac/u__n"/></e>
     <e lm="campusantu"><i>campusant</i><par n="mac/u__n"/></e>
@@ -18792,7 +18800,8 @@
     <e lm="presèpiu"><i>pres</i><par n="è/e"/><i>pi</i><par n="mac/u__n"/></e>
     <e lm="preservativu"><i>preservativ</i><par n="mac/u__n"/></e>
     <e lm="presetu"><i>preset</i><par n="mac/u__n"/></e>
-    <e lm="presidentzialismu"><i>presidentzialismu</i><par n="anarchismu__n"/></e>
+    <e lm="presidentzialismu"><i>presiden</i><par n="tz/z"/><i>ialismu</i><par n="anarchismu__n"/></e>
+    <e lm="semipresidentzialismu"><i>semipresiden</i><par n="tz/z"/><i>ialismu</i><par n="anarchismu__n"/></e>
     <e lm="presìdiu"><i>pres</i><par n="ì/i"/><i>di</i><par n="mac/u__n"/></e>
     <e lm="presòrgiu"><i>pres</i><par n="ò/o"/><i>rgi</i><par n="mac/u__n"/></e>
     <e lm="prestamentu"><i>prestament</i><par n="mac/u__n"/></e>
@@ -20668,7 +20677,7 @@
     <e lm="nominalista"><i>nominalista</i><par n="dentista__n"/></e>
     <e lm="panteista"><i>panteista</i><par n="dentista__n"/></e>
     <e lm="pluralista"><i>pluralista</i><par n="dentista__n"/></e>
-    <e lm="presidentzialista"><i>presidentzialista</i><par n="dentista__n"/></e>
+    <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="dentista__n"/></e>
     <e lm="propagandista"><i>propagandista</i><par n="dentista__n"/></e>
     <e lm="regionalista"><i>regionalista</i><par n="dentista__n"/></e>
     <e lm="sardista"><i>sardista</i><par n="dentista__n"/></e>
@@ -20752,7 +20761,8 @@
     <e lm="organista"><i>organista</i><par n="meda__adj"/></e>
     <e lm="panteista"><i>panteista</i><par n="meda__adj"/></e>
     <e lm="pluralista"><i>pluralista</i><par n="meda__adj"/></e>
-    <e lm="presidentzialista"><i>presidentzialista</i><par n="meda__adj"/></e>
+    <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
+    <e lm="semipresidentzialista"><i>semipresiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="propagandista"><i>propagandista</i><par n="meda__adj"/></e>
     <e lm="regionalista"><i>regionalista</i><par n="meda__adj"/></e>
     <e lm="sardista"><i>sardista</i><par n="meda__adj"/></e>
@@ -36175,7 +36185,7 @@
     <e lm="provadura"><i>provadura</i><par n="mesa__n"/></e>
     <e lm="providèntzia"><i>provid</i><par n="difer/èntzia__n"/></e>
     <e lm="provintziedda"><i>provintziedda</i><par n="mesa__n"/></e>
-    <e lm="provista"><i>provista</i><par n="dentista__n"/></e>
+    <e lm="provista"><i>provista</i><par n="mesa__n"/></e>
     <e lm="prua"><i>prua</i><par n="mesa__n"/></e>
     <e lm="prudda"><i>prudda</i><par n="mesa__n"/></e>
     <e lm="prudèntzia"><i>prud</i><par n="difer/èntzia__n"/></e>
@@ -38596,7 +38606,7 @@
     <e lm="abrusiore"><i>abrusiore</i><par n="pane__n"/></e>
     <e lm="àbside"><i></i><par n="à/a"/><i>bside</i><par n="pane__n"/></e>
     <e lm="abusadore"><i>abusador</i><par n="traballador/e__n"/></e>
-    <e lm="acuilone"><i>acuilon</i><par n="region/e__n"/></e>
+    <e lm="acuilone"><i>acuilone</i><par n="pane__n"/></e>
     <e lm="aculturatzione"><i>acultura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="acumpangiadore"><i>a</i><par n="cum/com"/><i>pangiador</i><par n="traballador/e__n"/></e>
     <e lm="acumuladore"><i>acumulador</i><par n="traballador/e__n"/></e>
@@ -41258,7 +41268,7 @@
     <e lm="prendidore"><i>prendidor</i><par n="traballador/e__n"/></e>
     <e lm="presentadore"><i>presentador</i><par n="traballador/e__n"/></e>
     <e lm="presente"><i>presente</i><par n="pane__n"/></e>
-    <e lm="prèside"><i>pr</i><par n="è/e"/><i>side</i><par n="pane__n"/></e>
+    <e lm="prèside"><i>pr</i><par n="è/e"/><i>side</i><par n="dentista__n"/></e>
     <e lm="prestigiadore"><i>prestigiador</i><par n="traballador/e__n"/></e>
     <e lm="presuntzione"><i>presun</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="pretatzione"><i>preta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -42369,7 +42379,7 @@
     <e lm="relatadore"><i>relatador</i><par n="traballador/e__n"/></e>
     <e lm="rennoadore"><i>rennoador</i><par n="traballador/e__n"/></e>
     <e lm="resegadu"><i>resegad</i><par n="amig/u__n"/></e>
-    <e lm="retoradu"><i>retorad</i><par n="amig/u__n"/></e>
+    <e lm="retoradu"><i>retorad</i><par n="mac/u__n"/></e>
     <e lm="revisionadore"><i>revisionador</i><par n="traballador/e__n"/></e>
     <e lm="ricu"><i>ric</i><par n="amig/u__n"/></e>
     <e lm="risparmiadore"><i>risparmiador</i><par n="traballador/e__n"/></e>
@@ -43104,6 +43114,8 @@
     <e lm="pastorale"><i>pastoral</i><par n="fàtzil/e__adj"/></e>
     <e lm="pastorile"><i>pastoril</i><par n="fàtzil/e__adj"/></e>
     <e lm="paternale"><i>paternal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="paternalismu"><i>paternalismu</i><par n="anarchismu__n"/></e>
+    <e lm="paternalìsticu"><i>paternalìsti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="patriarcale"><i>patriarcal</i><par n="fàtzil/e__adj"/></e>
     <e lm="patrimoniale"><i>patrimonial</i><par n="fàtzil/e__adj"/></e>
     <e lm="peculiare"><i>peculiar</i><par n="fàtzil/e__adj"/></e>
@@ -46459,6 +46471,7 @@
     <e lm="impostore"><i>impostor</i><par n="cunservador/e__adj"/></e>
     <e lm="impreadu"><i>impread</i><par n="frantzes/u__adj"/></e>
     <e lm="imprendadu"><i>imprendad</i><par n="frantzes/u__adj"/></e>
+    <e lm="imprendidoriale"><i>imprendidorial</i><par n="fàtzil/e__adj"/></e>
     <e lm="imprendidore"><i>imprendidor</i><par n="cunservador/e__adj"/></e>
     <e lm="imprendidore"><i>imprendidor</i><par n="traballador/e__n"/></e>
     <e lm="imprentadu"><i>imprentad</i><par n="frantzes/u__adj"/></e>
@@ -48789,6 +48802,7 @@
     <e lm="passionosu"><i>passionos</i><par n="frantzes/u__adj"/></e>
     <e lm="passiosu"><i>passios</i><par n="frantzes/u__adj"/></e>
     <e lm="passivu"><i>passiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="passivu"><i>passiv</i><par n="mac/u__n"/></e>
     <e lm="pasteri"><i>paster</i><par n="banduler/i__adj"/></e>
     <e lm="pastorinu"><i>pastorin</i><par n="frantzes/u__adj"/></e>
     <e lm="pastosu"><i>pastos</i><par n="frantzes/u__adj"/></e>
@@ -53947,6 +53961,25 @@
 
     <e lm="reconnoschìbile"><i>reconnosch</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="Buenos Aires"><i>Buenos<b/>Aires</i><par n="Afganistàn__np"/></e>
+
+    <e lm="bavaresu"><i>bavares</i><par n="amig/u__n"/></e>
+    <e lm="berlinesu"><i>berlines</i><par n="amig/u__n"/></e>
+    <e lm="bolognesu"><i>bolognes</i><par n="amig/u__n"/></e>
+    <e lm="calabresu"><i>calabres</i><par n="amig/u__n"/></e>
+    <e lm="camaldolesu"><i>camaldoles</i><par n="amig/u__n"/></e>
+    <e lm="catanzaresu"><i>catanzares</i><par n="amig/u__n"/></e>
+    <e lm="cortesu"><i>cortes</i><par n="amig/u__n"/></e>
+    <e lm="ferraresu"><i>ferrares</i><par n="amig/u__n"/></e>
+    <e lm="londinesu"><i>londines</i><par n="amig/u__n"/></e>
+    <e lm="lussemburghesu"><i>lussemburghes</i><par n="amig/u__n"/></e>
+    <e lm="nepalesu"><i>nepales</i><par n="amig/u__n"/></e>
+    <e lm="pechinesu"><i>pechines</i><par n="amig/u__n"/></e>
+    <e lm="praghesu"><i>praghes</i><par n="amig/u__n"/></e>
+    <e lm="sassaresu"><i>sassares</i><par n="amig/u__n"/></e>
+    <e lm="singalesu"><i>singales</i><par n="amig/u__n"/></e>
+    <e lm="tailandesu"><i>tailandes</i><par n="amig/u__n"/></e>
+    <e lm="turchesu"><i>turches</i><par n="amig/u__n"/></e>
+    <e lm="viennesu"><i>viennes</i><par n="amig/u__n"/></e>
 
   </section>
 
