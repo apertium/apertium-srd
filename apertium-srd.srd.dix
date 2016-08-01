@@ -6190,7 +6190,6 @@
     <e lm="brigadieri"><i>brigadieri</i><par n="pane__n"/></e>
     <e lm="brusiadu"><i>brusiad</i><par n="amig/u__n"/></e>
     <e lm="burghesu"><i>burghes</i><par n="amig/u__n"/></e>
-    <e lm="burocratu"><i>burocrat</i><par n="mac/u__n"/></e>
     <e lm="cadalanu"><i>cadalan</i><par n="mac/u__n"/></e>
     <e lm="cadderi"><i>cadderi</i><par n="pane__n"/></e>
     <e lm="calentura"><i>calentura</i><par n="mesa__n"/></e>
@@ -6913,6 +6912,7 @@
     <e lm="Paolo"><i>Paolo</i><par n="Antoni__np"/></e>
     <e lm="Mario"><i>Mario</i><par n="Antoni__np"/></e>
     <e lm="Xavier"><i>Xavier</i><par n="Antoni__np"/></e>
+    <e lm="Javier"><i>Javier</i><par n="Antoni__np"/></e>
     <e lm="Walter"><i>Walter</i><par n="Antoni__np"/></e>
     <e lm="Omar"><i>Omar</i><par n="Antoni__np"/></e>
     <e lm="Luciano"><i>Luciano</i><par n="Antoni__np"/></e>
@@ -53172,6 +53172,8 @@
     <e lm="San Francisco" r="LR"><p><l>San<b/>Francisco</l><r>Santu<b/>Frantziscu</r></p><par n="Etiòpia__np"/></e>
 
 
+    <e lm="Uruguay"><i>Uruguay</i><par n="Afganistàn__np"/></e>
+    <e lm="Paraguay"><i>Paraguay</i><par n="Afganistàn__np"/></e>
     <e lm="Misanu"><i>Misanu</i><par n="Afganistàn__np"/></e>
     <e lm="tzicuitu"><par n="tz/c"/><i>icuit</i><par n="mac/u__n"/></e>
     <e lm="Smith"><i>Merkel</i><par n="Saussure__np"/></e>
@@ -53980,6 +53982,8 @@
     <e lm="tailandesu"><i>tailandes</i><par n="amig/u__n"/></e>
     <e lm="turchesu"><i>turches</i><par n="amig/u__n"/></e>
     <e lm="viennesu"><i>viennes</i><par n="amig/u__n"/></e>
+    <e lm="rèticu"><i>rètic</i><par n="mac/u__n"/></e>
+    <e lm="rèticu"><i>rèti</i><par n="linguìsti/cu__adj"/></e>
 
   </section>
 
