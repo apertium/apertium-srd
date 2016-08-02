@@ -6750,6 +6750,7 @@
 
 
 
+    <e lm="Crimea"><i>Crimea</i><par n="Etiòpia__np"/></e>
     <e lm="Catalogna"><i>Catalogna</i><par n="Etiòpia__np"/></e>
     <e lm="Catalogna" r="LR"><p><l>Catalugna</l><r>Catalogna</r></p><par n="Etiòpia__np"/></e>
     <e lm="Catalogna" r="LR"><p><l>Cadalunnia</l><r>Catalogna</r></p><par n="Etiòpia__np"/></e>
@@ -6764,7 +6765,7 @@
     <e lm="Afganistàn" r="LR"><p><l>Afghanistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
     <e lm="Afganistàn" r="LR"><p><l>Afgànistan</l><r>Afganistàn</r></p><par n="Afganistàn__np"/></e>
 
-    <e lm="Biscaglia"><i>Biscaglia</i><par n="Afganistàn__np"/></e>
+    <e lm="Biscàglia"><i>Biscàglia</i><par n="Etiòpia__np"/></e>
 
     <e lm="Regnu Unidu"><i>Regnu<b/>Unidu</i><par n="Afganistàn__np"/></e>
     <e lm="Regnu Unidu" r="LR"><p><l>Regne<b/>Unidu</l><r>Regnu<b/>Unidu</r></p><par n="Afganistàn__np"/></e>
@@ -11011,6 +11012,8 @@
     <e lm="aligheresu"><i>aligheres</i><par n="frantzes/u__adj"/></e>
     <e lm="portughesu"><i>portughes</i><par n="frantzes/u__adj"/></e>
     <e lm="sumeru"><i>sumer</i><par n="frantzes/u__adj"/></e>
+    <e lm="tàtaru"><i>tàtar</i><par n="frantzes/u__adj"/></e>
+    <e lm="tàtaru"><i>tàtar</i><par n="amig/u__n"/></e>
     <e lm="catalanu"><i>catalan</i><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadalan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
     <e lm="catalanu" r="LR"><p><l>cadelan</l><r>catalan</r></p><par n="frantzes/u__adj"/></e>
@@ -34340,6 +34343,7 @@
     <e lm="masserìtzia"><i>masser</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
     <e lm="massidda"><i>massidda</i><par n="mesa__n"/></e>
     <e lm="massoneria"><i>massoneria</i><par n="mesa__n"/></e>
+    <e lm="framassoneria"><i>framassoneria</i><par n="mesa__n"/></e>
     <e lm="massu"><i>mass</i><par n="mac/u__n"/></e>
     <e lm="màssula"><i>m</i><par n="à/a"/><i>ssula</i><par n="mesa__n"/></e>
     <e lm="mastana"><i>mastana</i><par n="mesa__n"/></e>
@@ -39813,7 +39817,7 @@
     <e lm="fragilidade"><i>fragilidad</i><par n="region/e__n"/></e>
     <e lm="fraile"><i>fraile</i><par n="pane__n"/></e>
     <e lm="fraitzùmene"><i>fraitz</i><par n="ù/u"/><i>mene</i><par n="pane__n"/></e>
-    <e lm="framassone"><i>framassone</i><par n="pane__n"/></e>
+    <e lm="framassone"><i>framassone</i><par n="dentista__n"/></e>
     <e lm="framore"><i>framore</i><par n="pane__n"/></e>
     <e lm="franchile"><i>franchile</i><par n="pane__n"/></e>
     <e lm="frandale"><i>frandale</i><par n="pane__n"/></e>
@@ -40631,7 +40635,7 @@
     <e lm="massiddale"><i>massiddale</i><par n="pane__n"/></e>
     <e lm="massificatzione"><i>massifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="massillone"><i>massillone</i><par n="pane__n"/></e>
-    <e lm="massone"><i>massone</i><par n="pane__n"/></e>
+    <e lm="massone"><i>massone</i><par n="dentista__n"/></e>
     <e lm="masuddale"><i>masuddale</i><par n="pane__n"/></e>
     <e lm="matacane"><i>matacane</i><par n="pane__n"/></e>
     <e lm="matallone"><i>matallone</i><par n="pane__n"/></e>
@@ -42007,6 +42011,7 @@
     <e lm="tzintzulone"><par n="tz/c"/><i>intzulone</i><par n="pane__n"/></e>
     <e lm="tzioddìmene"><par n="tz/c"/><i>ioddìmene</i><par n="pane__n"/></e>
     <e lm="tzirculatzione"><par n="tz/c"/><i>ircula</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="tzirculatoriu"><par n="tz/c"/><i>irculat</i><par n="ò/o"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="tzircuntzisione"><par n="tz/c"/><i>ircuntzision</i><par n="region/e__n"/></e>
     <e lm="tzircuscritzione"><par n="tz/c"/><i>ircuscri</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="tzirone"><par n="tz/c"/><i>irone</i><par n="pane__n"/></e>
@@ -44005,6 +44010,7 @@
     <e lm="autobiogràficu"><i>autobiogr</i><par n="à/a"/><i>fi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="autòctonu"><i>aut</i><par n="ò/o"/><i>cton</i><par n="frantzes/u__adj"/></e>
     <e lm="autògrafu"><i>aut</i><par n="ò/o"/><i>graf</i><par n="frantzes/u__adj"/></e>
+    <e lm="autògrafu"><i>aut</i><par n="ò/o"/><i>graf</i><par n="mac/u__n"/></e>
     <e lm="automobilìsticu"><i>automobil</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="autonòmicu"><i>auton</i><par n="ò/o"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="autonomìsticu"><i>autonom</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
@@ -53994,6 +54000,9 @@
     <e lm="antropologia"><i>antropologia</i><par n="mesa__n"/></e>
     <e lm="antropòlogu"><i>antrop</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
     <e lm="antropològicu"><i>antropol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="criminologia"><i>criminologia</i><par n="mesa__n"/></e>
+    <e lm="criminòlogu"><i>crimin</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
+    <e lm="criminològicu"><i>criminol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
 
   </section>
 
