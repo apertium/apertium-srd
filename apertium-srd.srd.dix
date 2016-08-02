@@ -14841,7 +14841,9 @@
     <e lm="cosingiolu"><i>cosingiol</i><par n="mac/u__n"/></e>
     <e lm="cosìngiu"><i>cos</i><par n="ì/i"/><i>ngi</i><par n="mac/u__n"/></e>
     <e lm="cosinu"><i>cosin</i><par n="mac/u__n"/></e>
+    <e lm="cosmèticu"><i>cosm</i><par n="è/e"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="cosmèticu"><i>cosm</i><par n="è/e"/><i>tic</i><par n="mac/u__n"/></e>
+    <e lm="cosmètica"><i>cosm</i><par n="è/e"/><i>tica</i><par n="mesa__n"/></e>
     <e lm="cosmopolitismu"><i>cosmopolitism</i><par n="anarchismu__n"/></e>
     <e lm="cossatzu"><i>cossatz</i><par n="mac/u__n"/></e>
     <e lm="costàgiu"><i>cost</i><par n="à/a"/><i>gi</i><par n="mac/u__n"/></e>
@@ -54003,6 +54005,9 @@
     <e lm="criminologia"><i>criminologia</i><par n="mesa__n"/></e>
     <e lm="criminòlogu"><i>crimin</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
     <e lm="criminològicu"><i>criminol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="cosmologia"><i>cosmologia</i><par n="mesa__n"/></e>
+    <e lm="cosmòlogu"><i>cosm</i><par n="ò/o"/><i>log</i><par n="amig/u__n"/></e>
+    <e lm="cosmològicu"><i>cosmol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
 
   </section>
 
