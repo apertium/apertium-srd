@@ -3598,6 +3598,8 @@
     <e lm="che a"><i>che<b/>a</i><par n="a__pr"/></e>
     <e lm="finas dae"><i>finas<b/>dae</i><par n="a__pr"/></e>
     <e lm="fintzas dae"><i>fintzas<b/>dae</i><par n="a__pr"/></e>
+    <e lm="partinde dae"><i>partinde<b/>dae</i><par n="a__pr"/></e>
+    <e lm="cumintzande dae"><i>cumintzande<b/>dae</i><par n="a__pr"/></e>
 
     <e lm="tràmite"><i>tr</i><par n="à/a"/><i>mite</i><par n="a__pr"/></e>
     <e lm="acanta"><i>acanta</i><par n="a__pr"/></e>
@@ -53125,7 +53127,12 @@
     <e lm="prus pagu"><i>prus<b/>pagu</i><par n="bene__adv"/></e>
     <e r="LR" lm="prus de"><i>prus<b/>de</i><par n="duncas__cnjadv"/></e> <!-- LSC? -->
     <e lm="bastante chi"><i>bastante<b/>chi</i><par n="chi__cnjsub"/></e>
-    <e lm="pro"><i>pro</i><par n="chi__cnjsub"/></e>
+    <e lm="pro"><i>pro</i><par n="duncas__cnjadv"/></e>
+    <e lm="comente si siat"><i>comente<b/>si<b/>siat</i><par n="duncas__cnjadv"/></e>
+    <e lm="su pròpiu"><i>su<b/>pròpiu</i><par n="bene__adv"/></e>
+    <e lm="su matessi"><i>su<b/>matessi</i><par n="bene__adv"/></e>
+    <e lm="pro nàrrere"><i>pro<b/>nàrrere</i><par n="o__cnjcoo"/></e>
+    <e lm="est a nàrrere"><i>est<b/>a<b/>nàrrere</i><par n="o__cnjcoo"/></e>
 
     <e lm="rue·rue"><i>rue·rue</i><par n="bene__adv"/></e>
     <e lm="sende chi"><i>sende<b/>chi</i><par n="chi__cnjsub"/></e>
