@@ -17426,7 +17426,7 @@
     <e lm="magnetismu"><i>magnetismu</i><par n="anarchismu__n"/></e>
     <e lm="magnotu"><i>magnot</i><par n="mac/u__n"/></e>
     <e lm="magnu"><i>magn</i><par n="mac/u__n"/></e>
-    <e lm="magu"><i>mag</i><par n="mac/u__n"/></e>
+    <e lm="magu"><i>mag</i><par n="amig/u__n"/></e>
     <e lm="maiàrgiu"><i>mai</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
     <e lm="maìngiu"><i>ma</i><par n="ì/i"/><i>ngi</i><par n="mac/u__n"/></e>
     <e lm="majaliscu"><i>majalisc</i><par n="mac/u__n"/></e>
@@ -39199,6 +39199,7 @@
     <e lm="connotatzione"><i>connota</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="consolatzione"><i>consola</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cònsole"><i>c</i><par n="ò/o"/><i>nsol</i><par n="region/e__n"/></e>
+    <e lm="cònsole"><i>c</i><par n="ò/o"/><i>nsole</i><par n="pane__n"/></e>
     <e lm="consulente"><i>consulente</i><par n="pane__n"/></e>
     <e lm="consumadore"><i>consumador</i><par n="traballador/e__n"/></e>
     <e lm="consumatzione"><i>consuma</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
