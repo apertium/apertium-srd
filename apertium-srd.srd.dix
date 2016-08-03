@@ -54153,8 +54153,31 @@
     <e lm="virològicu"><i>virol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="vulcanològicu"><i>vulcanol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
 
-    <e lm="agragatzione"><i>agragatzion</i><par n="region/e__n"/></e>
+    <e lm="agregatzione"><i>agregatzion</i><par n="region/e__n"/></e>
     <e lm="implicatzione"><i>implicatzion</i><par n="region/e__n"/></e>
+    <e lm="atzetatzione"><i>atzeta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="agregatzione"><i>agrega</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="alteratzione"><i>altera</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="ambientatzione"><i>ambienta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="annuntziatzione"><i>annuntzia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="archiviatzione"><i>archivia</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="atenuatzione"><i>atenua</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="esortatzione"><i>esorta</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="evacuatzione"><i>evacua</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="evaporatzione"><i>evapora</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="idealizatzione"><i>idealiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="implicatzione"><i>implica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="intzentivatzione"><i>intzentiva</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="incriminatzione"><i>incrimina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="informatizatzione"><i>informatiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="insinuatzione"><i>insinua</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="instauratzione"><i>instaura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="italianizatzione"><i>italianiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="ispetzificatzione"><i>ispetzifica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="istandardizatzione"><i>istandardiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="istruturatzione"><i>istrutura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="ufitzializatzione"><i>ufitzializa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="utilitzatzione"><i>utilitza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 
   </section>
 
