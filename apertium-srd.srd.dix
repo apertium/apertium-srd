@@ -51400,8 +51400,8 @@
     <e lm="Venetu"><i>Venetu</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Venetu (italianu)"><p><l>Veneto</l><r>Venetu</r></p><par n="Afganistàn__np" /></e>
     <e r="LR" lm="Venètzia (italianu)"><p><l>Venezia</l><r>Venètzia</r></p><par n="Etiòpia__np" /></e>
-    <e lm="Friuli-Venetzia Giulia"><i>Friuli-Venetzia<b/>Giulia</i><par n="Afganistàn__np"/></e>
-    <e r="LR" lm="Friuli-Venetzia Giulia (italianu)"><p><l>Friuli-Venezia<b/>Giulia</l><r>Friuli-Venetzia<b/>Giulia</r></p><par n="Afganistàn__np" /></e>
+    <e lm="Friuli-Venètzia Giùlia"><i>Friuli-Ven</i><par n="è/e"/><i>tzia<b/>Gi</i><par n="ù/u"/><i>lia</i><par n="Afganistàn__np"/></e>
+    <e r="LR" lm="Friuli-Venètzia Giùlia (italianu)"><p><l>Friuli-Venezia<b/>Giulia</l><r>Friuli-Venètzia<b/>Giùlia</r></p><par n="Afganistàn__np" /></e>
     <e lm="Emìlia-Romagna"><i>Em</i><par n="ì/i"/><i>lia-Romagna</i><par n="Afganistàn__np"/></e>
     <e r="LR" lm="Emìlia-Romagna (italianu)"><p><l>Emilia-Romagna</l><r>Emìlia-Romagna</r></p><par n="Afganistàn__np" /></e>
     <e lm="Toscana"><i>Toscana</i><par n="Etiòpia__np"/></e>
@@ -54178,6 +54178,13 @@
     <e lm="istruturatzione"><i>istrutura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="ufitzializatzione"><i>ufitzializa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="utilitzatzione"><i>utilitza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+
+    <e lm="web"><i>web</i><par n="mesa__n"/></e>
+    <e lm="webcam"><i>webcam</i><par n="mesa__n"/></e>
+    <e lm="blog"><i>blog</i><par n="pane__n"/></e>
+    <e lm="blogger"><i>blogger</i><par n="dentista__n"/></e>
+    <e lm="bloggare"><i>blogg</i><par n="seg/are__vblex"/></e>
+    <e lm="fan"><i>fan</i><par n="dentista__n"/></e>
 
   </section>
 
