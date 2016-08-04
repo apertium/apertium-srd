@@ -4956,6 +4956,9 @@
     <e lm="pubblicatzione"><i>pubblica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="projetzione"><i>proje</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="riprodutzione"><i>riprodu</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+    <e lm="riprodutivu"><i>riprodutiv</i><par n="frantzes/u__adj"/></e>
+    <e lm="riprodutore"><i>riprodutor</i><par n="cunservador/e__adj"/></e>
+    <e lm="riprodutzìbile"><i>riprodutzìbile</i><par n="meda__adj"/></e>
 
     <e lm="produtzione"><i>produ</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 
