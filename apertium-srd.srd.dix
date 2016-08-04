@@ -4110,10 +4110,10 @@
     <e lm="impressadore"><i>impressadore</i><par n="pane__n"/></e>
     <e lm="compiladore"><i>compilador</i><par n="traballador/e__n"/></e>
     <e lm="pensadore"><i>pensador</i><par n="traballador/e__n"/></e>
-    <e lm="presidente"><i>president</i><par n="traballador/e__n"/></e>
-    <e lm="copresidente"><i>copresident</i><par n="traballador/e__n"/></e>
-    <e lm="neopresidente"><i>neopresident</i><par n="traballador/e__n"/></e>
-    <e lm="vitzepresidente"><i>vi</i><par n="tz/c"/><i>epresident</i><par n="traballador/e__n"/></e>
+    <e lm="presidente"><i>presidente</i><par n="dentista__n"/></e>
+    <e lm="copresidente"><i>copresidente</i><par n="dentista__n"/></e>
+    <e lm="neopresidente"><i>neopresidente</i><par n="dentista__n"/></e>
+    <e lm="vitzepresidente"><i>vi</i><par n="tz/c"/><i>epresidente</i><par n="dentista__n"/></e>
     <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="dentista__n"/></e>
     <e lm="presidentzialista"><i>presiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="semipresidentzialista"><i>semipresiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
