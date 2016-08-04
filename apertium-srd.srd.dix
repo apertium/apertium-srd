@@ -5677,6 +5677,7 @@
     <e lm="recursu"><i>recurs</i><par n="mac/u__n"/></e>
     <e lm="iscrau"><i>iscra</i><par n="amig/u__n"/></e>
     <e lm="sessu"><i>sess</i><par n="mac/u__n"/></e>
+    <e lm="tzibersessu"><par n="tz/c"/><i>ibersess</i><par n="mac/u__n"/></e>
     <e lm="cuncursu"><par n="cun/con"/><i>curs</i><par n="mac/u__n"/></e>
     <e lm="significu"><i>signific</i><par n="mac/u__n"/></e>
     <e lm="guvernu"><i>guvern</i><par n="mac/u__n"/></e>
@@ -43065,6 +43066,17 @@
     <e lm="ocupàbile"><i>ocup</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="ogrimodde"><i>ogrimodd</i><par n="fàtzil/e__adj"/></e>
     <e lm="omenàgiu"><i>omen</i><par n="à/a"/><i>gi</i><par n="frantzes/u__adj"/></e>
+    <e lm="eterosessuale"><i>eterosessual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="eterosessuale"><i>eterosessuale</i><par n="dentista__n"/></e>
+    <e lm="eterosessualidade"><i>eterosessualidad</i><par n="region/e__n"/></e>
+    <e lm="bisessuale"><i>bisessual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="bisessuale"><i>bisessuale</i><par n="dentista__n"/></e>
+    <e lm="bisessualidade"><i>bisessualidad</i><par n="region/e__n"/></e>
+    <e lm="transessuale"><i>transessual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="transessuale"><i>transessuale</i><par n="dentista__n"/></e>
+    <e lm="transessualidade"><i>transessualidad</i><par n="region/e__n"/></e>
+    <e lm="asessuale"><i>asessual</i><par n="fàtzil/e__adj"/></e>
+    <e lm="asessualidade"><i>asessualidad</i><par n="region/e__n"/></e>
     <e lm="omosessuale"><i>omosessual</i><par n="fàtzil/e__adj"/></e>
     <e lm="omosessuale"><i>omosessuale</i><par n="dentista__n"/></e>
     <e lm="omosessualidade"><i>omosessualidad</i><par n="region/e__n"/></e>
