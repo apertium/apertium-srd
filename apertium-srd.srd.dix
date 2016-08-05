@@ -39204,7 +39204,10 @@
     <e lm="connotatzione"><i>connota</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="consolatzione"><i>consola</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="cònsole"><i>c</i><par n="ò/o"/><i>nsol</i><par n="region/e__n"/></e>
+    <e lm="videocònsole"><i>videoc</i><par n="ò/o"/><i>nsol</i><par n="region/e__n"/></e>
     <e lm="cònsole"><i>c</i><par n="ò/o"/><i>nsole</i><par n="pane__n"/></e>
+    <e lm="procònsole"><i>proc</i><par n="ò/o"/><i>nsole</i><par n="pane__n"/></e>
+    <e lm="vitzecònsole"><i>vi</i><par n="tz/z"/><i>ec</i><par n="ò/o"/><i>nsole</i><par n="pane__n"/></e>
     <e lm="consulente"><i>consulente</i><par n="pane__n"/></e>
     <e lm="consumadore"><i>consumador</i><par n="traballador/e__n"/></e>
     <e lm="consumatzione"><i>consuma</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
