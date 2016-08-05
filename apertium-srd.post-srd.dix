@@ -429,7 +429,23 @@
         </p>
         <par n="consonants"/>
       </e>
-<!-- fa fallar no s', no b' etc. -->
+
+<!-- no + prn: calen regles específiques -->
+     <e>
+        <p>
+          <l><a/>no<b/><a/>li<b/></l>
+          <r>no<b/>li<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>li<b/></l>
+          <r>no<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
      <e>
         <p>
           <l><a/>no<b/><a/>lu<b/></l>
@@ -441,6 +457,96 @@
         <p>
           <l><a/>no<b/><a/>lu<b/></l>
           <r>no<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>la<b/></l>
+          <r>no<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>la<b/></l>
+          <r>no<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ddi<b/></l>
+          <r>non<b/>ddi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ddi<b/></l>
+          <r>non<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ddu<b/></l>
+          <r>non<b/>ddu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ddu<b/></l>
+          <r>non<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>dda<b/></l>
+          <r>non<b/>dda<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>dda<b/></l>
+          <r>non<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>mi<b/></l>
+          <r>non<b/>mi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>mi<b/></l>
+          <r>non<b/>m'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ti<b/></l>
+          <r>non<b/>ti<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>ti<b/></l>
+          <r>non<b/>t'</r>
         </p>
         <par n="vocals"/>
       </e>
@@ -505,8 +611,37 @@
         <par n="vocals"/>
       </e>
 
+     <e>
+        <p>
+          <l><a/>no<b/><a/>su<b/></l>
+          <r>non<b/>su<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>su<b/></l>
+          <r>non<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
 
-<!-- -->
+     <e>
+        <p>
+          <l><a/>no<b/><a/>sa<b/></l>
+          <r>non<b/>sa<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>sa<b/></l>
+          <r>non<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+<!-- fi no + prn: regles específiques -->
 
      <e>
         <p>
@@ -515,6 +650,219 @@
         </p>
         <par n="consonants"/>
       </e>
+
+<!-- ne + prn: calen regles específiques -->
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>li<b/></l>
+          <r>ne<b/>li<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>li<b/></l>
+          <r>ne<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>lu<b/></l>
+          <r>ne<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>lu<b/></l>
+          <r>ne<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>la<b/></l>
+          <r>ne<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>la<b/></l>
+          <r>ne<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ddi<b/></l>
+          <r>nen<b/>ddi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ddi<b/></l>
+          <r>nen<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ddu<b/></l>
+          <r>nen<b/>ddu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ddu<b/></l>
+          <r>nen<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>dda<b/></l>
+          <r>nen<b/>dda<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>dda<b/></l>
+          <r>nen<b/>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>mi<b/></l>
+          <r>nen<b/>mi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>mi<b/></l>
+          <r>nen<b/>m'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ti<b/></l>
+          <r>nen<b/>ti<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>ti<b/></l>
+          <r>nen<b/>t'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>si<b/></l>
+          <r>nen<b/>si<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>si<b/></l>
+          <r>nen<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>nche<b/></l>
+          <r>nen<b/>nche<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>nche<b/></l>
+          <r>nen<b/>nch'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>nde<b/></l>
+          <r>nen<b/>nde<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>nde<b/></l>
+          <r>nen<b/>nd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/></l>
+          <r>nen<b/>bi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/></l>
+          <r>nen<b/>b'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>su<b/></l>
+          <r>nen<b/>su<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>su<b/></l>
+          <r>nen<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>sa<b/></l>
+          <r>nen<b/>sa<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>sa<b/></l>
+          <r>nen<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+<!-- fi ne + prn: regles específiques -->
 
      <e>
         <p>
@@ -593,6 +941,14 @@
         <p>
           <l><a/>dda<b/></l>
           <r>dd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>mi<b/></l>
+          <r>m'</r>
         </p>
         <par n="vocals"/>
       </e>
