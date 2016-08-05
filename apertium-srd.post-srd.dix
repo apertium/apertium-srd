@@ -429,7 +429,7 @@
         </p>
         <par n="consonants"/>
       </e>
-<!-- fa fallar no s', no b' etc.
+<!-- fa fallar no s', no b' etc. -->
      <e>
         <p>
           <l><a/>no<b/><a/>lu<b/></l>
@@ -444,7 +444,69 @@
         </p>
         <par n="vocals"/>
       </e>
--->
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>si<b/></l>
+          <r>non<b/>si<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>si<b/></l>
+          <r>non<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>nche<b/></l>
+          <r>non<b/>nche<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>nche<b/></l>
+          <r>non<b/>nch'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>nde<b/></l>
+          <r>non<b/>nde<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>nde<b/></l>
+          <r>non<b/>nd'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/></l>
+          <r>non<b/>bi<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/></l>
+          <r>non<b/>b'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+
+<!-- -->
 
      <e>
         <p>

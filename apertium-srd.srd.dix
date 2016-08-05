@@ -4868,6 +4868,7 @@
     <e lm="urgèntzia"><i>urg</i><par n="difer/èntzia__n"/></e>
     <e lm="cumpetèntzia"><par n="cum/com"/><i>pet</i><par n="difer/èntzia__n"/></e>
     <e lm="dipendèntzia"><i>dipend</i><par n="difer/èntzia__n"/></e>
+    <e lm="interdipendèntzia"><i>interdipend</i><par n="difer/èntzia__n"/></e>
     <e lm="alliàntzia"><i>alli</i><par n="import/àntzia__n"/></e>
     <e lm="istàntzia"><i>ist</i><par n="import/àntzia__n"/></e>
     <e lm="evidèntzia"><i>evid</i><par n="difer/èntzia__n"/></e>
@@ -11409,6 +11410,7 @@
     <e lm="mundiale" r="LR"><p><l>mondial</l><r>mundial</r></p><par n="fàtzil/e__adj"/></e>
     <e lm="medievale"><i>medieval</i><par n="fàtzil/e__adj"/></e>
     <e lm="radicale"><i>radical</i><par n="fàtzil/e__adj"/></e>
+    <e lm="radicale"><i>radicale</i><par n="pane__n"/></e>
     <e lm="locale"><i>local</i><par n="fàtzil/e__adj"/></e>
     <e lm="ratziale"><i>ratzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="continentale"><i>continental</i><par n="fàtzil/e__adj"/></e>
@@ -40783,7 +40785,11 @@
     <e lm="muine"><i>muine</i><par n="pane__n"/></e>
     <e lm="mulete"><i>mulete</i><par n="pane__n"/></e>
     <e lm="mullone"><i>mullone</i><par n="pane__n"/></e>
-    <e lm="multidisciplinare"><i>multidisciplinare</i><par n="pane__n"/></e>
+    <e lm="multidisciplinàriu"><i>multidisciplinàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="interdisciplinàriu"><i>interdisciplinàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="disciplinàriu"><i>disciplinàri</i><par n="frantzes/u__adj"/></e>
+    <e lm="multidisciplinaridade"><i>multidisciplinaridad</i><par n="region/e__n"/></e>
+    <e lm="interdisciplinaridade"><i>interdisciplinaridad</i><par n="region/e__n"/></e>
     <e lm="multiformidade"><i>multiformidad</i><par n="region/e__n"/></e>
     <e lm="multiplicatzione"><i>multiplica</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="multitùdine"><i>multit</i><par n="ù/u"/><i>dine</i><par n="pane__n"/></e>
@@ -42663,6 +42669,7 @@
     <e lm="diletante"><i>diletant</i><par n="fàtzil/e__adj"/></e>
     <e lm="dipartimentale"><i>dipartimental</i><par n="fàtzil/e__adj"/></e>
     <e lm="dipendente"><i>dipendent</i><par n="fàtzil/e__adj"/></e>
+    <e lm="interdipendente"><i>interdipendent</i><par n="fàtzil/e__adj"/></e>
     <e lm="disàbile"><i>dis</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="disciplinare"><i>disciplinar</i><par n="fàtzil/e__adj"/></e>
     <e lm="discoidadu"><i>discoidad</i><par n="frantzes/u__adj"/></e>
@@ -43212,7 +43219,14 @@
     <e lm="proportzionale"><i>propor</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
     <e lm="protestante"><i>protestant</i><par n="fàtzil/e__adj"/></e>
     <e lm="provàntzulu"><i>prov</i><par n="à/a"/><i>ntzul</i><par n="frantzes/u__adj"/></e>
-    <e lm="proventzale"><i>proventzal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proventzale"><i>proven</i><par n="tz/z"/><i>al</i><par n="fàtzil/e__adj"/></e>
+    <e lm="proventzale"><i>proven</i><par n="tz/z"/><i>ale</i><par n="dentista__n"/></e>
+    <e lm="francoproventzale"><i>francoproven</i><par n="tz/z"/><i>al</i><par n="fàtzil/e__adj"/></e>
+    <e lm="francoproventzale"><i>francoproven</i><par n="tz/z"/><i>ale</i><par n="pane__n"/></e>
+    <e lm="franco-proventzale"><i>franco-proven</i><par n="tz/z"/><i>al</i><par n="fàtzil/e__adj"/></e>
+    <e lm="franco-proventzale"><i>franco-proven</i><par n="tz/z"/><i>ale</i><par n="pane__n"/></e>
+    <e lm="arpitanu"><i>arpitan</i><par n="frantzes/u__adj"/></e>
+    <e lm="arpitanu"><i>arpitan</i><par n="amig/u__n"/></e>
     <e lm="providentziale"><i>providentzial</i><par n="fàtzil/e__adj"/></e>
     <e lm="prudente"><i>prudent</i><par n="fàtzil/e__adj"/></e>
     <e lm="imprudente"><i>imprudent</i><par n="fàtzil/e__adj"/></e>
@@ -54728,6 +54742,8 @@
     <e lm="a manera visìbile" r="LR"><p><l>a<b/>manera<b/>visìbile</l><r>in<b/>manera<b/>visìbile</r></p><par n="bene__adv"/></e>
     <e lm="in manera vulgare"><i>in<b/>manera<b/>vulgare</i><par n="bene__adv"/></e>
     <e lm="a manera vulgare" r="LR"><p><l>a<b/>manera<b/>vulgare</l><r>in<b/>manera<b/>vulgare</r></p><par n="bene__adv"/></e>
+
+    <e lm="entzìclica"><i>en</i><par n="tz/c"/><i>ìclica</i><par n="mesa__n"/></e>
 
   </section>
 
