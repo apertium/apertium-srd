@@ -641,6 +641,51 @@
         <par n="vocals"/>
       </e>
 
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>li<b/></l>
+          <r>non<b/>bi<b/>li<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>li<b/></l>
+          <r>non<b/>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>lu<b/></l>
+          <r>non<b/>bi<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>lu<b/></l>
+          <r>non<b/>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>la<b/></l>
+          <r>non<b/>bi<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>bi<b/><a/>la<b/></l>
+          <r>non<b/>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
 <!-- fi no + prn: regles específiques -->
 
      <e>
@@ -858,6 +903,51 @@
         <p>
           <l><a/>ne<b/><a/>sa<b/></l>
           <r>nen<b/>s'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>li<b/></l>
+          <r>nen<b/>bi<b/>li<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>li<b/></l>
+          <r>nen<b/>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>lu<b/></l>
+          <r>nen<b/>bi<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>lu<b/></l>
+          <r>nen<b/>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>la<b/></l>
+          <r>nen<b/>bi<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>bi<b/><a/>la<b/></l>
+          <r>nen<b/>bi<b/>l'</r>
         </p>
         <par n="vocals"/>
       </e>
