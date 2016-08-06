@@ -3537,11 +3537,16 @@
     <e lm="chi"><i>chi</i><par n="chi__rel"/></e>
     <e lm="cale"><i>cale</i><par n="chi__rel"/></e> <!-- CHECK -->
 
+    <e lm="comente"><i>comente</i><par n="bene__adv"/></e>
+    <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
     <e lm="comente"><i>comente</i><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="cando__rel"/></e>
+
+    <e lm="comente a"><i>comente<b/>a</i><par n="duncas__cnjadv"/></e>
+    <e lm="canto a"><i>canto<b/>a</i><par n="duncas__cnjadv"/></e>
 
     <e lm="cando"><i>cando</i><par n="cando__rel"/></e>
     <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="cando__rel"/></e>
@@ -11976,8 +11981,6 @@
     <e lm="aici"><i>aici</i><par n="guasi__preadv"/></e>
     <e lm="bastante"><i>bastante</i><par n="guasi__preadv"/></e>
 
-    <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
-
     <e lm="ue"><i>ue</i><par n="cando__adv"/></e>
     <e lm="ue" r="LR" c="!LSC"><p><l>uve</l><r>ue</r></p><par n="cando__adv"/></e>
     <e lm="ue" r="LR" c="!LSC"><p><l>ube</l><r>ue</r></p><par n="cando__adv"/></e>
@@ -12383,7 +12386,6 @@
     <e lm="reclamare"><i>reclam</i><par n="cant/are__vblex"/></e>
     <e lm="ritziclare"><i>ritzicl</i><par n="cant/are__vblex"/></e>
     <e lm="ruinare"><i>ruin</i><par n="cant/are__vblex"/></e>
-    <e lm="passigiare"><i>passigi</i><par n="cant/are__vblex"/></e>
 
     <e lm="atzelerare"><i>atzeler</i><par n="cant/are__vblex"/></e>
     <e lm="atzelerare" r="LR"><p><l>aceler</l><r>atzeler</r></p><par n="cant/are__vblex"/></e>
@@ -53096,7 +53098,6 @@
     <e lm="cando"><i>cando</i><par n="bene__adv"/></e>
     <e lm="cando non cando"><i>cando<b/>non<b/>cando</i><par n="bene__adv"/></e>
     <e lm="cara"><i>cara</i><par n="bene__adv"/></e>
-    <e lm="comente"><i>comente</i><par n="bene__adv"/></e>
     <e lm="dae cuddae"><i>dae<b/>cuddae</i><par n="bene__adv"/></e>
     <e lm="dae cue"><i>dae<b/>cue</i><par n="bene__adv"/></e>
     <e lm="dae curtzu"><i>dae<b/>curtzu</i><par n="bene__adv"/></e>
