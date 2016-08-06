@@ -23248,6 +23248,7 @@
     <e lm="privatizare"><i>privatiz</i><par n="cant/are__vblex"/></e>
     <e lm="proare"><i>pro</i><par n="cant/are__vblex"/></e>
     <e lm="proclamare"><i>proclam</i><par n="cant/are__vblex"/></e>
+    <e lm="autoproclamare"><i>autoproclam</i><par n="cant/are__vblex"/></e>
     <e lm="profanare"><i>profan</i><par n="cant/are__vblex"/></e>
     <e lm="profetare"><i>profet</i><par n="cant/are__vblex"/></e>
     <e lm="profetizare"><i>profetiz</i><par n="cant/are__vblex"/></e>
@@ -39374,6 +39375,7 @@
     <e lm="cude"><i>cude</i><par n="pane__n"/></e>
     <e lm="cuereladore"><i>cuerelador</i><par n="traballador/e__n"/></e>
     <e lm="cuestore"><i>cuestore</i><par n="pane__n"/></e>
+    <e lm="vitzecuestore"><i>vitzecuestore</i><par n="pane__n"/></e>
     <e lm="cufrade"><i>cufrade</i><par n="pane__n"/></e>
     <e lm="cugione"><i>cugione</i><par n="pane__n"/></e>
     <e lm="cugugione"><i>cugugione</i><par n="pane__n"/></e>
@@ -44084,6 +44086,7 @@
     <e lm="barbarescu"><i>barbares</i><par n="linguìsti/cu__adj"/></e>
     <e lm="barbaritzinu"><i>barbaritzin</i><par n="frantzes/u__adj"/></e>
     <e lm="bàrbaru"><i>b</i><par n="à/a"/><i>rbar</i><par n="frantzes/u__adj"/></e>
+    <e lm="bàrbaru"><i>b</i><par n="à/a"/><i>rbar</i><par n="amig/u__n"/></e>
     <e lm="barbudu"><i>barbud</i><par n="frantzes/u__adj"/></e>
     <e lm="bardaderu"><i>bardader</i><par n="frantzes/u__adj"/></e>
     <e lm="bardeju"><i>bardej</i><par n="frantzes/u__adj"/></e>
