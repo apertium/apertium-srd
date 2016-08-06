@@ -3545,8 +3545,8 @@
     <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="cando__rel"/></e>
 
-    <e lm="comente a"><i>comente<b/>a</i><par n="duncas__cnjadv"/></e>
-    <e lm="canto a"><i>canto<b/>a</i><par n="duncas__cnjadv"/></e>
+    <e lm="comente"><i>comente</i><par n="duncas__cnjadv"/></e>
+    <e lm="cantu"><i>cantu</i><par n="duncas__cnjadv"/></e>
 
     <e lm="cando"><i>cando</i><par n="cando__rel"/></e>
     <e lm="cando" r="LR"><p><l>candu</l><r>cando</r></p><par n="cando__rel"/></e>
@@ -39221,6 +39221,7 @@
     <e lm="contingente"><i>contingente</i><par n="pane__n"/></e>
     <e lm="continuatzione"><i>continua</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
     <e lm="continuidade"><i>continuidad</i><par n="region/e__n"/></e>
+    <e lm="discontinuidade"><i>discontinuidad</i><par n="region/e__n"/></e>
     <e lm="contonale"><i>contonale</i><par n="pane__n"/></e>
     <e lm="contone"><i>contone</i><par n="pane__n"/></e>
     <e lm="contorsione"><i>contorsion</i><par n="region/e__n"/></e>
@@ -44815,6 +44816,7 @@
     <e lm="contestadu"><i>contestad</i><par n="frantzes/u__adj"/></e>
     <e lm="continuadu"><i>continuad</i><par n="frantzes/u__adj"/></e>
     <e lm="continu"><i>contin</i><par n="frantzes/u__adj"/></e>
+    <e lm="discontinu"><i>discontin</i><par n="frantzes/u__adj"/></e>
     <e lm="contivigiosu"><i>contivigios</i><par n="frantzes/u__adj"/></e>
     <e lm="contomiadu"><i>contomiad</i><par n="frantzes/u__adj"/></e>
     <e lm="contomosu"><i>contomos</i><par n="frantzes/u__adj"/></e>
