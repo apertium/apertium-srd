@@ -54751,7 +54751,8 @@
     <e lm="in manera vulgare"><i>in<b/>manera<b/>vulgare</i><par n="bene__adv"/></e>
     <e lm="a manera vulgare" r="LR"><p><l>a<b/>manera<b/>vulgare</l><r>in<b/>manera<b/>vulgare</r></p><par n="bene__adv"/></e>
 
-    <e lm="entzìclica"><i>en</i><par n="tz/c"/><i>ìclica</i><par n="mesa__n"/></e>
+    <e lm="entzìclica"><i>en</i><par n="tz/c"/><i></i><par n="ì/i"/><i>clica</i><par n="mesa__n"/></e>
+    <e lm="de nou"><i>de<b/>nou</i><par n="bene__adv"/></e>
 
   </section>
 
