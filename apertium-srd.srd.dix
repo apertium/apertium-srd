@@ -3623,6 +3623,8 @@
     <e lm="in suta de"><i>in<b/>suta<b/></i><par n="/de__pr"/></e>
     <e lm="subra"><i>subra</i><par n="a__pr"/></e>
     <e lm="subra" r="LR"><p><l>supra</l><r>subra</r></p><par n="a__pr"/></e>
+    <e lm="subra de"><i>subra<b/></i><par n="/de__pr"/></e>
+    <e lm="subra de" r="LR"><p><l>supra<b/></l><r>subra<b/></r></p><par n="/de__pr"/></e>
     <!--<e lm="a pustis"><i>a<b/>pustis</i><par n="a__pr"/></e>-->
     <!--<e lm="in antis"><i>in<b/>antis</i><par n="a__pr"/></e>-->
     <e lm="foras"><i>foras</i><par n="a__pr"/></e>
@@ -6483,7 +6485,6 @@
     <e lm="soldadu"><i>soldad</i><par n="amig/u__n"/></e>
     <e lm="sostitutu"><i>sostitut</i><par n="amig/u__n"/></e>
     <e lm="sostratu"><i>sostrat</i><par n="mac/u__n"/></e>
-    <e lm="su"><i>s</i><par n="mac/u__n"/></e>
     <e lm="subraintendente"><i>subraintendente</i><par n="pane__n"/></e>
     <e lm="subravènnidu"><i>subrav</i><par n="è/e"/><i>nnid</i><par n="mac/u__n"/></e>
     <e lm="superlativu"><i>superlativ</i><par n="mac/u__n"/></e>
@@ -36180,7 +36181,9 @@
     <e lm="antiprotetzionista"><i>antiprote</i><par n="tz/z"/><i>ionista</i><par n="meda__adj"/></e>
     <e lm="antiprotetzionismu"><i>antiprote</i><par n="tz/z"/><i>ionismu</i><par n="anarchismu__n"/></e>
     <e lm="protoistòria"><i>protoist</i><par n="ò/o"/><i>ria</i><par n="mesa__n"/></e>
-    <e lm="protoplasma"><i>protoplasma</i><par n="mesa__n"/></e>
+    <e lm="protoplasma"><i>protoplasma</i><par n="pane__n"/></e>
+    <e lm="plasma"><i>plasma</i><par n="pane__n"/></e>
+    <e lm="tzitoplasma"><par n="tz/c"/><i>itoplasma</i><par n="pane__n"/></e>
     <e lm="protzebboria"><i>protzebboria</i><par n="mesa__n"/></e>
     <e lm="provadura"><i>provadura</i><par n="mesa__n"/></e>
     <e lm="providèntzia"><i>provid</i><par n="difer/èntzia__n"/></e>
