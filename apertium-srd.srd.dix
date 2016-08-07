@@ -38795,7 +38795,7 @@
     <e lm="bene"><i>bene</i><par n="pane__n"/></e>
     <e lm="benèssere"><i>ben</i><par n="è/e"/><i>ssere</i><par n="pane__n"/></e>
     <e lm="benestante"><i>benestant</i><par n="fàtzil/e__adj"/></e>
-    <e lm="benestante"><i>benestant</i><par n="dentista__n"/></e>
+    <e lm="benestante"><i>benestante</i><par n="dentista__n"/></e>
     <e lm="benignidade"><i>benignidad</i><par n="region/e__n"/></e>
     <e lm="bentosidade"><i>bentosidad</i><par n="region/e__n"/></e>
     <e lm="bentràmene"><i>bentr</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
@@ -54751,8 +54751,6 @@
     <e lm="entzìclica"><i>en</i><par n="tz/c"/><i></i><par n="ì/i"/><i>clica</i><par n="mesa__n"/></e>
     <e lm="de nou"><i>de<b/>nou</i><par n="bene__adv"/></e>
 
-    <e lm="assessore"><i>assessor</i><par n="traballador/e__n"/></e>
-    <e lm="benestante"><i>benestant</i><par n="traballador/e__n"/></e>
     <e lm="revessu"><i>revess</i><par n="frantzes/u__adj"/></e>
 
   </section>
