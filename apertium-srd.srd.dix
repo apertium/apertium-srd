@@ -716,6 +716,13 @@
       <e>       <p><l>inas</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
  
+    <pardef n="vitzer/é__n">
+      <e>       <p><l>é</l><r>é<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>és</l><r>é<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>eina</l><r>é<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>einas</l><r>é<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+ 
     <pardef n="mesa__n">
       <e>       <p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>s</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -5825,6 +5832,7 @@
     <e lm="catedu"><i>cated</i><par n="amig/u__n"/></e>
 
     <e lm="re"><i>re</i><par n="re__n"/></e>
+    <e lm="vitzeré"><i>vitzer</i><par n="vitzer/é__n"/></e>
 
     <e lm="santu"><i>sant</i><par n="amig/u__n"/></e>
     <e lm="santu" r="LR"><p><l>San</l><r>Santu</r></p><par n="anarchismu__n"/></e>
@@ -33223,6 +33231,7 @@
     <e lm="isfatzidura"><i>isfatzidura</i><par n="mesa__n"/></e>
     <e lm="isfegadura"><i>isfegadura</i><par n="mesa__n"/></e>
     <e lm="isfera"><i>isfera</i><par n="mesa__n"/></e>
+    <e lm="semisfera"><i>semisfera</i><par n="mesa__n"/></e>
     <e lm="isfida"><i>isfida</i><par n="mesa__n"/></e>
     <e lm="isfidiada"><i>isfidiada</i><par n="mesa__n"/></e>
     <e lm="isfiladura"><i>isfiladura</i><par n="mesa__n"/></e>
@@ -54752,6 +54761,28 @@
     <e lm="de nou"><i>de<b/>nou</i><par n="bene__adv"/></e>
 
     <e lm="revessu"><i>revess</i><par n="frantzes/u__adj"/></e>
+
+    <e lm="semilibertade"><i>semilibertad</i><par n="region/e__n"/></e>
+    <e lm="semioscuridade"><i>semioscuridad</i><par n="region/e__n"/></e>
+    <e lm="semichicu"><i>semichic</i><par n="mac/u__n"/></e>
+    <e lm="semitraballadu"><i>semitraballad</i><par n="mac/u__n"/></e>
+    <e lm="semilìberu"><i>semilìber</i><par n="mac/u__n"/></e>
+    <e lm="semiterradu"><i>semiterrad</i><par n="mac/u__n"/></e>
+    <e lm="semitonu"><i>semiton</i><par n="mac/u__n"/></e>
+    <e lm="semipresidentzialismu"><i>semipresiden</i><par n="tz/z"/><i>ialismu</i><par n="anarchismu__n"/></e>
+    <e lm="semiabertu"><i>semiabert</i><par n="frantzes/u__adj"/></e>
+    <e lm="semiautomàticu"><i>semiautomàti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="semicràidu"><i>semicràid</i><par n="frantzes/u__adj"/></e>
+    <e lm="semidesertu"><i>semidesert</i><par n="frantzes/u__adj"/></e>
+    <e lm="semitralladu"><i>semitrallad</i><par n="frantzes/u__adj"/></e>
+    <e lm="seminudu"><i>seminud</i><par n="frantzes/u__adj"/></e>
+    <e lm="semisèriu"><i>semisèri</i><par n="frantzes/u__adj"/></e>
+    <e lm="semispontàneu"><i>semispontàne</i><par n="frantzes/u__adj"/></e>
+    <e lm="semibòidu"><i>semibòid</i><par n="frantzes/u__adj"/></e>
+    <e lm="semifinale"><i>semifinal</i><par n="fàtzil/e__adj"/></e>
+    <e lm="semipresidentziale"><i>semipresiden</i><par n="tz/z"/><i>ial</i><par n="fàtzil/e__adj"/></e>
+    <e lm="semipresidentzialista"><i>semipresiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
+    <e lm="semitrasparente"><i>semitrasparente</i><par n="meda__adj"/></e>
 
   </section>
 
