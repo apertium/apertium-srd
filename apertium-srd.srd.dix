@@ -5114,6 +5114,7 @@
     <e lm="atividade"><i>atividad</i><par n="region/e__n"/></e>
     <e lm="atividade" r="LR"><p><l>attividad</l><r>atividad</r></p><par n="region/e__n"/></e>
     <e lm="unidade"><i>unidad</i><par n="region/e__n"/></e>
+    <e lm="subunidade"><i>subunidad</i><par n="region/e__n"/></e>
     <e lm="persona"><i>persona</i><par n="mesa__n"/></e>
     <e lm="persona" r="LR"><p><l>pessona</l><r>persona</r></p><par n="mesa__n"/></e>
     <e lm="persona" r="LR"><p><l>pessone</l><r>persona</r></p><par n="mesa__n"/></e>
@@ -6415,6 +6416,7 @@
     <e lm="naradu"><i>narad</i><par n="amig/u__n"/></e>
     <e lm="nativu"><i>nativ</i><par n="mac/u__n"/></e>
     <e lm="nave"><i>nav</i><par n="region/e__n"/></e>
+    <e lm="astronave"><i>astronav</i><par n="region/e__n"/></e>
     <e lm="neghe"><i>negh</i><par n="region/e__n"/></e>
     <e lm="negotziadu"><i>negotziad</i><par n="mac/u__n"/></e>
     <e lm="negotziada"><i>negotziada</i><par n="mesa__n"/></e>
@@ -42969,6 +42971,7 @@
     <e lm="lavrisùtile"><i>lavris</i><par n="ù/u"/><i>til</i><par n="fàtzil/e__adj"/></e>
     <e lm="ledìbile"><i>led</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="lètone"><i>l</i><par n="è/e"/><i>ton</i><par n="fàtzil/e__adj"/></e>
+    <e lm="lètone"><i>l</i><par n="è/e"/><i>tone</i><par n="dentista__n"/></e>
     <e lm="levàtile"><i>lev</i><par n="à/a"/><i>til</i><par n="fàtzil/e__adj"/></e>
     <e lm="leve"><i>lev</i><par n="fàtzil/e__adj"/></e>
     <e lm="licante"><i>licant</i><par n="fàtzil/e__adj"/></e>
