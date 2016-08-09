@@ -5346,8 +5346,6 @@
     <e lm="capitalista"><i>capitalista</i><par n="meda__adj"/></e>
     <e lm="anticapitalista"><i>anticapitalista</i><par n="dentista__n"/></e>
     <e lm="anticapitalista"><i>anticapitalista</i><par n="meda__adj"/></e>
-    <e lm="pacifista"><i>pacifista</i><par n="dentista__n"/></e>
-    <e lm="pacifista"><i>pacifista</i><par n="meda__adj"/></e>
     <e lm="camionista"><i>camionista</i><par n="dentista__n"/></e>
     <e lm="tziclista"><par n="tz/c"/><i>iclista</i><par n="dentista__n"/></e>
     <e lm="tziclista"><par n="tz/c"/><i>iclista</i><par n="meda__adj"/></e>
@@ -23707,6 +23705,13 @@
     <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
     <e lm="torrare a nàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>nàrrere</l><r><g><b/>a<b/>nàrrere</g></r></p></e>
     <e lm="torrare a comintzare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>comintzare</l><r><g><b/>a<b/>comintzare</g></r></p></e>
+    <e lm="torrare a collocare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>collocare</l><r><g><b/>a<b/>collocare</g></r></p></e>
+    <e lm="torrare a classificare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>classificare</l><r><g><b/>a<b/>classificare</g></r></p></e>
+    <e lm="torrare a ativare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>ativare</l><r><g><b/>a<b/>ativare</g></r></p></e>
+    <e lm="torrare a ammìtere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>ammìtere</l><r><g><b/>a<b/>ammìtere</g></r></p></e>
+    <e lm="torrare a afirmare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>afirmare</l><r><g><b/>a<b/>afirmare</g></r></p></e>
+    <e lm="torrare a apàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>apàrrere</l><r><g><b/>a<b/>apàrrere</g></r></p></e>
+    <e lm="torrare a abèrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>abèrrere</l><r><g><b/>a<b/>abèrrere</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
