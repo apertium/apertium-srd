@@ -3976,11 +3976,13 @@
     <e lm="sèneghe"><i>s</i><par n="è/e"/><i>neghe</i><par n="pane__n"/></e>
     <e lm="cane"><i>cane</i><par n="pane__n"/></e>
     <e lm="animale"><i>animale</i><par n="pane__n"/></e>
+    <e lm="animale"><i>animal</i><par n="fàtzil/e__adj"/></e>
     <e lm="coro"><i>coro</i><par n="pane__n"/></e>
     <e lm="robot"><i>robot</i><par n="pane__n"/></e>
     <e lm="gatzile"><i>gatzile</i><par n="pane__n"/></e>
     <e lm="ufitziale"><i>ufitziale</i><par n="dentista__n"/></e>
     <e lm="giardinu"><i>giardin</i><par n="mac/u__n"/></e>
+    <e lm="cuntzìliu"><par n="cun/con"/><par n="tz/c"/><par n="ì/i"/><i>liu</i><par n="mac/u__n"/></e>
 
     <e lm="satellite"><i>satellite</i><par n="pane__n"/></e>
     <e lm="satellite" r="LR"><p><l>sàtellite</l><r>satellite</r></p><par n="pane__n"/></e>
@@ -4807,6 +4809,7 @@
     <e lm="matemàtica" r="LR"><p><l>matemati</l><r>matemàti</r></p><par n="linguìsti/ca__n"/></e>
     <e lm="fìsicu"><i>f</i><par n="ì/i"/><i>sic</i><par n="amig/u__n"/></e>
     <e lm="chìmicu"><i>ch</i><par n="ì/i"/><i>mic</i><par n="amig/u__n"/></e>
+    <e lm="biochìmicu"><i>bioch</i><par n="ì/i"/><i>mic</i><par n="amig/u__n"/></e>
     <e lm="idràulicu"><i>idr</i><par n="à/a"/><i>ulic</i><par n="amig/u__n"/></e>
     <e lm="mecànicu"><i>mec</i><par n="à/a"/><i>nic</i><par n="mac/u__n"/></e>
     <e lm="cantone"><i>canton</i><par n="region/e__n"/></e>
@@ -12548,6 +12551,8 @@
 
     <e lm="pònnere"><p><l>pòn</l><r>pònnere</r></p><par n="pòn/nere__vblex"/></e>
     <e lm="pònnere"><p><l>po</l><r>pònnere</r></p><par n="po/nes__vblex"/></e>
+    <e lm="pònnere a pare"><p><l>pòn</l><r>pònnere</r></p><par n="pòn/nere__vblex"/><p><l><b/>a<b/>pare</l><r><g><b/>a<b/>pare</g></r></p></e>
+    <e lm="pònnere a pare"><p><l>po</l><r>pònnere</r></p><par n="po/nes__vblex"/><p><l><b/>a<b/>pare</l><r><g><b/>a<b/>pare</g></r></p></e>
     <e lm="impònnere"><p><l>impòn</l><r>impònnere</r></p><par n="pòn/nere__vblex"/></e>
     <e lm="impònnere"><p><l>impo</l><r>impònnere</r></p><par n="po/nes__vblex"/></e>
     <e lm="propònnere"><p><l>propòn</l><r>propònnere</r></p><par n="pòn/nere__vblex"/></e>
@@ -13204,14 +13209,6 @@
     <e lm="abbacu"><i>abbac</i><par n="mac/u__n"/></e>
     <e lm="abbaditzu"><i>abbaditz</i><par n="mac/u__n"/></e>
     <e lm="abbadòrgiu"><i>abbad</i><par n="ò/o"/><i>rgi</i><par n="mac/u__n"/></e>
-
-    <e lm="contizada"><i>contizad</i><par n="region/e__n"/></e>
-    <e lm="foradura"><i>foradur</i><par n="region/e__n"/></e>
-    <e lm="sanadore"><i>sanador</i><par n="traballador/e__n"/></e>
-    <e lm="subrannaturale"><i>subrannatural</i><par n="fàtzil/e__adj"/></e>
-    <e lm="inèditu"><i>inèditu</i><par n="mac/u__n"/></e>
-    <e lm="affogare"><i>affogare</i><par n="cant/are_vblex"/></e>
-
     <e lm="abbajolu"><i>abbajol</i><par n="mac/u__n"/></e>
     <e lm="abbamanu"><i>abbaman</i><par n="mac/u__n"/></e>
     <e lm="abbanasu"><i>abbanas</i><par n="mac/u__n"/></e>
@@ -19567,7 +19564,8 @@
     <e lm="sonnìferu"><i>sonn</i><par n="ì/i"/><i>fer</i><par n="mac/u__n"/></e>
     <e lm="sònniu"><i>s</i><par n="ò/o"/><i>nni</i><par n="mac/u__n"/></e>
     <e lm="sopràbitu"><i>sopr</i><par n="à/a"/><i>bit</i><par n="mac/u__n"/></e>
-    <e lm="sopranu"><i>sopran</i><par n="mac/u__n"/></e>
+    <e lm="sopranu"><i>sopranu</i><par n="mesa__n"/></e>
+    <e lm="mesusopranu"><i>mesusopranu</i><par n="mesa__n"/></e>
     <e lm="soprusu"><i>soprus</i><par n="mac/u__n"/></e>
     <e lm="sorbidòrgiu"><i>sorbid</i><par n="ò/o"/><i>rgi</i><par n="mac/u__n"/></e>
     <e lm="sorellu"><i>sorell</i><par n="mac/u__n"/></e>
@@ -23483,6 +23481,7 @@
     <e lm="rotundare"><i>rotund</i><par n="cant/are__vblex"/></e>
     <e lm="rufianare"><i>rufian</i><par n="cant/are__vblex"/></e>
     <e lm="rugrare"><i>rugr</i><par n="cant/are__vblex"/></e>
+    <e lm="rugrare cùccuros"><i>rugr</i><par n="cant/are__vblex"/><p><l><b/>cùccuros</l><r><g><b/>cùccuros</g></r></p></e>
     <e lm="rullare"><i>rull</i><par n="cant/are__vblex"/></e>
     <e lm="rumbulare"><i>rumbul</i><par n="cant/are__vblex"/></e>
     <e lm="ruminare"><i>rumin</i><par n="cant/are__vblex"/></e>
@@ -30378,6 +30377,7 @@
     <e lm="chimera"><i>chimera</i><par n="mesa__n"/></e>
     <e lm="chimerista"><i>chimerista</i><par n="dentista__n"/></e>
     <e lm="chìmica"><i>ch</i><par n="ì/i"/><i>mica</i><par n="mesa__n"/></e>
+    <e lm="petrolchìmica"><i>petrolch</i><par n="ì/i"/><i>mica</i><par n="mesa__n"/></e>
     
     <e lm="aràngia"><i>ar</i><par n="à/a"/><i>ngi</i><par n="mesa__n"/></e>
     <e lm="bangàrgiu"><i>banc</i><par n="à/a"/><i>rgi</i><par n="amig/u__n"/></e>
@@ -44645,6 +44645,7 @@
     <e lm="chimentosu"><i>chimentos</i><par n="frantzes/u__adj"/></e>
     <e lm="chimèricu"><i>chim</i><par n="è/e"/><i>ri</i><par n="linguìsti/cu__adj"/></e>
     <e lm="chìmicu"><i>ch</i><par n="ì/i"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="biochìmicu"><i>bioch</i><par n="ì/i"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="chimidu"><i>chimid</i><par n="frantzes/u__adj"/></e>
     <e lm="chimigosu"><i>chimigos</i><par n="frantzes/u__adj"/></e>
     <e lm="chinadu"><i>chinad</i><par n="frantzes/u__adj"/></e>
@@ -54795,6 +54796,8 @@
     <e lm="semipresidentziale"><i>semipresiden</i><par n="tz/z"/><i>ial</i><par n="fàtzil/e__adj"/></e>
     <e lm="semipresidentzialista"><i>semipresiden</i><par n="tz/z"/><i>ialista</i><par n="meda__adj"/></e>
     <e lm="semitrasparente"><i>semitrasparente</i><par n="meda__adj"/></e>
+
+    <e lm="contitzada"><i>contitzada</i><par n="mesa__n"/></e>
 
   </section>
 
