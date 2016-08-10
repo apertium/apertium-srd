@@ -23712,6 +23712,7 @@
     <e lm="torrare a afirmare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>afirmare</l><r><g><b/>a<b/>afirmare</g></r></p></e>
     <e lm="torrare a apàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>apàrrere</l><r><g><b/>a<b/>apàrrere</g></r></p></e>
     <e lm="torrare a abèrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>abèrrere</l><r><g><b/>a<b/>abèrrere</g></r></p></e>
+    <e lm="torrare a costrùere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>costrùere</l><r><g><b/>a<b/>costrùere</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -54803,6 +54804,15 @@
     <e lm="semitrasparente"><i>semitrasparente</i><par n="meda__adj"/></e>
 
     <e lm="contitzada"><i>contitzada</i><par n="mesa__n"/></e>
+
+    <e lm="chi currispondet" r="RL"><p><l>chi<b/>currispondet</l><r>chi<b/>currispondet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi currispondet" r="RL"><p><l>chi<b/>currispondent</l><r>chi<b/>currispondet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi torrat a artziare" r="RL"><p><l>chi<b/>torrat<b/>a<b/>artziare</l><r>chi<b/>torrat<b/>a<b/>artziare<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi torrat a artziare" r="RL"><p><l>chi<b/>torrant<b/>a<b/>artziare</l><r>chi<b/>torrat<b/>a<b/>artziare<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi apartenet" r="RL"><p><l>chi<b/>apartenet</l><r>chi<b/>apartenet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi apartenet" r="RL"><p><l>chi<b/>apartenent</l><r>chi<b/>apartenet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi cuntenit" r="RL"><p><l>chi<b/>cuntenit</l><r>chi<b/>cuntenit<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi cuntenit" r="RL"><p><l>chi<b/>cuntenint</l><r>chi<b/>cuntenit<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
   </section>
 
