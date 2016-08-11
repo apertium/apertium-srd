@@ -3557,13 +3557,24 @@
 
     <e lm="comente"><i>comente</i><par n="bene__adv"/></e>
     <e lm="comente"><i>comente</i><par n="cando__adv"/></e>
+<!--
     <e lm="comente"><i>comente</i><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="cando__rel"/></e>
+-->
+    <e lm="comente a"><i>comente<b/>a</i><par n="cando__rel"/></e>
+    <e lm="comente a" r="LR"><p><l>comenti<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
+    <e lm="comente a" r="LR"><p><l>cumenti<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
+    <e lm="comente a" r="LR"><p><l>commenti<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
+    <e lm="comente a" r="LR"><p><l>cummente<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
 
     <e lm="comente"><i>comente</i><par n="duncas__cnjadv"/></e>
+    <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="duncas__cnjadv"/></e>
+    <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="duncas__cnjadv"/></e>
+    <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="duncas__cnjadv"/></e>
+    <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="duncas__cnjadv"/></e>
     <e lm="cantu"><i>cantu</i><par n="duncas__cnjadv"/></e>
 
     <e lm="cando"><i>cando</i><par n="cando__rel"/></e>
@@ -47839,7 +47850,7 @@
     <e lm="magumadesu"><i>magumades</i><par n="frantzes/u__adj"/></e>
     <e lm="maicantu"><i>maicant</i><par n="frantzes/u__adj"/></e>
     <e lm="maimullu"><i>maimull</i><par n="frantzes/u__adj"/></e>
-    <e lm="majore"><i>major</i><par n="cunservador/e__adj"/></e>
+    <e lm="majore"><i>major</i><par n="fàtzil/e__adj"/></e>
     <e lm="majusculeddu"><i>majusculedd</i><par n="frantzes/u__adj"/></e>
     <e lm="majùsculu"><i>maj</i><par n="ù/u"/><i>scul</i><par n="frantzes/u__adj"/></e>
     <e lm="malacontzadu"><i>malacontzad</i><par n="frantzes/u__adj"/></e>
@@ -54886,9 +54897,9 @@
     <e lm="imbucada"><i>imbucada</i><par n="mesa__n"/></e>
     <e lm="istampa"><i>istampa</i><par n="mesa__n"/></e>
     <e lm="màchina"><i>màchina</i><par n="mesa__n"/></e>
-    <e lm="pretzedente"><i>pretzedent</i><par n="dentista__n"/></e>
+    <e lm="pretzedente"><i>pretzedente</i><par n="dentista__n"/></e>
     <e lm="rècord"><i>rècord</i><par n="pane__n"/></e>
-    <e lm="responsàbile"><i>responsàbil</i><par n="dentista__n"/></e>
+    <e lm="responsàbile"><i>responsàbile</i><par n="dentista__n"/></e>
     <e lm="set"><i>set</i><par n="pane__n"/></e>
     <e lm="sèmene"><i>sèmene</i><par n="pane__n"/></e>
     <e lm="tzentrale"><i>tzentral</i><par n="traballador/e__n"/></e>
@@ -54948,6 +54959,7 @@
     <e lm="solu"><i>solu</i><par n="bene__adv"/></e>
     <e lm="unu pagu"><i>unu<b/>pagu</i><par n="bene__adv"/></e>
 
+    <e lm="galàticu"><i>galàti</i><par n="linguìsti/cu__adj"/></e>
  </section>
 
   <section id="apostrophe" type="postblank">
