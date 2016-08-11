@@ -926,6 +926,13 @@
       <e>       <p><l>s</l><r><s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="cant/u__adj" c="p.30">
+      <e>       <p><l>u</l><r>u<s n="adj"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>a</l><r>u<s n="adj"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>os</l><r>u<s n="adj"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>as</l><r>u<s n="adj"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="àter/u__adj">
       <e>       <p><l>u</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>o</l><r>u<s n="adj"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -3709,6 +3716,7 @@
     <e lm="bos"><i>bos</i><par n="bos__prn"/></e>
 
     <e lm="cantu"><i>cant</i><par n="cant/u__prn"/></e>
+    <e lm="cantu"><i>cant</i><par n="cant/u__adj"/></e>
     <e lm="cale"><i>cale</i><par n="cale__prn"/></e>
     <e lm="chie"><i>chie</i><par n="chie__prn"/></e>
     <e lm="ite"><i>ite</i><par n="ite__prn"/></e>
@@ -5175,6 +5183,7 @@
     <e lm="serie"><i>seri</i><par n="region/e__n"/></e>
     <e lm="esperièntzia"><i>esperi</i><par n="difer/èntzia__n"/></e>
     <e lm="democratzia"><i>democratzia</i><par n="mesa__n"/></e>
+    <e lm="sotzialdemocratzia"><i>so</i><par n="tz/c"/><i>ialdemocratzia</i><par n="mesa__n"/></e>
     <e lm="diplomatzia"><i>diplomatzia</i><par n="mesa__n"/></e>
     <e lm="fortza"><i>fortza</i><par n="mesa__n"/></e>
     <e lm="violèntzia"><i>viol</i><par n="difer/èntzia__n"/></e>
@@ -5366,7 +5375,6 @@
     <e lm="taoismu"><i>taoismu</i><par n="anarchismu__n"/></e>
     <e lm="surrealismu"><i>surrealismu</i><par n="anarchismu__n"/></e>
     <e lm="suprematismu"><i>suprematismu</i><par n="anarchismu__n"/></e>
-    <e lm="socialismu"><i>socialismu</i><par n="anarchismu__n"/></e>
     <e lm="simbolismu"><i>simbolismu</i><par n="anarchismu__n"/></e>
     <e lm="ratzionalismu"><i>ra</i><par n="tz/z"/><i>ionalismu</i><par n="anarchismu__n"/></e>
     <e lm="politeismu"><i>politeismu</i><par n="anarchismu__n"/></e>
@@ -6306,6 +6314,7 @@
     <e lm="evasione"><i>evasion</i><par n="region/e__n"/></e>
     <e lm="faturadu"><i>faturad</i><par n="mac/u__n"/></e>
     <e lm="feudalesimu"><i>feudalesim</i><par n="mac/u__n"/></e>
+    <e lm="feudalidade"><i>feudalidad</i><par n="region/e__n"/></e>
     <e lm="fide"><i>fid</i><par n="region/e__n"/></e>
     <e lm="fintu"><i>fint</i><par n="mac/u__n"/></e>
     <e lm="firmada"><i>firmada</i><par n="mesa__n"/></e>
@@ -10899,7 +10908,6 @@
     <e lm="sèriu"><i>s</i><par n="è/e"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="reatzionàriu"><i>rea</i><par n="tz/z"/><i>ionàri</i><par n="frantzes/u__adj"/></e>
     <e lm="missionàriu"><i>mission</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
-    <e lm="socialdemocràticu"><i>socialdemocr</i><par n="à/a"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="aereonàuticu"><i>aereon</i><par n="à/a"/><i>uti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="caraterìsticu"><i>carater</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
 
@@ -11239,7 +11247,6 @@
     <e lm="metàllicu"><i>met</i><par n="à/a"/><i>lli</i><par n="linguìsti/cu__adj"/></e>
 
     <e lm="polìticu"><i>pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="polìticu" r="LR"><p><l>politi</l><r>polìti</r></p><par n="linguìsti/cu__adj"/></e>
 
     <e lm="artìsticu"><i>art</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="artìsticu" r="LR"><p><l>artisti</l><r>artìsti</r></p><par n="linguìsti/cu__adj"/></e>
@@ -11322,7 +11329,9 @@
     <e lm="acadèmicu"><i>acad</i><par n="è/e"/><i>mi</i><par n="linguìsti/cu__adj"/></e>
 
     <e lm="democràticu"><i>democr</i><par n="à/a"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
-    <e lm="democràticu" r="LR"><p><l>democrati</l><r>democràti</r></p><par n="linguìsti/cu__adj"/></e>
+    <e lm="sotzialdemocràticu"><i>so</i><par n="tz/c"/><i>ialdemocr</i><par n="à/a"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="democràticu"><i>democr</i><par n="à/a"/><i>ti</i><par n="amig/u__n"/></e>
+    <e lm="sotzialdemocràticu"><i>so</i><par n="tz/c"/><i>ialdemocr</i><par n="à/a"/><i>tic</i><par n="amig/u__n"/></e>
 
     <e lm="iscientìficu"><i>iscient</i><par n="ì/i"/><i>fi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="iscientìficu" r="LR"><p><l>scientifi</l><r>iscientìfi</r></p><par n="linguìsti/cu__adj"/></e>
@@ -11332,6 +11341,7 @@
     <e lm="linguìsticu"><i>lingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="psicolinguìsticu"><i>psicolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="neurolinguìsticu"><i>neurolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="geolinguìsticu"><i>geolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
 
     <!--<e lm="banduleri"><i>banduler</i><par n="banduler/i__adj"/></e>-->
 
@@ -11339,8 +11349,6 @@
     <e lm="meda" r="LR"><p><l>mera</l><r>meda</r></p><par n="meda__adj"/></e>
     <e lm="indipendentista"><i>indipendentista</i><par n="meda__adj"/></e>
     <e lm="indipendentista"><i>indipendentista</i><par n="dentista__n"/></e>
-    <e lm="socialista"><i>socialista</i><par n="meda__adj"/></e>
-    <e lm="socialista"><i>socialista</i><par n="dentista__n"/></e>
     <e lm="generalista"><i>generalista</i><par n="meda__adj"/></e>
     <e lm="populista"><i>populista</i><par n="meda__adj"/></e>
     <e lm="populista"><i>populista</i><par n="dentista__n"/></e>
@@ -23713,6 +23721,7 @@
     <e lm="torrare a apàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>apàrrere</l><r><g><b/>a<b/>apàrrere</g></r></p></e>
     <e lm="torrare a abèrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>abèrrere</l><r><g><b/>a<b/>abèrrere</g></r></p></e>
     <e lm="torrare a costrùere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>costrùere</l><r><g><b/>a<b/>costrùere</g></r></p></e>
+    <e lm="torrare a artziare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>artziare</l><r><g><b/>a<b/>artziare</g></r></p></e>
     <e lm="tortillare"><i>tortill</i><par n="cant/are__vblex"/></e>
     <e lm="torturare"><i>tortur</i><par n="cant/are__vblex"/></e>
     <e lm="tosconare"><i>toscon</i><par n="cant/are__vblex"/></e>
@@ -28388,7 +28397,6 @@
     <e lm="ùnghere"><p><l>un</l><r>ùnghere</r></p><par n="tin/tu__vblex"/></e>
 
 
-
     <e lm="sèere"><i>s</i><par n="s/èere__vblex"/></e>
 
     <!--
@@ -30648,6 +30656,7 @@
     <e lm="compostesa"><i>compostesa</i><par n="mesa__n"/></e>
     <e lm="compostura"><i>compostura</i><par n="mesa__n"/></e>
     <e lm="computer"><i>computer</i><par n="pane__n"/></e>
+    <e lm="supercomputer"><i>supercomputer</i><par n="pane__n"/></e>
     <e lm="comunada"><i>comunada</i><par n="mesa__n"/></e>
     <e lm="comunedda"><i>comunedda</i><par n="mesa__n"/></e>
     <e lm="comunella"><i>comunella</i><par n="mesa__n"/></e>
@@ -42463,11 +42472,6 @@
     <e lm="vitzeministru"><i>vi</i><par n="tz/c"/><i>eministr</i><par n="amig/u__n"/></e>
     <e lm="zirigheddu"><i>zirighedd</i><par n="amig/u__n"/></e>
 
-
-   
-
-
-
 <!-- SECTION: adjetivos extraídos de CROS a partir de los paradigmas /A, /B, /b, /C, y /c -->
 
     <e lm="abballiante"><i>abballiant</i><par n="fàtzil/e__adj"/></e>
@@ -49999,7 +50003,6 @@
     <e lm="amig"><i>sostitutiv</i><par n="frantzes/u__adj"/></e>
     <e lm="sostitutu"><i>sostitut</i><par n="frantzes/u__adj"/></e>
     <e lm="sostratu"><i>sostrat</i><par n="frantzes/u__adj"/></e>
-    <e lm="sotzialdemocràticu"><i>so</i><par n="tz/z"/><i>ialdemocr</i><par n="à/a"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
     <e lm="sotzietàriu"><i>so</i><par n="tz/z"/><i>iet</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
     <e lm="sotziològicu"><i>so</i><par n="tz/z"/><i>iol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="sotziolinguìsticu"><i>so</i><par n="tz/z"/><i>iolingu</i><par n="ì/i"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
@@ -54022,12 +54025,16 @@
     <e lm="Apenninu"><i>Apenninu</i><par n="Afganistàn__np"/></e>
     <e lm="asteròide"><i>aster</i><par n="ò/o"/><i>ide</i><par n="pane__n"/></e>
     <e lm="rock"><i>rock</i><par n="anarchismu__n"/></e>
+    <e lm="pop"><i>pop</i><par n="anarchismu__n"/></e>
     <e lm="punk"><i>punk</i><par n="anarchismu__n"/></e>
+    <e lm="rap"><i>rap</i><par n="anarchismu__n"/></e>
     <e lm="jazz"><i>jazz</i><par n="anarchismu__n"/></e>
+    <e lm="metal"><i>metal</i><par n="anarchismu__n"/></e>
     <e lm="rugby"><i>rugby</i><par n="anarchismu__n"/></e>
     <e lm="basketball"><i>basketball</i><par n="anarchismu__n"/></e>
     <e lm="football"><i>football</i><par n="anarchismu__n"/></e>
     <e lm="baseball"><i>baseball</i><par n="anarchismu__n"/></e>
+    <e lm="top"><i>top</i><par n="anarchismu__n"/></e>
 
     <e lm="reconnoschìbile"><i>reconnosch</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
     <e lm="Buenos Aires"><i>Buenos<b/>Aires</i><par n="Afganistàn__np"/></e>
@@ -54813,6 +54820,52 @@
     <e lm="chi apartenet" r="RL"><p><l>chi<b/>apartenent</l><r>chi<b/>apartenet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="chi cuntenit" r="RL"><p><l>chi<b/>cuntenit</l><r>chi<b/>cuntenit<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="chi cuntenit" r="RL"><p><l>chi<b/>cuntenint</l><r>chi<b/>cuntenit<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi fàghet" r="RL"><p><l>chi<b/>fàghet</l><r>chi<b/>fàghet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi fàghet" r="RL"><p><l>chi<b/>fàghent</l><r>chi<b/>fàghet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi riguardat" r="RL"><p><l>chi<b/>riguardat</l><r>chi<b/>riguardat<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi riguardat" r="RL"><p><l>chi<b/>riguardant</l><r>chi<b/>riguardat<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+
+    <e lm="isfinge"><i>isfinge</i><par n="mesa__n"/></e>
+    <e lm="analìticu"><i>anal</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="apolìticu"><i>apol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="catalìticu"><i>catal</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="dialìticu"><i>dial</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="eletrolìticu"><i>eletrol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="geo-polìticu"><i>geo-pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="geopolìticu"><i>geopol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="impolìticu"><i>impol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="israelìticu"><i>israel</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="monolìticu"><i>monol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="eneolìticu"><i>eneol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="neolìticu"><i>neol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="paleolìticu"><i>paleol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="paralìticu"><i>paral</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="poliomielìticu"><i>poliomiel</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="pre-polìticu"><i>pre-pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="psicanalìticu"><i>psicanal</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="sifilìticu"><i>sifil</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="sotzio-polìticu"><i>so</i><par n="tz/c"/><i>io-pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="istorico-polìticu"><i>istorico-pol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+    <e lm="megalìticu"><i>megal</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
+
+    <e lm="detzìdere de"><p><l>detzìd</l><r>detzìdere</r></p><par n="tìm/ere__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+    <e lm="detzìdere de"><p><l>detzid</l><r>detzìdere</r></p><par n="tim/o__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+
+    <e lm="toarradu a bìere"><i>torrad</i><par n="frantzes/u__adj"/><p><l><b/>a<b/>bìere</l><r><g><b/>a<b/>bìere</g></r></p></e>
+
+    <e lm="Tour"><i>Tour</i><par n="Linux__np"/></e>
+    <e r="RL" lm="de oe"><i>de<b/>oe</i><par n="matessi__adj"/></e>
+    <e r="RL" lm="de fùbalu"><i>de<b/>fùbalu</i><par n="matessi__adj"/></e>
+    <e lm="pop"><i>pop</i><par n="matessi__adj"/></e>
+    <e lm="rock"><i>rock</i><par n="matessi__adj"/></e>
+    <e lm="punk"><i>punk</i><par n="matessi__adj"/></e>
+    <e lm="rap"><i>rap</i><par n="matessi__adj"/></e>
+    <e lm="metal"><i>metal</i><par n="matessi__adj"/></e>
+    <e lm="super"><i>super</i><par n="matessi__adj"/></e>
+    <e lm="extra"><i>extra</i><par n="matessi__adj"/></e>
+    <e lm="tipu"><i>tipu</i><par n="matessi__adj"/></e>
+    <e lm="tennis"><i>tennis</i><par n="anarchismu__n"/></e>
+    <e lm="top"><i>top</i><par n="anarchismu__n"/></e>
 
   </section>
 
