@@ -670,7 +670,6 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
   <e>       <p><l>issa</l>      <r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
   <e>       <p><l>essas</l>     <r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>essa</l>      <r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e> <!-- @!LSC (CROS) -->
- <!-- @!LSC (CROS) -->
 </pardef>
 
 <pardef n="cont/e__n">
@@ -774,6 +773,10 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <pardef n="anarchismu__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="gay__n">
+  <e>       <p><l></l>          <r><s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
 
 <pardef n="nord__n">
@@ -12359,6 +12362,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
     <!-- SECTION: Verbs -->
 
 <e lm="èssere">          <i></i><par n="/èssere__vbser"/></e>
+<e lm="èssere">          <i></i><par n="/èssere__vbser"/><p><l><b/>a<b/>largu</l><r><g><b/>a<b/>largu</g></r></p></e>
 <e lm="àere">            <i></i><par n="/àere__vbhaver"/></e>
 <e lm="àere">            <i></i><par n="/àere__vblex"/></e>
 <e lm="àere de">         <i></i><par n="/àere__vbmod"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
@@ -12629,6 +12633,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="fàghere">         <i>f</i><par n="f/àghere__vblex"/></e>
 <e lm="fàghere parte">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>parte</l><r><g><b/>parte</g></r></p></e>
 <e r="LR" lm="fàghere parte"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parti</l><r><g><b/>parte</g></r></p></e>
+<e lm="fàghere a gara">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>a<b/>gara</l><r><g><b/>a<b/>gara</g></r></p></e>
 <e lm="contrafàghere">   <i>contraf</i><par n="f/àghere__vblex"/></e>
 <e lm="cunfàghere">      <par n="cun/con"/><i>f</i><par n="f/àghere__vblex"/></e>
 <e lm="disfàghere">      <i>disf</i><par n="f/àghere__vblex"/></e>
@@ -23753,6 +23758,8 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="torrare a disignare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>disignare</l><r><g><b/>a<b/>disignare</g></r></p></e>
 <e lm="torrare a disinnare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>disinnare</l><r><g><b/>a<b/>disinnare</g></r></p></e>
 <e lm="torrare a dae segus"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>dae<b/>segus</l><r><g><b/>a<b/>dae<b/>segus</g></r></p></e>
+<e lm="torrare a sètzere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>sètzere</l><r><g><b/>a<b/>sètzere</g></r></p></e>
+<e lm="torrare a pònnere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>pònnere</l><r><g><b/>a<b/>pònnere</g></r></p></e>
 <e lm="tortillare">      <i>tortill</i><par n="cant/are__vblex"/></e>
 <e lm="torturare">       <i>tortur</i><par n="cant/are__vblex"/></e>
 <e lm="tosconare">       <i>toscon</i><par n="cant/are__vblex"/></e>
@@ -35344,7 +35351,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="pannuga">         <i>pannuga</i><par n="mesa__n"/></e>
 <e lm="pannugra">        <i>pannugra</i><par n="mesa__n"/></e>
 <e lm="pannutzu">        <i>pannutz</i><par n="mac/u__n"/></e>
-<e lm="pantasma">        <i>pantasma</i><par n="mesa__n"/></e>
+<e lm="pantasma">        <i>pantasma</i><par n="pane__n"/></e>
 <e lm="pantea">          <i>pantea</i><par n="mesa__n"/></e>
 <e lm="pantera">         <i>pantera</i><par n="mesa__n"/></e>
 <e lm="pantòfula">       <i>pant</i><par n="ò/o"/><i>fula</i><par n="mesa__n"/></e>
@@ -35508,7 +35515,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="patologia">       <i>patologia</i><par n="mesa__n"/></e>
 <e lm="patotza">         <i>patotza</i><par n="mesa__n"/></e>
 <e lm="patranga">        <i>patranga</i><par n="mesa__n"/></e>
-<e lm="patriarca">       <i>patriarca</i><par n="pane__n"/></e>
+<e lm="patriarca">       <i>patriarca</i><par n="dentista__n"/></e>
 <e lm="patrimòniu">      <i>patrim</i><par n="ò/o"/><i>ni</i><par n="mac/u__n"/></e>
 <e lm="patriotismu">     <i>patriotismu</i><par n="anarchismu__n"/></e>
 <e lm="patrùllia">       <i>patr</i><par n="ù/u"/><i>llia</i><par n="mesa__n"/></e>
@@ -54067,6 +54074,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="metal">           <i>metal</i><par n="anarchismu__n"/></e>
 <e lm="rugby">           <i>rugby</i><par n="anarchismu__n"/></e>
 <e lm="basketball">      <i>basketball</i><par n="anarchismu__n"/></e>
+<e lm="basket">         <i>basket</i><par n="anarchismu__n"/></e>
 <e lm="football">        <i>football</i><par n="anarchismu__n"/></e>
 <e lm="baseball">        <i>baseball</i><par n="anarchismu__n"/></e>
 <e lm="top">             <i>top</i><par n="anarchismu__n"/></e>
@@ -54298,6 +54306,8 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="blog">            <i>blog</i><par n="pane__n"/></e>
 <e lm="bloger">          <i>bloger</i><par n="dentista__n"/></e>
 <e r="LR" lm="blogger">  <p><l>blogger</l>   <r>bloger</r></p><par n="dentista__n"/></e>
+<e lm="raper">          <i>raper</i><par n="dentista__n"/></e>
+<e r="LR" lm="rapper">  <p><l>rapper</l>   <r>raper</r></p><par n="dentista__n"/></e>
 <e lm="blogare">         <i>blog</i><par n="seg/are__vblex"/></e>
 <e r="LR" lm="bloggare"> <p><l>blogg</l>     <r>blog</r></p><par n="seg/are__vblex"/></e>
 <e lm="fan">             <i>fan</i><par n="dentista__n"/></e>
@@ -54865,6 +54875,14 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e r="RL" lm="chi creschet"><p><l>chi<b/>creschent</l><r>chi<b/>creschet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL" lm="chi bessat"><p><l>chi<b/>bessat</l><r>chi<b/>bessat<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="RL" lm="chi bessat"><p><l>chi<b/>bessant</l><r>chi<b/>bessat<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL" lm="chi abarrat"><p><l>chi<b/>abarrat</l><r>chi<b/>abarrat<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL" lm="chi abarrat"><p><l>chi<b/>abarrant</l><r>chi<b/>abarrat<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL" lm="chi cumprendet"><p><l>chi<b/>cumprendet</l><r>chi<b/>cumprendet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL" lm="chi cumprendet"><p><l>chi<b/>cumprendent</l><r>chi<b/>cumprendet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL" lm="chi esistit"><p><l>chi<b/>esistit</l><r>chi<b/>esistit<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL" lm="chi esistit"><p><l>chi<b/>esistint</l><r>chi<b/>esistit<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL" lm="chi tenet"><p><l>chi<b/>tenet</l><r>chi<b/>tenet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL" lm="chi tenet"><p><l>chi<b/>tenent</l><r>chi<b/>tenet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
 <e lm="isfinge">         <i>isfinge</i><par n="mesa__n"/></e>
 <e lm="apolìticu">       <i>apol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
@@ -55122,7 +55140,29 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="TV">              <i>TV</i><par n="TV__n"/></e>
 <e lm="UA">              <i>UA</i><par n="TV__n"/></e>
 
+<e lm="de su Rinaschimentu">              <i>de<b/>su<b/>Rinaschimentu</i><par n="matessi__adj"/></e>
+<e lm="de duos annos">              <i>de<b/>duos<b/>annos</i><par n="matessi__adj"/></e>
+<e lm="de Pasca">              <i>de<b/>Pasca</i><par n="matessi__adj"/></e>
+
+<e lm="fantasy">              <i>fantasy</i><par n="anarchismu__n"/></e>
+<e lm="staff">              <i>staff</i><par n="anarchismu__n"/></e>
+<e lm="termas">              <i>termas</i><par n="càmbaras__n"/></e>
+<e lm="gay">              <i>gay</i><par n="matessi__adj"/></e>
+<e lm="gay">              <i>gay</i><par n="gay__n"/></e>
+<e lm="geek">              <i>geek</i><par n="dentista__n"/></e>
+<e lm="killer">              <i>killer</i><par n="dentista__n"/></e>
+<e lm="ring">              <i>ring</i><par n="pane__n"/></e>
+<e lm="server">              <i>server</i><par n="pane__n"/></e>
+<e lm="premier">              <i>premier</i><par n="dentista__n"/></e>
+<e lm="bonus">              <i>bon</i><par n="temp/us__n"/></e>
+<e lm="tele">              <i>tele</i><par n="càmbaras__n"/></e>
+<e lm="appustis mortu">              <i>appustis mortu</i><par n="matessi__adj"/></e>
+
+<e lm="primu fìgiu">   <p><l>primu<b/>fìgiu</l>          <r>primu<b/>fìgiu<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="primu fìgiu">   <p><l>primus<b/>fìgius</l>        <r>primu<b/>fìgiu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+
   </section>
+
   <section id="apostrophe" type="postblank">
 <e r="LR" lm="s'">       <p><l>s'</l>        <r>su<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="RL" lm="s'">       <p><l><a/>su</l>    <r>su<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -55147,6 +55187,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e r="LR" lm="b'">       <p><l>b'</l>        <r>bi<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR" lm="s'">       <p><l>s'</l>        <r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
   </section>
+
   <section id="final" type="inconditional">
 <e>                      <par n="separa"/></e>
 <e>                      <par n="coma"/></e>
