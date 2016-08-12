@@ -12384,6 +12384,7 @@
 
     <e lm="pranghiare"><i>pranghi</i><par n="cant/are__vblex"/></e>
     <e lm="carinnare"><i>carinn</i><par n="cant/are__vblex"/></e>
+    <e lm="internare"><i>intern</i><par n="cant/are__vblex"/></e>
     <e lm="dimostrare"><i>dimostr</i><par n="cant/are__vblex"/></e>
     <e lm="dimostrare" r="LR"><p><l>demostr</l><r>dimostr</r></p><par n="cant/are__vblex"/></e>
     <e lm="dimostrare" r="LR"><p><l>dimostr</l><r>dimostr</r></p><par n="cant/are__vblex"/></e>
@@ -37747,6 +37748,7 @@
     <e lm="torchidura"><i>torchidura</i><par n="mesa__n"/></e>
     <e lm="torinadura"><i>torinadura</i><par n="mesa__n"/></e>
     <e lm="torrada"><i>torrada</i><par n="mesa__n"/></e>
+    <e lm="torrada a dae segus"><i>torrada</i><par n="mesa__n"/><p><l><b/>a<b/>dae<b/>segus</l><r><g><b/>a<b/>dae<b/>segus</g></r></p></e>
     <e lm="torradòrgia"><i>torrad</i><par n="ò/o"/><i>rgia</i><par n="mesa__n"/></e>
     <e lm="tòrrina"><i>t</i><par n="ò/o"/><i>rrina</i><par n="mesa__n"/></e>
     <e lm="tortesa"><i>tortesa</i><par n="mesa__n"/></e>
@@ -54875,6 +54877,8 @@
     <e lm="chi ofendet" r="RL"><p><l>chi<b/>ofendent</l><r>chi<b/>ofendet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="chi creschet" r="RL"><p><l>chi<b/>creschet</l><r>chi<b/>creschet<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="chi creschet" r="RL"><p><l>chi<b/>creschent</l><r>chi<b/>creschet<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="chi bessat" r="RL"><p><l>chi<b/>bessat</l><r>chi<b/>bessat<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="chi bessat" r="RL"><p><l>chi<b/>bessant</l><r>chi<b/>bessat<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e lm="isfinge"><i>isfinge</i><par n="mesa__n"/></e>
     <e lm="apolìticu"><i>apol</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
@@ -54918,7 +54922,7 @@
     <e lm="re-tràere"><p><l>re-tra</l><r>re-tràere</r></p><par n="tim/o__vblex"/></e>
     <e lm="fùndere"><p><l>fùnd</l><r>fùndere</r></p><par n="tìm/ere__vblex"/></e>
     <e lm="fùndere"><p><l>fund</l><r>fùndere</r></p><par n="tim/o__vblex"/></e>
-    <e lm="militare"><i>milit</i><par n="cant/are__vblex"/></e> <!-- LSC ? -->
+    <e lm="militare"><i>milit</i><par n="cant/are__vblex"/></e>
 
     <e lm="dae bivu"><i>dae<b/>bivu</i><par n="anarchismu__n"/></e>
     <e lm="artzidiòtzesi"><i>artzidiòtzesi</i><par n="mesa__n"/></e>
@@ -55005,6 +55009,15 @@
     <e lm="pallavolo"><i>pallavolo</i><par n="anarchismu__n"/></e>
     <e lm="foto"><i>foto</i><par n="mesa__n"/></e>
     <e lm="tv"><i>tv</i><par n="càmbaras__n"/></e>
+    <e lm="miss"><i>miss</i><par n="càmbaras__n"/></e>
+    <e lm="lady"><i>lady</i><par n="càmbaras__n"/></e>
+    <e lm="islàlom"><i>islàlom</i><par n="pane__n"/></e>
+    <e lm="slalom"><p><l>slalom</l><r>islàlom</r></p><par n="pane__n"/></e>
+    <e lm="Pokémon"><i>Pokémon</i><par n="pane__n"/></e>
+    <e lm="Pokemon"><p><l>Pokemon</l><r>Pokémon</r></p><par n="pane__n"/></e>
+    <e lm="de professionista"><i>de<b/>professionista</i><par n="matessi__adj"/></e>
+    <e lm="virus"><i>vir</i><par n="temp/us__n"/></e>
+    <e lm="manager"><i>manager</i><par n="dentista__n"/></e>
 
 
  </section>
