@@ -55057,42 +55057,41 @@ R
 <e lm="baterista">       <i>baterista</i><par n="dentista__n"/></e>
 <e lm="bobina">          <i>bobina</i><par n="mesa__n"/></e>
 <e lm="bubbulica">       <i>bubbulica</i><par n="mesa__n"/></e>
-<e lm="cast">            <i>cast</i><par n="pane__n"/></e>
+<e lm="cast" c="istrangerismu">            <i>cast</i><par n="pane__n"/></e>
 <e lm="cobertura">       <i>cobertura</i><par n="pane__n"/></e>
 <e lm="corona">          <i>corona</i><par n="mesa__n"/></e>
 <e lm="crèsia majore">   <p><l>crèsia<b/>majore</l><r>crèsia<b/>majore<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="crèsia majore">   <p><l>crèsias<b/>majores</l><r>crèsia<b/>majore<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="democràticu">     <i>democràtic</i><par n="amig/u__n"/></e>
-<e lm="design">          <i>design</i><par n="pane__n"/></e>
-<e lm="duettu">          <i>duett</i><par n="mac/u__n"/></e>
+<e lm="design" c="istrangerismu">          <i>design</i><par n="pane__n"/></e>
+<e lm="duetu">           <i>duet</i><par n="mac/u__n"/></e>
 <e lm="franca">          <i>franca</i><par n="mesa__n"/></e>
 <e lm="fèrta">           <i>fèrta</i><par n="mesa__n"/></e>
 <e lm="gene">            <i>gene</i><par n="pane__n"/></e>
-<e lm="hall">            <i>hall</i><par n="pane__n"/></e>
-<e lm="home">            <i>hom</i><par n="region/e__n"/></e>
-<e lm="hotel">           <i>hotel</i><par n="pane__n"/></e>
+<e lm="hall" c="istrangerismu">            <i>hall</i><par n="pane__n"/></e>
+<e lm="home" c="istrangerismu">            <i>hom</i><par n="region/e__n"/></e>
+<e lm="hotel" c="istrangerismu">           <i>hotel</i><par n="pane__n"/></e>
 <e lm="irrugadore">      <i>irrugadore</i><par n="pane__n"/></e>
 <e lm="iscenegiadura">   <i>iscenegiadura</i><par n="mesa__n"/></e>
-<e lm="manga">           <i>manga</i><par n="pane__n"/></e>
+<e lm="manga" c="istrangerismu">           <i>manga</i><par n="pane__n"/></e>
 <e lm="manzanu">         <i>manzan</i><par n="mac/u__n"/></e>
 <e lm="mertze">          <i>mertz</i><par n="region/e__n"/></e>
 <e lm="mitza">           <i>mitza</i><par n="pane__n"/></e>
 <e lm="munitzipalidade"> <i>munitzipalidad</i><par n="region/e__n"/></e>
-<e lm="musical">         <i>musical</i><par n="pane__n"/></e>
+<e lm="musical" c="istrangerismu">         <i>musical</i><par n="pane__n"/></e>
 <e lm="normannu">        <i>normann</i><par n="amig/u__n"/></e>
 <e lm="partetzipante">   <i>partetzipante</i><par n="dentista__n"/></e>
 <e lm="pata">            <i>pata</i><par n="mesa__n"/></e>
-<e lm="post">            <i>post</i><par n="pane__n"/></e>
+<e lm="post" c="istrangerismu">            <i>post</i><par n="pane__n"/></e>
 <e lm="progetatzione">   <i>progetatzion</i><par n="region/e__n"/></e>
 <e lm="pustisgherra">    <i>pustisgherra</i><par n="pane__n"/></e>
 <e lm="ritu">            <i>rit</i><par n="mac/u__n"/></e>
-<e lm="schema">          <i>schema</i><par n="pane__n"/></e>
 <e lm="serada">          <i>serada</i><par n="mesa__n"/></e>
-<e lm="sponsor">         <i>sponsor</i><par n="pane__n"/></e>
+<e lm="sponsor" c="istrangerismu">         <i>sponsor</i><par n="pane__n"/></e>
 <e lm="sutaspètzie">     <i>sutaspètzi</i><par n="region/e__n"/></e>
 <e lm="tassonomia">      <i>tassonomia</i><par n="mesa__n"/></e>
 <e lm="videogiogu">      <i>videogiog</i><par n="mac/u__n"/></e>
-<e lm="web">             <i>web</i><par n="pane__n"/></e>
+<e lm="web" c="istrangerismu">             <i>web</i><par n="pane__n"/></e>
 <e lm="pèrdidu">         <i>pèrdid</i><par n="frantzes/u__adj"/></e>
 <e lm="protòtipu">       <i>protòtip</i><par n="frantzes/u__adj"/></e>
 <e lm="mustradu">        <i>mustrad</i><par n="frantzes/u__adj"/></e>
