@@ -5067,6 +5067,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 
 <e lm="devotzione">      <i>devo</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="denominatzione">  <i>denomina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+<e lm="nominatzione">  <i>nomina</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="declaratzione">   <i>declara</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e r="LR" lm="declaratzione"><p><l>decraratzion</l><r>declaratzion</r></p><par n="region/e__n"/></e>
 <e lm="cunfetzione">     <par n="cun/con"/><i>fe</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -11437,6 +11438,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="informale">       <i>informal</i><par n="fàtzil/e__adj"/></e>
 <e lm="normale">         <i>normal</i><par n="fàtzil/e__adj"/></e>
 <e lm="initziale">       <i>initzial</i><par n="fàtzil/e__adj"/></e>
+<e lm="initziale">       <i>initziale</i><par n="dentista__n"/></e>
 <e lm="impartziale">     <i>impartzial</i><par n="fàtzil/e__adj"/></e>
 <e lm="provintziale">    <i>provintzial</i><par n="fàtzil/e__adj"/></e>
 <e lm="nucleare">        <i>nuclear</i><par n="fàtzil/e__adj"/></e>
@@ -31184,6 +31186,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="cumonella">       <i>cumonella</i><par n="mesa__n"/></e>
 <e lm="cumonèntzia">     <i>cumon</i><par n="difer/èntzia__n"/></e>
 <e lm="cumpangia">       <par n="cum/com"/><i>pangia</i><par n="mesa__n"/></e>
+<e lm="cumpangiu">       <par n="cum/com"/><i>pangi</i><par n="amig/u__n"/></e>
 <e lm="cumpangiedda">    <par n="cum/com"/><i>pangiedda</i><par n="mesa__n"/></e>
 <e lm="cumpannia">       <par n="cum/com"/><i>pannia</i><par n="mesa__n"/></e>
 <e lm="cumparàntzia">    <par n="cum/com"/><i>par</i><par n="import/àntzia__n"/></e>
@@ -31347,7 +31350,7 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="delicadesa">      <i>delicadesa</i><par n="mesa__n"/></e>
 <e lm="delicadura">      <i>delicadura</i><par n="mesa__n"/></e>
 <e lm="delìtzia">        <i>del</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
-<e lm="delta">           <i>delta</i><par n="mesa__n"/></e>
+<e lm="delta">           <i>delta</i><par n="pane__n"/></e>
 <e lm="dema">            <i>dema</i><par n="mesa__n"/></e>
 <e lm="demadura">        <i>demadura</i><par n="mesa__n"/></e>
 <e lm="demèntzia">       <i>dem</i><par n="difer/èntzia__n"/></e>
@@ -55151,15 +55154,24 @@ apertium-dixtools fix apertium-srd.srd.dix.new apertium-srd.srd.dix.new3
 <e lm="gay">              <i>gay</i><par n="gay__n"/></e>
 <e lm="geek">              <i>geek</i><par n="dentista__n"/></e>
 <e lm="killer">              <i>killer</i><par n="dentista__n"/></e>
+<e lm="online">              <i>online</i><par n="matessi__adj"/></e>
 <e lm="ring">              <i>ring</i><par n="pane__n"/></e>
 <e lm="server">              <i>server</i><par n="pane__n"/></e>
 <e lm="premier">              <i>premier</i><par n="dentista__n"/></e>
+<e lm="partner">              <i>partner</i><par n="dentista__n"/></e>
+<e lm="detective">              <i>detective</i><par n="dentista__n"/></e>
+<e lm="palmarès">              <i>palmarès</i><par n="gay__n"/></e>
+<e lm="girl">              <i>girl</i><par n="mesa__n"/></e>
+<e lm="demo">              <i>demo</i><par n="mesa__n"/></e>
 <e lm="bonus">              <i>bon</i><par n="temp/us__n"/></e>
 <e lm="tele">              <i>tele</i><par n="càmbaras__n"/></e>
-<e lm="appustis mortu">              <i>appustis mortu</i><par n="matessi__adj"/></e>
+<e lm="appustis mortu">              <i>appustis<b/>mortu</i><par n="matessi__adj"/></e>
+<e lm="de Napoleone">              <i>de<b/>Napoleone</i><par n="matessi__adj"/></e>
 
 <e lm="primu fìgiu">   <p><l>primu<b/>fìgiu</l>          <r>primu<b/>fìgiu<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e lm="primu fìgiu">   <p><l>primus<b/>fìgius</l>        <r>primu<b/>fìgiu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="primu fìgiu">   <p><l>primus<b/>fìgius</l>          <r>primu<b/>fìgiu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="retze sotziale">   <p><l>retze<b/>sotziale</l>        <r>retze<b/>sotziale<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="retze sotziale">   <p><l>retzes<b/>sotziales</l>        <r>retze<b/>sotziale<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
   </section>
 
