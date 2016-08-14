@@ -6241,6 +6241,7 @@ R
 <e lm="blau">            <i>bla</i><par n="mac/u__n"/></e>
 <e lm="boborroti">       <i>boborroti</i><par n="pane__n"/></e>
 <e lm="brigadieri">      <i>brigadieri</i><par n="pane__n"/></e>
+<e lm="vitzebrigadieri">      <i>vitzebrigadieri</i><par n="pane__n"/></e>
 <e lm="brusiadu">        <i>brusiad</i><par n="amig/u__n"/></e>
 <e lm="burghesu">        <i>burghes</i><par n="amig/u__n"/></e>
 <e lm="cadalanu">        <i>cadalan</i><par n="mac/u__n"/></e>
@@ -54076,18 +54077,18 @@ R
 <e lm="Apenninos">       <i>Apenninos</i><par n="Istados_Unidos__np"/></e>
 <e lm="Apenninu">        <i>Apenninu</i><par n="Afganistàn__np"/></e>
 <e lm="asteròide">       <i>aster</i><par n="ò/o"/><i>ide</i><par n="pane__n"/></e>
-<e lm="rock">            <i>rock</i><par n="anarchismu__n"/></e>
-<e lm="pop">             <i>pop</i><par n="anarchismu__n"/></e>
-<e lm="punk">            <i>punk</i><par n="anarchismu__n"/></e>
-<e lm="rap">             <i>rap</i><par n="anarchismu__n"/></e>
-<e lm="jazz">            <i>jazz</i><par n="anarchismu__n"/></e>
-<e lm="metal">           <i>metal</i><par n="anarchismu__n"/></e>
-<e lm="rugby">           <i>rugby</i><par n="anarchismu__n"/></e>
-<e lm="basketball">      <i>basketball</i><par n="anarchismu__n"/></e>
-<e lm="basket">          <i>basket</i><par n="anarchismu__n"/></e>
-<e lm="football">        <i>football</i><par n="anarchismu__n"/></e>
-<e lm="baseball">        <i>baseball</i><par n="anarchismu__n"/></e>
-<e lm="top">             <i>top</i><par n="anarchismu__n"/></e>
+<e lm="rock" c="istrangerismu">            <i>rock</i><par n="anarchismu__n"/></e>
+<e lm="pop" c="istrangerismu">             <i>pop</i><par n="anarchismu__n"/></e>
+<e lm="punk" c="istrangerismu">            <i>punk</i><par n="anarchismu__n"/></e>
+<e lm="rap" c="istrangerismu">             <i>rap</i><par n="anarchismu__n"/></e>
+<e lm="jazz" c="istrangerismu">            <i>jazz</i><par n="anarchismu__n"/></e>
+<e lm="metal" c="istrangerismu">           <i>metal</i><par n="anarchismu__n"/></e>
+<e lm="rugby" c="istrangerismu">           <i>rugby</i><par n="anarchismu__n"/></e>
+<e lm="basketball" c="istrangerismu">      <i>basketball</i><par n="anarchismu__n"/></e>
+<e lm="basket" c="istrangerismu">          <i>basket</i><par n="anarchismu__n"/></e>
+<e lm="football" c="istrangerismu">        <i>football</i><par n="anarchismu__n"/></e>
+<e lm="baseball" c="istrangerismu">        <i>baseball</i><par n="anarchismu__n"/></e>
+<e lm="top" c="istrangerismu">             <i>top</i><par n="anarchismu__n"/></e>
 
 <e lm="reconnoschìbile"> <i>reconnosch</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="Buenos Aires">    <i>Buenos<b/>Aires</i><par n="Afganistàn__np"/></e>
@@ -55037,11 +55038,11 @@ R
 <e lm="de sutzessu"><i>de<b/>sutzessu</i><par n="matessi__adj"/></e>
 <e lm="de deghe annos">  <i>de<b/>deghe<b/>annos</i><par n="matessi__adj"/></e>
 <e lm="virus">           <i>vir</i><par n="temp/us__n"/></e>
-<e lm="manager">         <i>manager</i><par n="dentista__n"/></e>
-<e lm="junior">          <i>junior</i><par n="dentista__n"/></e>
-<e lm="junior">          <i>junior</i><par n="meda__adj"/></e>
-<e lm="senior">          <i>senior</i><par n="dentista__n"/></e>
-<e lm="senior">          <i>senior</i><par n="meda__adj"/></e>
+<e lm="manager" c="istrangerismu">         <i>manager</i><par n="dentista__n"/></e>
+<e lm="junior" c="istrangerismu">          <i>junior</i><par n="dentista__n"/></e>
+<e lm="junior" c="istrangerismu">          <i>junior</i><par n="meda__adj"/></e>
+<e lm="senior" c="istrangerismu">          <i>senior</i><par n="dentista__n"/></e>
+<e lm="senior" c="istrangerismu">          <i>senior</i><par n="meda__adj"/></e>
 <e lm="intzitare">       <i>intzit</i><par n="cant/are__vblex"/></e>
 
 <e lm="Pireneos">        <i>Pireneos</i><par n="Istados_Unidos__np"/></e>
@@ -55149,7 +55150,6 @@ R
 <e lm="UA">              <i>UA</i><par n="TV__n"/></e>
 
 <e lm="de su Rinaschimentu"><i>de<b/>su<b/>Rinaschimentu</i><par n="matessi__adj"/></e>
-<e lm="de duos annos">   <i>de<b/>duos<b/>annos</i><par n="matessi__adj"/></e>
 <e lm="de Pasca">        <i>de<b/>Pasca</i><par n="matessi__adj"/></e>
 <e lm="network" c="istrangerismu"><i>network</i><par n="pane__n"/></e>
 <e lm="Institute" c="istrangerismu"><i>Institute</i><par n="pane__n"/></e>
@@ -55229,7 +55229,6 @@ R
 <e lm="dipendente">      <i>dipendente</i><par n="dentista__n"/></e>
 <e lm="fulliera">        <i>fulliera</i><par n="mesa__n"/></e>
 <e lm="gigante">         <i>gigante</i><par n="dentista__n"/></e>
-<e lm="grupu de tres">   <i>grupu<b/>de<b/>tres</i><par n="lapis__n"/></e>
 <e lm="horror">          <i>horror</i><par n="pane__n"/></e>
 <e lm="infetzione">      <i>infetzion</i><par n="region/e__n"/></e>
 <e lm="iscuderia">       <i>iscuderia</i><par n="mesa__n"/></e>
@@ -55274,6 +55273,41 @@ R
 
 <e lm="parèntesi">       <i>parèntesi</i><par n="mesa__n"/></e>
 <e lm="bassista">       <i>bassista</i><par n="dentista__n"/></e>
+<e lm="trio">       <i>trio</i><par n="pane__n"/></e>
+<e lm="biannuale">       <i>biannuale</i><par n="dentista__n"/></e>
+<e lm="biannuale">       <i>biannuale</i><par n="meda__adj"/></e>
+
+<e lm="coefitziente">         <i>coefi</i><par n="tz/c"/><i>iente</i><par n="pane__n"/></e>
+<e lm="polinòmiu">       <i>polinòmi</i><par n="mac/u__n"/></e>
+<e lm="in subra">         <i>in<b/>subra</i><par n="bene__adv"/></e>
+
+    <e lm="semichircu"><i>semichirc</i><par n="mac/u__n"/></e>
+    <e lm="sutacapitalizatzione"><i>sutacapitalizatzion</i><par n="region/e__n"/></e>
+    <e lm="sutacapu"><i>sutacap</i><par n="mac/u__n"/></e>
+    <e lm="sutacommissione"><i>sutacommission</i><par n="region/e__n"/></e>
+    <e lm="sutafamìlia"><i>sutafamìlia</i><par n="mesa__n"/></e>
+    <e lm="sutafundu"><i>sutafund</i><par n="mac/u__n"/></e>
+    <e lm="sutaguvernu"><i>sutaguvern</i><par n="mac/u__n"/></e>
+    <e lm="sutagènere"><i>sutagènere</i><par n="pane__n"/></e>
+    <e lm="sutaiscritore"><i>sutaiscritor</i><par n="traballador/e__n"/></e>
+    <e lm="sutaisvilupu"><i>sutaisvilup</i><par n="mac/u__n"/></e>
+    <e lm="sutamarinu"><i>sutamarin</i><par n="mac/u__n"/></e>
+    <e lm="sutapassu"><i>sutapass</i><par n="mac/u__n"/></e>
+    <e lm="sutaprodutu"><i>sutaprodut</i><par n="mac/u__n"/></e>
+    <e lm="sutaproletariadu"><i>sutaproletariad</i><par n="mac/u__n"/></e>
+    <e lm="sutatipu"><i>sutatip</i><par n="mac/u__n"/></e>
+    <e lm="sutatìtulu"><i>sutatìtul</i><par n="mac/u__n"/></e>
+    <e lm="sutaufitziale"><i>sutaufitzial</i><par n="traballador/e__n"/></e>
+    <e lm="sutavalutatzione"><i>sutavalutatzion</i><par n="region/e__n"/></e>
+    <e lm="vitzecantzillere"><i>vitzecantzillere</i><par n="pane__n"/></e>
+    <e lm="vitzecapu"><i>vitzecap</i><par n="mac/u__n"/></e>
+    <e lm="vitzediretzione"><i>vitzediretzion</i><par n="region/e__n"/></e>
+    <e lm="vitzeprefetu"><i>vitzeprefet</i><par n="mac/u__n"/></e>
+    <e lm="vitzepretore"><i>vitzepretore</i><par n="pane__n"/></e>
+    <e lm="vitzeprocuradore"><i>vitzeprocurador</i><par n="traballador/e__n"/></e>
+    <e lm="semicungiadu"><i>semicungiad</i><par n="frantzes/u__adj"/></e>
+    <e lm="sutaisvilupadu"><i>sutaisvilupad</i><par n="frantzes/u__adj"/></e>
+
 
   </section>
 
