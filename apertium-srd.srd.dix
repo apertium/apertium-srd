@@ -4005,6 +4005,7 @@ R
 <e lm="robot">           <i>robot</i><par n="pane__n"/></e>
 <e lm="gatzile">         <i>gatzile</i><par n="pane__n"/></e>
 <e lm="ufitziale">       <i>ufitziale</i><par n="dentista__n"/></e>
+<e lm="sutaufitziale"><i>sutaufitziale</i><par n="dentista__n"/></e>
 <e lm="giardinu">        <i>giardin</i><par n="mac/u__n"/></e>
 <e lm="cuntzìliu">       <par n="cun/con"/><par n="tz/c"/><par n="ì/i"/><i>liu</i><par n="mac/u__n"/></e>
 
@@ -55298,7 +55299,6 @@ R
     <e lm="sutaproletariadu"><i>sutaproletariad</i><par n="mac/u__n"/></e>
     <e lm="sutatipu"><i>sutatip</i><par n="mac/u__n"/></e>
     <e lm="sutatìtulu"><i>sutatìtul</i><par n="mac/u__n"/></e>
-    <e lm="sutaufitziale"><i>sutaufitzial</i><par n="traballador/e__n"/></e>
     <e lm="sutavalutatzione"><i>sutavalutatzion</i><par n="region/e__n"/></e>
     <e lm="vitzecantzillere"><i>vitzecantzillere</i><par n="pane__n"/></e>
     <e lm="vitzecapu"><i>vitzecap</i><par n="mac/u__n"/></e>
