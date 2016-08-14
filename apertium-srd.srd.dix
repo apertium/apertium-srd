@@ -4819,7 +4819,8 @@ R
 <e lm="antzia">          <i>antzia</i><par n="mesa__n"/></e>
 <e lm="burocratzia">     <i>burocratzia</i><par n="mesa__n"/></e>
 <e lm="catzia">          <i>catzia</i><par n="mesa__n"/></e>
-<e lm="cummertzia">      <i>cummertzia</i><par n="mesa__n"/></e>
+<e lm="cummertzia">      <par n="cum/com"/><i>mertzia</i><par n="mesa__n"/></e>
+<e lm="cummertzializatzione">      <par n="cum/com"/><i>mertzializatzion</i><par n="region/e__n"/></e>
 <e lm="denuntzia">       <i>denuntzia</i><par n="mesa__n"/></e>
 <e lm="denùntzia">       <i>den</i><par n="ù/u"/><i>ntzia</i><par n="mesa__n"/></e>
 <e lm="esatètzia">       <i>esat</i><par n="è/e"/><i>tzia</i><par n="mesa__n"/></e>
@@ -11598,8 +11599,8 @@ R
 <e lm="culpàbile">       <i>culp</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="culpèvole">       <i>culp</i><par n="è/e"/><i>vol</i><par n="fàtzil/e__adj"/></e>
 <e lm="cumbivisore">     <par n="cum/com"/><i>bivisor</i><par n="fàtzil/e__adj"/></e>
-<e lm="cummertziale">    <i>cummertzial</i><par n="fàtzil/e__adj"/></e>
-<e lm="cummertziante">   <i>cummertziant</i><par n="fàtzil/e__adj"/></e>
+<e lm="cummertziale">    <par n="cum/com"/><i>mertzial</i><par n="fàtzil/e__adj"/></e>
+<e lm="cummertziante">   <par n="cum/com"/><i>mertziant</i><par n="fàtzil/e__adj"/></e>
 <e lm="cumpartzìbile">   <par n="cum/com"/><i>partzìbil</i><par n="fàtzil/e__adj"/></e>
 <e lm="cumpatìbile">     <par n="cum/com"/><i>patìbil</i><par n="fàtzil/e__adj"/></e>
 <e lm="cumponìbile">     <par n="cum/com"/><i>ponìbil</i><par n="fàtzil/e__adj"/></e>
@@ -39931,7 +39932,7 @@ R
 <e lm="birde">           <i>bird</i><par n="albanes/e__n"/></e>
 <e lm="cafè">            <i>cafè</i><par n="pane__n"/></e>
 <e lm="consulente">      <i>consulent</i><par n="albanes/e__n"/></e>
-<e lm="cummertziante">   <i>cummertziant</i><par n="albanes/e__n"/></e>
+<e lm="cummertziante">   <par n="cum/com"/><i>mertziant</i><par n="albanes/e__n"/></e>
 <e lm="cuncessore">      <par n="cun/con"/><i>cessor</i><par n="traballador/e__n"/></e>
 <e lm="cunvivente">      <par n="cun/con"/><i>vivent</i><par n="albanes/e__n"/></e>
 <e lm="còjube">          <i>c</i><par n="ò/o"/><i>jub</i><par n="albanes/e__n"/></e>
@@ -55308,6 +55309,8 @@ R
     <e lm="semicungiadu"><i>semicungiad</i><par n="frantzes/u__adj"/></e>
     <e lm="sutaisvilupadu"><i>sutaisvilupad</i><par n="frantzes/u__adj"/></e>
 
+<e lm="cummertzializare">    <par n="cum/com"/><i>mertzializ</i><par n="cant/are__vblex"/></e>
+    <e lm="subordinadu"><i>subordinad</i><par n="amig/u__n"/></e>
 
   </section>
 
