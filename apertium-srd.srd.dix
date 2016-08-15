@@ -4005,7 +4005,7 @@ R
 <e lm="robot">           <i>robot</i><par n="pane__n"/></e>
 <e lm="gatzile">         <i>gatzile</i><par n="pane__n"/></e>
 <e lm="ufitziale">       <i>ufitziale</i><par n="dentista__n"/></e>
-<e lm="sutaufitziale"><i>sutaufitziale</i><par n="dentista__n"/></e>
+<e lm="sutaufitziale">   <i>sutaufitziale</i><par n="dentista__n"/></e>
 <e lm="giardinu">        <i>giardin</i><par n="mac/u__n"/></e>
 <e lm="cuntzìliu">       <par n="cun/con"/><par n="tz/c"/><par n="ì/i"/><i>liu</i><par n="mac/u__n"/></e>
 
@@ -5996,6 +5996,7 @@ R
 <e lm="cura">            <i>cura</i><par n="mesa__n"/></e>
 <e lm="dèlega">          <i>d</i><par n="è/e"/><i>lega</i><par n="mesa__n"/></e>
 <e lm="dereta">          <i>dereta</i><par n="mesa__n"/></e>
+<e lm="tzentrudereta">          <i>tzentrudereta</i><par n="mesa__n"/></e>
 <e lm="disciplina">      <i>disciplina</i><par n="mesa__n"/></e>
 <e lm="dita">            <i>dita</i><par n="mesa__n"/></e>
 <e lm="dura">            <i>dura</i><par n="mesa__n"/></e>
@@ -6427,6 +6428,7 @@ R
 <e lm="malassortadu">    <i>malassortad</i><par n="amig/u__n"/></e>
 <e lm="malàidu">         <i>mal</i><par n="à/a"/><i>id</i><par n="amig/u__n"/></e>
 <e lm="manca">           <i>manca</i><par n="mesa__n"/></e>
+<e lm="tzentrumanca">           <i>tzentrumanca</i><par n="mesa__n"/></e>
 <e lm="manuale">         <i>manuale</i><par n="pane__n"/></e>
 <e lm="marineri">        <i>marineri</i><par n="pane__n"/></e>
 <e lm="martza">          <i>martza</i><par n="mesa__n"/></e>
@@ -23740,6 +23742,8 @@ R
 <e lm="topare">          <i>top</i><par n="cant/are__vblex"/></e>
 <e lm="torojare">        <i>toroj</i><par n="cant/are__vblex"/></e>
 <e lm="torrare">         <i>torr</i><par n="cant/are__vblex"/></e>
+<e lm="torrare a organizare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>organizare</l><r><g><b/>a<b/>organizare</g></r></p></e>
+<e lm="torrare a impreare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>impreare</l><r><g><b/>a<b/>impreare</g></r></p></e>
 <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
 <e lm="torrare a capitalizare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>capitalizare</l><r><g><b/>a<b/>capitalizare</g></r></p></e>
 <e lm="torrare a nàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>nàrrere</l><r><g><b/>a<b/>nàrrere</g></r></p></e>
@@ -28580,6 +28584,7 @@ R
 <e lm="deduire">         <p><l>dedu</l>      <r>deduire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="definire">        <p><l>defin</l>     <r>definire</r></p><par n="ped/ire__vblex"/></e>
 <e r="LR" lm="definire"> <p><l>defìn</l>     <r>defin</r></p><par n="fin/ire__vblex"/></e>
+<e r="LR" lm="definire"> <p><l>difin</l>     <r>defin</r></p><par n="fin/ire__vblex"/></e>
 <e lm="demprire">        <p><l>dempr</l>     <r>demprire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="deperire">        <p><l>deper</l>     <r>deperire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="desfallire">      <p><l>desfall</l>   <r>desfallire</r></p><par n="ped/ire__vblex"/></e>
@@ -31380,6 +31385,7 @@ R
 <e lm="desinèntzia">     <i>desin</i><par n="difer/èntzia__n"/></e>
 <e lm="desnudesa">       <i>desnudesa</i><par n="mesa__n"/></e>
 <e lm="destra">          <i>destra</i><par n="mesa__n"/></e>
+<e lm="tzentrudestra">          <i>tzentrudestra</i><par n="mesa__n"/></e>
 <e lm="detadura">        <i>detadura</i><par n="mesa__n"/></e>
 <e lm="deuda">           <i>deuda</i><par n="mesa__n"/></e>
 <e lm="deventera">       <i>deventera</i><par n="mesa__n"/></e>
@@ -55033,6 +55039,7 @@ R
 <e lm="big" c="istrangerismu"><i>big</i><par n="càmbaras__n"/></e>
 <e lm="corporation" c="istrangerismu"><i>corporation</i><par n="mesa__n"/></e>
 <e lm="islàlom">         <i>islàlom</i><par n="pane__n"/></e>
+<e lm="islalomista">         <i>islalomista</i><par n="dentista__n"/></e>
 <e r="LR" lm="slalom" c="istrangerismu"><p><l>slalom</l><r>islàlom</r></p><par n="pane__n"/></e>
 <e lm="Pokémon" c="istrangerismu"><i>Pokémon</i><par n="pane__n"/></e>
 <e r="LR" lm="Pokemon" c="istrangerismu"><p><l>Pokemon</l><r>Pokémon</r></p><par n="pane__n"/></e>
@@ -55312,6 +55319,10 @@ R
 <e lm="cummertzializare">    <par n="cum/com"/><i>mertzializ</i><par n="cant/are__vblex"/></e>
     <e lm="subordinadu"><i>subordinad</i><par n="amig/u__n"/></e>
     <e lm="informativu"><i>informativ</i><par n="frantzes/u__adj"/></e>
+    <e lm="fecundatzione"><i>fecundatzion</i><par n="region/e__n"/></e>
+<e lm="acuitanu">        <i>acuitan</i><par n="frantzes/u__adj"/></e>
+<e lm="acuitanu">        <i>acuitan</i><par n="amig/u__n"/></e>
+<e r="RL" lm="podet èssere">      <p><l>podet<b/>èssere</l>          <r>podet<b/>èssere<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
   </section>
 
@@ -55339,6 +55350,7 @@ R
 <e r="LR" lm="b'">       <p><l>b'</l>        <r>bi<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR" lm="s'">       <p><l>s'</l>        <r>si<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
   </section>
+
   <section id="final" type="inconditional">
 <e>                      <par n="separa"/></e>
 <e>                      <par n="coma"/></e>
