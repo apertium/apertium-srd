@@ -3761,6 +3761,7 @@
 <e r="LR" lm="a manera avèrtida"><p><l>a<b/>manera<b/>avèrtida</l><r>in<b/>manera<b/>avèrtida</r></p><par n="bene__adv"/></e>
 <e r="LR" lm="a manera balentiosa"><p><l>a<b/>manera<b/>balentiosa</l><r>in<b/>manera<b/>balentiosa</r></p><par n="bene__adv"/></e>
 <e r="LR" lm="a manera bastante"><p><l>a<b/>manera<b/>bastante</l><r>in<b/>manera<b/>bastante</r></p><par n="bene__adv"/></e>
+<e r="LR" lm="a manera sufitziente"><p><l>a<b/>manera<b/>sufitziente</l><r>in<b/>manera<b/>sufitziente</r></p><par n="bene__adv"/></e>
 <e r="LR" lm="a manera bella"><p><l>a<b/>manera<b/>bella</l><r>in<b/>manera<b/>bella</r></p><par n="bene__adv"/></e>
 <e r="LR" lm="a manera bia"><p><l>a<b/>manera<b/>bia</l><r>in<b/>manera<b/>bia</r></p><par n="bene__adv"/></e>
 <e r="LR" lm="a manera biològica"><p><l>a<b/>manera<b/>biològica</l><r>in<b/>manera<b/>biològica</r></p><par n="bene__adv"/></e>
@@ -4693,6 +4694,7 @@
 <e lm="in generale">     <i>in<b/>generale</i><par n="bene__adv"/></e>
 <e lm="in gherra">       <i>in<b/>gherra</i><par n="bene__adv"/></e>
 <e lm="in giosso">       <i>in<b/>giosso</i><par n="bene__adv"/></e>
+<e lm="a giosso">        <i>a<b/>giosso</i><par n="bene__adv"/></e>
 <e lm="in intro">        <i>in<b/>intro</i><par n="bene__adv"/></e>
 <e lm="in logu">         <i>in<b/>logu</i><par n="bene__adv"/></e>
     <!--<e lm="in pessu"><i>in<b/>pessu</i><par n="bene__adv"/></e>-->
@@ -4767,6 +4769,7 @@
 <e lm="in manera bàrbara"><i>in<b/>manera<b/>b</i><par n="à/a"/><i>rbara</i><par n="bene__adv"/></e>
 <e lm="in manera balentiosa"><i>in<b/>manera<b/>balentiosa</i><par n="bene__adv"/></e>
 <e lm="in manera bastante"><i>in<b/>manera<b/>bastante</i><par n="bene__adv"/></e>
+<e lm="in manera sufitziente"><i>in<b/>manera<b/>sufitziente</i><par n="bene__adv"/></e>
 <e lm="in manera bella"> <i>in<b/>manera<b/>bella</i><par n="bene__adv"/></e>
 <e lm="in manera bia">   <i>in<b/>manera<b/>bia</i><par n="bene__adv"/></e>
 <e lm="in manera bilaterale"><i>in<b/>manera<b/>bilaterale</i><par n="bene__adv"/></e>
@@ -5823,6 +5826,8 @@
 <e lm="via">             <i>via</i><par n="bene__adv"/></e>
 <e lm="virtualmente">    <i>virtualment</i><par n="altament/e__adv"/></e>
 <e r="LR" lm="giai">     <p><l>zai</l>       <r>giai</r></p><par n="bene__adv"/></e>
+    <!--<e lm="a s'interinada"><i>a<b/>s'interinada</i><par n="bene__adv"/></e>-->
+<e r="RL" lm="issu matessi">    <i>issu<b/>matessi</i><par n="bene__adv"/></e>
 
     <!-- ******************************
           group pr
@@ -6455,7 +6460,7 @@
 <e lm="antepostu">       <i>antepost</i><par n="frantzes/u__adj"/></e>
 <e lm="anteriore">       <i>anterior</i><par n="cunservador/e__adj"/></e>
 <e lm="antetzedente">    <i>antetzedent</i><par n="fàtzil/e__adj"/></e>
-<e lm="antitzipadore">   <i>anti</i><par n="tz/z"/><i>ipador</i><par n="fàtzil/e__adj"/></e>
+<e lm="antitzipadore">   <i>anti</i><par n="tz/z"/><i>ipador</i><par n="cunservador/e__adj"/></e>
 <e lm="anti-apartheid" c="istrangerismu"><i>anti-apartheid</i><par n="matessi__adj"/></e>
 <e lm="anti-pinochetista"><i>anti-pinochetista</i><par n="meda__adj"/></e>
 <e lm="anti-trust" c="istrangerismu"><i>anti-trust</i><par n="matessi__adj"/></e>
@@ -6738,7 +6743,7 @@
 <e lm="atlànticu">       <i>atl</i><par n="à/a"/><i>nti</i><par n="linguìsti/cu__adj"/></e>
 <e lm="atlantideu">      <i>atlantide</i><par n="frantzes/u__adj"/></e>
 <e lm="atmosfèricu">     <i>atmosf</i><par n="è/e"/><i>ri</i><par n="linguìsti/cu__adj"/></e>
-<e lm="atogadore">       <i>atogador</i><par n="fàtzil/e__adj"/></e>
+<e lm="atogadore">       <i>atogador</i><par n="cunservador/e__adj"/></e>
 <e lm="atongile">        <i>atongil</i><par n="fàtzil/e__adj"/></e>
 <e lm="atontonadu">      <i>atontonad</i><par n="frantzes/u__adj"/></e>
 <e lm="atopadu">         <i>atopad</i><par n="frantzes/u__adj"/></e>
@@ -6776,7 +6781,7 @@
 <e lm="atzacosu">        <i>atzacos</i><par n="frantzes/u__adj"/></e>
 <e lm="atzaresu">        <i>atzares</i><par n="frantzes/u__adj"/></e>
 <e lm="atzarolladu">     <i>atzarollad</i><par n="frantzes/u__adj"/></e>
-<e lm="atzelleradore">   <i>atzellerador</i><par n="fàtzil/e__adj"/></e>
+<e lm="atzelleradore">   <i>atzellerador</i><par n="cunservador/e__adj"/></e>
 <e lm="atzessòriu">      <i>atzess</i><par n="ò/o"/><i>ri</i><par n="frantzes/u__adj"/></e>
 <e lm="atzetàbile">      <i>atzet</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="atzetadu">        <i>atzetad</i><par n="frantzes/u__adj"/></e>
@@ -7122,7 +7127,7 @@
 <e lm="brilladu">        <i>brillad</i><par n="frantzes/u__adj"/></e>
 <e lm="brillante">       <i>brillant</i><par n="fàtzil/e__adj"/></e>
 <e lm="brillantinu">     <i>brillantin</i><par n="frantzes/u__adj"/></e>
-<e lm="brilliadore">     <i>brilliador</i><par n="fàtzil/e__adj"/></e>
+<e lm="brilliadore">     <i>brilliador</i><par n="cunservador/e__adj"/></e>
 <e lm="britànnicu">      <i>brit</i><par n="à/a"/><i>nni</i><par n="linguìsti/cu__adj"/></e>
 <e lm="bronchiale">      <i>bronchial</i><par n="fàtzil/e__adj"/></e>
 <e lm="brulladu">        <i>brullad</i><par n="frantzes/u__adj"/></e>
@@ -8646,7 +8651,7 @@
 <e lm="distribudore">    <i>distribudor</i><par n="cunservador/e__adj"/></e>
 <e lm="distribuidu">     <i>distribuid</i><par n="frantzes/u__adj"/></e>
 <e lm="distruidu">       <i>distruid</i><par n="frantzes/u__adj"/></e>
-<e lm="distruidore">     <i>distruidor</i><par n="fàtzil/e__adj"/></e>
+<e lm="distruidore">     <i>distruidor</i><par n="cunservador/e__adj"/></e>
 <e lm="distrutu">        <i>distrut</i><par n="frantzes/u__adj"/></e>
 <e lm="distrutore">      <i>distrutor</i><par n="cunservador/e__adj"/></e>
 <e lm="disumanu">        <i>disuman</i><par n="frantzes/u__adj"/></e>
@@ -9919,7 +9924,6 @@
 <e lm="illugheradu">     <i>illugherad</i><par n="frantzes/u__adj"/></e>
 <e lm="illuitzadu">      <i>illuitzad</i><par n="frantzes/u__adj"/></e>
 <e lm="illusu">          <i>illus</i><par n="frantzes/u__adj"/></e>
-<e lm="illustradore">    <i>illustrador</i><par n="fàtzil/e__adj"/></e>
 <e lm="illustradore">    <i>illustrador</i><par n="cunservador/e__adj"/></e>
 <e lm="tzimagosu">       <par n="tz/c"/><i>imagos</i><par n="frantzes/u__adj"/></e>
 <e lm="imbènnere">       <i>imb</i><par n="è/e"/><i>nner</i><par n="fàtzil/e__adj"/></e>
@@ -10270,7 +10274,7 @@
 <e lm="insuperàbile">    <i>insuper</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="insuportàbile">   <i>insuport</i><par n="à/a"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="insurdidu">       <i>insurdid</i><par n="frantzes/u__adj"/></e>
-<e lm="insurdidore">     <i>insurdidor</i><par n="fàtzil/e__adj"/></e>
+<e lm="insurdidore">     <i>insurdidor</i><par n="cunservador/e__adj"/></e>
 <e lm="insurretzionale"> <i>insurre</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
 <e lm="intatu">          <i>intat</i><par n="frantzes/u__adj"/></e>
 <e lm="intauladu">       <i>intaulad</i><par n="frantzes/u__adj"/></e>
@@ -10323,7 +10327,7 @@
 <e lm="intesu">          <i>intes</i><par n="frantzes/u__adj"/></e>
 <e lm="intestadu">       <i>intestad</i><par n="frantzes/u__adj"/></e>
 <e lm="intestadu">       <i>intestadu</i><par n="frantzes/u__adj"/></e>
-<e lm="inteteradore">    <i>inteterador</i><par n="fàtzil/e__adj"/></e>
+<e lm="inteteradore">    <i>inteterador</i><par n="cunservador/e__adj"/></e>
 <e lm="intipidu">        <i>intipid</i><par n="frantzes/u__adj"/></e>
 <e lm="intollerante">    <i>intollerant</i><par n="fàtzil/e__adj"/></e>
 <e lm="intortigadu">     <i>intortigad</i><par n="frantzes/u__adj"/></e>
@@ -12497,7 +12501,7 @@
 <e r="LR" lm="netzessàriu"><p><l>netzessari</l><r>netzessàri</r></p><par n="frantzes/u__adj"/></e>
 <e lm="netzessitosu">    <i>netzessitos</i><par n="frantzes/u__adj"/></e>
 <e lm="neuladu">         <i>neulad</i><par n="frantzes/u__adj"/></e>
-<e lm="neuladore">       <i>neulador</i><par n="fàtzil/e__adj"/></e>
+<e lm="neuladore">       <i>neulador</i><par n="cunservador/e__adj"/></e>
 <e lm="neulidu">         <i>neulid</i><par n="frantzes/u__adj"/></e>
 <e lm="neulosu">         <i>neulos</i><par n="frantzes/u__adj"/></e>
 <e lm="neunelesu">       <i>neuneles</i><par n="frantzes/u__adj"/></e>
@@ -13930,11 +13934,11 @@
 <e lm="rennoaditzu">     <i>rennoaditz</i><par n="frantzes/u__adj"/></e>
 <e lm="reoteri">         <i>reoteri</i><par n="meda__adj"/></e>
 <e lm="repìtidu">        <i>rep</i><par n="ì/i"/><i>tid</i><par n="frantzes/u__adj"/></e>
-<e lm="reparadore">      <i>reparador</i><par n="fàtzil/e__adj"/></e>
+<e lm="reparadore">      <i>reparador</i><par n="cunservador/e__adj"/></e>
 <e lm="repentinu">       <i>repentin</i><par n="frantzes/u__adj"/></e>
 <e lm="reperìbile">      <i>reper</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="reperire">        <i>reperir</i><par n="fàtzil/e__adj"/></e>
-<e lm="repicadore">      <i>repicador</i><par n="fàtzil/e__adj"/></e>
+<e lm="repicadore">      <i>repicador</i><par n="cunservador/e__adj"/></e>
 <e lm="repitidore">      <i>repitidor</i><par n="fàtzil/e__adj"/></e>
 <e lm="reposadu">        <i>reposad</i><par n="frantzes/u__adj"/></e>
 <e lm="reprenu">         <i>repren</i><par n="frantzes/u__adj"/></e>
@@ -14007,7 +14011,7 @@
 <e r="LR" lm="regionale"><p><l>rezional</l>  <r>regional</r></p><par n="fàtzil/e__adj"/></e>
 <e lm="ricu">            <i>ri</i><par n="linguìsti/cu__adj"/></e>
 <e lm="ricòngiu">        <i>ric</i><par n="ò/o"/><i>ngi</i><par n="frantzes/u__adj"/></e>
-<e lm="ricatadore">      <i>ricatador</i><par n="fàtzil/e__adj"/></e>
+<e lm="ricatadore">      <i>ricatador</i><par n="cunservador/e__adj"/></e>
 <e lm="richiamadu">      <i>richiamad</i><par n="frantzes/u__adj"/></e>
 <e lm="richiedente">     <i>richiedent</i><par n="fàtzil/e__adj"/></e>
 <e lm="richigiolu">      <i>richigiol</i><par n="frantzes/u__adj"/></e>
@@ -14061,7 +14065,7 @@
 <e lm="ritzu">           <i>ritz</i><par n="frantzes/u__adj"/></e>
 <e lm="ritzadu">         <i>ritzad</i><par n="frantzes/u__adj"/></e>
 <e lm="ritzevibilidade"> <i>ritzevibilidad</i><par n="fàtzil/e__adj"/></e>
-<e lm="ritzevidore">     <i>ritzevidor</i><par n="fàtzil/e__adj"/></e>
+<e lm="ritzevidore">     <i>ritzevidor</i><par n="cunservador/e__adj"/></e>
 <e lm="rivale">          <i>rival</i><par n="fàtzil/e__adj"/></e>
 <e lm="riveridu">        <i>riverid</i><par n="frantzes/u__adj"/></e>
 <e lm="rivolutzionàriu"> <i>rivolu</i><par n="tz/z"/><i>ionàri</i><par n="frantzes/u__adj"/></e>
@@ -14554,7 +14558,7 @@
 <e lm="sorgolinu">       <i>sorgolin</i><par n="frantzes/u__adj"/></e>
 <e lm="sorgonadu">       <i>sorgonad</i><par n="frantzes/u__adj"/></e>
 <e lm="sorgonesu">       <i>sorgones</i><par n="frantzes/u__adj"/></e>
-<e lm="sorigadore">      <i>sorigador</i><par n="fàtzil/e__adj"/></e>
+<e lm="sorigadore">      <i>sorigador</i><par n="cunservador/e__adj"/></e>
 <e lm="sorighinu">       <i>sorighin</i><par n="frantzes/u__adj"/></e>
 <e lm="sorosu">          <i>soros</i><par n="frantzes/u__adj"/></e>
 <e lm="sorradilesu">     <i>sorradiles</i><par n="frantzes/u__adj"/></e>
@@ -25443,6 +25447,7 @@
 <e lm="giuriscongru">    <i>giuriscongr</i><par n="mac/u__n"/></e>
 <e lm="giurisditzione">  <i>giurisdi</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="giurisprudèntzia"><i>giurisprud</i><par n="difer/èntzia__n"/></e>
+<e lm="giurisprudentziale"><i>giurisprudentzial</i><par n="fàtzil/e__adj"/></e>
 <e lm="giurista">        <i>giurista</i><par n="dentista__n"/></e>
 <e lm="giusepina">       <i>giusepina</i><par n="mesa__n"/></e>
 <e lm="giussòrgia">      <i>giuss</i><par n="ò/o"/><i>rgia</i><par n="mesa__n"/></e>
@@ -33310,7 +33315,7 @@
 <e lm="periruju">        <i>periruj</i><par n="mac/u__n"/></e>
 <e lm="perissignu">      <i>perissign</i><par n="mac/u__n"/></e>
 <e lm="perissignale">    <i>perissignale</i><par n="pane__n"/></e>
-<e lm="peritu">          <i>perit</i><par n="mac/u__n"/></e>
+<e lm="peritu">          <i>perit</i><par n="amig/u__n"/></e>
 <e lm="peritonite">      <i>peritonite</i><par n="pane__n"/></e>
 <e lm="peritzia">        <i>peritzia</i><par n="mesa__n"/></e>
 <e lm="peritziadore">    <i>peritziador</i><par n="traballador/e__n"/></e>
@@ -35344,6 +35349,7 @@
 <e lm="razile">          <i>razile</i><par n="pane__n"/></e>
 <e lm="razola">          <i>razola</i><par n="mesa__n"/></e>
 <e lm="re">              <i>re</i><par n="re__n"/></e>
+<e lm="tzar">            <i>tzar</i><par n="re__n"/></e>
 <e lm="reu">             <i>re</i><par n="mac/u__n"/></e>
 <e lm="reèntzia">        <i>re</i><par n="difer/èntzia__n"/></e>
 <e lm="retzintzione">    <i>re</i><par n="tz/z"/><i>in</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -36567,7 +36573,6 @@
 <e lm="sassu">           <i>sass</i><par n="mac/u__n"/></e>
 <e lm="sassaresu">       <i>sassares</i><par n="amig/u__n"/></e>
 <e lm="satèllite">       <i>sat</i><par n="è/e"/><i>llite</i><par n="pane__n"/></e>
-<e lm="satellite">       <i>satellite</i><par n="pane__n"/></e>
 <e lm="satisfatzione">   <i>satisfa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="satisfamentu">    <i>satisfament</i><par n="mac/u__n"/></e>
 <e lm="satistatzione">   <i>satista</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
@@ -39201,6 +39206,7 @@
 <e lm="trusa">           <i>trusa</i><par n="mesa__n"/></e>
 <e lm="trusada">         <i>trusada</i><par n="mesa__n"/></e>
 <e lm="trust" c="istrangerismu"><i>trust</i><par n="pane__n"/></e>
+<e lm="Reich" c="istrangerismu"><i>Reich</i><par n="pane__n"/></e>
 <e lm="trustullu">       <i>trustull</i><par n="mac/u__n"/></e>
 <e lm="trustulla">       <i>trustulla</i><par n="mesa__n"/></e>
 <e lm="trutona">         <i>trutona</i><par n="mesa__n"/></e>
@@ -42355,6 +42361,7 @@
 <e lm="Eulalio">         <i>Eulalio</i><par n="Antoni__np"/></e>
 <e lm="Euro">            <i>Euro</i><par n="Antoni__np"/></e>
 <e lm="Europa">          <i>Europa</i><par n="Etiòpia__np"/></e>
+<e lm="Otzeania">        <i>Otzeania</i><par n="Etiòpia__np"/></e>
 <e lm="Eusebia">         <i>Eusebia</i><par n="Maria__np"/></e>
 <e lm="Eusebio">         <i>Eusebio</i><par n="Antoni__np"/></e>
 <e lm="Euskadi">         <i>Euskadi</i><par n="Afganistàn__np"/></e>
@@ -45994,6 +46001,8 @@
 <e lm="Yang">            <i>Yang</i><par n="Saussure__np"/></e>
 <e lm="York">            <i>York</i><par n="Afganistàn__np"/></e>
 <e lm="York Noa">        <i>York<b/>Noa</i><par n="Etiòpia__np"/></e>
+<e lm="Noa Zelanda">     <i>Noa<b/>Zelanda</i><par n="Etiòpia__np"/></e>
+<e lm="Zelanda">         <i>Zelanda</i><par n="Etiòpia__np"/></e>
 <e lm="Zaccaria">        <i>Zaccaria</i><par n="Antoni__np"/></e>
 <e lm="Zaccheo">         <i>Zaccheo</i><par n="Antoni__np"/></e>
 <e lm="Zaffira">         <i>Zaffira</i><par n="Maria__np"/></e>
@@ -46377,7 +46386,17 @@
       ****************************** -->
 <e lm="aba">             <i>aba</i><par n="salude__ij"/></e>
 <e lm="salude">          <i>salude</i><par n="salude__ij"/></e>
-    <!--<e lm="a s'interinada"><i>a<b/>s'interinada</i><par n="bene__adv"/></e>-->
+<e lm="a si bìere luego">          <i>a<b/>si<b/>bìere<b/>luego</i><par n="salude__ij"/></e>
+<e lm="a mègius bìere">          <i>a<b/>mègius<b/>bìere</i><par n="salude__ij"/></e>
+<e lm="bastu">          <i>bastu</i><par n="salude__ij"/></e>
+<e lm="bona note">          <i>bona<b/>note</i><par n="salude__ij"/></e>
+<e lm="bona die">          <i>bona<b/>die</i><par n="salude__ij"/></e>
+<e lm="mi'">          <i>mi'</i><par n="salude__ij"/></e>
+<e lm="a bonu">          <i>a<b/>bonu</i><par n="salude__ij"/></e>
+<e lm="pro praghere">          <i>pro<b/>praghere</i><par n="salude__ij"/></e>
+<e lm="non b’at ite">          <i>non<b/>b’at<b/>ite</i><par n="salude__ij"/></e>
+<e lm="ok">          <i>ok</i><par n="salude__ij"/></e>
+
 
 
     <!-- ******************************
@@ -55018,7 +55037,6 @@
     <e lm="ipotensione"><i>ipotension</i><par n="region/e__n"/></e>
     <e lm="mega-fusione"><i>mega-fusion</i><par n="region/e__n"/></e>
     <e lm="megabanca"><i>megabanca</i><par n="mesa__n"/></e>
-    <e lm="megacuntzertu"><i>megacuntzerto</i><par n="pane__n"/></e>
     <e lm="megadirigente"><i>megadirigente</i><par n="dentista__n"/></e>
     <e lm="megafusione"><i>megafusion</i><par n="region/e__n"/></e>
     <e lm="megaimpiantu"><i>megaimpiant</i><par n="mac/u__n"/></e>
@@ -55070,7 +55088,6 @@
     <e lm="preiscolare"><i>preiscolare</i><par n="dentista__n"/></e>
     <e lm="prerecuisidu"><i>prerecuisid</i><par n="mac/u__n"/></e>
     <e lm="preseletzione"><i>preseletzion</i><par n="region/e__n"/></e>
-    <e lm="rivolta"><i>rivolta</i><par n="mesa__n"/></e>
     <e lm="subapaltadore"><i>subapaltador</i><par n="traballador/e__n"/></e>
     <e lm="subcontinente"><i>subcontinente</i><par n="pane__n"/></e>
     <e lm="subentrante"><i>subentrante</i><par n="pane__n"/></e>
@@ -55148,7 +55165,6 @@
     <e lm="supernatzionale"><i>supernatzional</i><par n="fàtzil/e__adj"/></e>
     <e lm="superotimista"><i>superotimista</i><par n="meda__adj"/></e>
     <e lm="superlestru"><i>superlestr</i><par n="frantzes/u__adj"/></e>
-    <e lm="superlestru"><i>superlestr</i><par n="frantzes/u__adj"/></e>
     <e lm="super-balente"><i>super-balent</i><par n="fàtzil/e__adj"/></e>
     <e lm="super-privilegiadu"><i>super-privilegiad</i><par n="frantzes/u__adj"/></e>
     <e lm="super-amparadu"><i>super-amparad</i><par n="frantzes/u__adj"/></e>
@@ -55178,7 +55194,7 @@
     <e lm="filoiranianu"><i>filoiranian</i><par n="frantzes/u__adj"/></e>
     <e lm="filonazista"><i>filonazista</i><par n="meda__adj"/></e>
     <e lm="filo-castrista"><i>filo-castrista</i><par n="meda__adj"/></e>
-    <e lm="fino-tzinesu"><i>fino-tzines</i><par n="frantzes/u__adj"/></e>
+    <e lm="filo-tzinesu"><i>filo-tzines</i><par n="frantzes/u__adj"/></e>
     <e lm="filo-curdu"><i>filo-curd</i><par n="frantzes/u__adj"/></e>
     <e lm="filo-egitzianu"><i>filo-egitzian</i><par n="frantzes/u__adj"/></e>
     <e lm="filo-guvernativu"><i>filo-guvernativ</i><par n="frantzes/u__adj"/></e>
@@ -55226,6 +55242,7 @@
     <e lm="antieròicu"><i>antieròi</i><par n="linguìsti/cu__adj"/></e>
     <e lm="antieuropeu"><i>antieurope</i><par n="frantzes/u__adj"/></e>
     <e lm="antigiaponesu"><i>antigiapones</i><par n="frantzes/u__adj"/></e>
+    <e lm="anti-giaponesu"><i>anti-giapones</i><par n="frantzes/u__adj"/></e>
     <e lm="antiigiènicu"><i>antiigièni</i><par n="linguìsti/cu__adj"/></e>
     <e lm="antigiudàicu"><i>antigiudài</i><par n="linguìsti/cu__adj"/></e>
     <e lm="antilìbicu"><i>antilìbi</i><par n="linguìsti/cu__adj"/></e>
@@ -55374,8 +55391,13 @@
     <e lm="orbitale"><i>orbital</i><par n="fàtzil/e__adj"/></e>
     <e lm="ultrasensìbile"><i>ultrasensìbil</i><par n="fàtzil/e__adj"/></e>
     <e lm="ultracortzu"><i>ultracortz</i><par n="frantzes/u__adj"/></e>
+    <e lm="ultracortu"><i>ultracort</i><par n="frantzes/u__adj"/></e>
     <e lm="ultralestru"><i>ultralestr</i><par n="frantzes/u__adj"/></e>
     <e lm="ultra-natzionalista"><i>ultra-natzionalista</i><par n="meda__adj"/></e>
+
+    <e lm="megacuntzertu"><i>megacuntzert</i><par n="mac/u__n"/></e>
+    <e lm="microcrentia"><i>microcrentia</i><par n="mesa__n"/></e>
+    <e lm="anticrisi"><i>anticrisi</i><par n="matessi__adj"/></e>
 
 
   </section>
