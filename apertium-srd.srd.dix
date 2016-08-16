@@ -5356,6 +5356,15 @@ R
 <e lm="consumista">        <i>consumista</i><par n="dentista__n"/></e>
 <e lm="consumista">        <i>consumista</i><par n="meda__adj"/></e>
 <e lm="consumismu">        <i>consumismu</i><par n="anarchismu__n"/></e>
+<e lm="classista">        <i>classista</i><par n="dentista__n"/></e>
+<e lm="classista">        <i>classista</i><par n="meda__adj"/></e>
+<e lm="classismu">        <i>classismu</i><par n="anarchismu__n"/></e>
+<e lm="parlamentarista">        <i>parlamentarista</i><par n="dentista__n"/></e>
+<e lm="parlamentarista">        <i>parlamentarista</i><par n="meda__adj"/></e>
+<e lm="parlamentarismu">        <i>parlamentarismu</i><par n="anarchismu__n"/></e>
+<e lm="fundamentalista">        <i>fundamentalista</i><par n="dentista__n"/></e>
+<e lm="fundamentalista">        <i>fundamentalista</i><par n="meda__adj"/></e>
+<e lm="fundamentalismu">        <i>fundamentalismu</i><par n="anarchismu__n"/></e>
 <e lm="marxista">        <i>marxista</i><par n="dentista__n"/></e>
 <e lm="marxista">        <i>marxista</i><par n="meda__adj"/></e>
 <e lm="marxismu">        <i>marxismu</i><par n="anarchismu__n"/></e>
@@ -11778,6 +11787,11 @@ R
 <e lm="ocupante">        <i>ocupant</i><par n="fàtzil/e__adj"/></e>
 <e lm="parìvile">        <i>par</i><par n="ì/i"/><i>vil</i><par n="fàtzil/e__adj"/></e>
 <e lm="parlamentare">    <i>parlamentar</i><par n="fàtzil/e__adj"/></e>
+<e lm="extraparlamentare">    <i>extraparlamentar</i><par n="fàtzil/e__adj"/></e>
+<e lm="interparlamentare">    <i>interparlamentar</i><par n="fàtzil/e__adj"/></e>
+<e lm="parlamentare">    <i>parlamentare</i><par n="dentista__n"/></e>
+<e lm="extraparlamentare">    <i>extraparlamentare</i><par n="dentista__n"/></e>
+<e lm="europarlamentare">    <i>europarlamentare</i><par n="dentista__n"/></e>
 <e lm="peninsulare">     <i>peninsular</i><par n="fàtzil/e__adj"/></e>
 <e lm="perenne">         <i>perenn</i><par n="fàtzil/e__adj"/></e>
 <e lm="permanente">      <i>permanent</i><par n="fàtzil/e__adj"/></e>
@@ -13365,7 +13379,8 @@ R
 <e lm="abitòriu">        <i>abit</i><par n="ò/o"/><i>ri</i><par n="mac/u__n"/></e>
 <e lm="abitu">           <i>abit</i><par n="mac/u__n"/></e>
 <e lm="abitudinàriu">    <i>abitudin</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
-<e lm="ablativu">        <i>ablativ</i><par n="mac/u__n"/></e>
+<e lm="ablativu">        <i>ablativu</i><par n="mac/u__n"/></e>
+<e lm="ablativu">        <i>ablativu</i><par n="frantzes/u__adj"/></e>
 <e lm="abogadu">         <i>abogad</i><par n="amig/u__n"/></e>
 <e lm="abòghinu">        <i>ab</i><par n="ò/o"/><i>ghin</i><par n="mac/u__n"/></e>
 <e lm="abrandu">         <i>abrand</i><par n="mac/u__n"/></e>
@@ -31252,7 +31267,9 @@ R
 <e lm="culuebba">        <i>culuebba</i><par n="mesa__n"/></e>
 <e lm="culumba">         <i>culumba</i><par n="mesa__n"/></e>
 <e lm="culumbu">         <i>culumb</i><par n="mac/u__n"/></e>
-<e lm="cumarca">         <i>cumarca</i><par n="mesa__n"/></e>
+<e lm="cumarca">         <par n="cum/com"/><i>arca</i><par n="mesa__n"/></e>
+<e lm="cumarcale">       <par n="cum/com"/><i>arcal</i><par n="fàtzil/e__adj"/></e>
+<e lm="intercumarcale">       <i>inter</i><par n="cum/com"/><i>arcal</i><par n="fàtzil/e__adj"/></e>
 <e lm="cumassa">         <i>cumassa</i><par n="mesa__n"/></e>
 <e lm="cumassadura">     <i>cumassadura</i><par n="mesa__n"/></e>
 <e lm="cumbàlida">       <i>cumb</i><par n="à/a"/><i>lida</i><par n="mesa__n"/></e>
@@ -39619,6 +39636,8 @@ R
 <e lm="cunditzionale">   <par n="cun/con"/><i>di</i><par n="tz/z"/><i>ionale</i><par n="pane__n"/></e>
 <e lm="cunfescione">     <par n="cun/con"/><i>fescion</i><par n="region/e__n"/></e>
 <e lm="cunfessionale">   <par n="cun/con"/><i>fessionale</i><par n="pane__n"/></e>
+<e lm="cunfessionale">   <par n="cun/con"/><i>fessional</i><par n="fàtzil/e__adj"/></e>
+<e lm="intercunfessionale">   <i>inter</i><par n="cun/con"/><i>fessional</i><par n="fàtzil/e__adj"/></e>
 <e lm="cunfessionile">   <par n="cun/con"/><i>fessionile</i><par n="pane__n"/></e>
 <e lm="cunfessore">      <par n="cun/con"/><i>fessore</i><par n="pane__n"/></e>
 <e lm="cunfidente">      <par n="cun/con"/><i>fidente</i><par n="pane__n"/></e>
@@ -42950,7 +42969,7 @@ R
 <e lm="gàstricu">        <i>g</i><par n="à/a"/><i>stri</i><par n="linguìsti/cu__adj"/></e>
 <e lm="generatzionale">  <i>genera</i><par n="tz/z"/><i>ional</i><par n="fàtzil/e__adj"/></e>
 <e lm="geniale">         <i>genial</i><par n="fàtzil/e__adj"/></e>
-<e lm="genitivu">        <i>genitiv</i><par n="frantzes/u__adj"/></e>
+<e lm="genitivu">        <i>genitiv</i><par n="mac/u__n"/></e>
 <e lm="gestìbile">       <i>gest</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="ghemèddighe">     <i>ghem</i><par n="è/e"/><i>ddigh</i><par n="fàtzil/e__adj"/></e>
 <e lm="ghenugrada">      <i>ghenugrada</i><par n="meda__adj"/></e>
@@ -43557,6 +43576,9 @@ R
 <e lm="termale">         <i>termal</i><par n="fàtzil/e__adj"/></e>
 <e lm="terminale">       <i>terminal</i><par n="fàtzil/e__adj"/></e>
 <e lm="terrestre">       <i>terrestr</i><par n="fàtzil/e__adj"/></e>
+<e lm="terrestre">       <i>terrestr</i><par n="dentista__n"/></e>
+<e lm="extraterrestre">       <i>extraterrestr</i><par n="fàtzil/e__adj"/></e>
+<e lm="extraterrestre">       <i>extraterrestr</i><par n="dentista__n"/></e>
 <e lm="terrìbile">       <i>terr</i><par n="ì/i"/><i>bil</i><par n="fàtzil/e__adj"/></e>
 <e lm="tèssile">         <i>t</i><par n="è/e"/><i>ssil</i><par n="fàtzil/e__adj"/></e>
 <e lm="titibàchina">     <i>titib</i><par n="à/a"/><i>china</i><par n="meda__adj"/></e>
@@ -43736,6 +43758,7 @@ R
 <e lm="acusadore">       <i>acusador</i><par n="cunservador/e__adj"/></e>
 <e lm="acusadore">       <i>acusador</i><par n="traballador/e__n"/></e>
 <e lm="acusadu">         <i>acusad</i><par n="frantzes/u__adj"/></e>
+<e lm="acusativu">       <i>acusativ</i><par n="mac/u__n"/></e>
 <e lm="acusativu">       <i>acusativ</i><par n="frantzes/u__adj"/></e>
 <e lm="acutzadu">        <i>acutzad</i><par n="frantzes/u__adj"/></e>
 <e lm="acutzu">          <i>acutz</i><par n="frantzes/u__adj"/></e>
@@ -45422,6 +45445,7 @@ R
 <e lm="daretu">          <i>daret</i><par n="frantzes/u__adj"/></e>
 <e lm="dasianu">         <i>dasian</i><par n="frantzes/u__adj"/></e>
 <e lm="dativu">          <i>dativ</i><par n="frantzes/u__adj"/></e>
+<e lm="dativu">          <i>dativ</i><par n="mac/u__n"/></e>
 <e lm="dàunu">           <i>d</i><par n="à/a"/><i>un</i><par n="frantzes/u__adj"/></e>
 <e lm="ddoddosu">        <i>ddoddos</i><par n="frantzes/u__adj"/></e>
 <e lm="debberone">       <i>debberon</i><par n="cunservador/e__adj"/></e>
@@ -48733,6 +48757,7 @@ R
 <e lm="noitzu">          <i>noitz</i><par n="frantzes/u__adj"/></e>
 <e lm="nominadu">        <i>nominad</i><par n="frantzes/u__adj"/></e>
 <e lm="nominativu">      <i>nominativ</i><par n="frantzes/u__adj"/></e>
+<e lm="nominativu">      <i>nominativ</i><par n="mac/u__n"/></e>
 <e lm="noragugumesu">    <i>noragugumes</i><par n="frantzes/u__adj"/></e>
 <e lm="nordafricanu">    <i>nordafrican</i><par n="frantzes/u__adj"/></e>
 <e lm="nordamericanu">   <i>nordamerican</i><par n="frantzes/u__adj"/></e>
@@ -51048,6 +51073,7 @@ R
 <e lm="viudu">           <i>viud</i><par n="frantzes/u__adj"/></e>
 <e lm="vocàlicu">        <i>voc</i><par n="à/a"/><i>li</i><par n="linguìsti/cu__adj"/></e>
 <e lm="vocativu">        <i>vocativ</i><par n="frantzes/u__adj"/></e>
+<e lm="vocativu">        <i>vocativ</i><par n="mac/u__n"/></e>
 <e lm="volàsticu">       <i>vol</i><par n="à/a"/><i>sti</i><par n="linguìsti/cu__adj"/></e>
 <e lm="volenterosu">     <i>volenteros</i><par n="frantzes/u__adj"/></e>
 <e lm="voltàicu">        <i>volt</i><par n="à/a"/><i>i</i><par n="linguìsti/cu__adj"/></e>
@@ -51059,6 +51085,7 @@ R
 <e lm="zarru">           <i>zarr</i><par n="frantzes/u__adj"/></e>
 <e lm="zelgulanu">       <i>zelgulan</i><par n="frantzes/u__adj"/></e>
 <e lm="zìngaru">         <i>z</i><par n="ì/i"/><i>ngar</i><par n="frantzes/u__adj"/></e>
+<e lm="zìngaru">         <i>z</i><par n="ì/i"/><i>ngar</i><par n="amig/u__n"/></e>
 <e lm="ziziadu">         <i>ziziad</i><par n="frantzes/u__adj"/></e>
 <e lm="zoològicu">       <i>zool</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
 <e lm="zoomorfu">        <i>zoomorf</i><par n="frantzes/u__adj"/></e>
@@ -54420,7 +54447,7 @@ R
 <e lm="istandardizatzione"><i>istandardiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="istruturatzione"> <i>istrutura</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="ufitzializatzione"><i>ufitzializa</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
-<e lm="utilitzatzione">  <i>utilitza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
+<e lm="utilizatzione">  <i>utiliza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 
 <e lm="web">             <i>web</i><par n="mesa__n"/></e>
 <e lm="webcam">          <i>webcam</i><par n="mesa__n"/></e>
@@ -55315,8 +55342,8 @@ R
 
 <e lm="isponsoritzare">       <i>isponsoritz</i><par n="cant/are__vblex"/></e>
 <e r="LR" lm="sponsoritzare"><p><l>sponsoritz</l> <r>isponsoritz</r></p><par n="cant/are__vblex"/></e>
-<e lm="isponsoritzatzione">       <i>isponsoritzatzion</i><par n="region/e__n"/></e>
-<e r="LR" lm="sponsoritzatzione"><p><l>sponsoritzatzion</l> <r>isponsoritzatzion</r></p><par n="region/e__n"/></e>
+<e lm="isponsorizatzione">       <i>isponsorizatzion</i><par n="region/e__n"/></e>
+<e r="LR" lm="sponsorizatzione"><p><l>sponsorizatzion</l> <r>isponsorizatzion</r></p><par n="region/e__n"/></e>
 <e lm="isponsoritzadu">       <i>isponsoritzad</i><par n="frantzes/u__adj"/></e>
 <e r="LR" lm="sponsoritzadu"><p><l>sponsoritzad</l> <r>isponsoritzad</r></p><par n="frantzes/u__adj"/></e>
 
@@ -55329,6 +55356,7 @@ R
 <e lm="sachizare">       <i>sachiz</i><par n="cant/are__vblex"/></e>
 <e lm="intertzetare">    <i>intertzet</i><par n="cant/are__vblex"/></e>
 <e lm="màchina">         <i>màchina</i><par n="mesa__n"/></e>
+<e lm="màchina-bomba">         <i>màchina-bomba</i><par n="mesa__n"/></e>
 <e lm="partetzipante">   <i>partetzipant</i><par n="traballador/e__n"/></e>
 <e lm="partida">         <i>partida</i><par n="mesa__n"/></e>
 <e lm="tzentrale">       <i>tzentral</i><par n="traballador/e__n"/></e>
@@ -55357,6 +55385,8 @@ R
 <e lm="uniforme">        <i>uniform</i><par n="fàtzil/e__adj"/></e>
 <e lm="vicàriu">         <i>vicàri</i><par n="frantzes/u__adj"/></e>
 <e lm="video" c="istrangerismu"><i>video</i><par n="matessi__adj"/></e>
+<e lm="auto-" c="prefissu"><i>auto-</i><par n="matessi__adj"/></e>
+<e lm="neo-" c="prefissu"><i>neo-</i><par n="matessi__adj"/></e>
 
 <e lm="badde">           <i>badd</i><par n="region/e__n"/></e>
 <e lm="biddatzolu">      <i>biddatzol</i><par n="mac/u__n"/></e>
@@ -55417,8 +55447,8 @@ R
 <e lm="parèntesi">       <i>parèntesi</i><par n="mesa__n"/></e>
 <e lm="bassista">       <i>bassista</i><par n="dentista__n"/></e>
 <e lm="trio">       <i>trio</i><par n="pane__n"/></e>
-<e lm="biannuale">       <i>biannuale</i><par n="dentista__n"/></e>
-<e lm="biannuale">       <i>biannuale</i><par n="meda__adj"/></e>
+<e lm="biennale">       <i>biennale</i><par n="dentista__n"/></e>
+<e lm="biennale">       <i>biennale</i><par n="meda__adj"/></e>
 
 <e lm="coefitziente">         <i>coefi</i><par n="tz/c"/><i>iente</i><par n="pane__n"/></e>
 <e lm="polinòmiu">       <i>polinòmi</i><par n="mac/u__n"/></e>
@@ -55468,6 +55498,11 @@ R
 <e lm="abelianu">        <i>abelian</i><par n="frantzes/u__adj"/></e>
 <e lm="berninianu">        <i>berninianu</i><par n="frantzes/u__adj"/></e>
 <e lm="antiberninianu">        <i>antiberninianu</i><par n="frantzes/u__adj"/></e>
+
+<e lm="tzentralitzare">      <par n="tz/c"/><i>entralitz</i><par n="cant/are__vblex"/></e>
+<e lm="detzentralitzare">      <i>de</i><par n="tz/c"/><i>entralitz</i><par n="cant/are__vblex"/></e>
+<e lm="tzentralizatzione">      <par n="tz/c"/><i>entralizatzion</i><par n="cant/are__vblex"/></e>
+<e lm="detzentralizatzione">      <i>de</i><par n="tz/c"/><i>entralitatzion</i><par n="cant/are__vblex"/></e>
 
   </section>
 
