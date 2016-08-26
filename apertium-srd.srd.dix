@@ -16009,6 +16009,7 @@
 <e lm="àinu">            <i></i><par n="à/a"/><i>in</i><par n="amig/u__n"/></e>
 <e lm="ùrpinu">          <i></i><par n="ù/u"/><i>rpin</i><par n="amig/u__n"/></e>
 <e lm="ADN">             <i>ADN</i><par n="PNB__n"/></e>
+<e lm="CV">              <i>CV</i><par n="PNB__n"/></e>
 <e lm="AG">              <i>AG</i><par n="TV__n"/></e>
 <e lm="AIDS">            <i>AIDS</i><par n="PNB__n"/></e>
 <e lm="ATP">             <i>ATP</i><par n="TV__n"/></e>
@@ -18050,6 +18051,7 @@
 <e lm="blasfemia">       <i>blasfemia</i><par n="mesa__n"/></e>
 <e lm="blocu">           <i>bloc</i><par n="mac/u__n"/></e>
 <e lm="blog" c="istrangerismu">            <i>blog</i><par n="lapis__n"/></e>
+<e lm="lobby" c="istrangerismu">            <i>lobby</i><par n="lapis__n"/></e>
 <e lm="tablet" c="istrangerismu">            <i>tablet</i><par n="lapis__n"/></e>
 <e lm="tweet" c="istrangerismu">            <i>tweet</i><par n="lapis__n"/></e>
 <e lm="smartphone" c="istrangerismu">            <i>smartphone</i><par n="lapis__n"/></e>
@@ -20558,8 +20560,8 @@
 <e lm="compostura">      <i>compostura</i><par n="mesa__n"/></e>
 <e lm="compudu">         <i>compud</i><par n="mac/u__n"/></e>
 <e lm="computu">         <i>comput</i><par n="mac/u__n"/></e>
-<e lm="computer" c="istrangerismu">        <i>computer</i><par n="pane__n"/></e>
-<e lm="firewall" c="istrangerismu">        <i>firewall</i><par n="pane__n"/></e>
+<e lm="computer" c="istrangerismu">        <i>computer</i><par n="lapis__n"/></e>
+<e lm="firewall" c="istrangerismu">        <i>firewall</i><par n="lapis__n"/></e>
 <e lm="comunàrgiu">      <i>comun</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
 <e lm="comuna">          <i>comuna</i><par n="mesa__n"/></e>
 <e lm="comunada">        <i>comunada</i><par n="mesa__n"/></e>
@@ -28100,7 +28102,7 @@
 <e lm="istancu">         <i>istanc</i><par n="mac/u__n"/></e>
 <e lm="istanchìlliu">    <i>istanch</i><par n="ì/i"/><i>lli</i><par n="mac/u__n"/></e>
 <e lm="istancheri">      <i>istancher</i><par n="ingegner/i__n"/></e>
-<e lm="istandard">       <i>istandard</i><par n="pane__n"/></e>
+<e lm="istandard">       <i>istandard</i><par n="lapis__n"/></e>
 <e lm="istandardizatzione"><i>istandardiza</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="istanga">         <i>istanga</i><par n="mesa__n"/></e>
 <e lm="istangiada">      <i>istangiada</i><par n="mesa__n"/></e>
@@ -37319,10 +37321,11 @@
 <e lm="stùdiu">          <i>st</i><par n="ù/u"/><i>di</i><par n="mac/u__n"/></e>
 <e r="LR" lm="istadu">   <p><l>stad</l>      <r>istad</r></p><par n="mac/u__n"/></e>
 <e lm="staff" c="istrangerismu"><i>staff</i><par n="anarchismu__n"/></e>
-<e lm="standard">        <i>standard</i><par n="pane__n"/></e>
-<e lm="star" c="istrangerismu"><i>star</i><par n="mesa__n"/></e>
-<e lm="status">          <i>stat</i><par n="temp/us__n"/></e>
-<e lm="sterminiu">       <i>stermini</i><par n="mac/u__n"/></e>
+<e lm="standard" c="istrangerismu">        <i>standard</i><par n="lapis__n"/></e>
+<e lm="star" c="istrangerismu"><i>star</i><par n="càmbaras__n"/></e>
+<e lm="know how" c="istrangerismu">          <i>know<b/>how</i><par n="lapis__n"/></e>
+<e lm="status" c="istrangerismu">          <i>status</i><par n="lapis__n"/></e>
+<e lm="status quo" c="istrangerismu">          <i>status<b/>quo</i><par n="anarchismu__n"/></e>
 <e r="LR" lm="istòria">  <p><l>storia</l>    <r>istòria</r></p><par n="mesa__n"/></e>
 <e r="LR" lm="stratificatzione"><p><l>stratificatzion</l><r>istratificatzion</r></p><par n="region/e__n"/></e>
 <e r="LR" lm="istràngiu"><p><l>stràngi</l>   <r>istràngi</r></p><par n="amig/u__n"/></e>
@@ -37525,7 +37528,7 @@
 <e lm="superatzelleradore"><i>superatzelleradore</i><par n="pane__n"/></e>
 <e lm="superbombardei">  <i>superbombardei</i><par n="pane__n"/></e>
 <e lm="supercampione">   <i>supercampion</i><par n="cont/e__n"/></e>
-<e lm="supercomputer"  c="istrangerismu">   <i>supercomputer</i><par n="pane__n"/></e>
+<e lm="supercomputer"  c="istrangerismu">   <i>supercomputer</i><par n="lapis__n"/></e>
 <e lm="supercriminale">  <i>supercriminale</i><par n="dentista__n"/></e>
 <e lm="superdose">       <i>superdose</i><par n="pane__n"/></e>
 <e lm="superfìtzie">     <i>superf</i><par n="ì/i"/><i>tzi</i><par n="region/e__n"/></e>
@@ -37538,7 +37541,7 @@
 <e lm="supernoa">        <i>supernoa</i><par n="mesa__n"/></e>
 <e lm="superpodere">     <i>superpodere</i><par n="pane__n"/></e>
 <e r="LR" lm="superpodere"><p><l>superpotere</l><r>superpodere</r></p><par n="pane__n"/></e>
-<e lm="superstar" c="istrangerismu"><i>superstar</i><par n="mesa__n"/></e>
+<e lm="superstar" c="istrangerismu"><i>superstar</i><par n="càmbaras__n"/></e>
 <e lm="superstitzione">  <i>supersti</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="superstratu">     <i>superstrat</i><par n="mac/u__n"/></e>
 <e lm="supertestimòngiu"><i>supertestim</i><par n="ò/o"/><i>ngi</i><par n="amig/u__n"/></e>
@@ -43233,7 +43236,6 @@
 <e lm="Istertzili">      <i>Istertzili</i><par n="Afganistàn__np"/></e>
 <e lm="Istintinu">       <i>Istintinu</i><par n="Afganistàn__np"/></e>
 <e lm="Istrasburgu">     <i>Istrasburgu</i><par n="Afganistàn__np"/></e>
-<e lm="Istvìtzera">      <i>Istv</i><par n="ì/i"/><i>tzera</i><par n="Etiòpia__np"/></e>
 <e lm="Isvìtzera">       <i>Isv</i><par n="ì/i"/><i>tzera</i><par n="Etiòpia__np"/></e>
 <e lm="Isvètzia">        <i>Isv</i><par n="è/e"/><i>tzia</i><par n="Etiòpia__np"/></e>
 <e r="LR" lm="Isvìtzera"><p><l>Isvitzera</l> <r>Isvìtzera</r></p><par n="Etiòpia__np"/></e>
@@ -43829,6 +43831,7 @@
 <e lm="Masina">          <i>Masina</i><par n="Maria__np"/></e>
 <e lm="Mason">           <i>Mason</i><par n="Saussure__np"/></e>
 <e lm="Massachusetts">   <i>Massachusetts</i><par n="Afganistàn__np"/></e>
+<e lm="Marrocu">         <i>Marrocu</i><par n="Afganistàn__np"/></e>
 <e lm="Massenzia">       <i>Massenzia</i><par n="Maria__np"/></e>
 <e lm="Massenzio">       <i>Massenzio</i><par n="Antoni__np"/></e>
 <e lm="Massima">         <i>Massima</i><par n="Maria__np"/></e>
