@@ -5296,10 +5296,13 @@
 <e lm="in tantu">        <i>in<b/>tantu</i><par n="bene__adv"/></e>
 <e lm="in totu">         <i>in<b/>totu</i><par n="bene__adv"/></e>
 <e lm="in totue">        <i>in<b/>totue</i><par n="bene__adv"/></e>
-<e r="LR" lm="in ue" c="!LSC"><p><l>in<b/>ube</l><r>in<b/>ue</r></p><par n="cando__adv"/></e>
-<e lm="in ue">           <i>in<b/>ue</i><par n="cando__adv"/></e>
 <e lm="in ue">           <i>in<b/>ue</i><par n="bene__adv"/></e>
+<e lm="in ue">           <i>in<b/>ue</i><par n="cando__adv"/></e>
+<e r="LR" lm="in ue" c="!LSC"><p><l>in<b/>ube</l><r>in<b/>ue</r></p><par n="cando__adv"/></e>
 <e r="LR" lm="in ue" c="!LSC"><p><l>in<b/>uve</l><r>in<b/>ue</r></p><par n="cando__adv"/></e>
+<e lm="a ue">           <i>a<b/>ue</i><par n="cando__adv"/></e>
+<e r="LR" lm="a ue" c="!LSC"><p><l>a<b/>ube</l><r>a<b/>ue</r></p><par n="cando__adv"/></e>
+<e r="LR" lm="a ue" c="!LSC"><p><l>a<b/>uve</l><r>a<b/>ue</r></p><par n="cando__adv"/></e>
 <e lm="tzinchi·tzanchi"> <par n="tz/c"/><i>inchi·tzanchi</i><par n="bene__adv"/></e>
 <e lm="incras">          <i>incras</i><par n="bene__adv"/></e>
 <e lm="indedda">         <i>indedda</i><par n="bene__adv"/></e>
@@ -7873,7 +7876,6 @@
 <e lm="corrudone">       <i>corrudon</i><par n="cunservador/e__adj"/></e>
 <e lm="corrumpidore">    <i>corrumpidor</i><par n="cunservador/e__adj"/></e>
 <e lm="corrutosu">       <i>corrutos</i><par n="frantzes/u__adj"/></e>
-<e lm="corsu">           <i>cors</i><par n="frantzes/u__adj"/></e>
 <e lm="corsàriu">        <i>cors</i><par n="à/a"/><i>ri</i><par n="frantzes/u__adj"/></e>
 <e lm="corsicanu">       <i>corsican</i><par n="frantzes/u__adj"/></e>
 <e lm="corsivu">         <i>corsiv</i><par n="frantzes/u__adj"/></e>
@@ -10800,6 +10802,7 @@
 <e lm="ispageri">        <i>ispager</i><par n="banduler/i__adj"/></e>
 <e lm="ispagigadore">    <i>ispagigador</i><par n="cunservador/e__adj"/></e>
 <e lm="ispagnolu">       <i>ispagnol</i><par n="frantzes/u__adj"/></e>
+<e lm="lusitanu">       <i>lusitan</i><par n="frantzes/u__adj"/></e>
 <e lm="ispagnolista">    <i>ispagnolista</i><par n="meda__adj"/></e>
 <e lm="ispalejadu">      <i>ispalejad</i><par n="frantzes/u__adj"/></e>
 <e lm="ispampaniadu">    <i>ispampaniad</i><par n="frantzes/u__adj"/></e>
@@ -19127,8 +19130,9 @@
 <e lm="capistatzione">   <i>capista</i><par n="tz/z"/><i>ion</i><par n="region/e__n"/></e>
 <e lm="capita">          <i>capita</i><par n="mesa__n"/></e>
 <e lm="capitale">        <i>capital</i><par n="region/e__n"/></e>
-<e r="LR" lm="capitale"> <p><l>capitali</l>  <r>capitale</r></p><par n="mesa__n"/></e>
+<e lm="capitale">        <i>capitale</i><par n="pane__n"/></e>
 <e lm="capitalismu">     <i>capitalismu</i><par n="anarchismu__n"/></e>
+<e lm="erba ferru">      <p><l>erba<b/>ferru</l>          <r>erba<b/>ferru<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="capitalista">     <i>capitalista</i><par n="dentista__n"/></e>
 <e lm="capitalizatzione"><i>capitalizatzion</i><par n="region/e__n"/></e>
 <e lm="capitanu">        <i>capitan</i><par n="mac/u__n"/></e>
@@ -21056,7 +21060,7 @@
 <e lm="corrutu">         <i>corrut</i><par n="mac/u__n"/></e>
 <e lm="corrutada">       <i>corrutada</i><par n="mesa__n"/></e>
 <e lm="corrutadore">     <i>corrutador</i><par n="traballador/e__n"/></e>
-<e lm="corsu">           <i>cors</i><par n="amig/u__n"/></e>
+<e lm="corsu">           <i>cors</i><par n="mac/u__n"/></e>
 <e lm="corsàriu">        <i>cors</i><par n="à/a"/><i>ri</i><par n="mac/u__n"/></e>
 <e lm="corsale">         <i>corsale</i><par n="pane__n"/></e>
 <e lm="corsia">          <i>corsia</i><par n="mesa__n"/></e>
@@ -21113,7 +21117,7 @@
 <e lm="cosmologia">      <i>cosmologia</i><par n="mesa__n"/></e>
 <e lm="cosmopolita">     <i>cosmopolita</i><par n="dentista__n"/></e>
 <e lm="cosmopolitismu">  <i>cosmopolitismu</i><par n="anarchismu__n"/></e>
-<e lm="cossu">           <i>coss</i><par n="mac/u__n"/></e>
+<e lm="cossu">           <i>coss</i><par n="amig/u__n"/></e>
 <e lm="cossa">           <i>cossa</i><par n="mesa__n"/></e>
 <e lm="cossale">         <i>cossale</i><par n="pane__n"/></e>
 <e lm="cossatzu">        <i>cossatz</i><par n="mac/u__n"/></e>
@@ -22034,6 +22038,7 @@
 <e lm="debodu">          <i>debod</i><par n="mac/u__n"/></e>
 <e lm="debràju">         <i>debr</i><par n="à/a"/><i>j</i><par n="mac/u__n"/></e>
 <e lm="decùrridu">       <i>dec</i><par n="ù/u"/><i>rrid</i><par n="mac/u__n"/></e>
+<e lm="cùrridu">         <i>c</i><par n="ù/u"/><i>rrid</i><par n="mac/u__n"/></e>
 <e lm="decàlitru">       <i>dec</i><par n="à/a"/><i>litr</i><par n="mac/u__n"/></e>
 <e lm="decàlogu">        <i>dec</i><par n="à/a"/><i>log</i><par n="mac/u__n"/></e>
 <e lm="decàmetru">       <i>dec</i><par n="à/a"/><i>metr</i><par n="mac/u__n"/></e>
@@ -24563,7 +24568,7 @@
 <e lm="froròngiu">       <i>fror</i><par n="ò/o"/><i>ngi</i><par n="mac/u__n"/></e>
 <e lm="froràgia">        <i>fror</i><par n="à/a"/><i>gia</i><par n="mesa__n"/></e>
 <e lm="froràmene">       <i>fror</i><par n="à/a"/><i>mene</i><par n="pane__n"/></e>
-<e lm="frore">           <i>fror</i><par n="region/e__n"/></e>
+<e lm="frore">           <i>frore</i><par n="pane__n"/></e>
 <e lm="froriàgiu">       <i>frori</i><par n="à/a"/><i>gi</i><par n="mac/u__n"/></e>
 <e lm="froridura">       <i>froridura</i><par n="mesa__n"/></e>
 <e lm="frorigiada">      <i>frorigiada</i><par n="mesa__n"/></e>
@@ -27717,6 +27722,7 @@
 <e lm="ispagiamentu">    <i>ispagiament</i><par n="mac/u__n"/></e>
 <e lm="ispagigadore">    <i>ispagigador</i><par n="traballador/e__n"/></e>
 <e lm="ispagnolu">       <i>ispagnol</i><par n="amig/u__n"/></e>
+<e lm="lusitanu">       <i>lusitan</i><par n="amig/u__n"/></e>
 <e lm="ispagnolismu">    <i>ispagnolismu</i><par n="anarchismu__n"/></e>
 <e lm="ispagnolista">    <i>ispagnolista</i><par n="dentista__n"/></e>
 <e lm="ispainadòrgiu">   <i>ispainad</i><par n="ò/o"/><i>rgi</i><par n="mac/u__n"/></e>
@@ -45841,8 +45847,8 @@
 <e lm="Venerino">        <i>Venerino</i><par n="Antoni__np"/></e>
 <e lm="Venerio">         <i>Venerio</i><par n="Antoni__np"/></e>
 <e lm="Venero">          <i>Venero</i><par n="Antoni__np"/></e>
-<e r="LR" lm="Venetu (italianu)"><p><l>Veneto</l><r>Venetu</r></p><par n="Afganistàn__np"/></e>
-<e lm="Venetu">          <i>Venetu</i><par n="Afganistàn__np"/></e>
+<e r="LR" lm="Vènetu (italianu)"><p><l>Veneto</l><r>Vènetu</r></p><par n="Afganistàn__np"/></e>
+<e lm="Vènetu">          <i>Vènetu</i><par n="Afganistàn__np"/></e>
 <e r="LR" lm="Venètzia (italianu)"><p><l>Venezia</l><r>Venètzia</r></p><par n="Etiòpia__np"/></e>
 <e lm="Venezuela">       <i>Venezuela</i><par n="Etiòpia__np"/></e>
 <e lm="Venicia">         <i>Venicia</i><par n="Maria__np"/></e>
@@ -55439,6 +55445,8 @@
     <e lm="microcrentia"><i>microcrentia</i><par n="mesa__n"/></e>
     <e lm="anticrisi"><i>anticrisi</i><par n="matessi__adj"/></e>
 
+<e lm="tzitade-istadu">       <p><l>tzitade-istadu</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="tzitade-istadu">       <p><l>tzitades-istados</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
   </section>
 
