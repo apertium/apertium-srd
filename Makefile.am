@@ -2,8 +2,7 @@
 ## Makefile for apertium-srd
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
+VERSION=0.9.0
 LANG1=srd
 BASENAME=apertium-$(LANG1)
 
