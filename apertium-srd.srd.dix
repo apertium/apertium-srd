@@ -38294,7 +38294,7 @@
 <e lm="tigiolu">         <i>tigiol</i><par n="mac/u__n"/></e>
 <e lm="tigiola">         <i>tigiola</i><par n="mesa__n"/></e>
 <e lm="tigione">         <i>tigione</i><par n="pane__n"/></e>
-<e lm="tigre">           <i>tigr</i><par n="region/e__n"/></e>
+<e lm="tigre">           <i>tigr</i><par n="region/e__n"/></e> <!-- VERIFY -->
 <e lm="tija">            <i>tija</i><par n="mesa__n"/></e>
 <e lm="tilìpera">        <i>til</i><par n="ì/i"/><i>pera</i><par n="mesa__n"/></e>
 <e lm="tilibriu">        <i>tilibri</i><par n="mac/u__n"/></e>
