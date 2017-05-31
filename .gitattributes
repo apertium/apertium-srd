@@ -15,6 +15,7 @@
 /autogen.sh -text
 /configure.ac -text
 corpus/srd.crp.txt -text
+/genvdix.py -text
 /modes.xml -text
 /srd.prob -text svneol=unset#unset
 /test_verbs.bash -text

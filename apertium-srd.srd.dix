@@ -360,13 +360,14 @@
 </pardef>
 
 <pardef n="/li__prn" c="p.18 / 105">
-  <e r="RL"><p><l><a/>li</l>    <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>li</l>        <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>l'</l>        <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>ddi</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>dd'</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e>       <p><l>lis</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ddis</l>      <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e r="RL" v="sep"><p><l><a/>li</l>    <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e r="LR" v="sep"><p><l>li</l>        <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e r="LR" v="sep"><p><l>l'</l>        <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e v="sep">       <p><l>lis</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e r="RL" v="mer"><p><l><a/>ddi</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e r="LR" v="mer"><p><l>ddi</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e r="LR" v="mer"><p><l>dd'</l>       <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e v="mer"><p><l>ddis</l>      <r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="/lu__prn" c="p.18 / 105">
@@ -495,17 +496,17 @@
 <pardef n="/su_chi__rel">
   <e>       <p><l>su<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>sa<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sos<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sas<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>is<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e v="sep">       <p><l>sos<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
+  <e v="sep">       <p><l>sas<b/>chi</l><r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
+  <e r="LR" v="mer"><p><l>is<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="/su_cale__rel">
   <e>       <p><l>su<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>sa<b/>cale</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sos<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sas<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>is<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e v="sep">       <p><l>sos<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
+  <e v="sep">       <p><l>sas<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
+  <e r="LR" v="mer"><p><l>is<b/>cales</l><r>su<b/>cale<s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="chi__rel">
@@ -531,9 +532,11 @@
   <e r="RL"><p><l><a/>sa</l>    <r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>su</l>        <r>su<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>sa</l>        <r>su<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sos</l>       <r>su<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sas</l>       <r>su<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
-  <e>       <p><l>is</l>        <r>su<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e v="sep"><p><l>sos</l>       <r>su<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+  <e v="sep"><p><l>sas</l>       <r>su<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
+  <e v="mer"><p><l>is</l>        <r>su<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e r="RL" v="mer"><p><l>is</l> <r>su<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+  <e r="RL" v="mer"><p><l>is</l> <r>su<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="tot/u__predet" c="">
