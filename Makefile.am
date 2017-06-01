@@ -13,7 +13,6 @@ VAR2=_meridional
 TARGETS_COMMON =			\
 	$(LANG1).automorf.bin		\
 	$(LANG1).automorf.att.gz	\
-	$(LANG1).autogen.bin		\
 	$(LANG1)$(VAR1).autogen.bin		\
 	$(LANG1)$(VAR2).autogen.bin		\
 	$(LANG1).autogen.att.gz		\
