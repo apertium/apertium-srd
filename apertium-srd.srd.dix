@@ -540,7 +540,7 @@
 </pardef>
 
 <pardef n="tot/u__predet" c="">
-  <e>       <p><l>u</l>         <r>u<s n="predet"/><s n="mf"/><s n="sp"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="predet"/><s n="mf"/><s n="sp"/></r></p></e> <!-- totu sa die, totu sas dies -->
 </pardef>
 
 <pardef n="/unu__det" c="p.25">
@@ -552,6 +552,19 @@
   <e r="LR"><p><l>unus</l>      <r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
   <e>       <p><l>unos</l>      <r>unu<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>unas</l>      <r>unu<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="nessun/u__det" c="">
+  <e>       <p><l>u</l>         <r>u<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>         <r>u<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>us</l>        <r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e> <!-- @!LSC -->
+  <e>       <p><l>os</l>        <r>u<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as</l>        <r>u<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="bintun/u__det" c="">
+  <e>       <p><l>u</l>         <r>u<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>a</l>         <r>u<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="ogni__det" c="">
@@ -633,6 +646,25 @@
   <e>       <p><l>as<b/>àteras</l><r>u<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 </pardef>
  
+<pardef n="un/u_e_s'àteru__det" c="">
+  <e r="LR"><p><l><b/>e<b/>s'ateru</l> <r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+  <e r="LR"><p><l>u<b/>e<b/>s'ateru</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>a<b/>e<b/>s'atera</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>os<b/>e<b/>s'ateros</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>as<b/>e<b/>s'ateras</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+
+  <e r="LR"><p><l><b/>e<b/>s'àteru</l> <r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+  <e r="LR"><p><l>'e<b/>s'àteru</l>    <r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
+  <e>       <p><l>u<b/>e<b/>s'àteru</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>e<b/>s'àtera</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>e<b/>s'àteros</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>e<b/>s'àteras</l><r>u<b/>e<b/>s'àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="nemos__det" c="p.27 /105">
+  <e>       <p><l></l>          <r><s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+</pardef>
+
     <!-- SECTION: Nouns -->
 
 <pardef n="pane__n">
@@ -5918,6 +5950,9 @@
 <e lm="tràmite">         <i>tr</i><par n="à/a"/><i>mite</i><par n="a__pr"/></e>
 <e lm="tra">             <i>tra</i><par n="a__pr"/></e>
 <e lm="ultres">          <i>ultres</i><par n="a__pr"/></e>
+<e lm="inferiore a">     <i>inferiore<b/>a</i><par n="a__pr"/></e>
+<e lm="superiore a">     <i>superiore<b/>a</i><par n="a__pr"/></e>
+
 
     <!-- ******************************
           group prn
@@ -15722,8 +15757,26 @@
 <e lm="perunu">          <i>perun</i><par n="perun/u__det"/></e>
 <e lm="tale">            <i>tale</i><par n="tale__det"/></e>
 <e lm="unu àteru">       <i>un</i><par n="un/u_àteru__det"/></e>
+<e lm="unu e s'àteru">   <i>un</i><par n="un/u_e_s'àteru__det"/></e>
+<e lm="medas àteros"><p><l>medas<b/>àteros</l><r>medas<b/>àteros<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="medas àteros"><p><l>medas<b/>àteras</l><r>medas<b/>àteros<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="calicunu àteru"><p><l>calicunu<b/>àteru</l><r>calicunu<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="calicunu àteru"><p><l>calicuna<b/>àtera</l><r>calicunu<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="calicunu àteru"><p><l>calicunos<b/>àteros</l><r>calicunu<b/>àteru<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="calicunu àteru"><p><l>calicunas<b/>àteras</l><r>calicunu<b/>àteru<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="vàriu">           <i>v</i><par n="à/a"/><i>ri</i><par n="vàri/u__det"/></e>
 <e r="LR" lm="ogni">     <p><l>ònni</l>      <r>ogni</r></p><par n="ogni__det"/></e>
+<e lm="nessunu">         <i>nessun</i><par n="nessun/u__det"/></e>
+<e lm="una sèrie de"><p><l>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="totu una sèrie de"><p><l>totu<b/>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="bintunu">         <i>bintun</i><par n="bintun/u__det"/></e>
+<e lm="trintunu">        <i>trintun</i><par n="bintun/u__det"/></e>
+<e lm="barantunu">       <i>barantun</i><par n="bintun/u__det"/></e>
+<e lm="chimbantunu">     <i>chimbantun</i><par n="bintun/u__det"/></e>
+<e lm="sesantunu">       <i>sesantun</i><par n="bintun/u__det"/></e>
+<e lm="setantunu">       <i>setantun</i><par n="bintun/u__det"/></e>
+<e lm="otantunu">        <i>otantun</i><par n="bintun/u__det"/></e>
+<e lm="norantunu">       <i>norantun</i><par n="bintun/u__det"/></e>
 
     <!-- ******************************
           group predet
@@ -55449,10 +55502,20 @@
     <e lm="microcrentia"><i>microcrentia</i><par n="mesa__n"/></e>
     <e lm="anticrisi"><i>anticrisi</i><par n="matessi__adj"/></e>
 
-<e lm="tzitade-istadu">       <p><l>tzitade-istadu</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e lm="tzitade-istadu">       <p><l>tzitades-istadu</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e lm="tzitade-sìmbulu">      <p><l>tzitade-sìmbulu</l>         <r>tzitade-sìmbulu<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e lm="tzitade-sìmbulu">      <p><l>tzitades-sìmbulu</l>         <r>tzitade-sìmbulu<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="tzitade-istadu">       <p><l>tzitade-istadu</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="tzitade-istadu">       <p><l>tzitades-istadu</l>         <r>tzitade-istadu<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="tzitade-sìmbulu">      <p><l>tzitade-sìmbulu</l>         <r>tzitade-sìmbulu<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="tzitade-sìmbulu">      <p><l>tzitades-sìmbulu</l>         <r>tzitade-sìmbulu<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+
+    <e lm="meda"><i>meda</i><par n="guasi__preadv"/></e>
+    <e lm="bene"><i>bene</i><par n="guasi__preadv"/></e>
+    <e lm="tantu"><i>tantu</i><par n="guasi__preadv"/></e>
+    <e lm="gosi"><i>gosi</i><par n="guasi__preadv"/></e>
+    <e lm="bastante"><i>bastante</i><par n="guasi__preadv"/></e>
+    <e lm="tropu"><i>tropu</i><par n="guasi__preadv"/></e>
+    <e lm="male"><i>male</i><par n="guasi__preadv"/></e>
+    <e lm="belle"><i>belle</i><par n="guasi__preadv"/></e>
+
 
   </section>
 
