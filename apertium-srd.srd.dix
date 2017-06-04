@@ -3640,6 +3640,7 @@
 <e lm="ca">              <i>ca</i><par n="chi__cnjsub"/></e>
 <e lm="che">             <i>che</i><par n="chi__cnjsub"/></e>
 <e lm="chi">             <i>chi</i><par n="chi__cnjsub"/></e>
+<e lm="comente">         <i>comente</i><par n="chi__cnjsub"/></e>
 <e lm="de su restu">     <i>de<b/>su<b/>restu</i><par n="chi__cnjsub"/></e>
 <e lm="finas a cando">   <i>finas<b/>a<b/>cando</i><par n="chi__cnjsub"/></e>
 <e lm="francu">          <i>francu</i><par n="chi__cnjsub"/></e>
@@ -3662,6 +3663,7 @@
 <e lm="pro ite ca">      <i>pro<b/>ite<b/>ca</i><par n="chi__cnjsub"/></e>
 <e r="LR" lm="pro ite">  <p><l>proite</l>    <r>pro<b/>ite</r></p><par n="chi__cnjsub"/></e>
 <e lm="sende chi">       <i>sende<b/>chi</i><par n="chi__cnjsub"/></e>
+<e lm="si">              <i>si</i><par n="chi__cnjsub"/></e>
 <e lm="si no est chi">   <i>si<b/>no<b/>est<b/>chi</i><par n="chi__cnjsub"/></e>
 <e lm="si puru">         <i>si<b/>puru</i><par n="chi__cnjsub"/></e>
 
@@ -3692,6 +3694,8 @@
 <e r="LR" lm="ue" c="!LSC"><p><l>ube</l>     <r>ue</r></p><par n="cando__rel"/></e>
 <e lm="ue">              <i>ue</i><par n="cando__rel"/></e>
 <e r="LR" lm="ue" c="!LSC"><p><l>uve</l>     <r>ue</r></p><par n="cando__rel"/></e>
+<e lm="ite">             <i>ite</i><par n="chi__rel"/></e>
+<e lm="ca">               <i>ca</i><par n="chi__rel"/></e>
 
     <!-- ******************************
           group adv
@@ -5868,6 +5872,7 @@
 <e r="LR" lm="giai">     <p><l>zai</l>       <r>giai</r></p><par n="bene__adv"/></e>
     <!--<e lm="a s'interinada"><i>a<b/>s'interinada</i><par n="bene__adv"/></e>-->
 <e r="RL" lm="issu matessi">    <i>issu<b/>matessi</i><par n="bene__adv"/></e>
+<e lm="etz">             <i>etz</i><par n="bene__adv"/></e>
 
     <!-- ******************************
           group pr
@@ -50042,9 +50047,9 @@
 <e lm="inchingiare">     <p><l>inchìng</l>   <r>inchingiare</r></p><par n="apòg/io__vblex"/></e>
 <e lm="inchìnghere">     <p><l>inchìng</l>   <r>inchìnghere</r></p><par n="tìng/here__vblex"/></e>
 <e lm="inclùere">        <p><l>inclu</l>     <r>inclùere</r></p><par n="tim/o__vblex"/></e>
+<e lm="inclùere">        <p><l>inclù</l>     <r>inclùere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="incluire">        <p><l>inclu</l>     <r>incluire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="inclùdere">       <p><l>includ</l>    <r>inclùdere</r></p><par n="tim/o__vblex"/></e>
-<e lm="inclùere">        <p><l>inclù</l>     <r>inclùere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="inclùdere">       <p><l>inclùd</l>    <r>inclùdere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="incollare">       <i>incoll</i><par n="cant/are__vblex"/></e>
 <e lm="incomintzare">    <i>incomintz</i><par n="cant/are__vblex"/></e>
