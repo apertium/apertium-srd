@@ -436,10 +436,6 @@
   <e>       <p><l></l>          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="cussu__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sp"/></r></p></e>
-</pardef>
-
 <pardef n="àter/u__prn" c="p.27 /105">
   <e>       <p><l>u</l>         <r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>         <r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
@@ -493,6 +489,14 @@
   <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
 
+<pardef n="medas__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="nudda__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+</pardef>
+
 <pardef n="/su_chi__rel">
   <e>       <p><l>su<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>sa<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
@@ -511,10 +515,6 @@
 
 <pardef n="chi__rel">
   <e>       <p><l></l>          <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
-</pardef>
-
-<pardef n="nudda__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 </pardef>
 
 <pardef n="un/u__prn" c="">
@@ -947,6 +947,27 @@
   <e>       <p><l>as</l>        <r>u<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 </pardef>
 
+<pardef n="s/u_meu__prn" c="">
+  <e>       <p><l>u<b/>meu</l>         <r>u<b/>meu<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>mea</l>         <r>u<b/>meu<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>meos</l>       <r>u<b/>meu<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>meas</l>       <r>u<b/>meu<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="s/u_nostru__prn" c="">
+  <e>       <p><l>u<b/>nostru</l>         <r>u<b/>nostru<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>nostra</l>         <r>u<b/>nostru<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>nostros</l>       <r>u<b/>nostru<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>nostras</l>       <r>u<b/>nostru<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="s/u_bostru__prn" c="">
+  <e>       <p><l>u<b/>bostru</l>         <r>u<b/>bostru<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>bostra</l>         <r>u<b/>bostru<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>bostros</l>       <r>u<b/>bostru<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>bostras</l>       <r>u<b/>bostru<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
 <pardef n="t/uo__prn" c="p.29">
   <e>       <p><l>uo</l>        <r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>uu</l>        <r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e> <!-- @!LSC -->
@@ -956,6 +977,21 @@
   <e>       <p><l>uos</l>       <r>uo<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>uas</l>       <r>uo<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 </pardef>
+
+<pardef n="s/u_tuo__prn" c="">
+  <e>       <p><l>u<b/>tuo</l>         <r>u<b/>tuo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>tua</l>         <r>u<b/>tuo<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>tuos</l>       <r>u<b/>tuo<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>tuas</l>       <r>u<b/>tuo<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="s/u_suo__prn" c="">
+  <e>       <p><l>u<b/>suo</l>         <r>u<b/>suo<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a<b/>sua</l>         <r>u<b/>suo<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os<b/>suos</l>       <r>u<b/>suo<s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as<b/>suas</l>       <r>u<b/>suo<s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
 
 <pardef n="prim/u__adj" c="p.44 / 105">
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3677,13 +3713,11 @@
 <e r="LR" lm="cando">    <p><l>candu</l>     <r>cando</r></p><par n="cando__rel"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 <e lm="chi">             <i>chi</i><par n="chi__rel"/></e>
-<!--
-    <e lm="comente"><i>comente</i><par n="cando__rel"/></e>
+<e lm="comente">         <i>comente</i><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>commenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cummente</l><r>comente</r></p><par n="cando__rel"/></e>
--->
 <e lm="comente a">       <i>comente<b/>a</i><par n="cando__rel"/></e>
 <e r="LR" lm="comente a"><p><l>comenti<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
 <e r="LR" lm="comente a"><p><l>commenti<b/>a</l><r>comente<b/>a</r></p><par n="cando__rel"/></e>
@@ -5975,19 +6009,21 @@
 <e lm="bois">            <i>bois</i><par n="bois__prn"/></e>
 <e lm="bos">             <i>bos</i><par n="bos__prn"/></e>
 <e lm="bostru">          <i>bostr</i><par n="me/u__prn"/></e>
+<e lm="su bostru">       <i>s</i><par n="s/u_bostru__prn"/></e>
 <e lm="cadaunu">         <i>cadaun</i><par n="cadaun/u__prn"/></e>
 <e lm="cale">            <i>cale</i><par n="cale__prn"/></e>
 <e lm="cale si siat cosa"><i>cale<b/>si<b/>siat<b/>cosa</i><par n="calesi_siat__prn"/></e>
 <e r="LR" lm="calesi-siat"><p><l>calesi-siat</l><r>calesi<b/>siat</r></p><par n="calesi_siat__prn"/></e>
 <e lm="calesi chi siat"> <i>calesi<b/>chi<b/>siat</i><par n="calesi_siat__prn"/></e>
 <e lm="calesi siat">     <i>calesi<b/>siat</i><par n="calesi_siat__prn"/></e>
+<e lm="calicuna cosa">   <i>calicuna<b/>cosa</i><par n="nudda__prn"/></e>
 <e lm="calicunu">        <i>calicun</i><par n="perun/u__prn"/></e>
 <e lm="cantu">           <i>cant</i><par n="cant/u__prn"/></e>
 <e lm="carchi cosa">     <i>carchi<b/>cosa</i><par n="nudda__prn"/></e>
 <e lm="chie">            <i>chie</i><par n="chie__prn"/></e>
-<e lm="cuddu">           <i>cuddu</i><par n="cussu__prn"/></e>
-<e lm="cussu">           <i>cussu</i><par n="cussu__prn"/></e>
-<e lm="custu">           <i>custu</i><par n="nudda__prn"/></e>
+<e lm="cuddu">           <i>cudd</i><par n="àter/u__prn"/></e>
+<e lm="cussu">           <i>cuss</i><par n="àter/u__prn"/></e>
+<e lm="custu">           <i>cust</i><par n="àter/u__prn"/></e>
 <e lm="deo">             <i>deo</i><par n="deo__prn"/></e>
 <e r="LR" lm="deo">      <p><l>eo</l>        <r>deo</r></p><par n="deo__prn"/></e> <!-- @!LSC -->
 <e lm="issu">            <i>iss</i><par n="iss/u__prn"/></e>
@@ -5996,7 +6032,9 @@
 <e lm="ite">             <i>ite</i><par n="ite__prn"/></e>
 <e lm="matessi">         <i>matessi</i><par n="calesi_siat__prn"/></e>
 <e r="LR" lm="mene">     <p><l>me</l>        <r>mene</r></p><par n="deo__prn"/></e>
+<e lm="medas">           <i>medas</i><par n="medas__prn"/></e>
 <e lm="meu">             <i>me</i><par n="me/u__prn"/></e>
+<e lm="su meu">          <i>s</i><par n="s/u_meu__prn"/></e>
 <e lm="megus">           <i>megus</i><par n="deo__prn"/></e>
 <e lm="mene">            <i>mene</i><par n="deo__prn"/></e>
 <e lm="mi">              <i>mi</i><par n="mi__prn"/></e>
@@ -6006,6 +6044,7 @@
 <e lm="nois">            <i>nois</i><par n="nois__prn"/></e>
 <e lm="nos">             <i>nos</i><par n="nos__prn"/></e>
 <e lm="nostru">          <i>nostr</i><par n="me/u__prn"/></e>
+<e lm="su nostru">       <i>s</i><par n="s/u_nostru__prn"/></e>
 <e lm="nudda">           <i>nudda</i><par n="nudda__prn"/></e>
 <e lm="ognunu">          <i>ognun</i><par n="cadaun/u__prn"/></e>
 <e lm="onniunu">         <i>onniun</i><par n="cadaun/u__prn"/></e>
@@ -6013,8 +6052,10 @@
 <e lm="perunu">          <i>perun</i><par n="perun/u__prn"/></e>
 <e lm="pròpiu">          <i>pr</i><par n="ò/o"/><i>pi</i><par n="àter/u__prn"/></e>
 <e lm="suo">             <i>s</i><par n="t/uo__prn"/></e>
+<e lm="su suo">          <i>s</i><par n="s/u_suo__prn"/></e>
 <e lm="sese">            <i>sese</i><par n="sese__prn"/></e>
 <e lm="tuo">             <i>t</i><par n="t/uo__prn"/></e>
+<e lm="su tuo">          <i>s</i><par n="s/u_tuo__prn"/></e>
 <e lm="tale">            <i>tale</i><par n="nudda__prn"/></e>
 <e r="LR" lm="tene">     <p><l>te</l>        <r>tene</r></p><par n="tue__prn"/></e>
 <e lm="tegus">           <i>tegus</i><par n="tue__prn"/></e>
@@ -43084,7 +43125,7 @@
 <e lm="Grazio">          <i>Grazio</i><par n="Antoni__np"/></e>
 <e lm="Graziolo">        <i>Graziolo</i><par n="Antoni__np"/></e>
 <e lm="Graziuccio">      <i>Graziuccio</i><par n="Antoni__np"/></e>
-<e lm="Grecia">          <i>Grecia</i><par n="Etiòpia__np"/></e>
+<e lm="Grècia">          <i>Grècia</i><par n="Etiòpia__np"/></e>
 <e lm="Greco">           <i>Greco</i><par n="Saussure__np"/></e>
 <e lm="Green">           <i>Green</i><par n="Saussure__np"/></e>
 <e lm="Greene">          <i>Greene</i><par n="Saussure__np"/></e>
@@ -54275,7 +54316,7 @@
 <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
 <e lm="torrare a capitalizare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>capitalizare</l><r><g><b/>a<b/>capitalizare</g></r></p></e>
 <e lm="torrare a nàrrere"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>nàrrere</l><r><g><b/>a<b/>nàrrere</g></r></p></e>
-<e lm="torrare a comintzare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>comintzare</l><r><g><b/>a<b/>comintzare</g></r></p></e>
+<e lm="torrare a cumintzare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>cumintzare</l><r><g><b/>a<b/>cumintzare</g></r></p></e>
 <e lm="torrare a collocare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>collocare</l><r><g><b/>a<b/>collocare</g></r></p></e>
 <e lm="torrare a classificare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>classificare</l><r><g><b/>a<b/>classificare</g></r></p></e>
 <e lm="torrare a ativare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>ativare</l><r><g><b/>a<b/>ativare</g></r></p></e>
@@ -55520,6 +55561,281 @@
     <e lm="tropu"><i>tropu</i><par n="guasi__preadv"/></e>
     <e lm="male"><i>male</i><par n="guasi__preadv"/></e>
     <e lm="belle"><i>belle</i><par n="guasi__preadv"/></e>
+
+    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
+    <e lm="gosi comente"><i>gosi<b/>comente</i><par n="duncas__cnjadv"/></e>
+    <e lm="si nono"><i>si<b/>nono</i><par n="o__cnjcoo"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="finas a cando"><i>finas<b/>a<b/>cando</i><par n="duncas__cnjadv"/></e>
+    <e lm="duncas"><i>duncas</i><par n="duncas__cnjadv"/></e>
+    <e lm="segundu"><i>segundu</i><par n="duncas__cnjadv"/></e>
+    <e lm="est a nàrrere"><i>est<b/>a<b/>nàrrere</i><par n="o__cnjcoo"/></e>
+    <e lm="de manera chi"><i>de<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="tando"><i>tando</i><par n="duncas__cnjadv"/></e>
+    <e lm="in antis chi"><i>in<b/>antis<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="gosi comente"><i>gosi<b/>comente</i><par n="duncas__cnjadv"/></e>
+    <e lm="a pustis chi"><i>a<b/>pustis<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="sende gasi"><i>sende<b/>gasi</i><par n="duncas__cnjadv"/></e>
+    <e lm="sende gasi"><i>sende<b/>gasi</i><par n="duncas__cnjadv"/></e>
+    <e lm="mancari gasi"><i>mancari<b/>gasi</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="bidu chi"><i>bidu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="bidu chi"><i>bidu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a manera chi"><i>a<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="gasi chi"><i>gasi<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a manera chi"><i>a<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="semper chi"><i>semper<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="chi no"><i>chi<b/>no</i><par n="chi__cnjsub"/></e>
+    <e lm="chi nono"><i>chi<b/>nono</i><par n="chi__cnjsub"/></e>
+    <e lm="nointames"><i>nointames</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="sende chi"><i>sende<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="dae chi"><i>dae<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="in cada casu"><i>in<b/>cada<b/>casu</i><par n="duncas__cnjadv"/></e>
+    <e lm="in cada manera"><i>in<b/>cada<b/>manera</i><par n="duncas__cnjadv"/></e>
+    <e lm="sende gasi"><i>sende<b/>gasi</i><par n="duncas__cnjadv"/></e>
+    <e lm="mancari gasi"><i>mancari<b/>gasi</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="sigomente"><i>sigomente</i><par n="duncas__cnjadv"/></e>
+    <e lm="dae chi"><i>dae<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="mancari chi"><i>mancari<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="s'in casu chi"><i>s'in<b/>casu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="in su casu chi"><i>in<b/>su<b/>casu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro su chi"><i>pro<b/>su<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro cuddu"><i>pro<b/>cuddu</i><par n="duncas__cnjadv"/></e>
+    <e lm="però"><i>però</i><par n="duncas__cnjadv"/></e>
+    <e lm="nointames"><i>nointames</i><par n="duncas__cnjadv"/></e>
+    <e lm="a mancu chi"><i>a<b/>mancu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="francu chi"><i>francu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro su chi paret"><i>pro<b/>su<b/>chi<b/>paret</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro cantu paret"><i>pro<b/>cantu<b/>paret</i><par n="duncas__cnjadv"/></e>
+    <e lm="est pro cussu chi"><i>est<b/>pro<b/>cussu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="est pro cuddu chi"><i>est<b/>pro<b/>cuddu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="s'in casu chi"><i>s'in<b/>casu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="in su casu chi"><i>in<b/>su<b/>casu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a cunditzione chi"><i>a<b/>cunditzione<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="si nono"><i>si<b/>nono</i><par n="duncas__cnjadv"/></e>
+    <e lm="sinunca"><i>sinunca</i><par n="duncas__cnjadv"/></e>
+    <e lm="de àtera manera"><i>de<b/>àtera<b/>manera</i><par n="duncas__cnjadv"/></e>
+    <e lm="in prus"><i>in<b/>prus</i><par n="o__cnjcoo"/></e>
+    <e lm="finas"><i>finas</i><par n="o__cnjcoo"/></e>
+    <e lm="peri"><i>peri</i><par n="o__cnjcoo"/></e>
+    <e lm="francu chi"><i>francu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="bidu chi"><i>bidu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro su fatu chi"><i>pro<b/>su<b/>fatu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="dae chi"><i>dae<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="mancari"><i>mancari</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="duncas"><i>duncas</i><par n="duncas__cnjadv"/></e>
+    <e lm="tando"><i>tando</i><par n="duncas__cnjadv"/></e>
+    <e lm="como"><i>como</i><par n="duncas__cnjadv"/></e>
+    <e lm="tando"><i>tando</i><par n="duncas__cnjadv"/></e>
+    <e lm="in antis"><i>in<b/>antis</i><par n="duncas__cnjadv"/></e>
+    <e lm="petzi pro"><i>petzi<b/>pro</i><par n="duncas__cnjadv"/></e>
+    <e lm="solu pro"><i>solu<b/>pro</i><par n="duncas__cnjadv"/></e>
+    <e lm="a su puntu chi"><i>a<b/>su<b/>puntu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro chi"><i>pro<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a manera chi"><i>a<b/>manera<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="est beru chi"><i>est<b/>beru<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a causa de custu"><i>a<b/>causa<b/>de<b/>custu</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro custu"><i>pro<b/>custu</i><par n="duncas__cnjadv"/></e>
+    <e lm="in su tantu"><i>in<b/>su<b/>tantu</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro"><i>pro</i><par n="duncas__cnjadv"/></e>
+    <e lm="a cunditzione chi"><i>a<b/>cunditzione<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun sa finalidade chi"><i>cun<b/>sa<b/>finalidade<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="est a nàrrere"><i>est<b/>a<b/>nàrrere</i><par n="o__cnjcoo"/></e>
+    <e lm="francu si"><i>francu<b/>si</i><par n="duncas__cnjadv"/></e>
+    <e lm="cando"><i>cando</i><par n="duncas__cnjadv"/></e>
+    <e lm="a bandas chi"><i>a<b/>bandas<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="mancari"><i>mancari</i><par n="duncas__cnjadv"/></e>
+    <e lm="sende chi"><i>sende<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro cantu chi"><i>pro<b/>cantu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro meda chi"><i>pro<b/>meda<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a prescìndere chi"><i>a<b/>prescìndere<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="bidu chi"><i>bidu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="a bonu chi"><i>a<b/>bonu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="non est tzeru chi"><i>non<b/>est<b/>tzeru<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="non b'at proas chi"><i>non<b/>b'at<b/>proas<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro pagu chi"><i>pro<b/>pagu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="priori"><i>priori</i><par n="duncas__cnjadv"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pro totu custu"><i>pro<b/>totu<b/>custu</i><par n="duncas__cnjadv"/></e>
+    <e lm="tantu prus chi"><i>tantu<b/>prus<b/>chi</i><par n="duncas__cnjadv"/></e>
+    <e lm="pone su casu chi"><i>pone<b/>su<b/>casu<b/>chi</i><par n="duncas__cnjadv"/></e>
+
+    <e lm="comente a"><i>comente<b/>a</i><par n="a__pr"/></e>
+    <e lm="che a"><i>che<b/>a</i><par n="a__pr"/></e>
+    <e lm="finas a"><i>finas<b/>a</i><par n="a__pr"/></e>
+    <e lm="fintzas a"><i>fintzas<b/>a</i><par n="a__pr"/></e>
+    <e lm="dae"><i>dae</i><par n="a__pr"/></e>
+    <e lm="conca a"><i>conca<b/>a</i><par n="a__pr"/></e>
+    <e lm="intro de"><i>intro<b/></i><par n="/de__pr"/></e>
+    <e lm="partinde dae"><i>partinde<b/>dae</i><par n="a__pr"/></e>
+    <e lm="a traessu de"><i>a<b/>traessu<b/></i><par n="/de__pr"/></e>
+    <e lm="tràmite"><i>tràmite</i><par n="a__pr"/></e>
+    <e lm="pro mèdiu de"><i>pro<b/>mèdiu<b/></i><par n="/de__pr"/></e>
+    <e lm="a causa de"><i>a<b/>causa<b/></i><par n="/de__pr"/></e>
+    <e lm="a curtzu de"><i>a<b/>curtzu<b/></i><par n="/de__pr"/></e>
+    <e lm="paris cun"><i>paris<b/>cun</i><par n="a__pr"/></e>
+    <e lm="imparis cun"><i>imparis<b/>cun</i><par n="a__pr"/></e>
+    <e lm="in antis"><i>in<b/>antis</i><par n="a__pr"/></e>
+    <e lm="a inghìriu"><i>a<b/>inghìriu</i><par n="a__pr"/></e>
+    <e lm="prus a dae in antis de"><i>prus<b/>a<b/>dae<b/>in<b/>antis<b/></i><par n="/de__pr"/></e>
+    <e lm="a largu de"><i>a<b/>largu<b/></i><par n="/de__pr"/></e>
+    <e lm="gràtzias a"><i>gràtzias<b/>a</i><par n="a__pr"/></e>
+    <e lm="pro"><i>pro</i><par n="a__pr"/></e>
+    <e lm="mancari gasi"><i>mancari<b/>gasi</i><par n="a__pr"/></e>
+    <e lm="cun totu chi"><i>cun<b/>totu<b/>chi</i><par n="a__pr"/></e>
+    <e lm="in antis de"><i>in<b/>antis<b/></i><par n="/de__pr"/></e>
+    <e lm="in dae in antis de"><i>in<b/>dae<b/>in<b/>antis<b/></i><par n="/de__pr"/></e>
+    <e lm="a sa fine de"><i>a<b/>sa<b/>fine<b/></i><par n="/de__pr"/></e>
+    <e lm="a curtzu de"><i>a<b/>curtzu<b/></i><par n="/de__pr"/></e>
+    <e lm="francu"><i>francu</i><par n="a__pr"/></e>
+    <e lm="rispetu a"><i>rispetu<b/>a</i><par n="a__pr"/></e>
+    <e lm="intre àteros"><i>intre<b/>àteros</i><par n="a__pr"/></e>
+    <e lm="a sa fine de"><i>a<b/>sa<b/>fine<b/></i><par n="/de__pr"/></e>
+    <e lm="pro mèdiu de"><i>pro<b/>mèdiu<b/></i><par n="/de__pr"/></e>
+    <e lm="tràmite"><i>tràmite</i><par n="a__pr"/></e>
+    <e lm="a cumintzu de"><i>a<b/>cumintzu<b/></i><par n="/de__pr"/></e>
+    <e lm="pro su chi pertocat"><i>pro<b/>su<b/>chi<b/>pertocat</i><par n="a__pr"/></e>
+    <e lm="pro cantu pertocat"><i>pro<b/>cantu<b/>pertocat</i><par n="a__pr"/></e>
+    <e lm="mìgias de"><i>mìgias<b/></i><par n="/de__pr"/></e>
+    <e lm="a pustis de"><i>a<b/>pustis<b/></i><par n="/de__pr"/></e>
+    <e lm="in su casu de"><i>in<b/>su<b/>casu<b/></i><par n="/de__pr"/></e>
+    <e lm="in contu de"><i>in<b/>contu<b/></i><par n="/de__pr"/></e>
+    <e lm="totu in tundu de"><i>totu<b/>in<b/>tundu<b/></i><par n="/de__pr"/></e>
+    <e lm="contra a"><i>contra<b/>a</i><par n="a__pr"/></e>
+    <e lm="in s'oru de"><i>in<b/>s'oru<b/></i><par n="/de__pr"/></e>
+    <e lm="in subra de"><i>in<b/>subra<b/></i><par n="/de__pr"/></e>
+    <e lm="prus a cudd'ala de"><i>prus<b/>a<b/>cudd'ala<b/></i><par n="/de__pr"/></e>
+    <e lm="prus a dae in antis de"><i>prus<b/>a<b/>dae<b/>in<b/>antis<b/></i><par n="/de__pr"/></e>
+    <e lm="in subra de"><i>in<b/>subra<b/></i><par n="/de__pr"/></e>
+    <e lm="via"><i>via</i><par n="a__pr"/></e>
+    <e lm="a càrrigu de"><i>a<b/>càrrigu<b/></i><par n="/de__pr"/></e>
+    <e lm="a bandas de"><i>a<b/>bandas<b/></i><par n="/de__pr"/></e>
+    <e lm="a intro de"><i>a<b/>intro<b/></i><par n="/de__pr"/></e>
+    <e lm="rispetu a"><i>rispetu<b/>a</i><par n="a__pr"/></e>
+    <e lm="cun sa finalidade de"><i>cun<b/>sa<b/>finalidade<b/></i><par n="/de__pr"/></e>
+    <e lm="a su cumintzu de"><i>a<b/>su<b/>cumintzu<b/></i><par n="/de__pr"/></e>
+    <e lm="conca a"><i>conca<b/>a</i><par n="a__pr"/></e>
+    <e lm="deretu a"><i>deretu<b/>a</i><par n="a__pr"/></e>
+    <e lm="a sa fine de"><i>a<b/>sa<b/>fine<b/></i><par n="/de__pr"/></e>
+    <e lm="a s'imbesse"><i>a<b/>s'imbesse</i><par n="a__pr"/></e>
+    <e lm="cantu a"><i>cantu<b/>a</i><par n="a__pr"/></e>
+    <e lm="a mitade de"><i>a<b/>mitade<b/></i><par n="/de__pr"/></e>
+    <e lm="a mesu de"><i>a<b/>mesu<b/></i><par n="/de__pr"/></e>
+    <e lm="a su cabu de"><i>a<b/>su<b/>cabu<b/></i><par n="/de__pr"/></e>
+    <e lm="pagu a pustis de"><i>pagu<b/>a<b/>pustis<b/></i><par n="/de__pr"/></e>
+    <e lm="in su momentu de"><i>in<b/>su<b/>momentu<b/></i><par n="/de__pr"/></e>
+    <e lm="a mitade"><i>a<b/>mitade</i><par n="a__pr"/></e>
+    <e lm="a mesu"><i>a<b/>mesu</i><par n="a__pr"/></e>
+    <e lm="in chirca de"><i>in<b/>chirca<b/></i><par n="/de__pr"/></e>
+    <e lm="a s'inghìriu de"><i>a<b/>s'inghìriu<b/></i><par n="/de__pr"/></e>
+    <e lm="in casu de"><i>in<b/>casu<b/></i><par n="/de__pr"/></e>
+    <e lm="in pedes de"><i>in<b/>pedes<b/></i><par n="/de__pr"/></e>
+    <e lm="in tèrmines de"><i>in<b/>tèrmines<b/></i><par n="/de__pr"/></e>
+    <e lm="francu de"><i>francu<b/></i><par n="/de__pr"/></e>
+    <e lm="a bandas de"><i>a<b/>bandas<b/></i><par n="/de__pr"/></e>
+    <e lm="in su sinu de"><i>in<b/>su<b/>sinu<b/></i><par n="/de__pr"/></e>
+    <e lm="pro"><i>pro</i><par n="a__pr"/></e>
+    <e lm="in su signu de"><i>in<b/>su<b/>signu<b/></i><par n="/de__pr"/></e>
+    <e lm="de acordu cun"><i>de<b/>acordu<b/>cun</i><par n="a__pr"/></e>
+    <e lm="a su cumintzu de"><i>a<b/>su<b/>cumintzu<b/></i><par n="/de__pr"/></e>
+    <e lm="a inghìriu de"><i>a<b/>inghìriu<b/></i><par n="/de__pr"/></e>
+    <e lm="in sos pedes de"><i>in<b/>sos<b/>pedes<b/></i><par n="/de__pr"/></e>
+    <e lm="a s'ala de"><i>a<b/>s'ala<b/></i><par n="/de__pr"/></e>
+    <e lm="in sa base de"><i>in<b/>sa<b/>base<b/></i><par n="/de__pr"/></e>
+    <e lm="a largu de"><i>a<b/>largu<b/></i><par n="/de__pr"/></e>
+    <e lm="in su cursu de"><i>in<b/>su<b/>cursu<b/></i><par n="/de__pr"/></e>
+    <e lm="a sa mitade de"><i>a<b/>sa<b/>mitade<b/></i><par n="/de__pr"/></e>
+    <e lm="in sas manos de"><i>in<b/>sas<b/>manos<b/></i><par n="/de__pr"/></e>
+    <e lm="pro curpa de"><i>pro<b/>curpa<b/></i><par n="/de__pr"/></e>
+    <e lm="oru de"><i>oru<b/></i><par n="/de__pr"/></e>
+    <e lm="riferidu a"><i>riferidu<b/>a</i><par n="a__pr"/></e>
+    <e lm="a manera de"><i>a<b/>manera<b/></i><par n="/de__pr"/></e>
+    <e lm="in favore de"><i>in<b/>favore<b/></i><par n="/de__pr"/></e>
+    <e lm="a costas de"><i>a<b/>costas<b/></i><par n="/de__pr"/></e>
+    <e lm="in ocasione de"><i>in<b/>ocasione<b/></i><par n="/de__pr"/></e>
+    <e lm="de mesu de"><i>de<b/>mesu<b/></i><par n="/de__pr"/></e>
+    <e lm="cun finalidades"><i>cun<b/>finalidades</i><par n="a__pr"/></e>
+    <e lm="a subra de"><i>a<b/>subra<b/></i><par n="/de__pr"/></e>
+    <e lm="in favore de"><i>in<b/>favore<b/></i><par n="/de__pr"/></e>
+    <e lm="in agiudu de"><i>in<b/>agiudu<b/></i><par n="/de__pr"/></e>
+    <e lm="a causa de"><i>a<b/>causa<b/></i><par n="/de__pr"/></e>
+    <e lm="in s'ala de susu de"><i>in<b/>s'ala<b/>de<b/>susu<b/></i><par n="/de__pr"/></e>
+    <e lm="nudda de bìdere cun"><i>nudda<b/>de<b/>bìdere<b/>cun</i><par n="a__pr"/></e>
+    <e lm="a suta de"><i>a<b/>suta<b/></i><par n="/de__pr"/></e>
+    <e lm="in àteros"><i>in<b/>àteros</i><par n="a__pr"/></e>
+    <e lm="desde"><i>desde</i><par n="a__pr"/></e>
+    <e lm="finas a mitade"><i>finas<b/>a<b/>mitade</i><par n="a__pr"/></e>
+    <e lm="in tundu a"><i>in<b/>tundu<b/>a</i><par n="a__pr"/></e>
+    <e lm="a resone de"><i>a<b/>resone<b/></i><par n="/de__pr"/></e>
+    <e lm="cunforma a"><i>cunforma<b/>a</i><par n="a__pr"/></e>
+    <e lm="a de àteros"><i>a<b/>de<b/>àteros</i><par n="a__pr"/></e>
+    <e lm="in intro"><i>in<b/>intro</i><par n="a__pr"/></e>
+    <e lm="de mitade"><i>de<b/>mitade</i><par n="a__pr"/></e>
+    <e lm="a fotza de"><i>a<b/>fotza<b/></i><par n="/de__pr"/></e>
+    <e lm="sena"><i>sena</i><par n="a__pr"/></e>
+    <e lm="pro timorìa de"><i>pro<b/>timorìa<b/></i><par n="/de__pr"/></e>
+    <e lm="dae mitade"><i>dae<b/>mitade</i><par n="a__pr"/></e>
+    <e lm="bastat cun"><i>bastat<b/>cun</i><par n="a__pr"/></e>
+    <e lm="extra"><i>extra</i><par n="a__pr"/></e>
+    <e lm="in prus"><i>in<b/>prus</i><par n="a__pr"/></e>
+    <e lm="cun bista a"><i>cun<b/>bista<b/>a</i><par n="a__pr"/></e>
+    <e lm="cara a"><i>cara<b/>a</i><par n="a__pr"/></e>
+    <e lm="pro more de"><i>pro<b/>more<b/></i><par n="/de__pr"/></e>
+    <e lm="francu"><i>francu</i><par n="a__pr"/></e>
+    <e lm="a fronte de"><i>a<b/>fronte<b/></i><par n="/de__pr"/></e>
+    <e lm="a bista de"><i>a<b/>bista<b/></i><par n="/de__pr"/></e>
+    <e lm="a cara de"><i>a<b/>cara<b/></i><par n="/de__pr"/></e>
+    <e lm="a primos de"><i>a<b/>primos<b/></i><par n="/de__pr"/></e>
+    <e lm="a segadura de"><i>a<b/>segadura<b/></i><par n="/de__pr"/></e>
+    <e lm="cunforma a"><i>cunforma<b/>a</i><par n="a__pr"/></e>
+    <e lm="a falta de"><i>a<b/>falta<b/></i><par n="/de__pr"/></e>
+    <e lm="finas a su cabu de"><i>finas<b/>a<b/>su<b/>cabu<b/></i><par n="/de__pr"/></e>
+    <e lm="a disponimentu de"><i>a<b/>disponimentu<b/></i><par n="/de__pr"/></e>
+    <e lm="versus"><i>versus</i><par n="a__pr"/></e>
+    <e lm="pro àteros"><i>pro<b/>àteros</i><par n="a__pr"/></e>
+    <e lm="in ghetu de"><i>in<b/>ghetu<b/></i><par n="/de__pr"/></e>
+    <e lm="in tundu de"><i>in<b/>tundu<b/></i><par n="/de__pr"/></e>
+    <e lm="cun s'efetu de"><i>cun<b/>s'efetu<b/></i><par n="/de__pr"/></e>
+    <e lm="in palas de"><i>in<b/>palas<b/></i><par n="/de__pr"/></e>
+    <e lm="isetande"><i>isetande</i><par n="a__pr"/></e>
+    <e lm="a ogros de"><i>a<b/>ogros<b/></i><par n="/de__pr"/></e>
+    <e lm="segundu àteros"><i>segundu<b/>àteros</i><par n="a__pr"/></e>
+    <e lm="mancantes"><i>mancantes</i><par n="a__pr"/></e>
+    <e lm="belle a mitade"><i>belle<b/>a<b/>mitade</i><par n="a__pr"/></e>
+    <e lm="a sa prima de"><i>a<b/>sa<b/>prima<b/></i><par n="/de__pr"/></e>
+    <e lm="a sas primas de"><i>a<b/>sas<b/>primas<b/></i><par n="/de__pr"/></e>
+    <e lm="a tràgiu de"><i>a<b/>tràgiu<b/></i><par n="/de__pr"/></e>
+    <e lm="a tira de"><i>a<b/>tira<b/></i><par n="/de__pr"/></e>
+    <e lm="in càmbiu"><i>in<b/>càmbiu</i><par n="a__pr"/></e>
+    <e lm="a su contràriu"><i>a<b/>su<b/>contràriu</i><par n="a__pr"/></e>
+    <e lm="cunforma a"><i>cunforma<b/>a</i><par n="a__pr"/></e>
+    <e lm="sena resone de"><i>sena<b/>resone<b/></i><par n="/de__pr"/></e>
+    <e lm="sena motivu de"><i>sena<b/>motivu<b/></i><par n="/de__pr"/></e>
+    <e lm="cun s'arriscu de"><i>cun<b/>s'arriscu<b/></i><par n="/de__pr"/></e>
+    <e lm="a custu efetu"><i>a<b/>custu<b/>efetu</i><par n="a__pr"/></e>
+    <e lm="efetivamente"><i>efetivamente</i><par n="a__pr"/></e>
+    <e lm="a beru"><i>a<b/>beru</i><par n="a__pr"/></e>
+    <e lm="de cunvivèntzia cun"><i>de<b/>cunvivèntzia<b/>cun</i><par n="a__pr"/></e>
+    <e lm="migias e migias de"><i>migias<b/>e<b/>migias<b/></i><par n="/de__pr"/></e>
+    <e lm="basta de"><i>basta<b/></i><par n="/de__pr"/></e>
+    <e lm="a palas de"><i>a<b/>palas<b/></i><par n="/de__pr"/></e>
+    <e lm="giuighende dae"><i>giuighende<b/>dae</i><par n="a__pr"/></e>
+    <e lm="comente dimustradu dae"><i>comente<b/>dimustradu<b/>dae</i><par n="a__pr"/></e>
+    <e lm="de acordu cun"><i>de<b/>acordu<b/>cun</i><par n="a__pr"/></e>
+    <e lm="in complitzidade cun"><i>in<b/>complitzidade<b/>cun</i><par n="a__pr"/></e>
+    <e lm="a mesu de"><i>a<b/>mesu<b/></i><par n="/de__pr"/></e>
+    <e lm="pro su chi pertocat"><i>pro<b/>su<b/>chi<b/>pertocat</i><par n="a__pr"/></e>
+    <e lm="in longu e in largu de"><i>in<b/>longu<b/>e<b/>in<b/>largu<b/></i><par n="/de__pr"/></e>
+    <e lm="a càmbiu de"><i>a<b/>càmbiu<b/></i><par n="/de__pr"/></e>
+    <e lm="in s'oru de"><i>in<b/>s'oru<b/></i><par n="/de__pr"/></e>
+    <e lm="a proposta de"><i>a<b/>proposta<b/></i><par n="/de__pr"/></e>
+    <e lm="a cussìgiu de"><i>a<b/>cussìgiu<b/></i><par n="/de__pr"/></e>
+    <e lm="su chi tenet de bonu"><i>su<b/>chi<b/>tenet<b/>de<b/>bonu</i><par n="a__pr"/></e>
+    <e lm="torrare contu de"><i>torrare<b/>contu<b/></i><par n="/de__pr"/></e>
+
 
 
   </section>
