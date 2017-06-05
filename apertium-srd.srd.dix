@@ -517,6 +517,13 @@
   <e>       <p><l></l>          <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
 
+<pardef n="cant/u__rel" c="">
+  <e>       <p><l>u</l>         <r>u<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>         <r>u<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>os</l>        <r>u<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>as</l>        <r>u<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+
 <pardef n="un/u__prn" c="">
   <e>       <p><l>u</l>         <r>u<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>         <r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
@@ -3708,9 +3715,11 @@
       ****************************** -->
 <e lm="su cale">         <i></i><par n="/su_cale__rel"/></e>
 <e lm="su chi">          <i></i><par n="/su_chi__rel"/></e>
+<e lm="a su chi">        <i>a<b/></i><par n="/su_chi__rel"/></e>
 <e lm="cale">            <i>cale</i><par n="chi__rel"/></e> <!-- CHECK -->
 <e lm="cando">           <i>cando</i><par n="cando__rel"/></e>
 <e r="LR" lm="cando">    <p><l>candu</l>     <r>cando</r></p><par n="cando__rel"/></e>
+<e lm="cantu">           <i>cant</i><par n="cant/u__rel"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 <e lm="chi">             <i>chi</i><par n="chi__rel"/></e>
 <e lm="comente">         <i>comente</i><par n="cando__rel"/></e>
@@ -6584,7 +6593,7 @@
 <e lm="antiterrorista">  <i>antiterrorista</i><par n="meda__adj"/></e>
 <e lm="antitraditzionalista"><i>antitradi</i><par n="tz/z"/><i>ionalista</i><par n="meda__adj"/></e>
 <e lm="antitrust" c="istrangerismu"><i>antitrust</i><par n="matessi__adj"/></e>
-<e lm="antologicu">      <i>antologi</i><par n="linguìsti/cu__adj"/></e>
+<e lm="antològicu">      <i>antològi</i><par n="linguìsti/cu__adj"/></e>
 <e lm="antropològicu">   <i>antropol</i><par n="ò/o"/><i>gi</i><par n="linguìsti/cu__adj"/></e>
 <e lm="antropologiceddu"><i>antropologicedd</i><par n="frantzes/u__adj"/></e>
 <e lm="antropomorfu">    <i>antropomorf</i><par n="frantzes/u__adj"/></e>
@@ -46554,8 +46563,8 @@
           group vblex
       ****************************** -->
 <e lm="àere">            <i></i><par n="/àere__vblex"/></e>
-<e lm="Intertzèdere">    <p><l>Intertzed</l> <r>Intertzèdere</r></p><par n="tim/o__vblex"/></e>
-<e lm="Intertzèdere">    <p><l>Intertzèd</l> <r>Intertzèdere</r></p><par n="tìm/ere__vblex"/></e>
+<e lm="intertzèdere">    <p><l>intertzed</l> <r>intertzèdere</r></p><par n="tim/o__vblex"/></e>
+<e lm="intertzèdere">    <p><l>intertzèd</l> <r>intertzèdere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="acumandare">      <i>a</i><par n="cum/com"/><i>and</i><par n="cant/are__vblex"/></e>
 <e lm="acumonare">       <i>a</i><par n="cum/com"/><i>on</i><par n="cant/are__vblex"/></e>
 <e lm="atzionare">       <i>a</i><par n="tz/z"/><i>ion</i><par n="cant/are__vblex"/></e>
@@ -55837,6 +55846,7 @@
     <e lm="torrare contu de"><i>torrare<b/>contu<b/></i><par n="/de__pr"/></e>
 
 
+    <e lm="prus">            <i>prus</i><par n="matessi__adj"/></e>
 
   </section>
 
