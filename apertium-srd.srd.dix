@@ -526,6 +526,10 @@
   <e>       <p><l>s</l>         <r><s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
+<pardef n="cosa_chi__rel">
+  <e>       <p><l></l>          <r><s n="rel"/><s n="an"/><s n="nt"/></r></p></e>
+</pardef>
+
 <pardef n="cant/u__rel" c="">
   <e>       <p><l>u</l>         <r>u<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>         <r>u<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1093,7 +1097,7 @@
 </pardef>
  
 <pardef n="de_dos__adj" c="">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
  
     <!-- SECTION: Adverbs -->
@@ -3731,6 +3735,7 @@
 <e lm="cantu">           <i>cant</i><par n="cant/u__rel"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 <e lm="chi">             <i>chi</i><par n="chi__rel"/></e>
+<e lm="cosa chi">        <i>cosa<b/>chi</i><par n="cosa_chi__rel"/></e>
 <e lm="comente">         <i>comente</i><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>comenti</l><r>comente</r></p><par n="cando__rel"/></e>
     <e lm="comente" r="LR"><p><l>cumenti</l><r>comente</r></p><par n="cando__rel"/></e>
