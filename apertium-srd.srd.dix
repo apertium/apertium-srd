@@ -5925,6 +5925,9 @@
     <!--<e lm="a s'interinada"><i>a<b/>s'interinada</i><par n="bene__adv"/></e>-->
 <e r="RL" lm="issu matessi">    <i>issu<b/>matessi</i><par n="bene__adv"/></e>
 <e lm="etz">             <i>etz</i><par n="bene__adv"/></e>
+<e lm="per òmine">       <i>per<b/>òmine</i><par n="bene__adv"/></e>
+<e lm="prus tardu">      <i>prus<b/>tardu</i><par n="bene__adv"/></e>
+<e lm="a ùrtimu">        <i>a<b/>ùrtimu</i><par n="bene__adv"/></e>
 
     <!-- ******************************
           group pr
@@ -43426,6 +43429,9 @@
 <e lm="Jimmy">           <i>Jimmy</i><par n="Antoni__np"/></e>
 <e lm="Joan">            <i>Joan</i><par n="Antoni__np"/></e>
 <e lm="Carles">          <i>Carles</i><par n="Antoni__np"/></e>
+<e lm="Francesc">        <i>Francesc</i><par n="Antoni__np"/></e>
+<e lm="Felip">           <i>Felip</i><par n="Antoni__np"/></e>
+<e lm="Pere">            <i>Pere</i><par n="Antoni__np"/></e>
 <e lm="Joe">             <i>Joe</i><par n="Antoni__np"/></e>
 <e lm="Johann">          <i>Johann</i><par n="Antoni__np"/></e>
 <e lm="John">            <i>John</i><par n="Antoni__np"/></e>
@@ -43438,6 +43444,7 @@
 <e lm="Jordan">          <i>Jordan</i><par n="Antoni__np"/></e>
 <e lm="Jordan">          <i>Jordan</i><par n="Saussure__np"/></e>
 <e lm="Josef">           <i>Josef</i><par n="Antoni__np"/></e>
+<e lm="Josep">           <i>Josep</i><par n="Antoni__np"/></e>
 <e lm="Joseph">          <i>Joseph</i><par n="Antoni__np"/></e>
 <e lm="Joseph">          <i>Joseph</i><par n="Saussure__np"/></e>
 <e lm="Churchill">       <i>Churchill</i><par n="Saussure__np"/></e>
@@ -44062,6 +44069,7 @@
 <e lm="Mereu">           <i>Mereu</i><par n="Saussure__np"/></e>
 <e lm="Merinda">         <i>Merinda</i><par n="Maria__np"/></e>
 <e lm="Smith">           <i>Merkel</i><par n="Saussure__np"/></e>
+<e lm="Pla">             <i>Pla</i><par n="Saussure__np"/></e>
 <e lm="Merulo">          <i>Merulo</i><par n="Antoni__np"/></e>
 <e lm="Mesopotàmia">     <i>Mesopot</i><par n="à/a"/><i>mia</i><par n="Etiòpia__np"/></e>
 <e lm="Messènia">        <i>Mess</i><par n="è/e"/><i>nia</i><par n="Etiòpia__np"/></e>
@@ -47269,6 +47277,7 @@
 <e lm="arrestare">       <i>arrest</i><par n="cant/are__vblex"/></e>
 <e lm="arretare">        <i>arret</i><par n="cant/are__vblex"/></e>
 <e lm="arribare">        <i>arrib</i><par n="cant/are__vblex"/></e>
+<e lm="arribare a">     <i>arrib</i><par n="cant/are__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="arribbare">       <i>arribb</i><par n="cant/are__vblex"/></e>
 <e lm="arricare">        <i>arric</i><par n="seg/are__vblex"/></e>
 <e lm="arrichire">       <i>arric</i><par n="sig/hire__vblex"/></e>
@@ -49357,7 +49366,9 @@
 <e lm="fàghere">         <i>f</i><par n="f/àghere__vblex"/></e>
 <e lm="fàghere parte">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>parte</l><r><g><b/>parte</g></r></p></e>
 <e r="LR" lm="fàghere parte"><i>f</i><par n="f/àghere__vblex"/><p><l><b/>parti</l><r><g><b/>parte</g></r></p></e>
+<e lm="fàghere pràtica">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>pràtica</l><r><g><b/>pràtica</g></r></p></e>
 <e lm="fàghere a gara">  <i>f</i><par n="f/àghere__vblex"/><p><l><b/>a<b/>gara</l><r><g><b/>a<b/>gara</g></r></p></e>
+<e lm="fàghere in sèrie">  <i>f</i><par n="f/àghere__vblex"/><p><l><b/>in<b/>sèrie</l><r><g><b/>in<b/>sèrie</g></r></p></e>
 <e lm="cunfàghere">      <par n="cun/con"/><i>f</i><par n="f/àghere__vblex"/></e>
 <e lm="fabbricare">      <p><l>fabbric</l>   <r>fabbricare</r></p><par n="aplic/are__vblex"/></e>
 <e lm="fadare">          <i>fad</i><par n="cant/are__vblex"/></e>
@@ -52045,6 +52056,7 @@
 <e lm="lollughinare">    <p><l>lollughin</l> <r>lollughinare</r></p><par n="vigil/are__vblex"/></e>
 <e lm="lollughinare">    <p><l>lollùghin</l> <r>lollughinare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="lòmpere">         <p><l>lomp</l>      <r>lòmpere</r></p><par n="tim/o__vblex"/></e>
+<e lm="lòmpere a">       <p><l>lomp</l>      <r>lòmpere</r></p><par n="tim/o__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="longare">         <i>long</i><par n="seg/are__vblex"/></e>
 <e lm="lorare">          <i>lor</i><par n="cant/are__vblex"/></e>
 <e lm="loriare">         <i>lori</i><par n="cant/are__vblex"/></e>
@@ -52104,6 +52116,7 @@
 <e lm="lissiare">        <p><l>lìssi</l>     <r>lissiare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="litigare">        <p><l>lìtig</l>     <r>litigare</r></p><par n="àplic/o__vblex"/></e>
 <e lm="lòmpere">         <p><l>lòmp</l>      <r>lòmpere</r></p><par n="tìm/ere__vblex"/></e>
+<e lm="lòmpere a">       <p><l>lòmp</l>      <r>lòmpere</r></p><par n="tìm/ere__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="lorigare">        <p><l>lòrig</l>     <r>lorigare</r></p><par n="àplic/o__vblex"/></e>
 <e lm="ludriare">        <p><l>lùdri</l>     <r>ludriare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="ludrigare">       <p><l>lùdrig</l>    <r>ludrigare</r></p><par n="àplic/o__vblex"/></e>
@@ -52734,9 +52747,11 @@
 <e lm="partire">         <p><l>part</l>      <r>partire</r></p><par n="ped/ire__vblex"/></e>
 <e r="LR" lm="partetzipare"><p><l>partecip</l><r>partetzip</r></p><par n="cant/are__vblex"/></e>
 <e lm="partetzipare">    <p><l>partetzip</l> <r>partetzipare</r></p><par n="vigil/are__vblex"/></e>
+<e lm="partetzipare a">  <p><l>partetzip</l> <r>partetzipare</r></p><par n="vigil/are__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="partorire">       <p><l>partor</l>    <r>partorire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="partzire">        <p><l>partz</l>     <r>partzire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="partetzipare">    <p><l>partètzip</l> <r>partetzipare</r></p><par n="vìgil/o__vblex"/></e>
+<e lm="partetzipare a">  <p><l>partètzip</l> <r>partetzipare</r></p><par n="vìgil/o__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="parusare">        <i>parus</i><par n="cant/are__vblex"/></e>
 <e lm="parabulare">      <p><l>paràbul</l>   <r>parabulare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="paraulare">       <p><l>paràul</l>    <r>paraulare</r></p><par n="vìgil/o__vblex"/></e>
@@ -52978,6 +52993,7 @@
 <e lm="cumplotare">      <par n="cum/com"/><i>plot</i><par n="cant/are__vblex"/></e>
 <e lm="pònnere">         <p><l>po</l>        <r>pònnere</r></p><par n="po/nes__vblex"/></e>
 <e lm="pònnere a pare">  <p><l>po</l>        <r>pònnere</r></p><par n="po/nes__vblex"/><p><l><b/>a<b/>pare</l><r><g><b/>a<b/>pare</g></r></p></e>
+<e lm="pònnere fronte">  <p><l>po</l>        <r>pònnere</r></p><par n="po/nes__vblex"/><p><l><b/>fronte</l><r><g><b/>fronte</g></r></p></e>
 <e lm="pobiddare">       <i>pobidd</i><par n="cant/are__vblex"/></e>
 <e lm="pobulare">        <p><l>pobul</l>     <r>pobulare</r></p><par n="vigil/are__vblex"/></e>
 <e lm="pochiare">        <p><l>pochi</l>     <r>pochiare</r></p><par n="vigil/are__vblex"/></e>
@@ -53306,6 +53322,7 @@
 <e lm="pompiare">        <p><l>pòmpi</l>     <r>pompiare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="pònnere">         <p><l>pòn</l>       <r>pònnere</r></p><par n="pòn/nere__vblex"/></e>
 <e lm="pònnere a pare">  <p><l>pòn</l>       <r>pònnere</r></p><par n="pòn/nere__vblex"/><p><l><b/>a<b/>pare</l><r><g><b/>a<b/>pare</g></r></p></e>
+<e lm="pònnere fronte">  <p><l>pòn</l>       <r>pònnere</r></p><par n="pòn/nere__vblex"/><p><l><b/>fronte</l><r><g><b/>fronte</g></r></p></e>
 <e lm="pòngere">         <p><l>pòng</l>      <r>pòngere</r></p><par n="règ/ere__vblex"/></e>
 <e lm="porfiare">        <p><l>pòrfi</l>     <r>porfiare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="pòrgere">         <p><l>pòrg</l>      <r>pòrgere</r></p><par n="règ/ere__vblex"/></e>
@@ -54266,6 +54283,7 @@
 <e lm="temperare">       <p><l>temper</l>    <r>temperare</r></p><par n="vigil/are__vblex"/></e>
 <e lm="cuntemplare">     <par n="cun/con"/><i>templ</i><par n="cant/are__vblex"/></e>
 <e lm="tènnere">         <p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/></e>
+<e lm="tènnere logu">    <p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/><p><l><b/>logu</l><r><g><b/>logu</g></r></p></e>
 <e lm="tèndere">         <p><l>tend</l>      <r>tèndere</r></p><par n="tim/o__vblex"/></e>
 <e lm="cuntentare">      <par n="cun/con"/><i>tent</i><par n="cant/are__vblex"/></e>
 <e lm="tentare">         <i>tent</i><par n="cant/are__vblex"/></e>
@@ -54477,6 +54495,7 @@
 <e lm="trasèndere">      <p><l>trasènd</l>   <r>trasèndere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="cuntratare">      <par n="cun/con"/><i>trat</i><par n="cant/are__vblex"/></e>
 <e lm="tratare">         <i>trat</i><par n="cant/are__vblex"/></e>
+<e lm="tratare de">      <i>trat</i><par n="cant/are__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
 <e lm="tratacasare">     <i>tratacas</i><par n="cant/are__vblex"/></e>
 <e lm="trateare">        <p><l>trate</l>     <r>trateare</r></p><par n="vigil/are__vblex"/></e>
 <e lm="tratènnere">      <p><l>traten</l>    <r>tratènnere</r></p><par n="ten/es__vblex"/></e>
@@ -54834,6 +54853,7 @@
 <e lm="tebiare">         <p><l>tèbi</l>      <r>tebiare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="temperare">       <p><l>tèmper</l>    <r>temperare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="tènnere">         <p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/></e>
+<e lm="tènnere logu">    <p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/><p><l><b/>logu</l><r><g><b/>logu</g></r></p></e>
 <e lm="tèndere">         <p><l>tènd</l>      <r>tèndere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="tenteare">        <p><l>tènte</l>     <r>tenteare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="tèrghere">        <p><l>tèrg</l>      <r>tèrghere</r></p><par n="tìng/here__vblex"/></e>
