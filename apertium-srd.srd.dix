@@ -449,7 +449,7 @@
   <e>       <p><l>a</l>         <r>u<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="totu__prn">
+<pardef n="tot/u__prn">
   <e>       <p><l>u</l>         <r>u<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
   <e>       <p><l>us</l>        <r>u<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
@@ -497,6 +497,10 @@
   <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
 </pardef>
 
+<pardef n="totu_paris__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="pl"/></r></p></e>
+</pardef>
+
 <pardef n="/su_chi__rel">
   <e>       <p><l>su<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>sa<b/>chi</l> <r>su<b/>chi<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
@@ -515,6 +519,11 @@
 
 <pardef n="chi__rel">
   <e>       <p><l></l>          <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+</pardef>
+
+<pardef n="cale__rel">
+  <e>       <p><l></l>          <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="rel"/><s n="an"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="cant/u__rel" c="">
@@ -3716,7 +3725,7 @@
 <e lm="su cale">         <i></i><par n="/su_cale__rel"/></e>
 <e lm="su chi">          <i></i><par n="/su_chi__rel"/></e>
 <e lm="a su chi">        <i>a<b/></i><par n="/su_chi__rel"/></e>
-<e lm="cale">            <i>cale</i><par n="chi__rel"/></e> <!-- CHECK -->
+<e lm="cale">            <i>cale</i><par n="cale__rel"/></e>
 <e lm="cando">           <i>cando</i><par n="cando__rel"/></e>
 <e r="LR" lm="cando">    <p><l>candu</l>     <r>cando</r></p><par n="cando__rel"/></e>
 <e lm="cantu">           <i>cant</i><par n="cant/u__rel"/></e>
@@ -6070,7 +6079,7 @@
 <e lm="tegus">           <i>tegus</i><par n="tue__prn"/></e>
 <e lm="tene">            <i>tene</i><par n="tue__prn"/></e>
 <e lm="tie">             <i>tie</i><par n="tue__prn"/></e>
-<e lm="totu">            <i>tot</i><par n="totu__prn"/></e>
+<e lm="totu">            <i>tot</i><par n="tot/u__prn"/></e>
 <e lm="tropu">           <i>trop</i><par n="àter/u__prn"/></e>
 <e lm="tue">             <i>tue</i><par n="tue__prn"/></e>
 <e lm="unu àteru">       <i>un</i><par n="un/u_àteru__prn"/></e>
@@ -15865,6 +15874,7 @@
 <e lm="XVIII">           <i>XVIII</i><par n="XIII__num"/></e>
 <e lm="XX">              <i>XX</i><par n="XIII__num"/></e>
 <e lm="XXI">             <i>XXI</i><par n="XIII__num"/></e>
+<e lm="XXII">            <i>XXII</i><par n="XIII__num"/></e>
 <e lm="bìndighi">        <i>b</i><par n="ì/i"/><i>ndighi</i><par n="tres__num"/></e>
 <e lm="barantunu">       <i>barant</i><par n="/unu__num"/></e>
 <e lm="baranta">         <i>baranta</i><par n="tres__num"/></e>
@@ -16126,6 +16136,7 @@
 <e lm="CV">              <i>CV</i><par n="PNB__n"/></e>
 <e lm="AG">              <i>AG</i><par n="TV__n"/></e>
 <e lm="AIDS">            <i>AIDS</i><par n="PNB__n"/></e>
+<e lm="APEC">            <i>APEC</i><par n="PNB__n"/></e>
 <e lm="ATP">             <i>ATP</i><par n="TV__n"/></e>
 <e lm="BBC">             <i>BBC</i><par n="TV__n"/></e>
 <e lm="BMW">             <i>BMW</i><par n="TV__n"/></e>
@@ -16145,6 +16156,7 @@
 <e lm="HD">              <i>HD</i><par n="TV__n"/></e>
 <e lm="HMS">             <i>HMS</i><par n="TV__n"/></e>
 <e lm="IAEA">            <i>IAEA</i><par n="TV__n"/></e>
+<e lm="IPA">             <i>IPA</i><par n="PNB__n"/></e>
 <e lm="ITF">             <i>ITF</i><par n="TV__n"/></e>
 <e lm="Incumandìtzia">   <i>Incumand</i><par n="ì/i"/><i>tzia</i><par n="mesa__n"/></e>
 <e lm="Institute" c="istrangerismu"><i>Institute</i><par n="pane__n"/></e>
@@ -36723,8 +36735,7 @@
 <e lm="satzerdote">      <i>satzerdote</i><par n="pane__n"/></e>
 <e lm="satzerdotissa">   <i>satzerdotissa</i><par n="mesa__n"/></e>
 <e lm="satzina">         <i>satzina</i><par n="mesa__n"/></e>
-<e r="LR" lm="satellite"><p><l>satèllite</l> <r>satellite</r></p><par n="pane__n"/></e>
-<e r="LR" lm="satellite"><p><l>satèlliti</l> <r>satellite</r></p><par n="pane__n"/></e>
+<e r="LR" lm="satellite"><p><l>satèlliti</l> <r>satèllite</r></p><par n="pane__n"/></e>
 <e lm="saucàrgiu">       <i>sauc</i><par n="à/a"/><i>rgi</i><par n="mac/u__n"/></e>
 <e lm="saucu">           <i>sauc</i><par n="mac/u__n"/></e>
 <e lm="sauca">           <i>sauca</i><par n="mesa__n"/></e>
@@ -37833,7 +37844,7 @@
 <e lm="sutzidura">       <i>sutzidura</i><par n="mesa__n"/></e>
 <e lm="sutzone">         <i>sutzone</i><par n="pane__n"/></e>
 <e r="LR" lm="svedesu">  <p><l>svedes</l>    <r>isvedes</r></p><par n="amig/u__n"/></e>
-<e r="LR" lm="satellite"><p><l>sàtellite</l> <r>satellite</r></p><par n="pane__n"/></e>
+<e r="LR" lm="satellite"><p><l>sàtellite</l> <r>satèllite</r></p><par n="pane__n"/></e>
 <e r="LR" lm="sèculu">   <p><l>sècul</l>     <r>sècul</r></p><par n="mac/u__n"/></e>
 <e lm="sèmene">          <i>sèmene</i><par n="pane__n"/></e>
 <e r="LR" lm="sèculu">   <p><l>sécul</l>     <r>sècul</r></p><par n="mac/u__n"/></e>
@@ -43414,6 +43425,7 @@
 <e lm="Jim">             <i>Jim</i><par n="Antoni__np"/></e>
 <e lm="Jimmy">           <i>Jimmy</i><par n="Antoni__np"/></e>
 <e lm="Joan">            <i>Joan</i><par n="Antoni__np"/></e>
+<e lm="Carles">          <i>Carles</i><par n="Antoni__np"/></e>
 <e lm="Joe">             <i>Joe</i><par n="Antoni__np"/></e>
 <e lm="Johann">          <i>Johann</i><par n="Antoni__np"/></e>
 <e lm="John">            <i>John</i><par n="Antoni__np"/></e>
@@ -55847,6 +55859,8 @@
 
 
     <e lm="prus">            <i>prus</i><par n="matessi__adj"/></e>
+<e lm="monoparentale">       <i>monoparental</i><par n="fàtzil/e__adj"/></e>
+<e lm="verticale">       <i>verticale</i><par n="mesa__n"/></e>
 
   </section>
 
