@@ -164,6 +164,19 @@
 
 <pardef n="S__cantende·*nde">
   <e>       <p><l>·nde</l>      <r>nde<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+
+  <e>       <p><l>·mi</l>       <r>mi<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>·ti</l>       <r>ti<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>·lu</l>       <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>·ddu</l>      <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>·la</l>       <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>·dda</l>      <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>·los</l>      <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>·ddos</l>     <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>·las</l>      <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>·ddas</l>     <r>lu<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+  <e>       <p><l>·nos</l>      <r>nos<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e>       <p><l>·bos</l>      <r>bos<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="S__cantende·si·*">	<!-- uso de si reflexivo -->
