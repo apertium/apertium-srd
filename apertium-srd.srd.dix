@@ -6045,6 +6045,8 @@
 <e lm="calicuna cosa">   <i>calicuna<b/>cosa</i><par n="nudda__prn"/></e>
 <e lm="calicunu">        <i>calicun</i><par n="perun/u__prn"/></e>
 <e lm="cantu">           <i>cant</i><par n="cant/u__prn"/></e>
+<e lm="carchi">          <i>carchi</i><par n="nudda__prn"/></e>
+
 <e lm="carchi cosa">     <i>carchi<b/>cosa</i><par n="nudda__prn"/></e>
 <e lm="chie">            <i>chie</i><par n="chie__prn"/></e>
 <e lm="cuddu">           <i>cudd</i><par n="àter/u__prn"/></e>
@@ -15817,6 +15819,7 @@
 <e r="LR" lm="ogni">     <p><l>dd-onnya</l>  <r>ogni</r></p><par n="ogni__det"/></e>
 <e lm="diversu">         <i>divers</i><par n="àter/u__det"/></e>
 <e lm="tzertu">          <par n="tz/c"/><i>ert</i><par n="àter/u__det"/></e>
+<e lm="calicunu">        <i>calicun</i><par n="àter/u__det"/></e>
 <e lm="issoro">          <i>issoro</i><par n="issoro__det"/></e>
 <e r="LR" lm="issoro" c="!LSC"><p><l>issoru</l><r>issoro</r></p><par n="issoro__det"/></e>
 <e lm="nisciunu">        <i>nisciun</i><par n="perun/u__det"/></e>
