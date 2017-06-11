@@ -1117,6 +1117,11 @@
   <e>       <p><l></l>          <r><s n="adj"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
  
+<pardef n="chi_proveni/t__adj" c="">
+  <e>       <p><l>t</l>         <r>t<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>nt</l>        <r>t<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+ 
     <!-- SECTION: Adverbs -->
 
 <pardef n="cando__adv" c="p.31">
@@ -14563,7 +14568,6 @@
 <e lm="sididu">          <i>sidid</i><par n="frantzes/u__adj"/></e>
 <e lm="sidradu">         <i>sidrad</i><par n="frantzes/u__adj"/></e>
 <e lm="sidrinu">         <i>sidrin</i><par n="frantzes/u__adj"/></e>
-<e lm="sientìficu">      <i>sient</i><par n="ì/i"/><i>fi</i><par n="linguìsti/cu__adj"/></e>
 <e r="LR" lm="iscientìficu"><p><l>sientìfi</l><r>iscientìfi</r></p><par n="linguìsti/cu__adj"/></e>
 <e lm="sifilìticu">      <i>sifil</i><par n="ì/i"/><i>ti</i><par n="linguìsti/cu__adj"/></e>
 <e lm="sighente">        <i>sighent</i><par n="fàtzil/e__adj"/></e>
@@ -47122,6 +47126,7 @@
 <e lm="amonestare">      <i>amonest</i><par n="cant/are__vblex"/></e>
 <e lm="amorare">         <i>amor</i><par n="cant/are__vblex"/></e>
 <e lm="amparare">        <i>ampar</i><par n="cant/are__vblex"/></e>
+<e lm="amparare a">      <i>ampar</i><par n="f/àghere__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="ampuare">         <i>ampu</i><par n="cant/are__vblex"/></e>
 <e lm="ampulare">        <i>ampul</i><par n="cant/are__vblex"/></e>
 <e r="LR" lm="analizare"><p><l>analis</l>    <r>analiz</r></p><par n="cant/are__vblex"/></e>
@@ -47368,6 +47373,7 @@
 <e lm="artimingiare">    <p><l>artiming</l>  <r>artimingiare</r></p><par n="apog/iare__vblex"/></e>
 <e lm="artimingiare">    <p><l>artimìng</l>  <r>artimingiare</r></p><par n="apòg/io__vblex"/></e>
 <e lm="artziare">        <p><l>artzi</l>     <r>artziare</r></p><par n="vigil/are__vblex"/></e>
+<e lm="artziare a punta"><p><l>artzi</l>     <r>artziare</r></p><par n="vigil/are__vblex"/><p><l><b/>a<b/>punta</l><r><g><b/>a<b/>punta</g></r></p></e>
 <e lm="asare">           <i>as</i><par n="cant/are__vblex"/></e>
 <e lm="ascare">          <i>asc</i><par n="seg/are__vblex"/></e>
 <e lm="ascamare">        <i>ascam</i><par n="cant/are__vblex"/></e>
@@ -49405,6 +49411,10 @@
 <e lm="fàghere pràtica">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>pràtica</l><r><g><b/>pràtica</g></r></p></e>
 <e lm="fàghere a gara">  <i>f</i><par n="f/àghere__vblex"/><p><l><b/>a<b/>gara</l><r><g><b/>a<b/>gara</g></r></p></e>
 <e lm="fàghere in sèrie">  <i>f</i><par n="f/àghere__vblex"/><p><l><b/>in<b/>sèrie</l><r><g><b/>in<b/>sèrie</g></r></p></e>
+<e lm="fàghere fronte">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>fronte</l><r><g><b/>fronte</g></r></p></e>
+<e lm="fàghere paris">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>paris</l><r><g><b/>paris</g></r></p></e>
+<e lm="fàghere pranos">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>pranos</l><r><g><b/>pranos</g></r></p></e>
+<e lm="fàghere su protagonista">   <i>f</i><par n="f/àghere__vblex"/><p><l><b/>su<b/>protagonista</l><r><g><b/>su<b/>protagonista</g></r></p></e>
 <e lm="cunfàghere">      <par n="cun/con"/><i>f</i><par n="f/àghere__vblex"/></e>
 <e lm="fabbricare">      <p><l>fabbric</l>   <r>fabbricare</r></p><par n="aplic/are__vblex"/></e>
 <e lm="fadare">          <i>fad</i><par n="cant/are__vblex"/></e>
@@ -54154,6 +54164,7 @@
 <e lm="suplicare">       <p><l>suplic</l>    <r>suplicare</r></p><par n="aplic/are__vblex"/></e>
 <e lm="supònnere">       <p><l>supo</l>      <r>supònnere</r></p><par n="po/nes__vblex"/></e>
 <e lm="suportare">       <i>suport</i><par n="cant/are__vblex"/></e>
+<e lm="suportare a">     <i>suport</i><par n="cant/are__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="suprire">         <p><l>supr</l>      <r>suprire</r></p><par n="ped/ire__vblex"/></e>
 <e lm="suprapònnere">    <p><l>suprapo</l>   <r>suprapònnere</r></p><par n="po/nes__vblex"/></e>
 <e lm="suprapònnere">    <p><l>suprapòn</l>  <r>suprapònnere</r></p><par n="pòn/nere__vblex"/></e>
@@ -54387,6 +54398,8 @@
 <e lm="torogiare">       <p><l>torog</l>     <r>torogiare</r></p><par n="apog/iare__vblex"/></e>
 <e lm="torojare">        <i>toroj</i><par n="cant/are__vblex"/></e>
 <e lm="torrare">         <i>torr</i><par n="cant/are__vblex"/></e>
+<e lm="torrare a bestire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>bestire</l><r><g><b/>a<b/>bestire</g></r></p></e>
+<e lm="torrare a pigare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>pigare</l><r><g><b/>a<b/>pigare</g></r></p></e>
 <e lm="torrare a organizare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>organizare</l><r><g><b/>a<b/>organizare</g></r></p></e>
 <e lm="torrare a impreare"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>impreare</l><r><g><b/>a<b/>impreare</g></r></p></e>
 <e lm="torrare a definire"><i>torr</i><par n="cant/are__vblex"/><p><l><b/>a<b/>definire</l><r><g><b/>a<b/>definire</g></r></p></e>
@@ -55060,6 +55073,7 @@
 <e lm="arborare">        <p><l>àrbor</l>     <r>arborare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="arterare">        <p><l>àrter</l>     <r>arterare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="artziare">        <p><l>àrtzi</l>     <r>artziare</r></p><par n="vìgil/o__vblex"/></e>
+<e lm="artziare a punta"><p><l>àrtzi</l>     <r>artziare</r></p><par n="vìgil/o__vblex"/><p><l><b/>a<b/>punta</l><r><g><b/>a<b/>punta</g></r></p></e>
 <e lm="atuare">          <p><l>àtu</l>       <r>atuare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="atulare">         <p><l>àtul</l>      <r>atulare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="atziare">         <p><l>àtzi</l>      <r>atziare</r></p><par n="vìgil/o__vblex"/></e>
@@ -56068,6 +56082,89 @@
 <e lm="Pla">           <i>Pla</i><par n="Saussure__np"/></e>
 <e lm="Mohammed">           <i>Mohammed</i><par n="Antoni__np"/></e>
 <e lm="Mauritània">           <i>Mauritània</i><par n="Etiòpia__np"/></e>
+<e lm="Vila">           <i>Vila</i><par n="Saussure__np"/></e>
+<e lm="Vila">           <i>Vila</i><par n="Etiòpia__np"/></e>
+<e lm="Puig">           <i>Puig</i><par n="Saussure__np"/></e>
+<e lm="Puig">           <i>Puig</i><par n="Etiòpia__np"/></e>
+<e lm="Pujol">          <i>Pujol</i><par n="Saussure__np"/></e>
+<e r="RL" lm="chi provenit"><i>chi<b/>proveni</i><par n="chi_proveni/t__adj"/></e>
+<e r="RL" lm="chi falat"><i>chi<b/>fala</i><par n="chi_proveni/t__adj"/></e>
+<e r="RL" lm="chi bennit"><i>chi<b/>benni</i><par n="chi_proveni/t__adj"/></e>
+<e r="RL" lm="chi esistit"><i>chi<b/>esisti</i><par n="chi_proveni/t__adj"/></e>
+<e r="RL" lm="chi currispondet"><i>chi<b/>currisponde</i><par n="chi_proveni/t__adj"/></e>
+<e r="RL" lm="chi creschet"><i>chi<b/>cresche</i><par n="chi_proveni/t__adj"/></e>
+
+<e lm="Pau">           <i>Pau</i><par n="Antoni__np"/></e>
+<e lm="Sant Joan">           <i>Sant<b/>Joan</i><par n="Afganistàn__np"/></e>
+<e lm="Pau">           <i>Pau</i><par n="Afganistàn__np"/></e>
+<e lm="Salvador">           <i>Salvador</i><par n="Antoni__np"/></e>
+<e lm="Sant Pere">           <i>Sant<b/>Pere</i><par n="Afganistàn__np"/></e>
+<e lm="Serrat">           <i>Serrat</i><par n="Afganistàn__np"/></e>
+<e lm="Los Angeles">           <i>Los<b/>Angeles</i><par n="Istados_Unidos__np"/></e>
+<e lm="Granada">           <i>Granada</i><par n="Etiòpia__np"/></e>
+<e lm="sos Istados Unidos">           <i>sos<b/>Istados<b/>Unidos</i><par n="Istados_Unidos__np"/></e>
+<e lm="Marrocu">           <i>Marrocu</i><par n="Afganistàn__np"/></e>
+<e lm="León">           <i>León</i><par n="Afganistàn__np"/></e>
+<e lm="prus in antis">           <i>prus<b/>in<b/>antis</i><par n="bene__adv"/></e>
+<e lm="prus a prestu">           <i>prus<b/>a<b/>prestu</i><par n="bene__adv"/></e>
+<e lm="Lituània">           <i>Lituània</i><par n="Etiòpia__np"/></e>
+<e lm="François">           <i>François</i><par n="Antoni__np"/></e>
+<e lm="Joaquim">           <i>Joaquim</i><par n="Antoni__np"/></e>
+<e lm="Costantinu">           <i>Costantinu</i><par n="Antoni__np"/></e>
+<e lm="antigamente">           <i>antigamente</i><par n="bene__adv"/></e>
+<e lm="Martínez">           <i>Martínez</i><par n="Saussure__np"/></e>
+<e lm="Martín">           <i>Martín</i><par n="Antoni__np"/></e>
+<e lm="Noguera">           <i>Noguera</i><par n="Etiòpia__np"/></e>
+<e lm="Terrassa">           <i>Terrassa</i><par n="Etiòpia__np"/></e>
+<e lm="Elisabet">           <i>Elisabet</i><par n="Maria__np"/></e>
+<e lm="Benet">           <i>Benet</i><par n="Antoni__np"/></e>
+<e lm="Ferrer">           <i>Ferrer</i><par n="Saussure__np"/></e>
+<e lm="Andalusia">           <i>Andalusia</i><par n="Etiòpia__np"/></e>
+<e lm="Hollywood">           <i>Hollywood</i><par n="Etiòpia__np"/></e>
+<e lm="Nova Zelanda">           <i>Nova<b/>Zelanda</i><par n="Etiòpia__np"/></e>
+<e lm="Joana">           <i>Joana</i><par n="Maria__np"/></e>
+<e lm="Cerdagna">           <i>Cerdagna</i><par n="Etiòpia__np"/></e>
+<e lm="Son">           <i>Son</i><par n="Etiòpia__np"/></e>
+<e lm="Mahmud">           <i>Mahmud</i><par n="Antoni__np"/></e>
+<e lm="Agustí">           <i>Agustí</i><par n="Antoni__np"/></e>
+<e lm="in istiu">           <i>in<b/>istiu</i><par n="bene__adv"/></e>
+<e lm="Gabriel">           <i>Gabriel</i><par n="Antoni__np"/></e>
+<e lm="Stalin">           <i>Stalin</i><par n="Saussure__np"/></e>
+<e lm="Pompeu">           <i>Pompeu</i><par n="Antoni__np"/></e>
+<e lm="Gregori">           <i>Gregori</i><par n="Antoni__np"/></e>
+<e lm="Edward">           <i>Edward</i><par n="Antoni__np"/></e>
+<e lm="Tremp">           <i>Tremp</i><par n="Afganistàn__np"/></e>
+<e lm="Manresa">           <i>Manresa</i><par n="Etiòpia__np"/></e>
+<e lm="supra">           <i>supra</i><par n="bene__adv"/></e>
+<e lm="Còrdova">           <i>Còrdova</i><par n="Etiòpia__np"/></e>
+<e lm="Ìsulas Baleares">           <i>Ìsulas<b/>Baleares</i><par n="Is_Pratzas__np"/></e>
+<e lm="Praga">           <i>Praga</i><par n="Etiòpia__np"/></e>
+<e lm="fattu-fattu">           <i>fattu-fattu</i><par n="bene__adv"/></e>
+<e lm="sighi-sighi">           <i>sighi-sighi</i><par n="bene__adv"/></e>
+<e lm="de continu">           <i>de<b/>continu</i><par n="bene__adv"/></e>
+<e lm="a longu">           <i>a<b/>longu</i><par n="bene__adv"/></e>
+<e lm="pro tempus meda">           <i>pro<b/>tempus<b/>meda</i><par n="bene__adv"/></e>
+<e lm="Juli">           <i>Juli</i><par n="Antoni__np"/></e>
+<e lm="Proventza">           <i>Proventza</i><par n="Etiòpia__np"/></e>
+<e lm="Valladolid">           <i>Valladolid</i><par n="Etiòpia__np"/></e>
+<e lm="Castelló">           <i>Castelló</i><par n="Etiòpia__np"/></e>
+<e lm="a mesu a mesu">           <i>a<b/>mesu<b/>a<b/>mesu</i><par n="bene__adv"/></e>
+<e lm="Lisbona">           <i>Lisbona</i><par n="Etiòpia__np"/></e>
+<e lm="Vilanova">           <i>Vilanova</i><par n="Etiòpia__np"/></e>
+<e lm="Ángel">           <i>Ángel</i><par n="Antoni__np"/></e>
+<e lm="Vilafranca">           <i>Vilafranca</i><par n="Etiòpia__np"/></e>
+<e lm="Alcoi">           <i>Alcoi</i><par n="Afganistàn__np"/></e>
+<e lm="Tailàndia">           <i>Tailàndia</i><par n="Etiòpia__np"/></e>
+<e lm="Maresme">           <i>Maresme</i><par n="Afganistàn__np"/></e>
+<e lm="Serrano">           <i>Serrano</i><par n="Saussure__np"/></e>
+<e lm="Fèlix">           <i>Fèlix</i><par n="Antoni__np"/></e>
+<e lm="Sebastià">           <i>Sebastià</i><par n="Antoni__np"/></e>
+<e lm="Alejandro">           <i>Alejandro</i><par n="Antoni__np"/></e>
+<e lm="Vila-real">           <i>Vila-real</i><par n="Afganistàn__np"/></e>
+<e lm="Clara">           <i>Clara</i><par n="Maria__np"/></e>
+<e lm="Castellar">           <i>Castellar</i><par n="Afganistàn__np"/></e>
+<e lm="Castellanos">           <i>Castellanos</i><par n="Saussure__np"/></e>
+<e lm="Carreño">           <i>Carreño</i><par n="Saussure__np"/></e>
 
   </section>
 
