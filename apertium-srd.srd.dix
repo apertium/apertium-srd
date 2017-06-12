@@ -3754,6 +3754,7 @@
 <e lm="cale">            <i>cale</i><par n="cale__rel"/></e>
 <e lm="cando">           <i>cando</i><par n="cando__rel"/></e>
 <e r="LR" lm="cando">    <p><l>candu</l>     <r>cando</r></p><par n="cando__rel"/></e>
+<e lm="a ue">            <i>a<b/>ue</i><par n="cando__rel"/></e>
 <e lm="cantu">           <i>cant</i><par n="cant/u__rel"/></e>
     <!--<e lm="comente chi"><i>comente<b/>chi</i><par n="chi__cnjsub"/></e>-->
 <e lm="chi">             <i>chi</i><par n="chi__rel"/></e>
@@ -15864,8 +15865,8 @@
 <e lm="vàriu">           <i>v</i><par n="à/a"/><i>ri</i><par n="vàri/u__det"/></e>
 <e r="LR" lm="ogni">     <p><l>ònni</l>      <r>ogni</r></p><par n="ogni__det"/></e>
 <e lm="nessunu">         <i>nessun</i><par n="nessun/u__det"/></e>
-<e lm="una sèrie de"><p><l>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-<e lm="totu una sèrie de"><p><l>totu<b/>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="una sèrie de"><p><l>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+<e lm="totu una sèrie de"><p><l>totu<b/>una<b/>sèrie<b/>de</l><r>una<b/>sèrie<b/>de<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 <e lm="bintunu">         <i>bintun</i><par n="bintun/u__det"/></e>
 <e lm="trintunu">        <i>trintun</i><par n="bintun/u__det"/></e>
 <e lm="barantunu">       <i>barantun</i><par n="bintun/u__det"/></e>
