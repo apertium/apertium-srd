@@ -54344,6 +54344,7 @@
 <e lm="tènnere">         <p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/></e>
 <e lm="tènnere logu">    <p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/><p><l><b/>logu</l><r><g><b/>logu</g></r></p></e>
 <e lm="tènnere bisòngiu"><p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/><p><l><b/>bisòngiu</l><r><g><b/>bisòngiu</g></r></p></e>
+<e lm="tènnere in contu"><p><l>ten</l>       <r>tènnere</r></p><par n="ten/es__vblex"/><p><l><b/>in<b/>contu</l><r><g><b/>in<b/>contu</g></r></p></e>
 <e lm="tèndere">         <p><l>tend</l>      <r>tèndere</r></p><par n="tim/o__vblex"/></e>
 <e lm="cuntentare">      <par n="cun/con"/><i>tent</i><par n="cant/are__vblex"/></e>
 <e lm="tentare">         <i>tent</i><par n="cant/are__vblex"/></e>
@@ -54917,6 +54918,7 @@
 <e lm="tènnere">         <p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/></e>
 <e lm="tènnere logu">    <p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/><p><l><b/>logu</l><r><g><b/>logu</g></r></p></e>
 <e lm="tènnere bisòngiu"><p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/><p><l><b/>bisòngiu</l><r><g><b/>bisòngiu</g></r></p></e>
+<e lm="tènnere in contu"><p><l>tèn</l>       <r>tènnere</r></p><par n="tèn/nere__vblex"/><p><l><b/>in<b/>contu</l><r><g><b/>in<b/>contu</g></r></p></e>
 <e lm="tèndere">         <p><l>tènd</l>      <r>tèndere</r></p><par n="tìm/ere__vblex"/></e>
 <e lm="tenteare">        <p><l>tènte</l>     <r>tenteare</r></p><par n="vìgil/o__vblex"/></e>
 <e lm="tèrghere">        <p><l>tèrg</l>      <r>tèrghere</r></p><par n="tìng/here__vblex"/></e>
@@ -56023,7 +56025,6 @@
 <e lm="Nord">           <i>Nord</i><par n="Afganistàn__np"/></e>
 <e lm="Costantinòpoli">           <i>Costantinòpoli</i><par n="Afganistàn__np"/></e>
 <e lm="Esteve">           <i>Esteve</i><par n="Antoni__np"/></e>
-<e lm="Salvador">           <i>Salvador</i><par n="Antoni__np"/></e>
 <e lm="Sant Pere">           <i>Sant<b/>Pere</i><par n="Afganistàn__np"/></e>
 <e lm="Serrat">           <i>Serrat</i><par n="Afganistàn__np"/></e>
 <e lm="gustu">           <i>gustu</i><par n="bene__adv"/></e>
@@ -56109,9 +56110,6 @@
 <e lm="Pau">           <i>Pau</i><par n="Antoni__np"/></e>
 <e lm="Sant Joan">           <i>Sant<b/>Joan</i><par n="Afganistàn__np"/></e>
 <e lm="Pau">           <i>Pau</i><par n="Afganistàn__np"/></e>
-<e lm="Salvador">           <i>Salvador</i><par n="Antoni__np"/></e>
-<e lm="Sant Pere">           <i>Sant<b/>Pere</i><par n="Afganistàn__np"/></e>
-<e lm="Serrat">           <i>Serrat</i><par n="Afganistàn__np"/></e>
 <e lm="Los Angeles">           <i>Los<b/>Angeles</i><par n="Istados_Unidos__np"/></e>
 <e lm="Granada">           <i>Granada</i><par n="Etiòpia__np"/></e>
 <e lm="sos Istados Unidos">           <i>sos<b/>Istados<b/>Unidos</i><par n="Istados_Unidos__np"/></e>
@@ -56185,9 +56183,6 @@
 <e lm="Pau">           <i>Pau</i><par n="Antoni__np"/></e>
 <e lm="Sant Joan">           <i>Sant<b/>Joan</i><par n="Afganistàn__np"/></e>
 <e lm="Pau">           <i>Pau</i><par n="Afganistàn__np"/></e>
-<e lm="Salvador">           <i>Salvador</i><par n="Antoni__np"/></e>
-<e lm="Sant Pere">           <i>Sant<b/>Pere</i><par n="Afganistàn__np"/></e>
-<e lm="Serrat">           <i>Serrat</i><par n="Afganistàn__np"/></e>
 <e lm="Los Angeles">           <i>Los<b/>Angeles</i><par n="Istados_Unidos__np"/></e>
 <e lm="Zaragoza">           <i>Zaragoza</i><par n="Etiòpia__np"/></e>
 <e lm="Borbone">           <i>Borbone</i><par n="Saussure__np"/></e>
@@ -56314,6 +56309,9 @@
 <e lm="Domènech">           <i>Domènech</i><par n="Saussure__np"/></e>
 <e lm="Boris">           <i>Boris</i><par n="Antoni__np"/></e>
 
+<e lm="biancu"><i>bianc</i><par n="amig/u__n"/></e>
+<e lm="carru armatu"><p><l>carru<b/>armatu</l><r>carru<b/>armatu<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="carru armatu"><p><l>carru<b/>armatu</l><r>carros<b/>armatos<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
   </section>
 
