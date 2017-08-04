@@ -7,12 +7,12 @@
 
 "<S'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<ìsula>"
 	"ìsula" n f sg
-	"isulare" vblex imp p2 sg
+;	"isulare" vblex imp p2 sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<fentomada>"
 	"*fentomada"
