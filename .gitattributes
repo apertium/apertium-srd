@@ -14,6 +14,7 @@
 /apertium-srd.srd.rlx -text
 /autogen.sh -text
 /configure.ac -text
+corpus/srd.crp.morf.disam.200.txt -text
 corpus/srd.crp.txt -text
 /genvdix.py -text
 /modes.xml -text
