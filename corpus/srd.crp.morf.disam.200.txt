@@ -12,12 +12,12 @@
 	"ìsula" n f sg
 ;	"isulare" vblex imp p2 sg
 "<est>"
-;	"est" n m sg
-	"èssere" vbser pri p3 sg
+	"est" n m sg
+;	"èssere" vbser pri p3 sg
 "<fentomada>"
 	"*fentomada"
 "<pro>"
-	"pro" cnjadv
+;	"pro" cnjadv
 	"pro" pr
 "<sas>"
 	"su" det def f pl
@@ -26,10 +26,10 @@
 "<turisticas>"
 	"turìsticu" adj f pl
 "<suas>"
-	"sùere" vblex prs p2 sg
-	"suo" prn pos f pl
+;	"sùere" vblex prs p2 sg
+;	"suo" prn pos f pl
 	"suo" adj pos f pl
-	"suare" vblex pri p2 sg
+;	"suare" vblex pri p2 sg
 "<,>"
 	"," cm
 "<e>"
@@ -648,7 +648,7 @@
 	"chèrrere" vblex pp f sg
 	"chertare" vblex imp p2 sg
 "<sientifica>"
-	"*sientifica"
+	"sientìficu" adj f sg
 "<,>"
 	"," cm
 "<a>"
@@ -3096,10 +3096,8 @@
 	"a" pr
 "<innantis>"
 	"in antis" adv
-"<gratzias>"
-	"gràtzia" n f pl
-"<a>"
-	"a" pr
+"<gratzias a>"
+	"gràtzias a" pr
 "<Aureliu>"
 	"*Aureliu"
 "<Porcu>"
@@ -3980,10 +3978,8 @@
 "<.>"
 	"." sent
 
-"<Gratzias>"
-	"gràtzia" n f pl
-"<a>"
-	"a" pr
+"<Gratzias a>"
+	"gràtzias a" pr
 "<is>"
 	"su" det def mf pl
 "<registratzionis>"
@@ -4589,12 +4585,8 @@
 	"su" det def m sg
 "<13>"
 	"13" num
-"<in>"
-	"in" pr
-"<ateros>"
-	"àteru" prn tn m pl
-	"àteru" det ind m pl
-	"àteru" adj ind m pl
+"<in ateros>"
+	"in àteros" pr
 "<)>"
 	")" rpar
 "<.>"
@@ -17727,10 +17719,8 @@
 	"segudare" vblex pis p1 sg
 "<,>"
 	"," cm
-"<gratzias>"
-	"gràtzia" n f pl
-"<a>"
-	"a" pr
+"<gratzias a>"
+	"gràtzias a" pr
 "<su>"
 	"su" det def m sg
 "<rennu>"
@@ -17768,10 +17758,8 @@
 	"," cm
 "<e>"
 	"e" cnjcoo
-"<gratzias>"
-	"gràtzia" n f pl
-"<a>"
-	"a" pr
+"<gratzias a>"
+	"gràtzias a" pr
 "<sa>"
 	"su" det def f sg
 "<voluntade>"
@@ -35132,6 +35120,7 @@
 	"otzèanu" n m sg
 "<Atlanticu>"
 	"atlànticu" adj m sg
+	"atlànticu" n m sg
 	"Atlànticu" np top m sg
 "<,>"
 	"," cm
@@ -35254,6 +35243,7 @@
 	"otzèanu" n m sg
 "<Atlanticu>"
 	"atlànticu" adj m sg
+	"atlànticu" n m sg
 	"Atlànticu" np top m sg
 "<.>"
 	"." sent
@@ -35331,6 +35321,7 @@
 	"si" prn pro ref p3 mf sp
 "<Atlanticu>"
 	"atlànticu" adj m sg
+	"atlànticu" n m sg
 	"Atlànticu" np top m sg
 "<,>"
 	"," cm
@@ -35476,6 +35467,7 @@
 	"si" prn pro ref p3 mf sp
 "<Atlanticu>"
 	"atlànticu" adj m sg
+	"atlànticu" n m sg
 	"Atlànticu" np top m sg
 "<,>"
 	"," cm
@@ -37080,6 +37072,7 @@
 	"otzèanu" n m sg
 "<Atlanticu>"
 	"atlànticu" adj m sg
+	"atlànticu" n m sg
 	"Atlànticu" np top m sg
 "<,>"
 	"," cm
