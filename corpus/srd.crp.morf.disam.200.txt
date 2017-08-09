@@ -162,10 +162,9 @@
 	"," cm
 "<e>"
 	"e" cnjcoo
-"<in>"
-	"in" pr
-"<particulare>"
-	"particulare" adj mf sg
+"<in particulare>"
+	"in particulare" adv
+
 "<su>"
 	"su" det def m sg
 "<Gennargentu>"
@@ -3213,7 +3212,7 @@
 	"de" pr
 "<sos>"
 	"su" det def mf pl
-"<sonos>"
+"<sons>"
 	"sonu" n m pl
 "<de>"
 	"de" pr
