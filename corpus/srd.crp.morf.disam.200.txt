@@ -120,7 +120,7 @@
 ;	"Cala" np cog mf sp
 ;	"calare" vblex imp p2 sg
 "<Goloritzè>"
-	"*Goloritzè" np top f sg
+	"Goloritzè" np top f sg
 "<,>"
 	"," cm
 "<Cala>"
@@ -599,7 +599,7 @@
 "<Niccolò>"
 	"Niccolò" np ant m sg
 "<Tommaseo>"
-	"*Tommaseo" np cog m sg
+	"Tommaseo" np cog m sg
 "<:>"
 	":" sent
 
@@ -626,7 +626,7 @@
 "<limba>"
 	"limba" n f sg
 "<rezonale>"
-	"*regionale" adj mf sg
+	"regionale" adj mf sg
 "<.>"
 	"." sent
 
@@ -732,7 +732,7 @@
 
 "<Variantes>"
 	"variante" n f pl
-	"variante" adj mf pl
+;	"variante" adj mf pl
 "<.>"
 	"." sent
 
@@ -744,8 +744,8 @@
 	"limba" n f sg
 "<cossa>"
 	"cossu" adj f sg
-	"cossu" n f sg
-	"cossa" n f sg
+;	"cossu" n f sg
+;	"cossa" n f sg
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<6>"
@@ -756,29 +756,29 @@
 	"9" num
 "<variantes>"
 	"variante" n f pl
-	"variante" adj mf pl
+;	"variante" adj mf pl
 "<ma>"
 	"ma" cnjcoo
 "<,>"
 	"," cm
 "<comente>"
-	"comente" adv
-	"comente" cnjsub
-	"comente" cnjadv
-	"comente" adv itg
+;	"comente" adv
+;	"comente" cnjsub
+;	"comente" cnjadv
+;	"comente" adv itg
 	"comente" rel adv
 "<accadit>"
-	"*accadit"
+	"acadèssere" vblex pri p3 pl
 "<puru>"
-	"puru" adv
+;	"puru" adv
 	"puru" cnjadv
-	"puru" adj m sg
+;	"puru" adj m sg
 "<in>"
 	"in" pr
 "<sa>"
 	"su" det def f sg
 "<sarda>"
-	"sardu" adj f sg
+;	"sardu" adj f sg
 	"sardu" n f sg
 "<,>"
 	"," cm
@@ -795,20 +795,21 @@
 "<chi>"
 	"chi" cnjsub
 	"chi" rel an mf sp
-"<dian>"
-	"*dian"
+"<diant>"
+	"dare" vblex prs p3 pl
+;	"dare" vblex imp p3 pl
 "<partzire>"
 	"partzire" vblex inf
-	"partzire" vblex pis p1 sg
+;	"partzire" vblex pis p1 sg
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<isula>"
 	"ìsula" n f sg
 "<in>"
 	"in" pr
 "<duos>"
-	"duo" n m pl
+;	"duo" n m pl
 	"duos" num m sp
 "<:>"
 	":" sent
@@ -823,27 +824,28 @@
 "<'e>"
 	"de" pr
 "<susu>"
-	"susu" adv
+;	"susu" adv
 	"susu" pr
 "<,>"
 	"," cm
 "<o>"
 	"o" cnjcoo
 "<comente>"
-	"comente" adv
-	"comente" cnjsub
+;	"comente" adv
+;	"comente" cnjsub
 	"comente" cnjadv
-	"comente" adv itg
+;	"comente" adv itg
 	"comente" rel adv
-"<narana>"
-	"*narana"
+"<narant>"
+	"nàrrere" vblex pri p3 pl
+
 "<sos>"
 	"su" det def m pl
 "<cossos>"
 	"cossu" n m pl
-	"cossu" adj m pl
-"<etottu>"
-	"*etottu"
+;	"cossu" adj m pl
+"<etotu>"
+	"etotu" adj m sg
 "<de>"
 	"de" pr
 "<sa>"
@@ -852,24 +854,24 @@
 "<Corsica>"
 	"Còrsica" np top f sg
 "<suprana>"
-	"*suprana"
+	"supranu" adj m sg
 ""
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<narat>"
 	"nàrrere" vblex pri p3 sg
 	"
 "<corsu>"
 	"corsu" n m sg
-"<supranacciu>"
-	"*supranacciu"
+"<supranatziu>"
+	"supranàtziu" adj m sg
 "
 "<,>"
 	"," cm
@@ -891,16 +893,16 @@
 	"chi" cnjsub
 	"chi" rel an mf sp
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<narat>"
 	"nàrrere" vblex pri p3 sg
 	"
 "<corsu>"
 	"corsu" n m sg
-"<suttanacciu>"
-	"*suttanacciu"
+"<sutanatziu>"
+	"sutanatziu" adj m sg
 " 
 "<e>"
 	"e" cnjcoo
@@ -908,21 +910,21 @@
 	"tènnere" vblex pri p3 sg
 "<meda>"
 	"meda" adv
-	"meda" preadv
-	"meda" adj mf sg
-	"medire" vblex prs p1 sg
+;	"meda" preadv
+;	"meda" adj mf sg
+;	"medire" vblex prs p1 sg
 "<ite>"
-	"ite" adv
-	"ite" prn itg mf sg
+;	"ite" adv
+;	"ite" prn itg mf sg
 	"ite" rel an mf sp
-"<bider>"
-	"*bider"
+"<bìdere>"
+	"bìdere" vblex inf
 "<cun>"
 	"cun" pr
 "<su>"
 	"su" det def m sg
-"<galluresu>"
-	"*galluresu"
+"<gadduresu>"
+	"galluresu" adj m sg
 "<(>"
 	"(" lpar
 "<antzis>"
@@ -931,19 +933,19 @@
 	"," cm
 "<a>"
 	"a" pr
-"<parrer>"
-	"*parrer"
+"<pàrrere>"
+	"pàrrere" n m s
 "<de>"
 	"de" pr
-"<limbistas>"
-	"*limbistas"
+"<linguistas>"
+	"linguista" n mf pl
 "<medas>"
 	"meda" adj mf pl
-	"medire" vblex prs p2 sg
-	"medas" prn tn mf pl
+;	"medire" vblex prs p2 sg
+;	"medas" prn tn mf pl
 "<su>"
 	"su" det def m sg
-"<limbazu>"
+"<limbàgiu>"
 	"limbàgiu" n m sg
 "<faeddadu>"
 	"faeddare" vblex pp m sg
@@ -959,17 +961,17 @@
 	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
 "<variante>"
-	"variante" adj mf sg
+;	"variante" adj mf sg
 	"variante" n f sg
 "<de>"
 	"de" pr
 "<cossu>"
-	"cossu" adj m sg
+;	"cossu" adj m sg
 	"cossu" n m sg
 "<)>"
 	")" rpar
@@ -995,7 +997,7 @@
 "<in>"
 	"in" pr
 "<logudoresu>"
-	"logudoresu" adj m sg
+;	"logudoresu" adj m sg
 	"logudoresu" n m sg
 "<)>"
 	")" rpar
@@ -1007,15 +1009,15 @@
 	"istrumentu" n m sg
 "<musicale>"
 	"musicale" adj mf sg
-	"musicale" n m sg
+;	"musicale" n m sg
 "<a>"
 	"a" pr
 "<alenu>"
 	"alenu" n m sg
 "<sighidu>"
-	"sighidu" adj m sg
-	"sighidu" n m sg
-	"sìghidu" adj m sg
+;	"sighidu" adj m sg
+;	"sighidu" n m sg
+;	"sìghidu" adj m sg
 	"sighire" vblex pp m sg
 "<,>"
 	"," cm
@@ -1032,7 +1034,7 @@
 "<tempos>"
 	"tempus" n m pl
 "<prus>"
-	"prus" adv
+;	"prus" adv
 	"prus" adj mf sp
 "<antigos>"
 	"antigu" adj m pl
@@ -1040,12 +1042,12 @@
 	"." sent
 
 "<Unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
-"<brunzeddu>"
-	"*brunzeddu"
-"<agatau>"
+"<brunzetu>"
+	"brunzetu" n m sg
+"<agatadu>"
 	"agatare" vblex pp m sg
 "<in>"
 	"in" pr
@@ -1056,17 +1058,18 @@
 "<de>"
 	"de" pr
 "<Ìtiri>"
-	"*Ìtiri"
+	"Ìtiri" np top f sg
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<amostat>"
-	"*amostat"
+"<ammustrat>"
+	"ammustrare" vblex pri p3 sg
+
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<sonadore>"
 	"sonadore" n m sg
@@ -1078,11 +1081,12 @@
 	"," cm
 "<nde>"
 	"nde" prn pro adv
-"<testimonzat>"
-	"*testimonzat"
+"<testimòniat>"
+	"testimoniare" vblex pri p3 sg
+
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<esistèntzia>"
 	"esistèntzia" n f sg
 "<giai>"
@@ -1095,37 +1099,33 @@
 	"tempus" n m sg
 "<nuraghesu>"
 	"nuraghesu" adj m sg
-	"nuraghesu" n m sg
+;	"nuraghesu" n m sg
 "<.>"
 	"." sent
 
 "<Est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<fatu>"
-	"fatu" adv
-	"fatu" n m sg
+;	"fatu" adv
+;	"fatu" n m sg
 	"fàghere" vblex pp m sg
 "<de>"
 	"de" pr
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<de>"
 	"de" pr
-"<arriu>"
-	"*arriu"
+"<riu>"
+	"riu" n m sg
 "<segada>"
 	"segadu" adj f sg
-	"segare" vblex pp f sg
-"<in>"
-	"in" pr
-"<su>"
-	"su" det def m sg
-"<mentras>"
-	"mentras" adv
-	"mentras" cnjadv
+;	"segare" vblex pp f sg
+
+"<in su mentras>"
+	"in su mentras" adv
 "<de>"
 	"de" pr
 "<sa>"
@@ -1134,7 +1134,7 @@
 	"luna" n f sg
 "<manna>"
 	"mannu" adj f sg
-	"mannu" n f sg
+;	"mannu" n f sg
 "<de>"
 	"de" pr
 "<freàrgiu>"
@@ -1143,12 +1143,12 @@
 	"e" cnjcoo
 "<lassada>"
 	"lassadu" adj f sg
-	"lassare" vblex pp f sg
+;	"lassare" vblex pp f sg
 "<sicare>"
 	"sicare" vblex inf
-	"sicare" vblex pis p1 sg
+;	"sicare" vblex pis p1 sg
 "<pro>"
-	"pro" cnjadv
+;	"pro" cnjadv
 	"pro" pr
 "<nessi>"
 	"nessi" adv
@@ -1163,7 +1163,7 @@
 
 "<S'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<.>"
@@ -1173,14 +1173,15 @@
 
 "<S'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
-"<cumponidu>"
-	"*cumponidu"
+"<cumpostu>"
+	"cumpònnere" vblex pp m sg
+
 "<dae>"
 	"dae" pr
 	"dare" vblex imp p2 sg
@@ -1188,8 +1189,8 @@
 	"tres" num mf sp
 "<cannas>"
 	"canna" n f pl
-	"cannire" vblex prs p2 sg
-	"cannare" vblex pri p2 sg
+;	"cannire" vblex prs p2 sg
+;	"cannare" vblex pri p2 sg
 "<de>"
 	"de" pr
 "<longària>"
@@ -1206,16 +1207,16 @@
 	"duos" num f sp
 "<prus>"
 	"prus" adv
-	"prus" adj mf sp
+;	"prus" adj mf sp
 "<longas>"
 	"longu" adj f pl
-	"longare" vblex pri p2 sg
+;	"longare" vblex pri p2 sg
 "<sunt>"
 	"èssere" vbser pri p3 pl
 "<presas>"
-	"presu" n f pl
+;	"presu" n f pl
 	"presu" adj f pl
-	"presa" n f pl
+;	"presa" n f pl
 "<cun>"
 	"cun" pr
 "<ispagu>"
@@ -1228,11 +1229,11 @@
 	"duo" n m pl
 	"duos" num m sp
 "<puntos>"
-	"pùnghere" vblex pp m pl
+;	"pùnghere" vblex pp m pl
 	"puntu" n m pl
-	"puntu" adj m pl
+;	"puntu" adj m pl
 "<distintos>"
-	"distìnghere" vblex pp m pl
+;	"distìnghere" vblex pp m pl
 	"distintu" adj m pl
 "<e>"
 	"e" cnjcoo
@@ -1242,7 +1243,7 @@
 	"su" det def f sg
 "<croba>"
 	"croba" n f sg
-	"crobare" vblex imp p2 sg
+;	"crobare" vblex imp p2 sg
 "<,>"
 	"," cm
 "<cando chi>"
@@ -1255,7 +1256,7 @@
 	"," cm
 "<prus>"
 	"prus" adv
-	"prus" adj mf sp
+;	"prus" adj mf sp
 "<curtza>"
 	"curtzu" adj f sg
 "<,>"
@@ -1269,38 +1270,38 @@
 	"." sent
 
 "<Su>"
-	"Su" np cog mf sp
+;	"Su" np cog mf sp
 	"su" det def m sg
 "<bassu>"
-	"bassu" adv
-	"bassu" adj m sg
+;	"bassu" adv
+;	"bassu" adj m sg
 	"bassu" n m sg
 "<o>"
 	"o" cnjcoo
 "<tumbu>"
 	"tumbu" n m sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<sa>"
 	"su" det def f sg
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<prus>"
 	"prus" adv
-	"prus" adj mf sp
+;	"prus" adj mf sp
 "<longa>"
 	"longu" adj f sg
-	"longare" vblex imp p2 sg
+;	"longare" vblex imp p2 sg
 "<de>"
 	"de" pr
 "<sa>"
 	"su" det def f sg
 "<croba>"
 	"croba" n f sg
-	"crobare" vblex imp p2 sg
+;	"crobare" vblex imp p2 sg
 "<(>"
 	"(" lpar
 "<60>"
@@ -1313,7 +1314,7 @@
 	"o" cnjcoo
 "<mancu>"
 	"mancu" adv
-	"mancu" adj m sg
+;	"mancu" adj m sg
 "<)>"
 	")" rpar
 "<e>"
@@ -1328,7 +1329,8 @@
 	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<setzionadu>"
-	"*setzionadu"
+	"setzionare" vblex pp m sg
+
 "<in>"
 	"in" pr
 "<duas>"
@@ -1336,21 +1338,21 @@
 "<o>"
 	"o" cnjcoo
 "<prus>"
-	"prus" adv
+;	"prus" adv
 	"prus" adj mf sp
 "<partes>"
 	"parte" n f pl
 "<;>"
 	";" sent
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<sena>"
-	"sena" adv
+;	"sena" adv
 	"sena" pr
-	"senare" vblex imp p2 sg
+;	"senare" vblex imp p2 sg
 "<istampigheddos>"
-	"*istampigheddos"
+	"istampigheddu" n m sg
 "<e>"
 	"e" cnjcoo
 "<dat>"
@@ -1358,14 +1360,14 @@
 "<petzi>"
 	"petzi" adv
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
 "<nota>"
-	"nòghere" vblex pp f sg
+;	"nòghere" vblex pp f sg
 	"nota" n f sg
-	"notare" vblex imp p2 sg
+;	"notare" vblex imp p2 sg
 "<,>"
 	"," cm
 "<sa>"
@@ -1381,7 +1383,7 @@
 	"pro" pr
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<intonatzione>"
 	"intonatzione" n f sg
 "<.>"
@@ -1390,29 +1392,29 @@
 "<Sa>"
 	"su" det def f sg
 "<segunda>"
-	"segunda" n f sg
+;	"segunda" n f sg
 	"segundu" adj ord f sg
-	"segundare" vblex imp p2 sg
+;	"segundare" vblex imp p2 sg
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<de>"
 	"de" pr
 "<sa>"
 	"su" det def f sg
 "<croba>"
 	"croba" n f sg
-	"crobare" vblex imp p2 sg
+;	"crobare" vblex imp p2 sg
 "<,>"
 	"," cm
 "<longa>"
 	"longu" adj f sg
-	"longare" vblex imp p2 sg
+;	"longare" vblex imp p2 sg
 "<su>"
 	"su" det def m sg
 "<mesu>"
-	"mesu" adj m sg
+;	"mesu" adj m sg
 	"mesu" n m sg
 "<de>"
 	"de" pr
@@ -1421,11 +1423,11 @@
 "<e>"
 	"e" cnjcoo
 "<mutida>"
-	"mutire" vblex pp f sg
+;	"mutire" vblex pp f sg
 	"mutida" n f sg
 "<mancosa>"
 	"mancosu" adj f sg
-	"mancosa" n f sg
+;	"mancosa" n f sg
 "<ca>"
 	"ca" cnjsub
 	"ca" cnjadv
@@ -1444,8 +1446,8 @@
 	"manu" n f sg
 "<manca>"
 	"mancu" adj f sg
-	"manca" n f sg
-	"mancare" vblex imp p2 sg
+;	"manca" n f sg
+;	"mancare" vblex imp p2 sg
 "<,>"
 	"," cm
 "<dat>"
@@ -1453,9 +1455,9 @@
 "<sas>"
 	"su" det def f pl
 "<notas>"
-	"nòghere" vblex pp f pl
+;	"nòghere" vblex pp f pl
 	"nota" n f pl
-	"notare" vblex pri p2 sg
+;	"notare" vblex pri p2 sg
 "<de>"
 	"de" pr
 "<acumpangiamentu>"
@@ -1463,32 +1465,32 @@
 "<,>"
 	"," cm
 "<difatis>"
-	"difatis" adv
+;	"difatis" adv
 	"difatis" cnjadv
 "<tenet>"
 	"tènnere" vblex pri p3 sg
 "<bator>"
 	"bator" num mf sp
 "<istampigheddos>"
-	"*istampigheddos"
+	"istampigheddu" n m sg
 "<retangulares>"
 	"retangulare" adj mf pl
 "<pro>"
-	"pro" cnjadv
+;	"pro" cnjadv
 	"pro" pr
 "<sos>"
 	"su" det def m pl
 "<pòddighes>"
-	"poddigare" vblex prs p2 sg
+;	"poddigare" vblex prs p2 sg
 	"pòddighe" n m pl
 "<e>"
 	"e" cnjcoo
 "<unu>"
-	"unu" num m sp
+;	"unu" num m sp
 	"unu" prn tn m sg
-	"unu" det ind m sg
-"<pros>"
-	"*pros"
+;	"unu" det ind m sg
+"<pro>"
+	"pro" pr
 "<sos>"
 	"su" det def m pl
 "<acordos>"
@@ -1500,25 +1502,25 @@
 	"su" det def f sg
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<isorta>"
 	"isortu" adj f sg
 "<,>"
 	"," cm
 "<mutida>"
-	"mutire" vblex pp f sg
+;	"mutire" vblex pp f sg
 	"mutida" n f sg
-"<mancosedda>"
-	"*mancosedda"
+"<mancosa>"
+	"mancosu" n f sg
 "<o>"
 	"o" cnjcoo
 "<destrina>"
-	"*destrina"
+	"destrinu" n f sg
 "<ca>"
 	"ca" cnjsub
-	"ca" cnjadv
-	"ca" rel an mf sp
+;	"ca" cnjadv
+;	"ca" rel an mf sp
 "<si>"
 	"si" prn pro ref p3 mf sp SELECT:58
 ;	"si" cnjsub SELECT:58
@@ -1533,8 +1535,8 @@
 	"manu" n f sg
 "<dereta>"
 	"deretu" adj f sg
-	"dereta" n f sg
-	"deretare" vblex imp p2 sg
+;	"dereta" n f sg
+;	"deretare" vblex imp p2 sg
 "<,>"
 	"," cm
 "<tenet>"
@@ -1546,7 +1548,7 @@
 "<chimbe>"
 	"chimbe" num mf sp
 "<istampigheddos>"
-	"*istampigheddos"
+	"istampigheddu" n m pl
 "<,>"
 	"," cm
 "<semper>"
@@ -1566,49 +1568,49 @@
 	"nota" n f pl
 	"notare" vblex pri p2 sg
 "<melòdicas>"
-	"*melòdicas"
+	"melòdicu" adj f pl
 "<.>"
 	"." sent
 
 
 
 "<Su>"
-	"Su" np cog mf sp
+;	"Su" np cog mf sp
 	"su" det def m sg
 "<sonu>"
 	"sonu" n m sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<produidu>"
 	"produire" vblex pp m sg
 "<dae>"
 	"dae" pr
-	"dare" vblex imp p2 sg
+;	"dare" vblex imp p2 sg
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<limbatzu>"
 	"limbatzu" n m sg
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<vibrat>"
 	"vibrare" vblex pri p3 sg
 "<comente>"
-	"comente" adv
+;	"comente" adv
 	"comente" cnjsub
-	"comente" cnjadv
-	"comente" adv itg
-	"comente" rel adv
+;	"comente" cnjadv
+;	"comente" adv itg
+;	"comente" rel adv
 "<colat>"
 	"colare" vblex pri p3 sg
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<àera>"
 	"àera" n f sg
 "<,>"
@@ -1618,8 +1620,8 @@
 "<in>"
 	"in" pr
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<pitzu>"
 	"pitzu" n m sg
@@ -1629,8 +1631,8 @@
 	"de" pr
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<etotu>"
 	"etotu" adj m sg
 "<,>"
@@ -1640,10 +1642,10 @@
 "<cabitza>"
 	"cabitza" n f sg
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<s'>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
 "<incassat>"
 	"incassare" vblex pri p3 sg
@@ -1659,17 +1661,17 @@
 	"su" det def f pl
 "<cannas>"
 	"canna" n f pl
-	"cannire" vblex prs p2 sg
-	"cannare" vblex pri p2 sg
+;	"cannire" vblex prs p2 sg
+;	"cannare" vblex pri p2 sg
 "<.>"
 	"." sent
 
 "<Pro>"
-	"pro" cnjadv
+;	"pro" cnjadv
 	"pro" pr
 "<incassare>"
 	"incassare" vblex inf
-	"incassare" vblex pis p1 sg
+;	"incassare" vblex pis p1 sg
 "<sa>"
 	"su" det def f sg
 "<cabitza>"
@@ -1680,19 +1682,19 @@
 	"su" det def f sg
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<s'>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
 "<impreat>"
 	"impreare" vblex pri p3 sg
 "<cheròpighe>"
-	"*cheròpighe"
+	"cheròpighe" n f sg
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<si>"
 	"si" prn pro ref p3 mf sp SELECT:58
@@ -1701,13 +1703,13 @@
 "<ponet>"
 	"pònnere" vblex pri p3 sg
 "<finas>"
-	"finas" adv
+;	"finas" adv
 	"finas" cnjcoo
-	"finas" cnjadv
-	"finas" pr
-	"finas" preadv
-	"finu" adj f pl
-	"finire" vblex prs p2 sg
+;	"finas" cnjadv
+;	"finas" pr
+;	"finas" preadv
+;	"finu" adj f pl
+;	"finire" vblex prs p2 sg
 "<subra de>"
 	"subra de" pr
 "<sos>"
@@ -1716,13 +1718,13 @@
 	"limbatzu" n m pl
 "<pro>"
 	"pro" cnjadv
-	"pro" pr
+;	"pro" pr
 "<acordare>"
 	"acordare" vblex inf
-	"acordare" vblex pis p1 sg
+;	"acordare" vblex pis p1 sg
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<;>"
@@ -1730,9 +1732,9 @@
 "<a>"
 	"a" pr
 "<segunda>"
-	"segunda" n f sg
+;	"segunda" n f sg
 	"segundu" adj ord f sg
-	"segundare" vblex imp p2 sg
+;	"segundare" vblex imp p2 sg
 "<de sa cantidade>"
 	"de sa cantidade" adj mf sp
 "<càmbiat>"
@@ -1748,18 +1750,18 @@
 "<e>"
 	"e" cnjcoo
 "<s'>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
 "<otenent>"
 	"otènnere" vblex pri p3 pl
 "<sonos>"
 	"sonu" n m pl
-"<acutos>"
-	"*acutos"
+"<agudos>"
+	"agudu" n m pl
 "<o>"
 	"o" cnjcoo
 "<graes>"
-	"grae" n m pl
+;	"grae" n m pl
 	"grae" adj mf pl
 "<.>"
 	"." sent
@@ -1768,60 +1770,60 @@
 
 "<Pro>"
 	"pro" cnjadv
-	"pro" pr
+;	"pro" pr
 "<sonare>"
 	"sonare" vblex inf
-	"sonare" vblex pis p1 sg
+;	"sonare" vblex pis p1 sg
 "<sas>"
 	"su" det def f pl
 "<launeddas>"
 	"launedda" n f pl
 "<s'>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
 "<impreat>"
 	"impreare" vblex pri p3 sg
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
 "<tècnica>"
-	"tècnicu" adj f sg
-	"tècnicu" n f sg
+;	"tècnicu" adj f sg
+;	"tècnicu" n f sg
 	"tècnica" n f sg
 "<particulare>"
 	"particulare" adj mf sg
 "<cramada>"
-	"cramada" n f sg
+;	"cramada" n f sg
 	"cramare" vblex pp f sg
 "<alenu>"
 	"alenu" n m sg
 "<sighidu>"
-	"sighidu" adj m sg
-	"sighidu" n m sg
-	"sìghidu" adj m sg
+;	"sighidu" adj m sg
+;	"sighidu" n m sg
+;	"sìghidu" adj m sg
 	"sighire" vblex pp m sg
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<permitit>"
-	"*permitit"
+"<permitet>"
+	"permìtere" vblex pri p3 sg
 "<de>"
 	"de" pr
 "<inspirare>"
 	"ispirare" vblex inf
-	"ispirare" vblex pis p1 sg
+;	"ispirare" vblex pis p1 sg
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<àera>"
 	"àera" n f sg
 "<dae>"
 	"dae" pr
-	"dare" vblex imp p2 sg
+;	"dare" vblex imp p2 sg
 "<su>"
 	"su" det def m sg
 "<nasu>"
@@ -1831,14 +1833,14 @@
 "<de>"
 	"de" pr
 "<l'>"
-	"lu" prn pro p3 m sg
-	"li" prn pro p3 mf sg
+;	"lu" prn pro p3 m sg
+;	"li" prn pro p3 mf sg
 	"lu" prn pro p3 f sg
-"<espirare>"
-	"*espirare"
+"<alidare>"
+	"alidare" vblex inf
 "<dae>"
 	"dae" pr
-	"dare" vblex imp p2 sg
+;	"dare" vblex imp p2 sg
 "<sa>"
 	"su" det def f sg
 "<buca>"
@@ -1849,11 +1851,11 @@
 "<A pustis de>"
 	"a pustis de" pr
 "<aer>"
-	"àere" vblex inf
+;	"àere" vblex inf
 	"àere" vbhaver inf
-"<prenu>"
-	"prenu" adj m sg
-	"prenu" n m sg
+"<prenadu>"
+	"prenadu" adj m sg
+	"prenare" vblex pp m sg
 "<sa>"
 	"su" det def f sg
 "<buca>"
@@ -1880,38 +1882,39 @@
 "<nch'>"
 	"nche" prn pro adv
 "<agabet>"
-	"*agabet"
+	"acabare" vblex prs p3 sg
+
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+; 	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<devet>"
-	"dèvere" vblex pri p3 sg
+;	"dèvere" vblex pri p3 sg
 	"dèpere" vbmod pri p3 sg
 "<fàghere>"
 	"fàghere" vblex inf
 "<un'>"
 	"unu" det ind mf sg
 "<àtera>"
-	"àteru" prn tn f sg
+;	"àteru" prn tn f sg
 	"àteru" det ind f sg
-	"àteru" adj ind f sg
-"<inspiratzione>"
-	"*inspiratzione"
+;	"àteru" adj ind f sg
+"<ispiratzione>"
+	"ispiratzione" n f sg
 "<a manera de>"
 	"a manera de" pr
 "<otènnere>"
 	"otènnere" vblex inf
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<sonu>"
 	"sonu" n m sg
 "<sighidu>"
-	"sighidu" adj m sg
-	"sighidu" n m sg
-	"sìghidu" adj m sg
+;	"sighidu" adj m sg
+;	"sighidu" n m sg
+;	"sìghidu" adj m sg
 	"sighire" vblex pp m sg
 "<.>"
 	"." sent
@@ -1920,25 +1923,25 @@
 
 "<Totu>"
 	"totu" predet mf sp
-	"totu" prn tn mf sg
+;	"totu" prn tn mf sg
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<est>"
 	"est" n m sg
-	"èssere" vbser pri p3 sg
+;	"èssere" vbser pri p3 sg
 "<cramadu>"
 	"cramare" vblex pp m sg
 "<finas>"
 	"finas" adv
-	"finas" cnjcoo
-	"finas" cnjadv
-	"finas" pr
-	"finas" preadv
-	"finu" adj f pl
-	"finire" vblex prs p2 sg
+;	"finas" cnjcoo
+;	"finas" cnjadv
+;	"finas" pr
+;	"finas" preadv
+;	"finu" adj f pl
+;	"finire" vblex prs p2 sg
 "<cuntzertu>"
 	"cuntzertu" n m sg
 "<,>"
@@ -1953,19 +1956,18 @@
 	"de" pr
 "<cannas>"
 	"canna" n f pl
-	"cannire" vblex prs p2 sg
-	"cannare" vblex pri p2 sg
+;	"cannire" vblex prs p2 sg
+;	"cannare" vblex pri p2 sg
 "<e>"
 	"e" cnjcoo
 "<,>"
 	"," cm
-"<a>"
-	"a" pr
+
 "<segundu>"
-	"segundu" cnjadv
-	"segundu" pr
+;	"segundu" cnjadv
+;	"segundu" pr
 	"segundu" n m sg
-	"segundu" adj ord m sg
+;	"segundu" adj ord m sg
 "<de>"
 	"de" pr
 "<sa>"
@@ -1978,20 +1980,20 @@
 	"su" det def f pl
 "<cannas>"
 	"canna" n f pl
-	"cannire" vblex prs p2 sg
-	"cannare" vblex pri p2 sg
+;	"cannire" vblex prs p2 sg
+;	"cannare" vblex pri p2 sg
 "<leat>"
 	"leare" vblex pri p3 sg
 "<sos>"
 	"su" det def m pl
 "<nùmenes>"
 	"nùmene" n m pl
-	"numenare" vblex prs p2 sg
+;	"numenare" vblex prs p2 sg
 "<de>"
 	"de" pr
 "<puntu>"
-	"pùnghere" vblex pp m sg
-	"puntu" adj m sg
+:	"pùnghere" vblex pp m sg
+;	"puntu" adj m sg
 	"puntu" n m sg
 "<de>"
 	"de" pr
@@ -2003,13 +2005,11 @@
 	"contrapuntu" n m sg
 "<,>"
 	"," cm
-"<mediana>"
-	"medianu" adj f sg
-	"mediana" n f sg
+"<mediana a pipia>"
+	"mediana a pipia" n f sg
 "<,>"
 	"," cm
-"<pipia>"
-	"pipiu" n f sg
+
 "<,>"
 	"," cm
 "<fioràssiu>"
@@ -2022,24 +2022,24 @@
 	"e" cnjcoo
 "<àteros>"
 	"àteru" prn tn m pl
-	"àteru" det ind m pl
-	"àteru" adj ind m pl
+;	"àteru" det ind m pl
+;	"àteru" adj ind m pl
 "<.>"
 	"." sent
 
 "<Cando>"
-	"cando" adv
+;	"cando" adv
 	"cando" cnjadv
-	"cando" adv itg
-	"cando" rel adv
-	"candire" vblex pri p1 sg
+;	"cando" adv itg
+;	"cando" rel adv
+;	"candire" vblex pri p1 sg
 "<non>"
 	"no" adv
 "<sunt>"
 	"èssere" vbser pri p3 pl
 "<impreadas>"
-	"impreadu" n f pl
-	"impreadu" adj f pl
+;	"impreadu" n f pl
+;	"impreadu" adj f pl
 	"impreare" vblex pp f pl
 "<,>"
 	"," cm
@@ -2048,8 +2048,8 @@
 "<launeddas>"
 	"launedda" n f pl
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<costoint>"
 	"costoire" vblex pri p3 pl
@@ -2072,27 +2072,27 @@
 "<mutidu>"
 	"mutire" vblex pp m sg
 "<stracàsciu>"
-	"*stracàsciu"
+	"istracàsciu" n m sg
 "<.>"
 	"." sent
 
 
 
 "<Francu>"
-	"francu" cnjsub
+;	"francu" cnjsub
 	"francu" pr
-	"francu" adj m sg
-	"francu" n m sg
+;	"francu" adj m sg
+;	"francu" n m sg
 "<in>"
 	"in" pr
 "<sas>"
 	"su" det def f pl
 "<bandas>"
 	"banda" n f pl
-	"bandire" vblex prs p2 sg
+;	"bandire" vblex prs p2 sg
 "<in ue>"
 	"in ue" adv
-	"in ue" adv itg
+;	"in ue" adv itg
 "<fiat>"
 	"èssere" vbser pii p3 sg
 "<difusu>"
@@ -2120,7 +2120,7 @@
 "<su>"
 	"su" det def m sg
 "<Sarrabus>"
-	"*Sarrabus"
+	"Sarrabus" np top m sg
 "<,>"
 	"," cm
 "<sa>"
@@ -2130,8 +2130,8 @@
 "<de>"
 	"de" pr
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<sonadore>"
 	"sonadore" n m sg
@@ -2145,7 +2145,7 @@
 	"indispensàbile" adj mf sg
 "<pro>"
 	"pro" cnjadv
-	"pro" pr
+;	"pro" pr
 "<acumpangiare>"
 	"acumpangiare" vblex inf
 "<sos>"
@@ -2200,11 +2200,11 @@
 "<Otanta>"
 	"otanta" num mf sp
 "<cando>"
-	"cando" adv
+;	"cando" adv
 	"cando" cnjadv
-	"cando" adv itg
-	"cando" rel adv
-	"candire" vblex pri p1 sg
+;	"cando" adv itg
+;	"cando" rel adv
+;	"candire" vblex pri p1 sg
 "<pro more de>"
 	"pro more de" pr
 "<istùdios>"
@@ -2214,25 +2214,25 @@
 "<sa>"
 	"su" det def f sg
 "<mùsica>"
-	"mùsicu" adj f sg
+;	"mùsicu" adj f sg
 	"mùsica" n f sg
-	"musicare" vblex imp p2 sg
+;	"musicare" vblex imp p2 sg
 "<ètnica>"
 	"ètnicu" adj f sg
 "<,>"
 	"," cm
 "<est>"
 	"est" n m sg
-	"èssere" vbser pri p3 sg
+;	"èssere" vbser pri p3 sg
 "<torradu>"
 	"torrare" vblex pp m sg
 "<a>"
 	"a" pr
-"<nàschire>"
-	"*nàschire"
+"<nàschere>"
+	"nàschere" vblex inf
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<interessu>"
 	"interessu" n m sg
 "<pro>"
@@ -2240,7 +2240,7 @@
 	"pro" pr
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<.>"
@@ -2249,70 +2249,70 @@
 
 
 "<Unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<contributu>"
 	"contributu" n m sg
-	"cuntributu" n m sg
-"<indipensabile>"
-	"*indipensabile"
+;	"cuntributu" n m sg
+"<indipensàbile>"
+	"indipensàbile" adj mf sg
 "<in>"
 	"in" pr
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istudiu>"
 	"istùdiu" n m sg
 "<de>"
 	"de" pr
 "<s'>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<istrumentu>"
 	"istrumentu" n m sg
 "<l'>"
 	"lu" prn pro p3 m sg
-	"li" prn pro p3 mf sg
-	"lu" prn pro p3 f sg
-"<hat>"
+;	"li" prn pro p3 mf sg
+;	"lu" prn pro p3 f sg
+"<at>"
 	"àere" vbhaver pri p3 sg
 "<dadu>"
 	"dare" vblex pp m sg
 "<su>"
 	"su" det def m sg
-"<musicologo>"
-	"*musicologo"
+"<musicòlogu>"
+	"musicòlogu" n m sg
 "<danesu>"
 	"danesu" adj m sg
-	"danesu" n m sg
+;	"danesu" n m sg
 "<Andreas>"
-	"*Andreas"
+	"Andreas" np ant m sg
 "<Fridolin>"
-	"*Fridolin"
+	"Fridolin" np cog m sg
 "<Weis>"
-	"*Weis"
+	"Weis" np cog m sg
 "<Bentzon>"
-	"*Bentzon"
+	"Bentzon" cog m sg
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<hat>"
+"<at>"
 	"àere" vbhaver pri p3 sg
 "<registradu>"
 	"registrare" vblex pp m sg
 "<e>"
 	"e" cnjcoo
-"<trascrittu>"
-	"*trascrittu"
+"<trascritu>"
+	"trascrìere" vblex pp m sg
 "<in>"
 	"in" pr
 "<pentagramma>"
-	"*pentagramma"
+	"pentagramma" n m sg
 "<medas>"
 	"meda" adj mf pl
-	"medire" vblex prs p2 sg
-	"medas" prn tn mf pl
+;	"medire" vblex prs p2 sg
+;	"medas" prn tn mf pl
 "<sonadas>"
 	"sonare" vblex pp f pl
 "<traditzionales>"
@@ -2325,9 +2325,9 @@
 "<Is>"
 	"su" det def mf pl
 "<Maistus>"
-	"*Maistus"
+	"Mastru" n m pl 
 "<Mannus>"
-	"mannu" n m pl
+;	"mannu" n m pl
 	"mannu" adj m pl
 "<.>"
 	"." sent
@@ -2342,8 +2342,9 @@
 	"èssere" vbser pii p3 pl
 "<andadas>"
 	"andare" vblex pp f pl
-"<sparessendi>"
-	"*sparessendi"
+"<isparessende>"
+	"isparèssere" vblex ger
+
 "<a pagu a pagu>"
 	"a pagu a pagu" adv
 "<in>"
@@ -2380,31 +2381,30 @@
 	"e" cnjcoo
 "<parti>"
 	"parte" n f sg
-	"partire" vblex imp p2 sg
-"<poita>"
-	"*poita"
+;	"partire" vblex imp p2 sg
+"<proite>"
+	"proite" cnjsub
 "<est>"
 	"est" n m sg
-	"èssere" vbser pri p3 sg
+;	"èssere" vbser pri p3 sg
 "<arribada>"
 	"arribare" vblex pp f sg
 "<,>"
 	"," cm
-"<de>"
-	"de" pr
-"<foras>"
+
+"<dae foras>"
 	"foras" adv
-	"foras" pr
+;	"foras" pr
 "<,>"
 	"," cm
 "<fintzas>"
 	"fintzas" adv
-	"fintzas" cnjcoo
-	"fintzas" pr
+;	"fintzas" cnjcoo
+;	"fintzas" pr
 "<atra>"
 	"àteru" det ind f sg
 "<casta>"
-	"castu" adj f sg
+;	"castu" adj f sg
 	"casta" n f sg
 "<de>"
 	"de" pr
@@ -2421,89 +2421,82 @@
 	"traditzione" n f sg
 "<est>"
 	"est" n m sg
-	"èssere" vbser pri p3 sg
+;	"èssere" vbser pri p3 sg
 "<abarrada>"
 	"abarrare" vblex pp f sg
 "<bia>"
-	"bia" adv
-	"bìere" vblex prs p1 sg
+;	"bia" adv
+;	"bìere" vblex prs p1 sg
 	"biu" adj f sg
-	"bia" n f sg
+;	"bia" n f sg
 "<in>"
 	"in" pr
-"<d’>"
-	"de" pr
-"<unas>"
-	"unire" vblex prs p2 sg
-	"unu" prn tn f pl
-	"unu" det ind f pl
-"<cantu>"
-	"cantu" cnjadv
-	"cantu" n m sg
-	"cantu" prn itg m sg
-	"cantu" rel an m sg
-	"cantu" adj itg m sg
+
+;	"de" pr
+"<unas cantas>"
+	"unas cantas" det f pl
 "<biddas>"
 	"bidda" n f pl
 "<,>"
 	"," cm
-"<anca>"
-	"anca" n f sg
+"<ca>"
+	"ca" cnjsub 
 "<ddu>"
 	"lu" prn pro p3 m sg
-"<atiat>"
-	"*atiat"
+"<batiat>"
+	"batire" vblex pii p3 sg
+
 "<Scolas>"
 	"iscola" n f pl
 "<de>"
 	"de" pr
-"<sonadoris>"
-	"*sonadoris"
-"<beni>"
-	"bènnere" vblex imp p2 sg
+"<sonadores>"
+	"sonadore" n m pl
+"<bene>"
+	"bene" adv
 "<connotas>"
 	"connòschere" vblex pp f pl
-	"connotu" adj f pl
+;	"connotu" adj f pl
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<funt>"
 	"èssere" vbser pii p3 pl
-"<stetias>"
-	"*stetias"
+"<istadas>"
+	"èssere" vbser pp f pl
 "<sighidas>"
-	"sighidu" adj f pl
-	"sìghidu" adj f pl
+;	"sighidu" adj f pl
+;	"sìghidu" adj f pl
 	"sighire" vblex pp f pl
-"<de>"
-	"de" pr
+"<dae>"
+	"dae" pr
 "<is>"
 	"su" det def mf pl
 "<sonadoris>"
-	"*sonadoris"
-"<benius>"
-	"*benius"
-"<apustis>"
-	"*apustis"
+	"sonadore" n m pl
+"<bènnidos>"
+	"bènnere" vblex pp m pl
+"<a pustis>"
+	"a pustis" adv
 "<.>"
 	"." sent
 
 "<Medas>"
 	"meda" adj mf pl
-	"medire" vblex prs p2 sg
-	"medas" prn tn mf pl
-"<sonadoris>"
-	"*sonadoris"
+;	"medire" vblex prs p2 sg
+;	"medas" prn tn mf pl
+"<sonadores>"
+	"sonadore" n m pl
 "<ant>"
-	"àere" vblex pri p3 pl
+;	"àere" vblex pri p3 pl
 	"àere" vbhaver pri p3 pl
-"<lassau>"
+"<lassadu>"
 	"lassare" vblex pp m sg
 "<s’>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
-"<arregordu>"
-	"*arregordu"
+;	"si" prn pro ref p3 mf sp
+"<regordu>"
+	"regordu" n m sg
 "<,>"
 	"," cm
 "<ma>"
@@ -2511,9 +2504,9 @@
 "<no>"
 	"no" adv
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
-"<abarrau>"
+"<abarradu>"
 	"abarrare" vblex pp m sg
 "<nisciunu>"
 	"nisciunu" det ind m sg
@@ -2525,40 +2518,40 @@
 
 
 "<Su>"
-	"Su" np cog mf sp
+;	"Su" np cog mf sp
 	"su" det def m sg
 "<primu>"
-	"primu" adv
+;	"primu" adv
 	"primu" adj ord m sg
 "<a>"
 	"a" pr
-"<essiri>"
-	"*essiri"
-"<intrau>"
+"<èssere>"
+	"èssere" vblex inf
+"<intradu>"
 	"intrare" vblex pp m sg
 "<in>"
 	"in" pr
 "<d’>"
 	"de" pr
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
 "<sala>"
 	"sala" n f sg
-	"salire" vblex prs p1 sg
+;	"salire" vblex prs p1 sg
 "<de>"
 	"de" pr
-"<registratzioni>"
+"<registratzione>"
 	"registratzione" n f sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
-"<stetiu>"
-	"*stetiu"
+"<istadu>"
+	"èssere" vbser pp
 "<Efisceddu>"
-	"*Efisceddu"
+	"Efisieddu" np ant m sg
 "<Melis>"
 	"Melis" np cog mf sp
 "<(>"
@@ -2572,56 +2565,52 @@
 	")" rpar
 "<,>"
 	"," cm
-"<sonadori>"
-	"*sonadori"
+"<sonadore>"
+	"sonadore" n m sg
 "<de>"
 	"de" pr
 "<sa>"
 	"su" det def f sg
-"<Scola>"
+"<Iscola>"
 	"iscola" n f sg
 "<de>"
 	"de" pr
 "<su>"
 	"su" det def m sg
 "<Sarrabus>"
-	"*Sarrabus"
+	"Sarrabus" np top m sg
 "<.>"
 	"." sent
 
 "<Funt>"
 	"èssere" vbser pii p3 pl
-"<abarraus>"
+"<abarrados>"
 	"abarrare" vblex pp m pl
-"<is>"
+"<sos>"
 	"su" det def mf pl
-"<documentus>"
+"<documentos>"
 	"documentu" n m pl
 "<de>"
 	"de" pr
-"<is>"
-	"su" det def mf pl
-"<registratzionis>"
+"<sas>"
+	"su" det def f pl
+"<registratziones>"
 	"registratzione" n f pl
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<hat>"
+"<at>"
 	"àere" vbhaver pri p3 sg
-"<fattu>"
+"<fatu>"
 	"fàghere" vblex pp m sg
-"<me>"
-	"mene" prn tn p1 mf sg
 "<in>"
 	"in" pr
 "<Milano>"
 	"Milanu" np top m sg
 "<in>"
 	"in" pr
-"<si>"
-	"si" cnjsub
-	"si" cnjadv
-	"si" prn pro ref p3 mf sp
+"<su>"
+	"su" det def m sg
 "<1930>"
 	"1930" num
 "<,>"
@@ -2638,48 +2627,43 @@
 	"1962" num
 "<,>"
 	"," cm
+
+"<in parte>"
+	"in parte" adv
 "<in>"
 	"in" pr
-"<parti>"
-	"parte" n f sg
-	"partire" vblex imp p2 sg
-"<in>"
-	"in" pr
-"<discus>"
+"<discos>"
 	"discu" n m pl
 "<a>"
 	"a" pr
 "<78>"
 	"78" num
-"<girus>"
+"<giros>"
 	"giru" n m pl
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<funt>"
+"<fiant>"
 	"èssere" vbser pii p3 pl
-"<stetius>"
-	"*stetius"
+"<istados>"
+	"èssere" vbser pp m pl
 "<,>"
 	"," cm
-"<de>"
-	"de" pr
-"<pagu>"
-	"pagu" adv
-	"pagu" adj m sg
-	"pagu" prn tn m sg
+"<dae pagu>"
+	"dae pagu" adv
+	
 "<,>"
 	"," cm
-"<torraus>"
+"<torrados>"
 	"torrare" vblex pp m pl
 "<a>"
 	"a" pr
-"<masterizzai>"
-	"*masterizzai"
+"<masteritzare>"
+	"masteritzare" vblex inf
 "<e>"
 	"e" cnjcoo
-"<pubbricaus>"
-	"*pubbricaus"
+"<publicados>"
+	"publicare" vblex inf
 "<in>"
 	"in" pr
 "<CD>"
@@ -2690,7 +2674,7 @@
 "<(>"
 	"(" lpar
 "<Punt>"
-	"*Punt"
+	"puntu" n m sg
 "
 "<e>"
 	"e" cnjcoo
@@ -2702,140 +2686,142 @@
 
 "<Connotu>"
 	"connòschere" vblex pp m sg
-	"connotu" adj m sg
-"<po>"
-	"*po"
-"<essiri>"
-	"*essiri"
+;	"connotu" adj m sg
+"<pro>"
+	"pro"
+"<èssere>"
+	"èssere"
 "<su>"
 	"su" det def m sg
-"<mellus>"
-	"*mellus"
-"<sonadori>"
-	"*sonadori"
+"<mègius>"
+	"mègius" adj m sg
+"<sonadore>"
+	"sonadore" n m sg
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<s’>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
-"<arregordit>"
-	"*arregordit"
+"<regordet>"
+	"regordare" vblex prs p3 sg
 "<,>"
 	"," cm
 "<(>"
 	"(" lpar
 "<Mediana>"
-	"medianu" adj f sg
+;	"medianu" adj f sg
 	"mediana" n f sg
+        
 "<)>"
 	")" rpar
-"<iat>"
-	"àere" vblex pii p3 sg
+"<aiat>"
+;	"àere" vblex pii p3 sg
 	"àere" vbhaver pii p3 sg
 "<tentu>"
 	"tènnere" vblex pp m sg
-	"tentu" n m sg
+;	"tentu" n m sg
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
-"<fida>"
-	"fidare" vblex imp p2 sg
+"<bida>"
+	"bida" n f sg
 "<turmentada>"
 	"turmentare" vblex pp f sg
 "<.>"
 	"." sent
 
-"<Me>"
-	"mene" prn tn p1 mf sg
-"<is>"
+"<Ma>"
+	"ma" cnjcoo
+"<sas>"
 	"su" det def mf pl
 "<sonadas>"
 	"sonare" vblex pp f pl
-"<cosa>"
-	"cosa" n f sg
-	"cosire" vblex prs p1 sg
-"<sua>"
-	"suo" prn pos f sg SELECT:56
-	"suo" adj pos f sg SELECT:56
+"<cosas>"
+	"cosa" n pl sg
+;	"cosire" vblex prs p1 sg
+"<suas>"
+;	"suo" prn pos f pl SELECT:56
+	"suo" adj pos f pl SELECT:56
 ;	"sùere" vblex prs p1 sg SELECT:56
 ;	"suare" vblex imp p2 sg SELECT:56
-"<ddu>"
-	"lu" prn pro p3 m sg
-"<adiat>"
-	"*adiat"
-"<troppu>"
-	"*troppu"
-"<novidadis>"
+"<b'>"
+	"bi" prn pro adv
+"<aiat>"
+	"àere" vblex pii p3 sg
+
+"<tropu>"
+	"tropu" adj mf sp
+"<novidades>"
 	"novidade" n f pl
 "<e>"
 	"e" cnjcoo
 "<no>"
 	"no" adv
-"<praxiant>"
-	"*praxiant"
+"<praghiant>"
+	"pràghere" vblex pii p3 pl
 "<meda>"
 	"meda" adv
-	"meda" preadv
-	"meda" adj mf sg
-	"medire" vblex prs p1 sg
-"<me>"
-	"mene" prn tn p1 mf sg
+;	"meda" preadv
+;	"meda" adj mf sg
+;	"medire" vblex prs p1 sg
+"<in>"
+	"in" prn rel 
 "<is>"
 	"su" det def mf pl
 "<pratzas>"
 	"pratza" n f pl
 "<de>"
 	"de" pr
-"<is>"
-	"su" det def mf pl
-"<ballus>"
+"<sos>"
+	"su" det def m pl
+"<ballos>"
 	"ballu" n m pl
 "<,>"
 	"," cm
-"<anca>"
-	"anca" n f sg
-"<is>"
-	"su" det def mf pl
-"<baddadoris>"
-	"*baddadoris"
+"<ca>"
+	cnjsub
+"<sos>"
+	"su" det def m pl
+"<balladores>"
+	"balladore" n m sg
 "<no>"
 	"no" adv
 "<fiant>"
 	"èssere" vbser pii p3 pl
-"<avesus>"
-	"avesu" n m pl
+"<avesos>"
+;	"avesu" n m pl
 	"avesu" adj m pl
 "<a>"
 	"a" pr
 "<nodas>"
 	"noda" n f pl
-	"nodare" vblex pri p2 sg
+;	"nodare" vblex pri p2 sg
 "<diversas>"
 	"diversu" adj f pl
-	"diversu" det ind f pl
+;	"diversu" det ind f pl
 "<meda>"
 	"meda" adv
-	"meda" preadv
-	"meda" adj mf sg
-	"medire" vblex prs p1 sg
-"<de>"
+;	"meda" preadv
+;	"meda" adj mf sg
+;	"medire" vblex prs p1 sg
+"<dae>"
 	"de" pr
-"<is chi>"
+"<sos chi>"
 	"su chi" rel an mf pl
-"<iant>"
-	"*iant"
-"<sempiri>"
-	"*sempiri"
-"<intendiu>"
-	"*intendiu"
+"<aiant>"
+	"àere" vbhaver pii 3 pl
+"<semper>"
+	"semper" adv
+"<intendidu>"
+	"intèndere" vblex pp m sg
 "<.>"
 	"." sent
 
-"<Praxiat>"
-	"*Praxiat"
+"<Praghiat>"
+	"pràghere" vblex prs p3 sg
 "<de prus>"
 	"de prus" adv
 "<,>"
@@ -2859,17 +2845,17 @@
 	"issu" prn tn p3 m sg
 "<puru>"
 	"puru" adv
-	"puru" cnjadv
-	"puru" adj m sg
+;	"puru" cnjadv
+;	"puru" adj m sg
 "<de>"
 	"de" pr
 "<Bidda de Putzu>"
 	"Bidda de Putzu" np top f sg
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
-"<fadiat>"
-	"*fadiat"
+"<faghiat>"
+	"fàghere" vblex pii 3 sg
 "<a>"
 	"a" pr
 "<gara>"
@@ -2878,10 +2864,10 @@
 	"cun" pr
 "<Melis>"
 	"Melis" np cog mf sp
-"<po>"
-	"*po"
-"<essi>"
-	"essire" vblex imp p2 sg
+"<pro>"
+	"pro"
+"<èssere>"
+	"èssere" vblex inf
 "<capassu>"
 	"capassu" adj m sg
 "<,>"
@@ -2894,9 +2880,9 @@
 	"èssere" vbser pii p3 sg
 "<prus>"
 	"prus" adv
-	"prus" adj mf sp
-"<arrispetosu>"
-	"*arrispetosu"
+;	"prus" adj mf sp
+"<rispetosu>"
+	"rispetosu" adj m sg
 "<de>"
 	"de" pr
 "<sa>"
@@ -2908,57 +2894,50 @@
 
 "<(>"
 	"(" lpar
-"<Mediana>"
-	"medianu" adj f sg
-	"mediana" n f sg
-"<a>"
-	"a" pr
-"<pippia>"
-	"*pippia"
+"<Mediana a pipia>"
+	 "Mediana a pipia" n m f
+
 "<)>"
 	")" rpar
 
 
-"<I>"
-	"I" num mf sp
-	"I" np ant m sg
-"<duus>"
-	"*duus"
-"<sonadoris>"
-	"*sonadoris"
-"<iant>"
-	"*iant"
-"<circau>"
-	"*circau"
-"<po>"
-	"*po"
+"<Sos>"
+	 "su" det m pl
+"<duos>"
+	"duos" num m pl
+"<sonadores>"
+	"sonadore" n m pl
+"<aiant>"
+	"àere" vbhaver pii p3 sg
+
+"<chircadu>"
+	"chircare"
+"<pro>"
+	"pro" pr
 "<totu>"
 	"totu" predet mf sp
-	"totu" prn tn mf sg
+;	"totu" prn tn mf sg
 "<vida>"
 	"vida" n f sg
 "<de>"
 	"de" pr
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
-"<nci>"
-	"*nci"
-"<passai>"
-	"*passai"
-"<pari>"
-	"pare" adj mf sg
-	"pari" adj mf sg
-"<pari>"
-	"pare" adj mf sg
-	"pari" adj mf sg
+"<nche>"
+	"nche" prn pro adv 
+"<passare>"
+	"passare" vblex inf
+"<pare pare>"
+	 "pare pare" adv
+
 "<,>"
 	"," cm
 "<fintzas a>"
 	"fintzas a" pr
 "<candu>"
-	"cando" adv itg
+;	"cando" adv itg
 	"cando" rel adv
 "<,>"
 	"," cm
@@ -2966,80 +2945,80 @@
 	"a" pr
 "<s’>"
 	"su" det def mf sg
-	"si" prn pro ref p3 mf sp
+;	"si" prn pro ref p3 mf sp
 "<oru de>"
 	"oru de" pr
 "<70>"
 	"70" num
-"<annus>"
+"<annos>"
 	"annu" n m pl
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<fiant>"
 	"èssere" vbser pii p3 pl
-"<postus>"
+"<postos>"
 	"postu" n m pl
 "<de>"
 	"de" pr
-"<accordiu>"
-	"*accordiu"
-"<po>"
-	"*po"
-"<fai>"
+"<acordu>"
+	"acordu" n m sg
+"<pro>"
+	"pro"
+"<fàghere>"
 	"fàghere" vblex pri p3 sg
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
-"<registratzioni>"
-	"registratzione" n f sg
-"<impari>"
-	"*impari"
+"<registratzione>"
+;	"registratzione" n f sg
+"<impare>"
+	"impare" adv
 "<.>"
 	"." sent
 
 "<Su>"
-	"Su" np cog mf sp
+;	"Su" np cog mf sp
 	"su" det def m sg
-"<risultau>"
-	"*risultau"
+"<risultadu>"
+	"risultadu" n m
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
-"<stetiu>"
-	"*stetiu"
+"<istadu>"
+	"èssere" vbser pp m sg
 "<una>"
-	"unu" num f sp
-	"unire" vblex prs p1 sg
-	"unu" prn tn f sg
+;	"unu" num f sp
+;	"unire" vblex prs p1 sg
+;	"unu" prn tn f sg
 	"unu" det ind f sg
 "<de>"
 	"de" pr
-"<is>"
-	"su" det def mf pl
+"<sas>"
+	"su" det def f pl
 "<prus>"
 	"prus" adv
-	"prus" adj mf sp
+;	"prus" adj mf sp
 "<bellas>"
 	"bellu" adj f pl
-"<cuncordias>"
-	"*cuncordias"
+"<cuncòrdias>"
+	"cuncòrdia" n f sg
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<si>"
-	"si" cnjsub
-	"si" cnjadv
+;	"si" cnjsub
+;	"si" cnjadv
 	"si" prn pro ref p3 mf sp
 "<siant>"
 	"èssere" vbser prs p3 pl
-	"èssere" vbser imp p3 pl
+;	"èssere" vbser imp p3 pl
 "<mai>"
 	"mai" adv
-"<intendias>"
+"<intèndidas>"
 	"intèndere" vblex pii p2 sg
 "<,>"
 	"," cm
@@ -3047,7 +3026,7 @@
 	"registrare" vblex pp f sg
 "<in>"
 	"in" pr
-"<Milano>"
+"<Milanu>"
 	"Milanu" np top m sg
 "<in>"
 	"in" pr
@@ -3061,10 +3040,10 @@
 "<(>"
 	"(" lpar
 "<Punt>"
-	"*Punt"
+	"puntu" n m sg
 "
-"<e>"
-	"e" cnjcoo
+"<de>"
+	"de" pr
 "<organu>"
 	"òrganu" n m sg
 "<e>"
@@ -3075,37 +3054,37 @@
 	")" rpar
 
 
-"<Sa>"
+"<S'>"
 	"su" det def f sg
-"<Scola>"
+"<Iscola>"
 	"iscola" n f sg
 "<de>"
 	"de" pr
 "<su>"
 	"su" det def m sg
 "<Sarrabus>"
-	"*Sarrabus"
+	"Sarrabus" np top m sg
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<sighida>"
-	"sighidu" adj f sg
-	"sìghidu" adj f sg
+;	"sighidu" adj f sg
+;	"sìghidu" adj f sg
 	"sighire" vblex pp f sg
 "<a>"
 	"a" pr
-"<andai>"
-	"*andai"
+"<andare>"
+	"andare" vblex pp m sg
 "<a>"
 	"a" pr
-"<innantis>"
-	"in antis" adv
-"<gratzias a>"
+"<dae in antis>"
+	"dae in antis" adv
+"<gràtzias a>"
 	"gràtzias a" pr
-"<Aureliu>"
-	"*Aureliu"
+"<Aurèliu>"
+	"Aurèliu" np ant m sg
 "<Porcu>"
-	"porcu" n m sg
+;	"porcu" n m sg
 	"Porcu" np cog mf sp
 "<(>"
 	"(" lpar
@@ -3128,15 +3107,15 @@
 "<)>"
 	")" rpar
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<,>"
 	"," cm
-"<me>"
-	"mene" prn tn p1 mf sg
-"<is>"
-	"su" det def mf pl
-"<annus>"
+"<in>"
+	"in" pr
+"<sos>"
+	"su" det def m pl
+"<annos>"
 	"annu" n m pl
 "<de>"
 	"de" pr
@@ -3146,108 +3125,108 @@
 	"crisi" n f sg
 "<de>"
 	"de" pr
-"<is>"
-	"su" det def mf pl
+"<sas>"
+	"su" det def f pl
 "<launeddas>"
 	"launedda" n f pl
 "<ant>"
-	"àere" vblex pri p3 pl
+;	"àere" vblex pri p3 pl
 	"àere" vbhaver pri p3 pl
-"<sighiu>"
-	"*sighiu"
+"<sighidu>"
+	"sighire" vblex pp m sg
 "<a>"
 	"a" pr
-"<mantenni>"
-	"*mantenni"
+"<mantènnere>"
+	"mantènnere"
 "<bia>"
-	"bia" adv
-	"bìere" vblex prs p1 sg
+;	"bia" adv
+;	"bìere" vblex prs p1 sg
 	"biu" adj f sg
-	"bia" n f sg
+;	"bia" n f sg
 "<sa>"
 	"su" det def f sg
-"<tradizioni>"
+"<tradizione>"
 	"traditzione" n f sg
 "<e>"
 	"e" cnjcoo
-"<gratzias>"
+"<gràtzias>"
 	"gràtzia" n f pl
 "<puru>"
 	"puru" adv
-	"puru" cnjadv
-	"puru" adj m sg
+;	"puru" cnjadv
+;	"puru" adj m sg
 "<a>"
 	"a" pr
 "<medas>"
 	"meda" adj mf pl
-	"medire" vblex prs p2 sg
-	"medas" prn tn mf pl
-"<amministratzionis>"
+;	"medire" vblex prs p2 sg
+;	"medas" prn tn mf pl
+"<amministratziones>"
 	"amministratzione" n f pl
 "<comunalis>"
 	"comunale" adj mf pl
 "<,>"
 	"," cm
 "<ant>"
-	"àere" vblex pri p3 pl
+;	"àere" vblex pri p3 pl
 	"àere" vbhaver pri p3 pl
-"<amostau>"
-	"*amostau"
+"<ammustradu>"
+	"ammustrare" vblex pp m sg
 "<a>"
 	"a" pr
 "<medas>"
 	"meda" adj mf pl
-	"medire" vblex prs p2 sg
-	"medas" prn tn mf pl
-"<giovanus>"
+;	"medire" vblex prs p2 sg
+;	"medas" prn tn mf pl
+"<giovanos>"
 	"giòvanu" n m pl
-	"giòvanu" adj m pl
+;	"giòvanu" adj m pl
 "<sa>"
 	"su" det def f sg
-"<conoscenzia>"
-	"*conoscenzia"
-"<insoru>"
-	"*insoru"
+"<connoschèntzia>"
+	"connoschèntzia" n f sg
+"<issoro>"
+	"issoro" adj mf pl
 "<,>"
 	"," cm
-"<boghendinci>"
-	"*boghendinci"
+"<boghende·nche>"
+	"bogare" vblex ger
 "<,>"
 	"," cm
 "<fortzis>"
 	"fortzis" adv
-"<po>"
-	"*po"
-"<sempiri>"
-	"*sempiri"
+"<pro>"
+	"pro" pr
+"<semper>"
+	"semper" adv
 "<,>"
 	"," cm
 "<su>"
 	"su" det def m sg
-"<pirigulu>"
-	"*pirigulu"
+"<perìgulu>"
+	"perìgulu" n m sg
 "<de>"
 	"de" pr
-"<sparessi>"
-	"*sparessi"
+"<isparèssere>"
+	"isparèssere" vblex inf
 "<de>"
 	"de" pr
-"<is>"
+"<sos>"
 	"su" det def mf pl
-"<sonus>"
+"<sonos>"
 	"sonu" n m pl
 "<de>"
 	"de" pr
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<e>"
 	"e" cnjcoo
 "<de>"
 	"de" pr
 "<custa>"
-	"custu" prn tn f sg
+;	"custu" prn tn f sg
 	"custu" det dem f sg
 "<musica>"
 	"mùsica" n f sg
@@ -3261,42 +3240,39 @@
 "<Aurelio>"
 	"Aurelio" np ant m sg
 "<Porcu>"
-	"porcu" n m sg
+;	"porcu" n m sg
 	"Porcu" np cog mf sp
 "<,>"
 	"," cm
 "<(>"
 	"(" lpar
-"<Spinellu>"
-	"*Spinellu"
-"<a>"
-	"a" pr
-"<Pipia>"
-	"pipiu" n f sg
+"<Spinellu a pipia>"
+	"ispinellu a pipia" n m sg
+
 "<)>"
 	")" rpar
 "<est>"
-	"est" n m sg
+;	"est" n m sg
 	"èssere" vbser pri p3 sg
-"<stetiu>"
-	"*stetiu"
+"<istadu>"
+	"istadu" vblex pp sg
 "<unu>"
-	"unu" num m sp
-	"unu" prn tn m sg
+;	"unu" num m sp
+;	"unu" prn tn m sg
 	"unu" det ind m sg
 "<de>"
 	"de" pr
 "<is chi>"
 	"su chi" rel an mf pl
 "<ant>"
-	"àere" vblex pri p3 pl
+;	"àere" vblex pri p3 pl
 	"àere" vbhaver pri p3 pl
-"<sonau>"
+"<sonadu>"
 	"sonare" vblex pp m sg
 "<de prus>"
 	"de prus" adv
-"<me>"
-	"mene" prn tn p1 mf sg
+"<in>"
+	"in" pr
 "<is>"
 	"su" det def mf pl
 "<pratzas>"
@@ -3307,45 +3283,53 @@
 	"su" det def mf pl
 "<ballus>"
 	"ballu" n m pl
-"<anca>"
-	"anca" n f sg
-"<baddant>"
-	"*baddant"
+"<in ue>"
+	"in ue" n m sg
+"<ballant>"
+	"ballant" vblex pii p3 pl
 "<ancora>"
 	"ancora" adv
-	"àncora" n f sg
+;	"àncora" n f sg
 "<a>"
 	"a" pr
 "<sonu>"
 	"sonu" n m sg
  ‘
-"<e>"
-	"e" cnjcoo
+"<de>"
+	"de" pr
 "<canna>"
 	"canna" n f sg
-	"cannire" vblex prs p1 sg
-	"cannare" vblex imp p2 sg
+;	"cannire" vblex prs p1 sg
+;	"cannare" vblex imp p2 sg
 "<;>"
 	";" sent
-"<po>"
-	"*po"
+"<pro>"
+	"pro"
 "<ispassiu>"
 	"ispàssiu" n m sg
 "<s’>"
-	"su" det def mf sg
+;	"su" det def mf sg
 	"si" prn pro ref p3 mf sp
-"<attriviat>"
-	"*attriviat"
+"<atriviat>"
+	"atrivire" vblex 
 "<a>"
 	"a" pr
-"<cantai>"
-	"*cantai"
+"<cantare>"
+	"cantare" vblex pp m sg
 "<puru>"
 	"puru" adv
-	"puru" cnjadv
-	"puru" adj m sg
+;	"puru" cnjadv
+;	"puru" adj m sg
 "<.>"
 	"." sent
+
+
+
+
+
+
+
+
 
 "<In>"
 	"in" pr
@@ -3696,16 +3680,12 @@
 	"." sent
 
 "<Burranca>"
-	"*Burranca"
+	"Burranca" np top m sg
 "<(>"
 	"(" lpar
-"<Mediana>"
-	"medianu" adj f sg
-	"mediana" n f sg
-"<a>"
-	"a" pr
-"<pippia>"
-	"*pippia"
+"<Mediana a pipia>"
+	"mediana a pipia" n f sg
+
 "<)>"
 	")" rpar
 "<tenit>"
@@ -3716,16 +3696,16 @@
 	"mèritu" n m sg
 "<puru>"
 	"puru" adv
-	"puru" cnjadv
-	"puru" adj m sg
+;	"puru" cnjadv
+;	"puru" adj m sg
 "<de>"
 	"de" pr
-"<ai>"
-	"*ai"
-"<scipiu>"
-	"*scipiu"
-"<atirai>"
-	"*atirai"
+"<àere>"
+	"àere" vbhaber inf
+"<sàpidu>"
+	"sàpidu"
+"<atirare>"
+	"atirare"
 "<a>"
 	"a" pr
 "<sa>"
@@ -3734,23 +3714,23 @@
 	"mùsica" n f sg
 "<sarda>"
 	"sardu" adj f sg
-	"sardu" n f sg
-"<sonadoris>"
-	"*sonadoris"
+;	"sardu" n f sg
+"<sonadores>"
+	"sonadores" n m pl
 "<no>"
 	"no" adv
-"<sardus>"
-	"sardu" n m pl
+"<sardos>"
+;	"sardu" n m pl
 	"sardu" adj m pl
 "<,>"
 	"," cm
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<ant>"
-	"àere" vblex pri p3 pl
+;	"àere" vblex pri p3 pl
 	"àere" vbhaver pri p3 pl
-"<imparau>"
+"<imparadu>"
 	"imparare" vblex pp m sg
 "<is>"
 	"su" det def mf pl
@@ -3762,22 +3742,22 @@
 	"su" det def mf pl
 "<launeddas>"
 	"launedda" n f pl
-"<po>"
-	"*po"
+"<pro>"
+	"pro" pr
 "<ddas>"
 	"lu" prn pro p3 f pl
-"<torrai>"
-	"*torrai"
+"<torrare>"
+	"torrare" vblex inf
 "<a>"
 	"a" pr
-"<fai>"
+"<fàghere>"
 	"fàghere" vblex pri p3 sg
 "<cun>"
 	"cun" pr
-"<atrus>"
+"<àteros>"
 	"àteru" det ind m pl
-"<strumentus>"
-	"*strumentus"
+"<istrumentos>"
+	"strumentu" n m sg
 "<.>"
 	"." sent
 
@@ -14106,6 +14086,13 @@
 	"romanzu" adj f pl
 "<.>"
 	"." sent
+
+
+
+
+
+
+
 
 
 
@@ -37771,6 +37758,16 @@
 	"duos" num f sp
 "<.>"
 	"." sent
+
+
+
+
+
+
+
+
+
+
 
 
 
