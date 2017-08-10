@@ -83,7 +83,7 @@
 "<,>"
 	"," cm
 "<pro>"
-	"pro" cnjadv
+;	"pro" cnjadv
 	"pro" pr
 "<sas>"
 	"su" det def f pl
@@ -208,7 +208,7 @@
 "<a>"
 	"a" pr
 "<SE>"
-	"*SE"
+	"SE" np acr
 "<Crabonaxa>"
 	"Crabonaxa" np top f sg
 "<e>"
@@ -315,7 +315,6 @@
 	"perìodu" n m sg
 "<Maju>"
 	"maju" n m sg
- - 
 "<Làmpadas>"
 ;	"làmpada" n f pl
 	"làmpadas" n m sp
@@ -405,7 +404,7 @@
 ;	"est" n m sg
 	"èssere" vbser pri p3 sg
 "<una>"
-:	"unu" num f sp
+;	"unu" num f sp
 ;	"unire" vblex prs p1 sg
 	"unu" prn tn f sg
 ;	"unu" det ind f sg
@@ -568,7 +567,7 @@
 "<de>"
 	"de" pr
 "<tipu>"
-	"tipu" adj mf sp
+;	"tipu" adj mf sp
 	"tipu" n m sg
 "<politicu>"
 	"polìticu" adj m sg
@@ -783,16 +782,16 @@
 	"," cm
 "<bi>"
 	"bi" prn pro adv
-	"bi" prn pro p3 mf sp
+;	"bi" prn pro p3 mf sp
 "<nd'>"
 	"nde" prn pro adv
 "<at>"
 	"àere" vblex pri p3 sg
-	"àere" vbhaver pri p3 sg
+;	"àere" vbhaver pri p3 sg
 "<duas>"
 	"duos" num f sp
 "<chi>"
-	"chi" cnjsub
+;	"chi" cnjsub
 	"chi" rel an mf sp
 "<diant>"
 	"dare" vblex prs p3 pl
@@ -830,11 +829,11 @@
 "<o>"
 	"o" cnjcoo
 "<comente>"
-;	"comente" adv
+	"comente" adv
 ;	"comente" cnjsub
-	"comente" cnjadv
+;	"comente" cnjadv
 ;	"comente" adv itg
-	"comente" rel adv
+;	"comente" rel adv
 "<narant>"
 	"nàrrere" vblex pri p3 pl
 
@@ -887,7 +886,7 @@
 "<'e>"
 	"de" pr
 "<giosso>"
-	"giosso"
+	"giosso" adv
 "<chi>"
 ;	"chi" cnjsub
 	"chi" rel an mf sp
@@ -933,7 +932,7 @@
 "<a>"
 	"a" pr
 "<pàrrere>"
-	"pàrrere" n m s
+	"pàrrere" n m sg
 "<de>"
 	"de" pr
 "<linguistas>"
