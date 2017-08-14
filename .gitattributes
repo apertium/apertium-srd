@@ -15,7 +15,9 @@
 /autogen.sh -text
 /configure.ac -text
 corpus/comprovar_disam.pl -text
+corpus/srd.crp.morf.300.txt -text
 corpus/srd.crp.morf.disam.200.txt -text
+corpus/srd.crp.morf.disam.300.txt -text
 corpus/srd.crp.txt -text
 /genvdix.py -text
 /modes.xml -text
