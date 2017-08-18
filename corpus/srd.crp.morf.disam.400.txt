@@ -180,7 +180,7 @@
 "<tzerpe>"
 	"tzerpe" n m sg
 "<boa>"
-	"*boa"
+	"boa" n f sg
 "<chi>"
 	"chi" cnjsub
 	"chi" rel an mf sp
@@ -1559,7 +1559,7 @@
 "<de>"
 	"de" pr
 "<baobàb>"
-	"*baobàb"
+	"baobàb" n m sg
 "<.>"
 	"." sent
 
@@ -3419,7 +3419,7 @@
 "<sos>"
 	"su" det def m pl
 "<baobàbs>"
-	"*baobàbs"
+	"baobàb" n m pl
 "<!>"
 	"!" sent
 »
@@ -5242,7 +5242,7 @@
 "<de>"
 	"de" pr
 "<baobàb>"
-	"*baobàb"
+	"baobàb" n m sg
 "<.>"
 	"." sent
 
