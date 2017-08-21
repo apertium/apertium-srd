@@ -26,6 +26,8 @@ corpus/srd.crp.morf.disam.500.txt -text
 corpus/srd.crp.txt -text
 /genvdix.py -text
 /modes.xml -text
+/srd-supervised.make -text
+/srd-unsupervised.make -text
 /srd.prob -text svneol=unset#unset
 /test_verbs.bash -text
 texts/cuento.vislcg.txt -text
