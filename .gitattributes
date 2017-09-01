@@ -14,16 +14,6 @@
 /apertium-srd.srd.rlx -text
 /autogen.sh -text
 /configure.ac -text
-corpus/comprovar_disam.pl -text
-corpus/srd.crp.morf.200.txt -text
-corpus/srd.crp.morf.300.txt -text
-corpus/srd.crp.morf.400.txt -text
-corpus/srd.crp.morf.500.txt -text
-corpus/srd.crp.morf.disam.200.txt -text
-corpus/srd.crp.morf.disam.300.txt -text
-corpus/srd.crp.morf.disam.400.txt -text
-corpus/srd.crp.morf.disam.500.txt -text
-corpus/srd.crp.txt -text
 /genvdix.py -text
 /modes.xml -text
 /srd-supervised.make -text
