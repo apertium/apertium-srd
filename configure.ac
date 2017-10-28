@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-srd], [0.10.0], [francis.tyers@uit.no])
-AM_INIT_AUTOMAKE([apertium-srd], [0.10.0], no-define)
+AC_INIT([apertium-srd], [1.2.0], [francis.tyers@uit.no])
+AM_INIT_AUTOMAKE([apertium-srd], [1.2.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
