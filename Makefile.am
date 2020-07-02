@@ -29,11 +29,11 @@ TARGETS_COMMON =			\
 
 .deps/$(BASENAME).$(LANG1).srd.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
-	python genvdix.py sep $< >$@
+	apertium-genvdix sep $< >$@
 
 .deps/$(BASENAME).$(LANG1).srd_meridional.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
-	python genvdix.py mer $< >$@
+	apertium-genvdix mer $< >$@
 
 $(LANG1)$(VAR1).autogen.bin: .deps/$(BASENAME).$(LANG1).srd.dix
 	apertium-validate-dictionary $<
@@ -71,7 +71,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix		\
 		$(BASENAME).$(LANG1).rlx	\
 		$(BASENAME).post-$(LANG1).dix	\
 		$(LANG1).prob			\
-		genvdix.py	\
 		modes.xml
 
 ###############################################################################
