@@ -282,6 +282,12 @@
         <i>ù</i>
       </e>
       <e>
+        <i>ä</i>
+      </e>
+      <e>
+        <i>î</i>
+      </e>
+      <e>
         <i>h</i>
       </e>
      <e>
@@ -300,6 +306,9 @@
         <par n="caracter_general"/><i>u</i>
       </e>
       <e>
+        <par n="caracter_general"/><i>á</i>
+      </e>
+      <e>
         <par n="caracter_general"/><i>é</i>
       </e>
       <e>
@@ -315,19 +324,25 @@
         <par n="caracter_general"/><i>à</i>
       </e>
       <e>
-        <par n="caracter_general"/><i>á</i>
+        <par n="caracter_general"/><i>è</i>
       </e>
       <e>
-        <par n="caracter_general"/><i>è</i>
+        <par n="caracter_general"/><i>ì</i>
       </e>
       <e>
         <par n="caracter_general"/><i>ò</i>
       </e>
       <e>
+        <par n="caracter_general"/><i>ù</i>
+      </e>
+      <e>
         <par n="caracter_general"/><i>h</i>
       </e>
       <e>
-        <par n="caracter_general"/><i>ì</i>
+        <par n="caracter_general"/><i>ä</i>
+      </e>
+      <e>
+        <par n="caracter_general"/><i>î</i>
       </e>
     </pardef> 
 
