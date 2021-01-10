@@ -1,29 +1,7 @@
-* text=auto !eol
-/ACKNOWLEDGEMENTS -text
-/AUTHORS -text
-/COPYING -text
-/ChangeLog -text
-/Jenkinsfile -text
-/Makefile.am -text
-/NEWS -text
-/README -text
-/apertium-srd.pc.in -text
-/apertium-srd.post-srd.dix -text
-/apertium-srd.srd.acx -text
-/apertium-srd.srd.dix -text
-/apertium-srd.srd.rlx -text
-/autogen.sh -text
-/configure.ac -text
-/genvdix.py -text
-/modes.xml -text
-/srd-supervised.make -text
-/srd-unsupervised.make -text
-/srd.prob -text svneol=unset#unset
-/test_verbs.bash -text
-texts/cuento.vislcg.txt -text
-texts/puupankki/puupankki.srd.conllu -text
+* text eol=lf
 *.dix linguist-language=XML linguist-detectable=true
 *.lrx linguist-language=XML linguist-detectable=true
 *.lsx linguist-language=XML linguist-detectable=true
 *.tsx linguist-language=XML linguist-detectable=true
 *.t[[:digit:]]x linguist-language=XML linguist-detectable=true
+*.prob binary

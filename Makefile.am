@@ -2,8 +2,6 @@
 ## Makefile for apertium-srd
 ###############################################################################
 
-RELEASE=1.2
-VERSION=1.2.0
 LANG1=srd
 BASENAME=apertium-$(LANG1)
 
@@ -60,8 +58,8 @@ $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 ## Disambiguation rules
 ###############################################################################
 
-$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
-	$(CGCOMP) $< $@
+$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx
+	cg-comp $< $@
 
 ###############################################################################
 ## Distribution
@@ -81,26 +79,18 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix		\
 #   apertium_srd_srcdir: This is where the source files go
 
 apertium_srddir=$(prefix)/share/apertium/$(BASENAME)/
-apertium_srd_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_srd_DATA=$(TARGETS_COMMON) $(LANG1).prob
+apertium_srd_DATA=$(TARGETS_COMMON) $(LANG1).prob \
+	$(BASENAME).$(LANG1).dix \
+	$(BASENAME).$(LANG1).rlx \
+	$(BASENAME).post-$(LANG1).dix
 
 pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
 
-# Modes are not installed since they're all just "debug modes". All
-# modes are created by this goal.
-modes/$(LANG1)-morph.mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-
 noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local: install-modes
-	test -d $(DESTDIR)$(apertium_srd_srcdir) || mkdir -p $(DESTDIR)$(apertium_srd_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_srd_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_srd_srcdir)
-	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_srd_srcdir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
@@ -115,4 +105,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-

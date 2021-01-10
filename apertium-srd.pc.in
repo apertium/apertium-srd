@@ -3,6 +3,5 @@ exec_prefix=${prefix}
 srcdir=@datarootdir@/apertium/apertium-srd
 
 Name: apertium-srd
-Description: Finite-state morphological transducer and constraint grammar for Sardinian 
+Description: Finite-state morphological transducer and constraint grammar for Sardinian
 Version: @VERSION@
-
