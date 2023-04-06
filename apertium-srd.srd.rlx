@@ -1,58 +1,123 @@
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
-SOFT-DELIMITERS = "<,>" ;
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+SOFT-DELIMITERS = "<,>" "<;>";
+SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
 
 SETS
 
 LIST BOS = (>>>) ;
-LIST EOS = (<<<) ;
+LIST EOS = (<<<) sent;
 
 LIST A = adj ;
 LIST Adv = adv ;
+LIST PreAdv = preadv ;
 LIST Pron = prn ;
 LIST N = n ;
+LIST N_A = n adj ;
+LIST NP = np ;
 LIST V = vblex ;
+LIST Vall = vblex vbmod vbser vbhaver ;
+LIST Vmod = vbmod ;
+LIST Inf = inf ;
+LIST Ger = ger ;
+LIST PP = pp ;
+LIST Ifi = ifi ;
+LIST Prs = prs  ;
+LIST Pis = pis  ;
+LIST Subj = prs pis ;
+LIST Imper = imp ;
 LIST Det = det ;
-LIST CC = cnjcoo ;
-LIST CS = cnjsub ;
-LIST Pos = pos ;
-LIST Pr = pr ; 
+LIST Def = def ;
+LIST Ind = ind ;
+LIST Dem = dem ;
+LIST Pos = pos ; 
+LIST PreDet = predet ;
+LIST CnjCoo = cnjcoo ;
+LIST CnjSub = cnjsub ;
+LIST CnjAdv = cnjadv ;
 LIST Interj = ij ;
-LIST Num = num ;
-LIST Cm = cm ;
-
-LIST Sua = "<sua>"i ;
-LIST Si = "<si>"i ;
-
 LIST Interr = itg ;
-LIST Ref = ref ;
+LIST Num = num ;
+LIST Prep = pr ; 
+LIST Rel = rel ; 
+LIST CM = cm ;
+LIST Lpar = lpar ;
+LIST Guio = guio ;
 
-LIST Sg3 = (p3 sg) ;
+SET Noun_Adj = N OR A ;
+SET Noun_Adj_PP = N OR A OR PP ;
+SET Adj_PP = A OR PP ;
+SET Noun_NP = N OR NP ;
 
-# All possible word categories
+SET Adv_PreAdv = Adv OR PreAdv ;
 
-SET WORD = N | V | A | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
+SET Ant = (np ant) ;
+SET Cog = (np cog) ;
+SET Ant_Cog = Ant OR Cog ;
+SET Top = (np top) OR (np loc) ;
+SET Org = (org) ;
+SET Al = (al) ;
 
-SET PRE-N =  A | Det | Num | (n gen) | (prn gen) | CC ;
+LIST Sg = sg ; 
+LIST Pl = pl ; 
+LIST SP = sp ;
+LIST M = m ;
+LIST F = f ;
+LIST MF = mf ;
 
-SET MARK =  Cm | ("\\") | ("\;") ;
+LIST Masc = m mf ;
+LIST Fem = f mf ;
+LIST SgSp = sg sp ;
+LIST PlSp = pl sp ;
+SET MascSg = (m sg) OR (m sp) OR (mf sg) OR (mf sp) ;
+SET MascPl = (m pl) OR (m sp) OR (mf pl) OR (mf sp) ;
+SET FemSg = (f sg) OR (f sp) OR (mf sg) OR (mf sp) ;
+SET FemPl = (f pl) OR (f sp) OR (mf pl) OR (mf sp) ;
 
-SET WORDMARK = WORD | MARK ;
+LIST P1 = (p1) ;
+LIST P2 = (p2) ;
+LIST P3 = (p3) ;
+SET Sg1 = (p1 sg) ;
+SET Sg2 = (p2 sg) ;
+SET Sg3 = (p3 sg) ;
+SET Pl1 = (p1 pl) ;
+SET Pl2 = (p2 pl) ;
+SET Pl3 = (p3 pl) ;
+SET Pers = (p1) OR (p2) OR (p3) ;
 
-SET N-MOD = A | Det | Num | (n gen) | (prn gen) ;
+SET ConcordaGN = MascSg OR MascPl OR FemSg OR FemPl;
+SET ConcordaSP = Sg OR Pl ;
+SET ConcordaGV = Sg1 OR Sg2 OR Sg3 OR Pl1 OR Pl2 OR Pl3 ;
 
-# Categories which cannot be part of a noun phrase
+SET Ref = (prn pro ref) ;
+SET Pro = (prn pro) ;
+SET Enc = (prn enc) ;
+SET Tn = (prn tn) ;
+SET Tn_nt = (prn tn nt) ;
 
-SET NPNH = WORDMARK - PRE-N ;
-SET NPNHA = WORDMARK - PRE-N - Adv ;
-SET NOT-ADV = WORDMARK - Adv ;
+SET Pref = (adj mf sp) ;
 
+SET Aord = (adj ord) OR ("sette") ;	# sette/setta
+
+LIST unknown = ("\\*.*"r) ;
+LIST unknownMajIni = ("\\*[A-ZÀÁÈÉíÒÓÚÜÇ].*"r) ;
+LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
+LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
+LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
+LIST segles_num_romans = ("[IVX][IVX]*"r) ;
+LIST Upper = "[A-Z][a-z]+"r ;
+
+
+LIST Suo = "suo" ;
+LIST Si = "<si>"i ;
 
 # Barriers
 
-SET S-BOUNDARY = CS | Interr | EOS;
+# SET S-BOUNDARY = CS | Interr | EOS;
 
 SECTION
 
-SELECT Pos IF (-1 N) (0 Sua) (0 Det OR V) ;
+SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
+SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 Suo + A + &&ConcordaGN) ;
+SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
