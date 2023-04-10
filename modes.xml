@@ -25,6 +25,9 @@
       <program name="cg-proc">
         <file name="srd.rlx.bin"/>
       </program>
+      <program name="apertium-tagger -g $2">
+        <file name="srd.prob"/>
+      </program>
     </pipeline>
   </mode>
 
