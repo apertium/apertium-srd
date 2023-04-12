@@ -109,6 +109,7 @@ LIST Upper = "[A-Z][a-z]+"r ;
 
 LIST Suo = "suo" ;
 LIST Si = "<si>"i ;
+LIST Dare = "dare" ;
 
 # Barriers
 
@@ -122,3 +123,5 @@ SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&Co
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
+
+REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
