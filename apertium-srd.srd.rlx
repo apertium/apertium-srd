@@ -120,6 +120,7 @@ SECTION
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 Suo + A + &&ConcordaGN) ;
 SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
+SELECT A + Pos IF (-4 Det + &&ConcordaGN) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;	# sas minorias linguisticas internas suas
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
