@@ -42,6 +42,8 @@ LIST Rel = rel ;
 LIST CM = cm ;
 LIST Lpar = lpar ;
 LIST Guio = guio ;
+LIST Excl = "!" ;
+
 
 SET Noun_Adj = N OR A ;
 SET Noun_Adj_PP = N OR A OR PP ;
@@ -107,15 +109,31 @@ LIST segles_num_romans = ("[IVX][IVX]*"r) ;
 LIST Upper = "[A-Z][a-z]+"r ;
 
 
+LIST Dare = "dare" ;
+LIST Dae = "dae" ;
+LIST De = "de" ;
+LIST In = "in" ; 
 LIST Suo = "suo" ;
 LIST Si = "<si>"i ;
-LIST Dare = "dare" ;
+
+
+SET Dignidade = ("presidente") OR ("guvernatore") OR ("imperadore") OR ("re") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("archipìscamu");
 
 # Barriers
 
 # SET S-BOUNDARY = CS | Interr | EOS;
 
+SET Barrera_Final_SN = EOS OR Prep OR Det OR CnjSub OR CnjAdv OR Vall OR Rel OR Pro ;	# Vall és perillós per la ambigüitat, però en general, prolífic
+SET Barrera_Final_Estrict_SN = EOS OR Prep OR Det OR CnjSub OR CnjAdv OR Rel OR Pro ;
+SET Barrera_Inicial_SN = BOS OR Prep OR CnjSub OR CnjAdv OR Vall OR Rel ;		# Vall és perillós per la ambigüitat, però en general, prolífic
+SET Barrera_Inicial_Estrict_SN = BOS OR Prep OR CnjSub OR CnjAdv OR Rel ;
+SET Barrera_Inicial_Prop = BOS OR CnjSub OR CnjAdv OR Rel ;
+SET Limite_Barrera_Inicial_SN = ("esser") OR ("parere") OR ("avere") ;
+
 SECTION
+
+REMOVE Imper IF (NOT 1* Excl) ;
+SELECT Imper IF (0C Vall) (1* Excl) (NOT -1* Vall + Pers) (NOT 1* Vall + Pers) ;
 
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 Suo + A + &&ConcordaGN) ;
@@ -126,3 +144,110 @@ SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
 
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
+
+
+# Coordinació
+SELECT M IF (-1C Ant + M) (0 ("Andrea")) ;	# Filippo Andrea
+SELECT M IF (1C Ant + M) (0 ("Andrea")) ;
+SELECT F IF (-1C Ant + F) (0 ("Andrea")) ;
+SELECT F IF (1C Ant + F) (0 ("Andrea")) ;
+
+SELECT M IF (0 Noun_NP + M) (0 Noun_NP + F) (-1/* Det + M) ;	# un pirata, i calci, un file, sul fronte jugoslavo, il Lazio / la Lazio
+SELECT F IF (0 Noun_NP + M) (0 Noun_NP + F) (-1/* Det + F) ;
+SELECT M IF (0 A + M) (0 A + F) (-1/* Det + M) ;
+SELECT F IF (0 A + M) (0 A + F) (-1/* Det + F) ;
+REMOVE M IF (0 Noun_NP + MF) (0 Noun_NP + F) (-1/* Det + F) ;
+REMOVE M IF (0 A + MF) (0 A + F) (-1/* Det + F) ;
+REMOVE F IF (0 Noun_NP + MF) (0 Noun_NP + F) (-1/* Det + M) ;
+REMOVE F IF (0 A + MF) (0 A + F) (-1/* Det + M) ;
+
+SELECT M IF (0 Noun_NP + M) (0 Noun_NP + F) (-1 A + M) (NOT -1 A + F) ;		# un suo moto
+SELECT F IF (0 Noun_NP + M) (0 Noun_NP + F) (-1 A + F) (NOT -1 A + M) ;
+SELECT M IF (0 Noun_NP + M) (0 Noun_NP + F) (1 A + M) (NOT 1 A + F) ;		# consigliere diplomatico
+SELECT F IF (0 Noun_NP + M) (0 Noun_NP + F) (1 A + F) (NOT 1 A + M) ;
+SELECT M IF (0 Noun_NP + M) (0 Noun_NP + F) (1 Adv) (2 A + M) (NOT 2 A + F) ;	# consigliere molto diplomatico
+SELECT F IF (0 Noun_NP + M) (0 Noun_NP + F) (1 Adv) (2 A + F) (NOT 2 A + M) ;
+
+SELECT Top IF (-1 ("regione") OR ("provincia") OR ("distretto")) (0 MajIni) ;		# nella Regione Veneto
+SELECT Top IF (-2 ("regione") OR ("provincia") OR ("distretto")) (-1 A) (0 MajIni) ;
+
+REMOVE A + F IF (-1C Noun_NP + M) (0 A + F) (NOT -1 (META:/[-"«»]/r));
+REMOVE A + M IF (-1C Noun_NP + F) (0 A + M) (NOT -1 (META:/[-"«»]/r)) ;
+REMOVE A + Pl IF (-1C Noun_NP + Sg) (0 A + Pl) (NOT -1 (META:/[-"«»]/r)) ;
+REMOVE A + Sg IF (-1C Noun_NP + Pl) (0 A + Sg) (NOT -1 (META:/[-"«»]/r)) ;
+REMOVE N + F IF (0 N + F) (1C A + M) (NOT 0 (META:/[-"«»]/r)) ;			# consigliere comunale
+REMOVE N + M IF (0 N + M) (1C A + F) (NOT 0 (META:/[-"«»]/r)) ;
+REMOVE N + Pl IF (0 N + Pl) (1C A + Sg) (NOT 0 (META:/[-"«»]/r)) ;		# consigliere comunale
+REMOVE N + Sg IF (0 N + Sg) (1C A + Pl) (NOT 0 (META:/[-"«»]/r)) ;
+
+SELECT Sg IF (0 Noun_NP + Sg) (0 Noun_NP + Pl) (-1/* Det + Sg) ;
+SELECT Pl IF (0 Noun_NP + Sg) (0 Noun_NP + Pl) (-1/* Det + Pl) ;
+SELECT Sg IF (0 A + Sg) (0 A + Pl) (-1/* Det + Sg) ;
+SELECT Pl IF (0 A + Sg) (0 A + Pl) (-1/* Det + Pl) ;
+REMOVE Sg IF (0 Noun_NP + SP) (0 Noun_NP + Pl) (-1/* Det + Pl) ;
+REMOVE Sg IF (0 A + SP) (0 A + Pl) (-1/* Det + Pl) ;
+REMOVE Pl IF (0 Noun_NP + SP) (0 Noun_NP + Pl) (-1/* Det + Sg) ;
+REMOVE Pl IF (0 A + SP) (0 A + Pl) (-1/* Det + Sg) ;
+
+# NP
+
+REMOVE Cog IF (0 ("<Costa>")) (1 A + FemSg) ;
+SELECT N IF (-1/* Det + Def + MascSg) (0 ("<Cantone>")) ;	# il Cantone
+
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca")) ;
+	# Llevem paraules que, per una raó o altra, es posen en majúscules sense ser NP
+SELECT NP IF (0 ("Val")) (0 (META:/-/r)) ;
+SELECT NP IF (0 ("Val")) (1 ("-")) ;
+
+REMOVE NP IF (0 ("Signore") OR ("Signori") OR ("Duca") OR ("Conte") OR ("Contessa") OR ("Conti") OR ("Barone") OR ("Baroni") OR ("Principe")) (1 Ant OR unknownMajIni) ;
+SELECT Ant IF (-1 ("Duca") OR ("Conte") OR ("Contessa") OR ("Conti") OR ("Barone") OR ("Baroni") OR ("Principe")) (0 Ant) ;
+SELECT Ant OR Cog IF (-1 ("Signore") OR ("Signori")) (0 Ant OR Cog) ;
+REMOVE NP IF (0 ("Sacco")) (1 De) (2 MajIni OR unknownMajIni) ;
+
+REMOVE NP IF (-1/* Det + MascSg) (0 Noun_Adj + MascSg) ;
+REMOVE NP IF (-1/* Det + FemSg) (0 Noun_Adj + FemSg) ;
+REMOVE NP IF (-1/* Det + FemPl) (0 Noun_Adj + FemPl) ;
+
+REMOVE NP IF (0 ("Duca") OR ("Conte") OR ("Barone")) (1 De) (2 Top OR ("San") OR unknownMajIni) ;
+SELECT Sg IF (0 ("sennore") OR ("marchesu")) (1 Ant OR unknownMajIni) (NOT 1 Ant + Fem) (NOT -1/* Pl) ;
+SELECT Sg IF (0 ("sennore") OR ("marchesu")) (1 De) (2 Top OR ("San") OR unknownMajIni) (NOT -1/* Pl) ;
+
+REMOVE NP IF (-2 Ant) (-1 Det + Def + MascSg) (0 NP) (0 Noun_Adj + MascSg) ;	# Plinio il Vecchio
+REMOVE NP IF (-2 Ant) (-1 Det + Def + FemSg) (0 NP) (0 Noun_Adj + FemSg) ;	# Caterina la Grande
+
+SELECT A IF (-1 Noun_Adj) (0 ("<USA>")) ;			# le sale cinematografiche USA
+SELECT N IF (-1/* Det + &&ConcordaGN) (0 NP) (0 N + &&ConcordaGN) (1C A + &&ConcordaGN) ;
+SELECT N IF (-1/* Det + MascPl) (0 NP) (0 N + MascPl) (1C A + MascPl) ;
+SELECT N IF (-1/* Det + FemSg) (0 NP) (0 N + FemSg) (1C A + FemSg) ;
+SELECT N IF (-1/* Det + FemPl) (0 NP) (0 N + FemPl) (1C A + FemPl) ;
+
+SELECT NP IF (0 Top) (0 N OR A) (NOT -1C (ant) OR (cog));
+
+REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog)  ;
+REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant)  ;
+
+SELECT Ant IF (0 Ant) (1C Ant) ;	# Rosa Maria
+SELECT Ant IF (0 Ant) (1 Cog) (NOT -1 Ant) ;	# Giordano Bruno
+SELECT Ant IF (-1 ("santo")) (0 Ant) (0 Cog OR Top) ;	# sant Benet
+SELECT Cog IF (0 Cog OR Ant) (-1C Ant) (NOT 1 segles_num_romans) (NOT 1 Cog) (NOT 1 De);
+SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) (NOT 0 ("Lago") OR ("Val") OR ("Monte") OR ("Monti") OR ("Torre")) ;
+SELECT Ant_Cog IF (0 Cog OR Ant) (1 unknownMajIni) (NOT 0 ("Lago") OR ("Val") OR ("Monte") OR ("Monti") OR ("Torre")) ;
+SELECT Ant_Cog IF (-1 unknownMajIni) (0 Cog OR Ant) ;
+SELECT Ant IF (0 Ant) (0 Cog) (1 De) (2 Top OR unknownMajIni) ;	# Alfonso di Portogallo
+SELECT Top IF (-2 Ant) (-1 De) (0 Ant OR Cog OR Top) ;	# Ipparco di Nicea
+SELECT Top IF (-3 Ant) (-2 segles_num_romans) (-1 De) (0 Ant OR Cog OR Top) ;	# Joan II di Castiglia
+SELECT Top IF (-2 ("concilio") OR ("parlamento") OR ("statuto") OR ("costituzione") OR ("trattato") OR ("dichiarazione"))
+	(-1 De) (0 Ant OR Cog OR Top) ;
+	# concilio di Nicea
+SELECT Top IF (-2 ("corona") OR ("regno") OR ("contea") OR ("ducato")) (-1 De) (0 Cog OR Top) ;	# regno di Castiglia
+SELECT Top IF (-2 Dignidade) (-1 De) (0 Ant OR Cog OR Top) ;	# principe di Viana
+REMOVE Ant_Cog IF (-1 Det + Def) (0 NP) ;	# la Roma, il Veneto
+REMOVE Ant_Cog IF (-1 ("in")) (0 NP) ;		# in Napoli 
+SELECT Top IF (-2 ("andare") OR ("viaggiare")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
+#REMOVE Top IF (NOT -2 ("andare") OR ("viaggiare")) (-1 ("a")) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-3 ("andare") OR ("viaggiare")) (-2 ("a")) (-1 Det + Def) (0 Ant OR Cog OR Top) ;
+#REMOVE Top IF (NOT -3 ("andare") OR ("viaggiare")) (-2 ("a")) (-1 Det + Def) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-2 NP) (-1 De) (0 Ant OR Cog OR Top) ;
+
+SELECT Top IF (-2C Top) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
+SELECT Top IF (2 Top) (1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
