@@ -125,7 +125,7 @@ LIST De = "de" ;
 LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
-LIST Meda = "suo" ;
+LIST Meda = "<meda>"i ;
 LIST Ovest = "ovest" ;
 LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
@@ -210,6 +210,12 @@ SELECT Ref IF (0 Si) (1C V + Sg3) ;
 
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
 
+SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
+SELECT A IF (NOT -1 N) (0 A) (1 Meda) ;	# est bianca meda
+SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
+SELECT Adv IF (-3/* Det + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;	# una proposta sèria meda
+SELECT Adv IF (-4/* Det + &&ConcordaGN) (-3 N + &&ConcordaGN) (-2 A + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;
+SELECT Adv IF (-4/* Det + &&ConcordaGN) (-3 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;
 
 # Rel
 SELECT CnjSub IF (-2 Ser + P3 + Sg) (-1 A + Sg) (0 Chi) ;	# Est craru chi
