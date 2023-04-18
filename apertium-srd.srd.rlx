@@ -26,8 +26,8 @@ LIST Inf = inf ;
 LIST Ger = ger ;
 LIST PP = pp ;
 LIST Ifi = ifi ;
-LIST Prs = prs  ;
-LIST Pis = pis  ;
+LIST Prs = prs ;
+LIST Pis = pis ;
 LIST Subj = prs pis ;
 LIST Imper = imp ;
 LIST Det = det ;
@@ -108,6 +108,7 @@ SET Aord = (adj ord) OR ("sette") ;	# sette/setta
 
 LIST unknown = ("\\*.*"r) ;
 LIST unknownMajIni = ("\\*[A-ZÀÁÈÉíÒÓÚÜÇ].*"r) ;
+LIST unknownMinIni = ("\\*[a-zàáäâèéëêíïîòóöôúüûç].*"r) ;
 LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
 LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
 LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
@@ -126,6 +127,7 @@ LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
 LIST Meda = "<meda>"i ;
+LIST Nde = "nde" ;
 LIST Ovest = "ovest" ;
 LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
@@ -194,6 +196,40 @@ SELECT CnjAdv IF (0 Comente) (1C Prep) ;	# comente in cale si siat àtera limba
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 Det) ;
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 NP) ;	# gai comente Navarra
 SELECT Prep IF (0 Comente) (1C N_A) ;
+
+
+SELECT CnjAdv IF (0 Si) (1 Si) (1 Pro OR Vall) ;
+REMOVE CnjAdv IF (0 Si) (1C Inf OR Ger) ;	# de se crear
+REMOVE CnjAdv IF (0 Si) (1 Pro) (2C Inf OR Ger) ;	# de se lo crear
+REMOVE Pron IF (0 Si) (NOT 1 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se canti
+REMOVE Pron IF (0 Si) (1 Pro) (NOT 2 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se li canti
+REMOVE Pron IF (0 Si) (1 Pro) (2 Pro) (NOT 3 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se li o canti
+REMOVE Pron IF (0 Si) (1 Pro) (2 Pro) (3 Pro) (4 Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;
+SELECT CnjAdv IF (NOT -1C* Rel OR CnjSub OR CnjAdv) (0 Si) (1C Vall + Pers) (2C Vall + Pers) ;	# Se tot aquò se met en plaça serà
+SELECT Pro IF (0 Si) (1 unknownMinIni) ;
+SELECT Pro IF (0 Si) (1 Pro) (2 unknownMinIni) ;
+SELECT Pro IF (0 Si) (1 Pro) (2 Pro) (3 unknownMinIni) ;
+SELECT Pro IF (0 Si) (1 Pro) (2 Pro) (3 Pro) (4 unknownMinIni) ;
+REMOVE Pron IF (-1C Vall LINK NOT 0 PP) (0 Si) ;
+REMOVE Pron IF (-2C Vall LINK NOT 0 PP) (-1C Adv OR PreAdv OR ("pas") LINK NOT 0 Interr OR Rel) (0 Si) ;
+REMOVE Pron IF (-3C Vall LINK NOT 0 PP) (-2C Adv OR PreAdv OR ("pas") LINK NOT 0 Interr OR Rel) (-1 Adv LINK NOT 0 Interr) (0 Si) ;
+REMOVE Pron IF (-2 Haver) (-1C PP) (0 Si) ;
+REMOVE Pron IF (-3 Haver) (-2C Adv OR PreAdv LINK NOT 0 Interr OR Rel) (-1C PP) (0 Si) ;
+REMOVE Pron IF (-4 Haver) (-3C Adv OR PreAdv LINK NOT 0 Interr OR Rel) (-2 Adv LINK NOT 0 Interr OR Rel) (-1C PP) (0 Si) ;
+SELECT Pro IF (0 Si) (1 Nde) (2 ("andare")) ;
+SELECT Pro IF (0 Si) (1 Nde) (2 Si) (3 ("andare") + PP) ;
+SELECT Pro IF (0 Si) (1 Nde) (2 Si) (3 Adv) (4 ("andare") + PP) ;
+SELECT Pro IF (0 Si) (1 Nde) (2 Si) (3 Adv) (4 Adv) (5 ("andare") + PP) ;
+SELECT Pro IF (-1C Rel) (0 Si) (1 Pro OR Vall + P3) ;
+SELECT Pro IF (-2C Rel) (-1 Adv) (0 Si) (1 Pro OR Vall + P3) ;
+SELECT Pro IF (-3C Rel) (-2 Adv) (-1 Adv) (0 Si) (1 Pro OR Vall + P3) ;
+#REMOVE Pron IF (0 Si) (1 ("ne")) ;	# Se n’èram estadas amigas
+SELECT CnjAdv IF (0 Si) (1C Ser) (2C N_A) ;	# s'es positiu
+SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3C N_A) ;	# s'es pas positiu
+SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3 Adv) (4C N_A) ;	# s'es pas totjorn positiu
+SELECT CnjAdv IF (0 ("<s'i>"i) OR ("<s’i>"i)) (1 ("aver") OR ("auer")) ;
+SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
+
 
 
 REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
@@ -312,8 +348,8 @@ SELECT N IF (-1/* Det + FemPl) (0 NP) (0 N + FemPl) (1C A + FemPl) ;
 
 SELECT NP IF (0 Top) (0 N OR A) (NOT -1C (ant) OR (cog));
 
-REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog)  ;
-REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant)  ;
+REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog) ;
+REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant) ;
 
 SELECT Ant IF (0 Ant) (1C Ant) ;	# Rosa Maria
 SELECT Ant IF (0 Ant) (1 Cog) (NOT -1 Ant) ;	# Giordano Bruno
