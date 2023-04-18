@@ -126,6 +126,8 @@ LIST De = "de" ;
 LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
+LIST Li = "li" "ddi" ;
+LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
 LIST Nde = "nde" ;
 LIST Ovest = "ovest" ;
@@ -227,9 +229,7 @@ SELECT Pro IF (-3C Rel) (-2 Adv) (-1 Adv) (0 Si) (1 Pro OR Vall + P3) ;
 SELECT CnjAdv IF (0 Si) (1C Ser) (2C N_A) ;	# s'es positiu
 SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3C N_A) ;	# s'es pas positiu
 SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3 Adv) (4C N_A) ;	# s'es pas totjorn positiu
-SELECT CnjAdv IF (0 ("<s'i>"i) OR ("<s’i>"i)) (1 ("aver") OR ("auer")) ;
 SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
-
 
 
 REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
@@ -270,6 +270,12 @@ REMOVE Det IF (1C Adv) (NOT 2 A OR PP) ;
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Adv) (2 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Adv) (2 Adv) (3 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
+
+LIST Verbos_CI = "agradare" "disagradare" "dòlere" "geniare" "pràghere" ;
+REMOVE Lu IF (0 Li) (1 Verbos_CI) ;
+REMOVE Lu IF (0 Li) (1 Haver OR Vmod) (2 Verbos_CI) ;
+REMOVE Lu IF (0 Li) (1 Haver) (2 Vmod) (3 Verbos_CI) ;
+REMOVE Li IF (0 Lu) ;
 
 # Coordinació
 SELECT M IF (-1C Ant + M) (0 ("Andrea")) ;	# Filippo Andrea
