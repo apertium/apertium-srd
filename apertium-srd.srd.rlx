@@ -1,5 +1,6 @@
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>" "<;>";
+OPTIONS += no-inline-templates ; 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
 
 SETS
@@ -363,6 +364,15 @@ SELECT NP IF (0 Top) (0 N OR A) (NOT -1C (ant) OR (cog));
 REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog) ;
 REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant) ;
 
+SELECT NP IF (0 N OR NP) (1 NP) (0 (META:/-/r)) ;   # Pierre-Michel
+SELECT Ant IF (0 Ant) (1C Ant) (0 (META:/-/r)) ;    # Jean-René
+SELECT Ant IF (-1C Ant) (0 Ant) (-1 (META:/-/r)) ;
+SELECT Cog IF (0 Cog) (1C Cog) (0 (META:/-/r)) ;
+SELECT Cog IF (-1C Cog) (0 Cog) (-1 (META:/-/r)) ;
+SELECT Top IF (0 Top) (1C Top) (0 (META:/-/r)) ;
+SELECT Top IF (-1C Top) (0 Top) (-1 (META:/-/r)) ;
+SELECT Top IF (NOT -2 Ant OR Cog) (-1 Top) (0 Top) (-1 (META:/-/r)) ;   # Milano-Napoli
+
 SELECT Ant IF (0 Ant) (1C Ant) ;	# Rosa Maria
 SELECT Ant IF (0 Ant) (1 Cog) (NOT -1 Ant) ;	# Giordano Bruno
 SELECT Ant IF (-1 ("santo")) (0 Ant) (0 Cog OR Top) ;	# sant Benet
@@ -373,17 +383,17 @@ SELECT Ant_Cog IF (-1 unknownMajIni) (0 Cog OR Ant) ;
 SELECT Ant IF (0 Ant) (0 Cog) (1 De) (2 Top OR unknownMajIni) ;	# Alfonso di Portogallo
 SELECT Top IF (-2 Ant) (-1 De) (0 Ant OR Cog OR Top) ;	# Ipparco di Nicea
 SELECT Top IF (-3 Ant) (-2 segles_num_romans) (-1 De) (0 Ant OR Cog OR Top) ;	# Joan II di Castiglia
-SELECT Top IF (-2 ("concilio") OR ("parlamento") OR ("statuto") OR ("costituzione") OR ("trattato") OR ("dichiarazione"))
+SELECT Top IF (-2 ("cuntzìliu") OR ("parlamentu") OR ("istatutu") OR ("costitutzione") OR ("tratadu") OR ("declaratzione"))
 	(-1 De) (0 Ant OR Cog OR Top) ;
-	# concilio di Nicea
-SELECT Top IF (-2 ("corona") OR ("regno") OR ("contea") OR ("ducato")) (-1 De) (0 Cog OR Top) ;	# regno di Castiglia
+	# contzìliu di Nicea
+SELECT Top IF (-2 ("corona") OR ("regnu") OR ("contea") OR ("ducadu")) (-1 De) (0 Cog OR Top) ;	# regno di Castiglia
 SELECT Top IF (-2 Dignidade) (-1 De) (0 Ant OR Cog OR Top) ;	# principe di Viana
 REMOVE Ant_Cog IF (-1 Det + Def) (0 NP) ;	# la Roma, il Veneto
 REMOVE Ant_Cog IF (-1 ("in")) (0 NP) ;		# in Napoli
-SELECT Top IF (-2 ("andare") OR ("viaggiare")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
-#REMOVE Top IF (NOT -2 ("andare") OR ("viaggiare")) (-1 ("a")) (0C Ant OR Cog OR Top) ;
-SELECT Top IF (-3 ("andare") OR ("viaggiare")) (-2 ("a")) (-1 Det + Def) (0 Ant OR Cog OR Top) ;
-#REMOVE Top IF (NOT -3 ("andare") OR ("viaggiare")) (-2 ("a")) (-1 Det + Def) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-2 ("andare") OR ("biagiare")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
+#REMOVE Top IF (NOT -2 ("andare") OR ("biagiare")) (-1 ("a")) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-3 ("andare") OR ("biagiare")) (-2 ("a")) (-1 Det + Def) (0 Ant OR Cog OR Top) ;
+#REMOVE Top IF (NOT -3 ("andare") OR ("biagiare")) (-2 ("a")) (-1 Det + Def) (0C Ant OR Cog OR Top) ;
 SELECT Top IF (-2 NP) (-1 De) (0 Ant OR Cog OR Top) ;
 
 SELECT Top IF (-2C Top) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
