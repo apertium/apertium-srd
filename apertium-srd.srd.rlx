@@ -236,6 +236,10 @@ SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
 REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
 REMOVE SUB:1 PreDet IF (0 InTotu) (NOT 1 Det) ;
 
+SELECT PreDet + &&ConcordaGN IF (0 PreDet + &&ConcordaGN) (1 Det + Def + &&ConcordaGN) (2 N + &&ConcordaGN) ;	# ambedue le aree politiche
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 N + &&ConcordaGN) ;	# unu pitzocu sardu ; sos àteros puntos
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 N_A + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# unu pitzocu sardu
 
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 Suo + A + &&ConcordaGN) ;
