@@ -288,6 +288,13 @@ REMOVE Lu IF (0 Li) (1 Haver OR Vmod) (2 Verbos_CI) ;
 REMOVE Lu IF (0 Li) (1 Haver) (2 Vmod) (3 Verbos_CI) ;
 REMOVE Li IF (0 Lu) ;
 
+SELECT PP IF (-1 Haver) ;
+SELECT PP IF (-2 Haver) (-1 Adv) ;
+SELECT PP IF (-2 Ref) (-1 Ser) ;
+SELECT PP IF (-3 Ref) (-2 Ser) (-1 Adv) ;
+SELECT PP IF (-3 Ref) (-2 Pro) (-1 Ser) ;
+SELECT PP IF (-4 Ref) (-3 Pro) (-2 Ser) (-1 Adv) ;
+
 # Coordinació
 SELECT M IF (-1C Ant + M) (0 ("Andrea")) ;	# Filippo Andrea
 SELECT M IF (1C Ant + M) (0 ("Andrea")) ;
