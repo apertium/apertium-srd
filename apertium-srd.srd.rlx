@@ -136,6 +136,7 @@ LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
 LIST Suo = "suo" ;
 
+LIST Aere = ("àere" vblex) ;
 LIST Cunsiderare = "cunsiderare" ;
 LIST Giudicare = "giudicare" "giuigare" ;
 LIST Sentire = "sentire" ;
@@ -288,12 +289,24 @@ REMOVE Lu IF (0 Li) (1 Haver OR Vmod) (2 Verbos_CI) ;
 REMOVE Lu IF (0 Li) (1 Haver) (2 Vmod) (3 Verbos_CI) ;
 REMOVE Li IF (0 Lu) ;
 
+REMOVE Aere IF (0 Haver) (1 PP) ;
+REMOVE Aere IF (0 Haver) (1 Adv) (2 PP) ;
+REMOVE Aere IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
+REMOVE Aere IF (0 Haver) (1 ("a")) (2 Inf) ;	# at a èssere
+REMOVE Aere IF (0 Haver) (1 Adv) (2 ("a")) (3 Inf) ;
+SELECT Inf (-2 Haver) (-1 ("a")) (0 Inf) ;	# at a èssere
+SELECT Inf (-3 Haver) (-2 Adv) (-1 ("a")) (0 Inf) ;
+REMOVE Haver ;
+
 SELECT PP IF (-1 Haver) ;
 SELECT PP IF (-2 Haver) (-1 Adv) ;
+SELECT PP IF (-3 Haver) (-2 Adv) (-1 Adv) ;
 SELECT PP IF (-2 Ref) (-1 Ser) ;
 SELECT PP IF (-3 Ref) (-2 Ser) (-1 Adv) ;
+SELECT PP IF (-4 Ref) (-3 Ser) (-2 Adv) (-1 Adv) ;
 SELECT PP IF (-3 Ref) (-2 Pro) (-1 Ser) ;
 SELECT PP IF (-4 Ref) (-3 Pro) (-2 Ser) (-1 Adv) ;
+SELECT PP IF (-5 Ref) (-4 Pro) (-3 Ser) (-2 Adv) (-1 Adv) ;
 
 # Coordinació
 SELECT M IF (-1C Ant + M) (0 ("Andrea")) ;	# Filippo Andrea
