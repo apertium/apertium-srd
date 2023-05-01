@@ -1432,12 +1432,6 @@
 01468. Totu custos termines e sas definitziones currispondentes si podent consultare in su
 01469. Su TERMCAT est un'organismu publicu chi operat  cun sa partetzipatzione de sa Generalitat de Catalunya,
 01470. Ateras informatziones si podent agatare  in su situ  www.termcat.cat
-01471. Proposte per sperimentare la lingua sarda nelle scuole
-01472. Al via le proposte per la sperimentazione, nelle scuole di ogni ordine e grado, dell'insegnamento e dell'utilizzo veicolare della lingua sarda in orario curriculare
-01473. Sara finanziato un progetto per ogni Istituto in ordine di graduatoria.
-01474. CAGLIARI, 23 DICEMBRE 2009 - L'Assessorato della Pubblica istruzione comunica agli Istituti primari e secondari di primo e secondo grado della Sardegna, che sono aperti i termini per la presentazione di proposte per la sperimentazione dell'insegnamento e dell'utilizzo veicolare della lingua sarda in orario curricolare.
-01475. L'obiettivo e quello di promuovere progetti-pilota nelle autonomie scolastiche interessate a sperimentare l'insegnamento in orario curricolare in lingua sarda e agevolare, laddove necessario, l'inserimento di figure professionali esterne, idonee all'insegnamento della stessa.
-01476. Ogni progetto pilota ,al fine di attuare una sperimentazione efficace che dia risultati valutabili, dovra prevedere un corso con un unico insegnante che utilizzi esclusivamente la lingua sarda veicolare durante le lezioni (qualunque sia la materia insegnata)
 01482. In sardu nos podimus riferire cun sas denominatziones libru eletronicu e  libru numericu a su libru editadu in suportu numericu cun cuntenutu de testu, immagine o sonu chi rechedet medios informaticos pro essere reproduidu, su chi in ingresu si  connoschet comente _e-book_.
 01483. Unu termine relatzionadu cun custu cuntzetu est letore de libros eletronicos o letore de libros numericos, chi faghet riferimentu a su machinariu cuntzepidu pro sa letura de libros numericos, a su solitu de sas dimensiones de unu libru de bugiaca e cun optziones de navigatzione pro  cuntenutos
 01484. Mauro Bulgarelli e Joseba Alvarez
@@ -3707,11 +3701,6 @@
 03755. Unu mediu contra a custa ingiustitzia
 03756. B'at una proposta de lege presentada in sa
 03757. Camera chi diat cherrere ponnere mediu a custa
-03758. Manifest de Girona: un decaleg perque l'ONU es faci seus els drets linguistics
-03759. El PEN Catala condemnara internacionalment la politica del govern valencia contra la llengua catalana * La considera un genocidi linguistic
-03760. Fa un parell de setmanes, aquest mateix comite, reunit a Girona sota la presidencia del filofof Josep M
-03761. Han fet public el manifest Josep M
-03762. De passada, han explicat que denunciarien a l'assemblea general del PEN, que es reunira aviat a Belgrad, la politica del govern valencia contra la llengua catalana, politica que consideren un genocidi linguistic
 03763. Mescamente in custos meses semus assistende a cambiamentos mannos, finas in intro de Europa
 03764. Est semper prus forte s'idea chi sos istados mannos non sunt a tretu de guvernare sa sorte de sas natziones e de sos territorios e de s'ambiente in ue custas comunidades istant e cherent istare
 03765. E si sunt isvilupende formas noas de organizatzione de custas ideas, prus pagu formalizadas e istruturadas
@@ -14050,8 +14039,7 @@
 14106. In fines, sa U.I.S.P
 14107. Sabadu 22 de cabudanni a sas 10:00, in su Palatzu Tzivicu, ant a essere intregados sos premios, un'istatua de tzeramica de s'artista Elio Pulli, a sos binchidores, pro fama nodida, de sa prima editzione de su Citta di Sassari, dedicadu a sas minorias linguisticas
 14108. Sos premiados sunt: su regista egitzianu Youssef Shahine, figiu de libanesos, naschidu in Alessandria in su 1926, binchidore de un'Orsu de prata in su Festival de Berlinu de su 1978 e de su premiu a sa carriera in su Festival de Cannes de su 1997; s'iscritore irachenu Younis Tawfiq, naschidu in Mosul in su 1957, residente in Italia dae su 1979 e presidente de su Tzentru Culturale italu-arabu Dar al Hikma; Oleksandr Irvanets, ucrainu, naschidu in L'viv in su 1961, membru de s'assotziu literariu Bu-Ba-Bu, iscritore in poesia e in prosa e drammaturgu; Nuala Ni Dhomhnaill, poeta irlandesa naschida in Inghilterra in su 1952, chi iscriet petzi in irlandesu, at bintu su premiu de Ireland Professor of Poetry in su 2001 e faghet parte de s'assotziu Aos dana, istituidu in su 1983; Ignazio Delogu, naschidu in S'Alighera, poeta in sardu e italianu, binchidore de premios Ozieri e de su premiu natzionale de poesia G.Dessi e membru de sa cummissione regionale chi aiat elaboradu sa Limba Sarda Unificada
-14109. In gergo calcistico si chiama assist geniale: un passaggio intelligente che smarca un attaccante davanti al portiere, una palla-gol impossibile da sbagliare
-14110. Abberit cras, 12 de santugaine, in su palatzu de sa Frumentaria sa mustra Identita e differenze del 900 - Arte internazionale nelle opere della Fondazione Ca' la Ghironda
+14110. Abberit cras, 12 de santugaine, in su palatzu de sa Frumentaria sa mustra Identita e differenze del 900 - Arte internazionale nelle opere della Fondazione Ca' la Ghironda
 14111. S'eventu est istadu organizadu in collaboratzione cun sa Fundatzione Logudoro Meilogu
 14112. S'orariu est dae sas 10 a sas 13 e dae sas 16 a sas 20 dae su lunis a su sabadu
 14113. Pro bisitas ghiadas si podent cuntatare custos numeros: 079 291771 e 3294135131
