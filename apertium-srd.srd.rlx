@@ -243,10 +243,10 @@ SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 N + 
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 N_A + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# unu pitzocu sardu
 
-SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
-SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 Suo + A + &&ConcordaGN) ;
-SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
-SELECT A + Pos IF (-4 Det + &&ConcordaGN) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;	# sas minorias linguisticas internas suas
+SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas domos meas
+SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 A + Pos + &&ConcordaGN) ;
+SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;
+SELECT A + Pos IF (-4 Det + &&ConcordaGN) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas minorias linguisticas internas suas
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
