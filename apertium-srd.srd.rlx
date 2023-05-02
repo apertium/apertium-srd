@@ -138,6 +138,7 @@ LIST Suo = "suo" ;
 
 LIST Aere = ("àere" vblex) ;
 LIST Cunsiderare = "cunsiderare" ;
+LIST Istare = "istare" ;
 LIST Giudicare = "giudicare" "giuigare" ;
 LIST Sentire = "sentire" ;
 LIST Resurtare = "resurtare" ;
@@ -251,6 +252,24 @@ SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
 
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
+
+LIST Adj_Sentimentu = "cuntentu" ;	# Adj = PP
+SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adj_Sentimentu + &&ConcordaGN) ;	# es istado cuntentu
+SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 PreAdv OR Adv) (2 Adj_Sentimentu + &&ConcordaGN) ;
+SELECT Ser IF (-2 Ser + &&ConcordaSP) (-1 Adv) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adj_Sentimentu + &&ConcordaGN) ;	# es semper istado cuntentu
+SELECT A IF (-2 Ser + &&ConcordaSP) (-1 Ser + PP + &&ConcordaSP + &&ConcordaGN) (0 Adj_Sentimentu + &&ConcordaGN) ;	# es istado cuntentu
+SELECT A IF (-3 Ser + &&ConcordaSP) (-2 Ser + PP + &&ConcordaSP + &&ConcordaGN) (0 PreAdv OR Adv) (2 Adj_Sentimentu + &&ConcordaGN) ;
+SELECT A IF (-3 Ser + &&ConcordaSP) (-2 Adv) (-1 Ser + PP + &&ConcordaSP + &&ConcordaGN) (0 Adj_Sentimentu + &&ConcordaGN) ;	# es semper istado cuntentu
+
+SELECT Istare IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 PP + &&ConcordaGN) ;	# es istada faeddada
+SELECT Istare IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adv) (2 PP + &&ConcordaGN) ;	# es istada semper faeddada
+SELECT Istare IF (-2 Ser + &&ConcordaSP) (-1 Adv) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 PP + &&ConcordaGN) ;	# es semper istada faeddada
+SELECT Istare IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adv) (2 Adv) (3 PP + &&ConcordaGN) ;
+SELECT PP IF (-2 Ser + &&ConcordaSP) (-1 Istare + PP + &&ConcordaSP + &&ConcordaGN) (0 PP + &&ConcordaGN) ;	# es istada faeddada
+SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-1 Adv) (0 PP + &&ConcordaGN) ;	# es istada semper faeddada
+SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Adv) (-1 Istare + PP + &&ConcordaSP + &&ConcordaGN) (0 PP + &&ConcordaGN) ;	# es semper istada faeddada
+SELECT PP IF (-4 Ser + &&ConcordaSP) (-3 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-2 Adv) (-1 Adv) (0 PP + &&ConcordaGN) ;
+
 
 SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
 SELECT A IF (NOT -1 N) (0 A) (1 Meda) ;	# est bianca meda
