@@ -234,6 +234,7 @@ SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3C N_A) ;	# s'es pas positiu
 SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3 Adv) (4C N_A) ;	# s'es pas totjorn positiu
 SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
 
+SELECT Det IF (0 ("unu")) (1 unknown) ;
 
 REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
 REMOVE SUB:1 PreDet IF (0 InTotu) (NOT 1 Det) ;
