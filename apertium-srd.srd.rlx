@@ -295,6 +295,7 @@ SELECT Det IF (0 Det + Def + Masc + &&ConcordaSP) (1 Det + Def + Fem + &&Concord
 SELECT Det IF (0 Det + Def + Fem + &&ConcordaSP) (1 Det + Def + Masc + &&ConcordaSP) (2 N_A + &&ConcordaSP) ;	# sa/su diretore/a
 SELECT Det IF (-1 Det + Def + Masc + &&ConcordaSP) (0 Det + Def + Fem + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# su/sa diretore/a
 SELECT Det IF (-1 Det + Def + Fem + &&ConcordaSP) (0 Det + Def + Masc + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# sa/su diretore/a
+SELECT Det + &&ConcordaGN IF (0 Det + &&ConcordaSP) (1 Adv) (2 Num) (3 N_A + &&ConcordaGN)	;	# sas belle 150 limbas
 REMOVE Det IF (NOT 1 N OR NP OR A OR PP OR Adv OR Num OR unknown) ;
 REMOVE Det IF (1C Adv) (NOT 2 A OR PP) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
