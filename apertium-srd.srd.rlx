@@ -245,6 +245,7 @@ SELECT PreDet + &&ConcordaGN IF (0 PreDet + &&ConcordaGN) (1 Det + Def + &&Conco
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 N + &&ConcordaGN) ;	# unu pitzocu sardu ; sos àteros puntos
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 N_A + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# unu pitzocu sardu
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Num) (2 N_A + &&ConcordaGN + Pl) ;	# unas 150 limbas
 
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas domos meas
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 A + Pos + &&ConcordaGN) ;
