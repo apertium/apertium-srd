@@ -301,6 +301,10 @@ REMOVE Det IF (1C Adv) (NOT 2 A OR PP) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C NP + &&ConcordaGN) ;	# su Gia islàmicu
 
+# Adv
+REMOVE PreAdv IF (NOT 1 A OR PP OR Adv) ;
+REMOVE PreAdv IF (-1 Haver) (1 PP) ;
+
 # Pron
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Adv) (2 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
