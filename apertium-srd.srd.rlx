@@ -118,6 +118,8 @@ LIST segles_num_romans = ("[IVX][IVX]*"r) ;
 LIST Upper = "[A-Z][a-z]+"r ;
 
 
+LIST Cale = "cale" ;
+LIST Cantu = "cantu" ;
 LIST Chi = "chi" ;
 LIST Chie = "chie" ;
 LIST Comente = "comente" ;
@@ -128,6 +130,7 @@ LIST De = "de" ;
 LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
+LIST Ite = "ite" ;
 LIST Li = "li" "ddi" ;
 LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
@@ -136,6 +139,7 @@ LIST Ovest = "ovest" ;
 LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
 LIST Suo = "suo" ;
+LIST Ue = "ue" ;
 
 LIST Aere = ("àere" vblex) ;
 LIST Cunsiderare = "cunsiderare" ;
@@ -263,6 +267,12 @@ SELECT A + Pos IF (-4 Det + &&ConcordaGN) (-3 N_A + &&ConcordaGN) (-2 N_A + &&Co
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
+
+SELECT Interr IF (0 Ite OR Cale OR Cantu OR Comente OR Ue) (1* ("<?>")) ;
+
+LIST V_Interr = "ischire" "pedire" "petire" "pregontare" "nàrrere" "ispiegare" ;
+SELECT Interr IF (-1 V_Interr) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
+SELECT Interr IF (-2 V_Interr) (-1 Adv) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
 
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
 
