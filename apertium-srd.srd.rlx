@@ -249,6 +249,7 @@ SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3 Adv) (4C N_A) ;	# s'es pas totjorn p
 SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
 
 SELECT Det IF (0 ("unu")) (1 unknown) ;
+SELECT Det IF (0 ("su")) (1 unknown) ;
 
 SELECT ("insinnare") IF (0 ("insegnare")) ;	# dcorraine
 
