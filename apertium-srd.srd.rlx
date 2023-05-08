@@ -276,6 +276,9 @@ LIST V_Interr = "ischire" "pedire" "petire" "pregontare" "nàrrere" "ispiegare" 
 SELECT Interr IF (-1 V_Interr) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
 SELECT Interr IF (-2 V_Interr) (-1 Adv) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
 
+SELECT Rel IF (-1 Det + Def) (0 Ite) ;
+SELECT PreAdv IF (0 Ite) (1 A) (2 Chi) ;
+
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
 
 LIST Adj_Sentimentu = "cuntentu" ;	# Adj = PP
