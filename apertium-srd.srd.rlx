@@ -15,6 +15,7 @@ LIST Pron = prn ;
 LIST N = n ;
 LIST Nsg = (n sg) ;
 LIST Npl = (n pl) ;
+LIST Acr = acr ;
 LIST N_A = n adj ;
 LIST NP = np ;
 LIST V = vblex ;
@@ -341,6 +342,7 @@ REMOVE Lu IF (0 Li) (1 Haver OR Vmod) (2 Verbos_CI) ;
 REMOVE Lu IF (0 Li) (1 Haver) (2 Vmod) (3 Verbos_CI) ;
 REMOVE Li IF (0 Lu) ;
 
+REMOVE Acr IF (0 ("<as>")) ;
 REMOVE Aere IF (0 Haver) (1 PP) ;
 REMOVE Aere IF (0 Haver) (1 Adv) (2 PP) ;
 REMOVE Aere IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
