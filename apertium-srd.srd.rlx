@@ -329,6 +329,8 @@ REMOVE Det IF (1C Adv) (NOT 2 A OR PP) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C NP + &&ConcordaGN) ;	# su Gia islàmicu
 
+SELECT Num IF (-1 Det + Def + Fem + Sg) (0 ("<una>"i)) ;	# sa una de note
+
 # Adv
 REMOVE PreAdv IF (NOT 1 A OR PP OR Adv) ;
 REMOVE PreAdv IF (-1 Haver) (1 PP) ;
