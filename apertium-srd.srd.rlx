@@ -310,6 +310,8 @@ SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
 SELECT Adv IF (-3/* Det + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;	# una proposta sèria meda
 SELECT Adv IF (-4/* Det + &&ConcordaGN) (-3 N + &&ConcordaGN) (-2 A + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;
 SELECT Adv IF (-4/* Det + &&ConcordaGN) (-3 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Meda) ;
+SELECT A IF (-1C N_A) (0 Meda) (1C EOS OR Prep OR Det OR CnjAdv OR Rel OR Pro OR Vall) ;	# chi dae annos meda sos Maputzes sunt
+SELECT A IF (-1C N_A) (0 Meda) (1 Adv) (2C Vall) ;	# discussiones meda non servint
 
 # Rel
 SELECT CnjSub IF (-2 Ser + P3 + Sg) (-1 A + Sg) (0 Chi) ;	# Est craru chi
