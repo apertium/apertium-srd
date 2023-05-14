@@ -181,6 +181,8 @@ SELECT Inf IF (-2C Vmod) (-1 Adv OR Pron) ;
 SELECT Inf IF (-1C Vall) (0 Inf) ;
 SELECT Inf IF (-2C Vall) (-1 Adv OR Pron) (0 Inf) ;
 REMOVE Vconj IF (-1C Prep) ;
+REMOVE Vconj IF (-2C Prep) (-1 Pro) (0 Inf) ;
+REMOVE Vconj IF (-3C Prep) (-2 Pro) (-1 Pro) (0 Inf) ;
 
 REMOVE ("èssere") IF (-1 Det + Def) (NOT -1 MajIni) (0 Est) (0 MajIni) ;
 SELECT N IF (-2 Prep) (-1 Det + Def) (0 Est) (0 MajIni) ;	# cara a l'Est
