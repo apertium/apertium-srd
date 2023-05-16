@@ -154,6 +154,7 @@ LIST Parere = "pàrrere" ;
 
 LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ;
 
+LIST Mese = "ghennàrgiu" "ennalzu" "freàrgiu" "martzu" "abrile" "maju" "làmpadas" "trìulas" "argiolas" "austu" "cabudanni" "santugaine" "santandria" "nadale" ;
 SET Dignidade = ("presidente") OR ("guvernatore") OR ("imperadore") OR ("re") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("archipìscamu");
 
 
@@ -397,6 +398,7 @@ SELECT F IF (0 Noun_NP + M) (0 Noun_NP + F) (1 Adv) (2 A + F) (NOT 2 A + M) ;
 
 SELECT Top IF (-1 ("regione") OR ("provincia") OR ("distretto")) (0 MajIni) ;		# nella Regione Veneto
 SELECT Top IF (-2 ("regione") OR ("provincia") OR ("distretto")) (-1 A) (0 MajIni) ;
+SELECT Top IF (0 MajIni) (1 CM) (2 Num) (3 Mese) ;	# Milano, 6 luglio
 
 REMOVE A + F IF (-1C Noun_NP + M) (0 A + F) (NOT -1 (META:/[-"«»]/r));
 REMOVE A + M IF (-1C Noun_NP + F) (0 A + M) (NOT -1 (META:/[-"«»]/r)) ;
@@ -453,14 +455,14 @@ SELECT NP IF (0 Top) (0 N OR A) (NOT -1C (ant) OR (cog));
 REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog) ;
 REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant) ;
 
-SELECT NP IF (0 N OR NP) (1 NP) (0 (META:/-/r)) ;   # Pierre-Michel
-SELECT Ant IF (0 Ant) (1C Ant) (0 (META:/-/r)) ;    # Jean-René
+SELECT NP IF (0 N OR NP) (1 NP) (0 (META:/-/r)) ;	# Pierre-Michel
+SELECT Ant IF (0 Ant) (1C Ant) (0 (META:/-/r)) ;	# Jean-René
 SELECT Ant IF (-1C Ant) (0 Ant) (-1 (META:/-/r)) ;
 SELECT Cog IF (0 Cog) (1C Cog) (0 (META:/-/r)) ;
 SELECT Cog IF (-1C Cog) (0 Cog) (-1 (META:/-/r)) ;
 SELECT Top IF (0 Top) (1C Top) (0 (META:/-/r)) ;
 SELECT Top IF (-1C Top) (0 Top) (-1 (META:/-/r)) ;
-SELECT Top IF (NOT -2 Ant OR Cog) (-1 Top) (0 Top) (-1 (META:/-/r)) ;   # Milano-Napoli
+SELECT Top IF (NOT -2 Ant OR Cog) (-1 Top) (0 Top) (-1 (META:/-/r)) ;	# Milano-Napoli
 
 SELECT Ant IF (0 Ant) (1C Ant) ;	# Rosa Maria
 SELECT Ant IF (0 Ant) (1 Cog) (NOT -1 Ant) ;	# Giordano Bruno
