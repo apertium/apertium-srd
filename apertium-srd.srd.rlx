@@ -490,6 +490,10 @@ SELECT Top IF (-2 NP) (-1 De) (0 Ant OR Cog OR Top) ;
 SELECT Top IF (-2C Top) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
 
+# A O NUM
+
+REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
+
 # N O A
 
 SELECT N IF (-1 Tra) (1 ("e")) (2C N) ;
