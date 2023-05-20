@@ -433,6 +433,48 @@
       </e>
    </pardef> 
 
+   <pardef n="li">
+      <e>
+        <p>
+          <l><a/>la<b/></l>
+          <r>bi<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>la<b/></l>
+          <r>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>lu<b/></l>
+          <r>bi<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>lu<b/></l>
+          <r>bi<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>las<b/></l>
+          <r>bi<b/>las<b/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l><a/>los<b/></l>
+          <r>bi<b/>los<b/></r>
+        </p>
+      </e>
+    </pardef>
 
  </pardefs>
 
@@ -449,16 +491,16 @@
      <e>
         <p>
           <l><a/>no<b/><a/>li<b/></l>
-          <r>no<b/>li<b/></r>
+          <r>no<b/>l'</r>
         </p>
-        <par n="consonants"/>
+        <par n="vocals"/>
       </e>
      <e>
         <p>
           <l><a/>no<b/><a/>li<b/></l>
-          <r>no<b/>l'</r>
+          <r>no<b/></r>
         </p>
-        <par n="vocals"/>
+        <par n="li"/>
       </e>
 
      <e>
@@ -659,16 +701,16 @@
      <e>
         <p>
           <l><a/>no<b/><a/>bi<b/><a/>li<b/></l>
-          <r>non<b/>bi<b/>li<b/></r>
+          <r>non<b/>bi<b/>l'</r>
         </p>
-        <par n="consonants"/>
+        <par n="vocals"/>
       </e>
      <e>
         <p>
           <l><a/>no<b/><a/>bi<b/><a/>li<b/></l>
-          <r>non<b/>bi<b/>l'</r>
+          <r>non<b/>bi<b/></r>
         </p>
-        <par n="vocals"/>
+        <par n="li"/>
       </e>
 
      <e>
@@ -715,16 +757,16 @@
      <e>
         <p>
           <l><a/>ne<b/><a/>li<b/></l>
-          <r>ne<b/>li<b/></r>
+          <r>ne<b/>l'</r>
         </p>
-        <par n="consonants"/>
+        <par n="vocals"/>
       </e>
      <e>
         <p>
           <l><a/>ne<b/><a/>li<b/></l>
-          <r>ne<b/>l'</r>
+          <r>ne<b/></r>
         </p>
-        <par n="vocals"/>
+        <par n="li"/>
       </e>
 
      <e>
@@ -925,16 +967,16 @@
      <e>
         <p>
           <l><a/>ne<b/><a/>bi<b/><a/>li<b/></l>
-          <r>nen<b/>bi<b/>li<b/></r>
+          <r>nen<b/>bi<b/>l'</r>
         </p>
-        <par n="consonants"/>
+        <par n="vocals"/>
       </e>
      <e>
         <p>
           <l><a/>ne<b/><a/>bi<b/><a/>li<b/></l>
-          <r>nen<b/>bi<b/>l'</r>
+          <r>nen<b/>bi<b/></r>
         </p>
-        <par n="vocals"/>
+        <par n="li"/>
       </e>
 
      <e>
@@ -1013,6 +1055,14 @@
         </p>
         <par n="vocals"/>
       </e>
+     <e>
+        <p>
+          <l><a/>li<b/></l>
+          <r></r>
+        </p>
+        <par n="li"/>
+      </e>
+
      <e>
         <p>
           <l><a/>lu<b/></l>
