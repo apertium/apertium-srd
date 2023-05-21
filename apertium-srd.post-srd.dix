@@ -474,6 +474,46 @@
           <r>bi<b/>los<b/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l><a/>nche<b/><a/>la<b/></l>
+          <r>bi<b/>nche<b/>la<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>nche<b/><a/>la<b/></l>
+          <r>bi<b/>nche<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>nche<b/><a/>lu<b/></l>
+          <r>bi<b/>nche<b/>lu<b/></r>
+        </p>
+        <par n="consonants"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>nche<b/><a/>lu<b/></l>
+          <r>bi<b/>nche<b/>l'</r>
+        </p>
+        <par n="vocals"/>
+      </e>
+      <e>
+        <p>
+          <l><a/>nche<b/><a/>las<b/></l>
+          <r>bi<b/>nche<b/>las<b/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l><a/>los<b/></l>
+          <r>bi<b/>nche<b/>los<b/></r>
+        </p>
+      </e>
     </pardef>
 
  </pardefs>
@@ -498,6 +538,13 @@
      <e>
         <p>
           <l><a/>no<b/><a/>li<b/></l>
+          <r>no<b/></r>
+        </p>
+        <par n="li"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>no<b/><a/>lis<b/></l>
           <r>no<b/></r>
         </p>
         <par n="li"/>
@@ -705,13 +752,6 @@
         </p>
         <par n="vocals"/>
       </e>
-     <e>
-        <p>
-          <l><a/>no<b/><a/>bi<b/><a/>li<b/></l>
-          <r>non<b/>bi<b/></r>
-        </p>
-        <par n="li"/>
-      </e>
 
      <e>
         <p>
@@ -764,6 +804,13 @@
      <e>
         <p>
           <l><a/>ne<b/><a/>li<b/></l>
+          <r>ne<b/></r>
+        </p>
+        <par n="li"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>ne<b/><a/>lis<b/></l>
           <r>ne<b/></r>
         </p>
         <par n="li"/>
@@ -971,13 +1018,6 @@
         </p>
         <par n="vocals"/>
       </e>
-     <e>
-        <p>
-          <l><a/>ne<b/><a/>bi<b/><a/>li<b/></l>
-          <r>nen<b/>bi<b/></r>
-        </p>
-        <par n="li"/>
-      </e>
 
      <e>
         <p>
@@ -1058,6 +1098,13 @@
      <e>
         <p>
           <l><a/>li<b/></l>
+          <r></r>
+        </p>
+        <par n="li"/>
+      </e>
+     <e>
+        <p>
+          <l><a/>lis<b/></l>
           <r></r>
         </p>
         <par n="li"/>

@@ -119,6 +119,7 @@ LIST segles_num_romans = ("[IVX][IVX]*"r) ;
 LIST Upper = "[A-Z][a-z]+"r ;
 
 
+LIST Bi = "<bi>"i ;
 LIST Cale = "cale" ;
 LIST Cantu = "cantu" ;
 LIST Chi = "chi" ;
@@ -127,6 +128,7 @@ LIST Comente = "comente" ;
 LIST Custu = "custu" ;
 LIST Dare = "dare" ;
 LIST Dae = "dae" ;
+LIST Ddu = "<ddu>"i "<dda>"i "<ddos>"i "<ddas>"i "<dd'>"i "<dd'>"i "<dd’>"i ;
 LIST De = "de" ;
 LIST Est = "<est>"i ;
 LIST In = "in" ;
@@ -136,6 +138,7 @@ LIST Li = "li" "ddi" ;
 LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
 LIST Nde = "nde" ;
+LIST Nche = "nche" ;
 LIST Ovest = "ovest" ;
 LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
@@ -353,6 +356,13 @@ REMOVE Lu IF (0 Li) (1 Verbos_CI) ;
 REMOVE Lu IF (0 Li) (1 Haver OR Vmod) (2 Verbos_CI) ;
 REMOVE Lu IF (0 Li) (1 Haver) (2 Vmod) (3 Verbos_CI) ;
 REMOVE Li IF (0 Lu) ;
+
+SELECT Li IF (0 Bi) (1 Lu + Pron) ;	# bi = septentrionale
+SELECT Li IF (0 Bi) (1 Nche) (2 Lu + Pron) ;	# bi = septentrionale
+SELECT Li IF (0 Si) (1 Ddu + Pron) ;	# li/si = guess ; si = meridionale
+SELECT Li IF (0 Si) (1 Nche) (2 Ddu + Pron) ;	# li/si = guess ; si = meridionale
+REMOVE Li IF (0 Bi) ;	# septentrionale
+REMOVE Li IF (0 Si) ;	# meridionale
 
 REMOVE Acr IF (0 ("<as>")) ;
 REMOVE Aere IF (0 Haver) (1 PP) ;
@@ -652,4 +662,4 @@ SELECT N IF (0 Noun_Adj_PP LINK NOT 0 NP OR ("ser") OR Prep) (-1C Det) (1 CM OR 
 SELECT N + &&ConcordaGN IF (-1C Barrera_Inicial_Estrict_SN) (0 N + &&ConcordaGN) (1 A + &&ConcordaGN) (2C Barrera_Final_Estrict_SN) ;	# note tecniche
 
 # V
-SELECT Vmod
+SELECT Vmod IF (1 Inf) ;
