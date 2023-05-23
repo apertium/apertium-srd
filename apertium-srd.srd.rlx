@@ -158,7 +158,7 @@ LIST Parere = "pàrrere" ;
 LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ;
 
 LIST Mese = "ghennàrgiu" "ennalzu" "freàrgiu" "martzu" "abrile" "maju" "làmpadas" "trìulas" "argiolas" "austu" "cabudanni" "santugaine" "santandria" "nadale" ;
-SET Dignidade = ("presidente") OR ("guvernatore") OR ("imperadore") OR ("re") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("archipìscamu");
+SET Dignidade = ("presidente") OR ("guvernadore") OR ("imperadore") OR ("tzar") OR ("re") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("archipìscamu");
 
 
 # Barriers
@@ -433,15 +433,16 @@ REMOVE Pl IF (0 A + SP) (0 A + Pl) (-1/* Det + Sg) ;
 REMOVE Cog IF (0 ("<Costa>")) (1 A + FemSg) ;
 SELECT N IF (-1/* Det + Def + MascSg) (0 ("<Cantone>")) ;	# il Cantone
 
-SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca")) ;
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca") OR ("Sarbadore")) ;
 	# Llevem paraules que, per una raó o altra, es posen en majúscules sense ser NP
 SELECT NP IF (0 ("Val")) (0 (META:/-/r)) ;
 SELECT NP IF (0 ("Val")) (1 ("-")) ;
+REMOVE NP IF (-1 Det + Def) (0 ("Salvatore")) ;
+SELECT NP IF (0 ("Salvatore")) ;
 
-REMOVE NP IF (0 ("Signore") OR ("Signori") OR ("Duca") OR ("Conte") OR ("Contessa") OR ("Conti") OR ("Barone") OR ("Baroni") OR ("Principe")) (1 Ant OR unknownMajIni) ;
-SELECT Ant IF (-1 ("Duca") OR ("Conte") OR ("Contessa") OR ("Conti") OR ("Barone") OR ("Baroni") OR ("Principe")) (0 Ant) ;
-SELECT Ant OR Cog IF (-1 ("Signore") OR ("Signori")) (0 Ant OR Cog) ;
-REMOVE NP IF (0 ("Sacco")) (1 De) (2 MajIni OR unknownMajIni) ;
+REMOVE NP IF (0 ("Duca") OR ("Conte") OR ("Contessa") OR ("Barone")) (1 Ant OR unknownMajIni) ;
+SELECT Ant IF (-1 ("paba") OR ("imperadore") OR ("tzar") OR ("re") OR ("prìntzipe") OR ("duca") OR ("archiduca") OR ("marchesu") OR ("conte") OR ("visconte") OR ("barone")) (0 Ant) ;
+SELECT Ant OR Cog IF (-1 ("presidente") OR ("guvernaore") OR ("piscamu") OR ("archipiscamu")) (0 Ant) ;
 
 REMOVE NP IF (-1/* Det + MascSg) (0 Noun_Adj + MascSg) ;
 REMOVE NP IF (-1/* Det + FemSg) (0 Noun_Adj + FemSg) ;
