@@ -218,6 +218,7 @@ SELECT Ser IF (0 Est) (1 NP) ;
 SELECT Ser IF (0 Est) (1 unknown) ;
 SELECT Ser IF (NOT -1 DetDef OR ("lìmite") OR ("frontera") OR ("cara") OR ("fatzada") OR ("costa") OR ("costera") OR ("ala") OR ("costàgiu")) (0 Est) (NOT 0 MajIni) ;
 
+SELECT Fem IF (NOT -1/* M) (0 ("biennale") + Masc) (NOT 1 M) ;
 
 SELECT CnjAdv IF (0 Comente) (1C Prep) ;	# comente in cale si siat àtera limba
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 Det) ;
