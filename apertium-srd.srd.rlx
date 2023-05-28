@@ -283,6 +283,10 @@ SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &
 SELECT A + Pos IF (-2 Det + &&ConcordaGN) (-1 N_A + unknown) (0 A + Pos + &&ConcordaGN) ;
 SELECT A + Pos IF (-3 Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;
 SELECT A + Pos IF (-4 Det + &&ConcordaGN) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas minorias linguisticas internas suas
+SELECT A + Pos IF (-3 Det + Def) (-2 De) (-1 Num) (0 A + Pos) ;	# su de 10 suo
+SELECT A + Pos IF (-4 Det + Def) (-3 De) (-2 Num) (-1 N) (0 A + Pos) ;	# su de 10 anniversarios suo
+SELECT A + Pos IF (-5 Det + Def) (-4 De) (-3 Num) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
+SELECT A + Pos IF (-6 Det + Def) (-5 De) (-4 Num) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
