@@ -220,6 +220,10 @@ SELECT Ser IF (NOT -1 DetDef OR ("lìmite") OR ("frontera") OR ("cara") OR ("fat
 
 SELECT Fem IF (NOT -1/* M) (0 ("biennale") + Masc) (NOT 1 M) ;
 
+LIST SuChi = "<su chi>"i "<sa chi>"i "<sos chi>"i "<sas chi>"i ;
+REMOVE Rel IF (-1 Prep) (0 SuChi) ;
+REMOVE Pron IF (0 SuChi) ;
+
 REMOVE Cog IF (0 ("<XI>")) ;
 
 SELECT CnjAdv IF (0 Comente) (1C Prep) ;	# comente in cale si siat àtera limba
