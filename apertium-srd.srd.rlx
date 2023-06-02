@@ -226,6 +226,10 @@ REMOVE Pron IF (0 SuChi) ;
 
 REMOVE Cog IF (0 ("<XI>")) ;
 
+SELECT Aord IF (-1/* Det + Def) (0 ("<de .*>"r) + Aord) ;
+REMOVE Aord IF (-1 Noun_Adj) (0 ("<de .*>"r) + Aord) ;
+REMOVE Aord IF (0 ("<de .*>"r) + Aord) ;
+
 SELECT CnjAdv IF (0 Comente) (1C Prep) ;	# comente in cale si siat àtera limba
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 Det) ;
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 NP) ;	# gai comente Navarra
