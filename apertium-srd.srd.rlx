@@ -692,5 +692,82 @@ SELECT N IF (0 Noun_Adj_PP LINK NOT 0 NP OR ("ser") OR Prep) (-1C Det) (1 Barrer
 SELECT N IF (0 Noun_Adj_PP LINK NOT 0 NP OR ("ser") OR Prep) (-1C Det) (1 CM OR CnjCoo) (1 Barrera_Final_Estrict_SN) ;
 SELECT N + &&ConcordaGN IF (-1C Barrera_Inicial_Estrict_SN) (0 N + &&ConcordaGN) (1 A + &&ConcordaGN) (2C Barrera_Final_Estrict_SN) ;	# note tecniche
 
+# COORDINAZIONE
+
+REMOVE Pl IF (-1C/* Det + Sg) (0 Noun_Adj_PP + Sg) (0 Noun_Adj_PP + Pl) ;	# e la morte.
+REMOVE Sg IF (-1C/* Det + Pl) (0 Noun_Adj_PP + Sg) (0 Noun_Adj_PP + Pl) ;
+REMOVE M IF (-1C/* Det + Fem) (0 Noun_Adj_PP + Fem) (0 Noun_Adj_PP + Masc) ;
+REMOVE F IF (-1C/* Det + Masc) (0 Noun_Adj_PP + Fem) (0 Noun_Adj_PP + Masc) ;
+
+# NOM CONJ NOM
+
+REMOVE A OR PP IF (-1/* Det + &&ConcordaGN) (0 Noun_Adj_PP + &&ConcordaGN LINK 0 N OR NP) (1 CnjCoo) (2C N) ;
+
+# ADJ CONJ ADJ
+
+REMOVE N OR PP IF (-3 N + &&ConcordaGN) (-2C A + &&ConcordaGN) (-1 CnjCoo) (0 Noun_Adj_PP + &&ConcordaGN LINK 0 N OR NP) ;	# genere musicale e teatrale
+
+REMOVE A OR PP IF (-1 CnjCoo) (0 Noun_Adj_PP LINK 0 N OR NP) (1 CnjCoo) (2C N) ;
+REMOVE A OR PP IF (-3 CnjCoo) (-2C N) (-1 CnjCoo) (0 Noun_Adj_PP LINK 0 N OR NP) ;	# o prodotto o persona
+
+REMOVE A OR PP IF (-1/* Det + &&ConcordaGN) (0 Noun_Adj_PP + &&ConcordaGN LINK 0 N OR NP) (1 CnjCoo) (2 Noun_Adj_PP LINK 0 N OR NP) (3 Barrera_Final_SN) ;
+REMOVE A OR PP IF (-1/* Det + &&ConcordaGN) (0 Noun_Adj_PP + &&ConcordaGN LINK 0 N OR NP) (1 CnjCoo) (2 Det) (3 Noun_Adj_PP LINK 0 N OR NP) (4 Barrera_Final_SN) ;
+
+REMOVE A OR PP IF (-1 Barrera_Inicial_SN LINK NOT 0 N) (NOT -1 Limite_Barrera_Inicial_SN) (0 Noun_Adj_PP LINK 0 N OR NP) (1 CnjCoo) (2 Noun_Adj_PP LINK 0 N OR NP) (3 Barrera_Final_SN) ;
+REMOVE A OR PP IF (-1 Barrera_Inicial_SN LINK NOT 0 N) (0 Noun_Adj_PP LINK 0 N OR NP) (1 CnjCoo) (2C N) (3 Barrera_Final_SN) ;
+REMOVE A OR PP IF (-3 Barrera_Inicial_SN LINK NOT 0 N) (NOT -3 Limite_Barrera_Inicial_SN) (-2 Noun_Adj_PP LINK 0 N OR NP) (-1 CnjCoo) (0 Noun_Adj_PP LINK 0 N OR NP) (1 Barrera_Final_SN) ;
+REMOVE A OR PP IF (-3 Barrera_Inicial_SN LINK NOT 0 N) (-2C N) (-1 CnjCoo) (0 Noun_Adj_PP LINK 0 N OR NP) (1 Barrera_Final_SN) ;
+	# entre comunistas y anarquistas
+
+REMOVE A OR PP IF (-1 Barrera_Inicial_SN LINK NOT 0 N) (NOT -1 Limite_Barrera_Inicial_SN) (0 Noun_Adj_PP LINK 0 N OR NP) (1 CM) (2 Noun_Adj_PP LINK 0 N OR NP) (3 CnjCoo) (4 Noun_Adj_PP LINK 0 N OR NP) (5 Barrera_Final_SN) ;
+	# entre catalanes, vascos y gallegos
+
+REMOVE A OR PP IF (-1 Barrera_Inicial_SN LINK NOT 0 N) (NOT -1 Limite_Barrera_Inicial_SN) (0 Noun_Adj_PP LINK 0 N OR NP) (1 CM) (2 Noun_Adj_PP LINK 0 N OR NP) (3 CM) (4 Noun_Adj_PP LINK 0 N OR NP) (5 CnjCoo) (6 Noun_Adj_PP LINK 0 N OR NP) (7 Barrera_Final_SN) ;
+	# entre occitanos, catalanes, vascos y gallegos
+	# vinieron italianos, alemanes, polacos y ucranianos.
+
+SELECT N IF (-2C N) (-1 CnjCoo) (0 Noun_Adj_PP LINK NOT 0 NP) (1 Barrera_Final_Estrict_SN) (NOT 0 ("anche") OR ("secondo") OR ("ancora")) ;
+	## adquiriendo una gran reputación como poeta y crítico.
+SELECT N IF (2C N) (1 CnjCoo) (0C Noun_Adj_PP LINK NOT 0 NP) (-1 Barrera_Inicial_SN) ;
+	## "se utiliza en periódicos y libros"
+
+# NOM, NOM CONJ NOM
+
+SELECT N IF (-2C N) (-1 CM) (0 Noun_Adj_PP) (1 CnjCoo) (2 Noun_Adj_PP) ;
+SELECT N IF (-3 CM) (-2C N) (-1 CnjCoo) (0 Noun_Adj_PP) (NOT 1 A) ;
+SELECT N IF (0 Noun_Adj_PP) (1 CM) (2C N) (1 CnjCoo) (2 Noun_Adj_PP) ;
+SELECT Sg IF (-2C N + Sg) (-1 CM) (0 N + Sg) (1 CnjCoo) (2 N + Sg) ;
+SELECT Pl IF (-2C N + Pl) (-1 CM) (0 N + Pl) (1 CnjCoo) (2 N + Pl) ;
+SELECT Masc IF (-2C N + Masc) (-1 CM) (0 N + Masc) (1 CnjCoo) (2 N + Masc) ;
+SELECT Fem IF (-2C N + Fem) (-1 CM) (0 N + Fem) (1 CnjCoo) (2 N + Fem) ;
+SELECT Sg IF (-3 CM) (-2C N + Sg) (-1 CnjCoo) (0 N + Sg) (NOT 1 A) ;
+SELECT Pl IF (-3 CM) (-2C N + Pl) (-1 CnjCoo) (0 N + Pl) (NOT 1 A) ;
+SELECT Masc IF (-3 CM) (-2C N + Masc) (-1 CnjCoo) (0 N + Masc) (NOT 1 A) ;
+SELECT Fem IF (-3 CM) (-2C N + Fem) (-1 CnjCoo) (0 N + Fem) (NOT 1 A) ;
+	# compositor, teórico y pedagogo
+	# varios religiosos, pensadores y políticos
+
+SELECT N IF (-2 N) (-1 CM) (0 Noun_Adj_PP) (1 CnjCoo) (2C N) ;
+SELECT N IF (-2C N) (-1 CM) (0 Noun_Adj_PP) (1 CnjCoo) (2 Det) (3 N) ;
+	# Dificil tratar a la vez:
+	# ". Católicos, ortodoxos y algunos anglicanos consideran"
+	# "Se encuentra en latín, polaco, lituano y otras lenguas."
+
+# ADJ, ADJ CONJ ADJ
+
+SELECT A IF (-2C A) (-1 CM) (0 Noun_Adj_PP) (1 CnjCoo) (2 Noun_Adj_PP) ;
+SELECT A IF (-3 CM) (-2C A) (-1 CnjCoo) (0 Noun_Adj_PP) (NOT 1 N) ;
+SELECT A IF (0 Noun_Adj_PP) (1 CM) (2C A) (1 CnjCoo) (2 Noun_Adj_PP) ;
+	# rojo, verde y azul
+
+# NOM, NOM,
+
+SELECT N IF (-2C N) (-1 CM) (0 Noun_Adj_PP LINK NOT 0 NP) (1 CM OR CnjCoo) ;
+SELECT N IF (-4/* Det) (-3C N) (-2 CM) (-1 Det) (0 Noun_Adj_PP LINK NOT 0 NP) (1 CM OR CnjCoo) ;
+
+# ADJ, ADJ,
+
+SELECT A IF (-2C A) (-1 CM) (0 Noun_Adj_PP LINK NOT 0 NP) (1 CM OR CnjCoo) ;
+
 # V
 SELECT Vmod IF (1 Inf) ;
