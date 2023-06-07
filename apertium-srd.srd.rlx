@@ -187,7 +187,8 @@ SELECT Inf IF (-2C Vall) (-1 Adv OR Pron) (0 Inf) ;
 REMOVE Vconj IF (-1C Prep) ;
 REMOVE Vconj IF (-2C Prep) (-1 Pro) (0 Inf) ;
 REMOVE Vconj IF (-3C Prep) (-2 Pro) (-1 Pro) (0 Inf) ;
-REMOVE Subj IF (NOT -1* CnjSub OR CnjAdv) ;	# Cantare
+REMOVE Subj IF (NOT -1* CnjSub OR CnjAdv) (NOT 0 Ser OR Istare) ;	# Cantare
+REMOVE Subj IF (NOT -1* Vall + Pers) (NOT 1* Vall + Pers) (NOT 0 Ser OR Istare) ;	# Cantare
 
 REMOVE ("èssere") IF (-1 Det + Def) (NOT -1 MajIni) (0 Est) (0 MajIni) ;
 SELECT N IF (-2 Prep) (-1 Det + Def) (0 Est) (0 MajIni) ;	# cara a l'Est
@@ -235,6 +236,13 @@ SELECT CnjAdv IF (0 Comente) (1C Prep) ;	# comente in cale si siat àtera limba
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 Det) ;
 SELECT CnjAdv IF (-1 ("gai")) (0 Comente) (1 NP) ;	# gai comente Navarra
 SELECT Prep IF (0 Comente) (1C N_A) ;
+
+REMOVE CnjAdv OR CnjSub IF (0 Prep) (1C Inf) ;	# pro ischire
+REMOVE CnjAdv OR CnjSub IF (0 Prep) (1 Pro) (2C Inf) ;
+REMOVE CnjAdv OR CnjSub IF (0 Prep) (1 Pro) (2 Pro) (3C Inf) ;
+REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1C Inf) ;	# si ischire
+REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1 Pro) (2C Inf) ;
+REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1 Pro) (2 Pro) (3C Inf) ;
 
 REMOVE ("candire") IF (0 ("cando")) ;	# GUESS
 
@@ -650,12 +658,12 @@ REMOVE PP IF (0 PP) (0 N) (-1/* Det) (1 Prep) ;
 
 REMOVE PP IF (0 PP) (0 N) (-1C Prep) ;		# in corso "Pitretu è Bicchisgià"
 REMOVE PP IF (0 PP) (0 A) (-1C Prep) ;
-REMOVE PP IF (0 PP) (0 A) (-1C N) (NOT 1 Dae) ;	# nucleo abitato
+REMOVE PP IF (0 PP) (0 A) (-1C N) (NOT 1 Dae OR Comente) ;	# nucleo abitato
 REMOVE PP IF (0 PP) (0 A) (-1C V) ;		# si rivelò corretta
 
-REMOVE PP IF (0 PP + &&ConcordaGN) (0 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (NOT 1/* Dae) ;	# geometria algebrica astratta
+REMOVE PP IF (0 PP + &&ConcordaGN) (0 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (NOT 1/* Dae OR Comente) ;	# geometria algebrica astratta
 
-REMOVE A IF (0 PP + &&ConcordaGN) (0 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (1/* Dae) ;	# informazioni autentiche scritte dai cronisti
+REMOVE A IF (0 PP + &&ConcordaGN) (0 A + &&ConcordaGN) (-2 N + &&ConcordaGN) (-1 A + &&ConcordaGN) (1/* Dae OR Comente) ;	# informazioni autentiche scritte dai cronisti
 
 SELECT PP IF (-1C N + &&ConcordaGN) (0C V) (0 PP + &&ConcordaGN) ;	# delle vesti schiacciate sul corpo
 
