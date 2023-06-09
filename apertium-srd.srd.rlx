@@ -335,6 +335,7 @@ SELECT PP IF (-2 Ser + &&ConcordaSP) (-1 Istare + PP + &&ConcordaSP + &&Concorda
 SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-1 Adv) (0 PP + &&ConcordaGN) ;	# es istada semper faeddada
 SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Adv) (-1 Istare + PP + &&ConcordaSP + &&ConcordaGN) (0 PP + &&ConcordaGN) ;	# es semper istada faeddada
 SELECT PP IF (-4 Ser + &&ConcordaSP) (-3 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-2 Adv) (-1 Adv) (0 PP + &&ConcordaGN) ;
+SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP) ;
 
 
 SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
