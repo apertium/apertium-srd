@@ -520,7 +520,8 @@ SELECT Top IF (-2 ("cuntzìliu") OR ("parlamentu") OR ("istatutu") OR ("costitut
 	(-1 De) (0 Ant OR Cog OR Top) ;
 	# contzìliu di Nicea
 SELECT Top IF (-2 ("corona") OR ("regnu") OR ("contea") OR ("ducadu")) (-1 De) (0 Cog OR Top) ;	# regno di Castiglia
-SELECT Top IF (-2 Dignidade) (-1 De) (0 Ant OR Cog OR Top) ;	# principe di Viana
+SELECT Top IF (-2 Dignidade) (-1 De) (0 Ant OR Cog ) ;	# principe di Viana
+SELECT Top IF (-2 ("tzitade") OR ("aeroportu") OR ("portu") OR ("rennu") OR ("printzipadu") OR ("granducadu") OR ("ducadu") OR ("marchesadu") OR ("contea") OR ("baronia") OR ("segnoria") OR ("califadu") OR ("emiradu") OR ("sultanadu") OR ("khanadu") OR ("satrapia") OR ("repùblica") OR ("___arcivescovado") OR ("___vescovado")) (-1 De) (0 Cog OR Ant) ;	# CHECK ___vescovado, ___arcivescovado
 REMOVE Ant_Cog IF (-1 Det + Def) (0 NP) ;	# la Roma, il Veneto
 REMOVE Ant_Cog IF (-1 ("in")) (0 NP) ;		# in Napoli
 SELECT Top IF (-2 ("andare") OR ("biagiare")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
