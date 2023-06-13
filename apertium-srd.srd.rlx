@@ -137,6 +137,8 @@ LIST Ite = "ite" ;
 LIST Li = "li" "ddi" ;
 LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
+LIST Megius = "mègius" ;
+LIST Peus = "peus" ;
 LIST Nde = "nde" ;
 LIST Nche = "nche" ;
 LIST Ovest = "ovest" ;
@@ -153,7 +155,7 @@ LIST Sentire = "sentire" ;
 LIST Resurtare = "resurtare" ;
 LIST Mantenere = "mantènnere" ;
 LIST Abarrare = "abarrare" ;
-LIST Parere = "pàrrere" ;
+LIST Parrere = "pàrrere" ;
 
 LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ;
 
@@ -375,6 +377,13 @@ SELECT Num IF (-1 Det + Def + Fem + Sg) (0 ("<una>"i)) ;	# sa una de note
 # Adv
 REMOVE PreAdv IF (NOT 1 A OR PP OR Adv) ;
 REMOVE PreAdv IF (-1 Haver) (1 PP) ;
+SELECT Adv IF (-1 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (0 Megius OR Peus) (1 ("a")) (2 Inf) ;	# est mègius a abbandonare
+SELECT Adv IF (-1 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Inf) ;	# est mègius a l’abbandonare
+SELECT Adv IF (-1 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Pro) (4 Inf) ;
+SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Inf) ;
+SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Inf) ;
+SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Pro) (4 Inf) ;
+
 
 # Pron
 SELECT Pron IF (0 Custu + &&ConcordaSP) (1 Vall + &&ConcordaSP) (NOT 0 Custu + &&ConcordaGN LINK 1 N_A + &&ConcordaGN) ;
@@ -621,12 +630,12 @@ REMOVE Adv IF (0 Adv) (0 N) (-1/* Det) (1 A) ; 			# un'altra specie chimica
 
 REMOVE N IF (0 AdjN) (1 unknown) ;
 
-REMOVE N IF (0 N + Sg) (0 A + Sg) (-1 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Sg) ;	# è verde
-REMOVE N IF (0 N + Pl) (0 A + Pl) (-1 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Pl) ;
-REMOVE N IF (0 N + Sg) (0 A + Sg) (-2 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Sg) (-1 Adv_PreAdv OR CnjAdv) ;	# è molto verde
-REMOVE N IF (0 N + Pl) (0 A + Pl) (-2 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Pl) (-1 Adv_PreAdv OR CnjAdv) ;	# sono però piuttosto piatti
-REMOVE N IF (0 N + Sg) (0 A + Sg) (-3 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Sg) (-2 Adv_PreAdv OR CnjAdv) (-1 Adv_PreAdv) ;
-REMOVE N IF (0 N + Pl) (0 A + Pl) (-3 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parere + Pl) (-2 Adv_PreAdv OR CnjAdv) (-1 Adv_PreAdv) ;
+REMOVE N IF (0 N + Sg) (0 A + Sg) (-1 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) ;	# è verde
+REMOVE N IF (0 N + Pl) (0 A + Pl) (-1 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Pl) ;
+REMOVE N IF (0 N + Sg) (0 A + Sg) (-2 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) (-1 Adv_PreAdv OR CnjAdv) ;	# è molto verde
+REMOVE N IF (0 N + Pl) (0 A + Pl) (-2 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Pl) (-1 Adv_PreAdv OR CnjAdv) ;	# sono però piuttosto piatti
+REMOVE N IF (0 N + Sg) (0 A + Sg) (-3 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) (-2 Adv_PreAdv OR CnjAdv) (-1 Adv_PreAdv) ;
+REMOVE N IF (0 N + Pl) (0 A + Pl) (-3 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Pl) (-2 Adv_PreAdv OR CnjAdv) (-1 Adv_PreAdv) ;
 
 SELECT N IF (-2 Barrera_Inicial_Estrict_SN) (-1 A + &&ConcordaGN) (NOT -1 N + &&ConcordaGN) (0 N + &&ConcordaGN) (1 Barrera_Final_Estrict_SN OR A) ;
 SELECT N IF (-2/* Det + &&ConcordaGN) (-1 A + &&ConcordaGN) (NOT -1 N + &&ConcordaGN) (0 N + &&ConcordaGN) (1 Barrera_Final_Estrict_SN OR A) ;
