@@ -549,6 +549,12 @@ SELECT Top IF (2 Top) (1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
 
 REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
 
+# N OR V
+
+REMOVE Inf IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
+REMOVE Inf IF (-1/* Det + Def + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
+SELECT Inf IF (-2/* Det + Def + MascSg) (-1 De) (0 Inf) ;	# su de pòtere
+
 # N O A
 
 SELECT N IF (-1 Tra) (1 ("e")) (2C N) ;
