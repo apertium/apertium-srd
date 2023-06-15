@@ -209,7 +209,6 @@ REMOVE Vall IF (-2 Lpar) (-1 ("estremu")) (0 Est) ;
 REMOVE Vall IF (-3 ("a") OR ("in") OR ("subra") OR ("susu") OR ("a curtzu de") OR ("cara a")) (-2 Det + Def) (-1 ("estremu")) (0 Est) ;
 REMOVE Vall IF (-1 N + MinIni) (0 ("<Est>")) (1 EOS OR MinIni) ;	# la porte Est
 
-
 REMOVE N IF (0 Est) (-1 Interr OR Rel) ;
 REMOVE A IF (0 Est) (-1 Interr OR Rel) ;	# Où est Jean ?
 SELECT Ser IF (0 Est) (1 Adv) ;
@@ -226,6 +225,13 @@ SELECT Fem IF (NOT -1/* M) (0 ("biennale") + Masc) (NOT 1 M) ;
 LIST SuChi = "<su chi>"i "<sa chi>"i "<sos chi>"i "<sas chi>"i ;
 REMOVE Rel IF (-1 Prep) (0 SuChi) ;
 REMOVE Pron IF (0 SuChi) ;
+
+REMOVE ("medu") + A IF (NOT -1 Noun_Adj) ;
+REMOVE ("medu") + A IF (NOT -1 Noun_Adj + FemSg) (0 ("<meda>"i)) ;
+REMOVE ("medu") + A IF (NOT -1 Noun_Adj + FemPl) (0 ("<medas>"i)) ;
+REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda") + A + &&ConcordaGN) ;	# guess
+REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda_post") + &&ConcordaGN) ;	# guess
+REMOVE ("medu") + N + Fem ;	# guess
 
 REMOVE Cog IF (0 ("<XI>")) ;
 
@@ -281,6 +287,8 @@ SELECT CnjAdv IF (0 Si) (1C Ser) (2C N_A) ;	# s'es positiu
 SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3C N_A) ;	# s'es pas positiu
 SELECT CnjAdv IF (0 Si) (1C Ser) (2 Adv) (3 Adv) (4C N_A) ;	# s'es pas totjorn positiu
 SELECT CnjAdv IF (0 Si) (1 Pro) (2 Pro) (3 V) ;
+SELECT Pro IF (-1C Tn) (-1 Tn + &&ConcordaSP) (NOT -1 Pers) (0 Si) (1 Pro OR Vall + P3 + &&ConcordaSP) ;	# medas si ghetaiant
+SELECT Pro IF (-1C Tn) (-1 Tn + &&ConcordaSP + P3) (0 Si) (1 Pro OR Vall + P3 + &&ConcordaSP) ;
 
 SELECT Det IF (0 ("unu")) (1 unknown) ;
 SELECT Det IF (0 ("su")) (1 unknown) ;
@@ -554,6 +562,12 @@ REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
 REMOVE Inf IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
 REMOVE Inf IF (-1/* Det + Def + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
 SELECT Inf IF (-2/* Det + Def + MascSg) (-1 De) (0 Inf) ;	# su de pòtere
+
+# N OR PRON
+
+SELECT Pron IF (-1C Barrera_Inicial_Estrict_SN) (0 ("medas")) (1C V + P3 + Pl) ;	# medas cantant
+SELECT Pron IF (-1C Barrera_Inicial_Estrict_SN) (0 ("medas")) (1 Pro) (2C V + P3 + Pl) ;
+SELECT Pron IF (-1C Barrera_Inicial_Estrict_SN) (0 ("medas")) (1 Pro) (2 Pro) (3C V + P3 + Pl) ;
 
 # N O A
 
