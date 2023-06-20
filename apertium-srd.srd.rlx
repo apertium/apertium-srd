@@ -134,6 +134,7 @@ LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
 LIST Ite = "ite" ;
+LIST ProIte = "pro ite" ;
 LIST Li = "li" "ddi" ;
 LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
@@ -321,11 +322,14 @@ SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 
 SELECT Ref IF (0 Si) (1C V + Sg3) ;
 
-SELECT Interr IF (0 Ite OR Cale OR Cantu OR Comente OR Ue) (1* ("<?>")) ;
+SELECT Interr IF (0 Ite OR ProIte OR Cale OR Cantu OR Comente OR Ue) (1* ("<?>")) ;
 
 LIST V_Interr = "ischire" "sàpere" "pedire" "petire" "pregontare" "dimandare" "nàrrere" "ispiegare" ;
-SELECT Interr IF (-1 V_Interr) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
-SELECT Interr IF (-2 V_Interr) (-1 Adv) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
+SELECT Interr IF (-1 V_Interr) (0 Ite OR ProIte OR Cale OR Cantu OR Comente OR Ue) ;
+SELECT Interr IF (-2 V_Interr) (-1 Adv) (0 Ite OR ProIte OR Cale OR Cantu OR Comente OR Ue) ;
+SELECT Interr IF (0 Ite OR ProIte OR Cale OR Cantu OR Ue) (1 ("a")) (2 Inf) ;
+SELECT Interr IF (0 Ite OR ProIte OR Cale OR Cantu OR Ue) (1 ("a")) (2 Pro) (3 Inf) ;
+SELECT Interr IF (0 Ite OR ProIte OR Cale OR Cantu OR Ue) (1 ("a")) (2 Pro) (3 Pro) (4 Inf) ;
 
 SELECT Rel IF (-1 Det + Def) (0 Ite) ;
 SELECT PreAdv IF (0 Ite) (1 A) (2 Chi) ;
