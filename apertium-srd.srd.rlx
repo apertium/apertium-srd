@@ -323,7 +323,7 @@ SELECT Ref IF (0 Si) (1C V + Sg3) ;
 
 SELECT Interr IF (0 Ite OR Cale OR Cantu OR Comente OR Ue) (1* ("<?>")) ;
 
-LIST V_Interr = "ischire" "pedire" "petire" "pregontare" "nàrrere" "ispiegare" ;
+LIST V_Interr = "ischire" "sàpere" "pedire" "petire" "pregontare" "dimandare" "nàrrere" "ispiegare" ;
 SELECT Interr IF (-1 V_Interr) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
 SELECT Interr IF (-2 V_Interr) (-1 Adv) (0 Ite OR Cale OR Cantu OR Comente OR Ue) ;
 
