@@ -239,6 +239,12 @@ REMOVE ("medu") + N + Fem ;	# guess
 
 REMOVE Cog IF (0 ("<XI>")) ;
 
+SELECT ("peso") IF (-1 Num) (0 ("pesu")) ;
+SELECT ("peso") IF (0 ("pesu")) (1 ("argentinu") OR ("bolivianu") OR ("colombianu") OR ("cubanu") OR ("dominicanu") OR ("filipinu") OR ("honduregnu") OR ("messicanu") OR ("tzilenu") OR ("uruguaianu")) ;
+REMOVE ("peso") IF (-2 ("mesura")) ;	# mesuras e pesos
+REMOVE ("peso") IF (2 ("mesura")) ;	# pesos e mesuras
+REMOVE ("pesu") IF (0 ("peso")) ;
+
 REMOVE Aord IF (0 ("<de un.>"ir) + Aord) ;
 SELECT Aord IF (-1/* Det + Def) (0 ("<de .*>"r) + Aord) ;
 REMOVE Aord IF (-1 Noun_Adj) (0 ("<de .*>"r) + Aord) ;
