@@ -565,6 +565,13 @@ SELECT Top IF (-2 NP) (-1 De) (0 Ant OR Cog OR Top) ;
 
 SELECT Top IF (-2C Top) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
+SELECT Top IF (-2C Top) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
+SELECT Ant OR Cog IF (-2C Ant OR Cog) (-1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
+SELECT Ant OR Cog IF (2 Ant OR Cog) (1 CM OR CnjCoo) (0 Top) (0 Cog OR Ant);
+SELECT Ant IF (-2C Ant) (-1 CM OR CnjCoo) (0 Cog) (0 Ant);
+SELECT Ant IF (2C Ant) (1 CM OR CnjCoo) (0 Cog) (0 Ant);
+SELECT Cog IF (-2C Cog) (-1 CM OR CnjCoo) (0 Cog) (0 Ant);
+SELECT Cog IF (2C Cog) (1 CM OR CnjCoo) (0 Cog) (0 Ant);
 
 # A O NUM
 
