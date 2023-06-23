@@ -826,3 +826,6 @@ SELECT A IF (-2C A) (-1 CM) (0 Noun_Adj_PP LINK NOT 0 NP) (1 CM OR CnjCoo) ;
 
 # V
 SELECT Vmod IF (1 Inf) ;
+
+
+SELECT Adv IF (-1C Barrera_Final_Estrict_SN) (0 ("finas")) (1C NP OR Det OR Tn) ;
