@@ -105,7 +105,7 @@ SET Enc = (prn enc) ;
 SET Tn = (prn tn) ;
 SET Tn_nt = (prn tn nt) ;
 
-SET Pref = (adj mf sp) ;
+SET Pref = (pref) ; 
 
 SET Aord = (adj ord) OR ("sette") ;	# sette/setta
 
@@ -179,6 +179,10 @@ SECTION
 
 REMOVE Imper IF (NOT 1* Excl) ;
 SELECT Imper IF (0C Vall) (1* Excl) (NOT -1* Vall + Pers) (NOT 1* Vall + Pers) ;
+
+SELECT Pref IF (0 (META:/-/r)) (1 N OR A OR V OR unknown) ;
+SELECT Pref IF (1 ("-")) (2 N OR A OR V OR unknown) ;
+REMOVE Pref ;	# IF (0 ("anti") OR ("auto") OR ("multi") OR ("neo") OR ("pluri") OR ("post") OR ("pre") OR ("proto") OR ("ex") OR ("semi")) (NOT 0 (META:/-/r)) (NOT 1 ("-")) ;
 
 REMOVE Vlex IF (0 Vmod) (1 Vall + Inf) ;
 REMOVE Vlex IF (0 Vmod) (1 Adv OR Pron) (2 Vall + Inf) ;
@@ -316,6 +320,10 @@ SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 N + 
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 N_A + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# unu pitzocu sardu
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Num) (2 N_A + &&ConcordaGN + Pl) ;	# unas 150 limbas
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 Pref) (1 N + &&ConcordaGN) ;	# unu pitzocu sardu ; sos àteros puntos
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Pref) (2C N_A + &&ConcordaGN) ;
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Pref) (2 N_A + &&ConcordaGN) (3 N_A + &&ConcordaGN) ;
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Num) (2 Pref) (3 N_A + &&ConcordaGN + Pl) ;
 
 SELECT A + Pos IF (-2/* Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas domos meas
 SELECT A + Pos IF (-2/* Det + &&ConcordaGN) (-1 N_A + unknown) (0 A + Pos + &&ConcordaGN) ;
