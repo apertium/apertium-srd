@@ -586,6 +586,11 @@ SELECT Cog IF (2C Cog) (1 CM OR CnjCoo) (0 Cog) (0 Ant);
 
 REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
 
+# A O PREP
+
+REMOVE A IF (NOT -1C Prep) (0 Prep) (NOT 0 Aord) (1C N_A) ;	# finas gente comuna
+REMOVE A IF (NOT -1C Prep) (0 Prep) (NOT 0 Aord) (1 N) (0 A + &&ConcordaGN) (NOT 1 N + &&ConcordaGN) ;	# finas gente comuna
+
 # N OR V
 
 REMOVE Inf IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
