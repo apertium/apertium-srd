@@ -763,6 +763,8 @@ SELECT N IF (0 Noun_Adj_PP LINK NOT 0 NP OR ("ser") OR Prep) (-1C Det) (1 Barrer
 SELECT N IF (0 Noun_Adj_PP LINK NOT 0 NP OR ("ser") OR Prep) (-1C Det) (1 CM OR CnjCoo) (1 Barrera_Final_Estrict_SN) ;
 SELECT N + &&ConcordaGN IF (-1C Barrera_Inicial_Estrict_SN) (0 N + &&ConcordaGN) (1 A + &&ConcordaGN) (2C Barrera_Final_Estrict_SN) ;	# note tecniche
 
+REMOVE Prep IF (1 EOS) ;
+
 # COORDINAZIONE
 
 REMOVE Pl IF (-1C/* Det + Sg) (0 Noun_Adj_PP + Sg) (0 Noun_Adj_PP + Pl) ;	# e la morte.
@@ -844,4 +846,13 @@ SELECT A IF (-2C A) (-1 CM) (0 Noun_Adj_PP LINK NOT 0 NP) (1 CM OR CnjCoo) ;
 SELECT Vmod IF (1 Inf) ;
 
 
+REMOVE A IF (NOT -1 Noun_Adj + FemPl OR CnjCoo) (0 ("finas")) ;
+REMOVE A IF (NOT -2 Noun_Adj + FemPl) (-1 CnjCoo) (0 ("finas")) ;
 SELECT Adv IF (-1C Barrera_Final_Estrict_SN) (0 ("finas")) (1C NP OR Det OR Tn) ;
+REMOVE Prep IF (-1 Ser) (0 ("finas") + Adv) (NOT 1 Num) ;	# guess
+REMOVE Prep IF (-2 Ser) (-1 PP) (0 ("finas") + Adv) (NOT 1 Num) ;
+SELECT Adv IF (-2 CM) (-1 CnjCoo) (0 ("finas")) ;	# , ma finas amigos
+SELECT Adv IF (-1C Vlex) (0 ("finas")) ;	# guess
+REMOVE Prep IF (-1 CnjCoo) (0 ("finas") + Adv) (NOT 1 Num) ;
+REMOVE Prep IF (0 ("finas") + Adv) (1 unknown) ;	# guess
+REMOVE Prep IF (0 ("finas") + Adv) ;	# guess
