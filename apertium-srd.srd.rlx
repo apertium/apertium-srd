@@ -396,6 +396,11 @@ SELECT Det IF (0 Det + Def + Masc + &&ConcordaSP) (1 Det + Def + Fem + &&Concord
 SELECT Det IF (0 Det + Def + Fem + &&ConcordaSP) (1 Det + Def + Masc + &&ConcordaSP) (2 N_A + &&ConcordaSP) ;	# sa/su diretore/a
 SELECT Det IF (-1 Det + Def + Masc + &&ConcordaSP) (0 Det + Def + Fem + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# su/sa diretore/a
 SELECT Det IF (-1 Det + Def + Fem + &&ConcordaSP) (0 Det + Def + Masc + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# sa/su diretore/a
+SELECT Det IF (0 Det + &&ConcordaSP) (0 (META:/[\/]/r)) (1 ("<a>") OR ("<os>") OR ("<as>") OR ("<s>")) (2 N_A + &&ConcordaSP) ;	# su/a diretore/a
+SELECT Det IF (-1 Prep) (0 Det + Def + Masc + &&ConcordaSP) (0 (META:/[\/]/r)) (1 Prep) (2 Det + Def + Fem + &&ConcordaSP) (3 N_A + &&ConcordaSP) ;	# dae su/dae sa diretore/a
+SELECT Det IF (-1 Prep) (0 Det + Def + Fem + &&ConcordaSP) (0 (META:/[\/]/r)) (1 Prep) (2 Det + Def + Masc + &&ConcordaSP) (3 N_A + &&ConcordaSP) ;	# dae sa/dae su diretore/a
+SELECT Det IF (-3 Prep) (-2 Det + Def + Masc + &&ConcordaSP) (-2 (META:/[\/]/r)) (-1 Prep) (0 Det + Def + Fem + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# dae su/dae sa diretore/a
+SELECT Det IF (-3 Prep) (-2 Det + Def + Fem + &&ConcordaSP) (-2 (META:/[\/]/r)) (-1 Prep) (0 Det + Def + Masc + &&ConcordaSP) (1 N_A + &&ConcordaSP) ;	# dae sa/dae su diretore/a
 SELECT Det + &&ConcordaGN IF (0 Det + &&ConcordaSP) (1 Adv) (2 Num) (3 N_A + &&ConcordaGN)	;	# sas belle 150 limbas
 SELECT Det IF (0 Det + Def + MascSg) (1 De) (2 Inf) ;
 SELECT Det IF (0 Det + Def + MascSg) (1 De) (2 Pro) (3 Inf) ;
