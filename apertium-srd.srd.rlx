@@ -379,6 +379,26 @@ SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Adv) (-1 Istare + PP + &&ConcordaSP + &
 SELECT PP IF (-4 Ser + &&ConcordaSP) (-3 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-2 Adv) (-1 Adv) (0 PP + &&ConcordaGN) ;
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP) ;
 
+REMOVE Acr IF (0 ("<as>")) ;
+REMOVE Aere IF (0 Haver) (1 PP) ;
+REMOVE Aere IF (0 Haver) (1 Adv) (2 PP) ;
+REMOVE Aere IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
+REMOVE Aere IF (0 Haver) (1 ("a")) (2 Inf) ;	# at a èssere
+REMOVE Aere IF (0 Haver) (1 Adv) (2 ("a")) (3 Inf) ;
+SELECT Inf (-2 Haver) (-1 ("a")) (0 Inf) ;	# at a èssere
+SELECT Inf (-3 Haver) (-2 Adv) (-1 ("a")) (0 Inf) ;
+REMOVE Haver ;
+
+SELECT PP IF (-1 Haver) ;
+SELECT PP IF (-2 Haver) (-1 Adv) ;
+SELECT PP IF (-3 Haver) (-2 Adv) (-1 Adv) ;
+SELECT PP IF (-2 Ref) (-1 Ser) ;
+SELECT PP IF (-3 Ref) (-2 Ser) (-1 Adv) ;
+SELECT PP IF (-4 Ref) (-3 Ser) (-2 Adv) (-1 Adv) ;
+SELECT PP IF (-3 Ref) (-2 Pro) (-1 Ser) ;
+SELECT PP IF (-4 Ref) (-3 Pro) (-2 Ser) (-1 Adv) ;
+SELECT PP IF (-5 Ref) (-4 Pro) (-3 Ser) (-2 Adv) (-1 Adv) ;
+
 
 SELECT Adv IF (-1C A) (0 Meda) ;	# est bianca meda
 SELECT A IF (NOT -1 N) (0 A) (1 Meda) ;	# est bianca meda
@@ -447,26 +467,6 @@ SELECT Li IF (0 Si) (1 Ddu + Pron) ;	# li/si = guess ; si = meridionale
 SELECT Li IF (0 Si) (1 Nche) (2 Ddu + Pron) ;	# li/si = guess ; si = meridionale
 REMOVE Li IF (0 Bi) ;	# septentrionale
 REMOVE Li IF (0 Si) ;	# meridionale
-
-REMOVE Acr IF (0 ("<as>")) ;
-REMOVE Aere IF (0 Haver) (1 PP) ;
-REMOVE Aere IF (0 Haver) (1 Adv) (2 PP) ;
-REMOVE Aere IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
-REMOVE Aere IF (0 Haver) (1 ("a")) (2 Inf) ;	# at a èssere
-REMOVE Aere IF (0 Haver) (1 Adv) (2 ("a")) (3 Inf) ;
-SELECT Inf (-2 Haver) (-1 ("a")) (0 Inf) ;	# at a èssere
-SELECT Inf (-3 Haver) (-2 Adv) (-1 ("a")) (0 Inf) ;
-REMOVE Haver ;
-
-SELECT PP IF (-1 Haver) ;
-SELECT PP IF (-2 Haver) (-1 Adv) ;
-SELECT PP IF (-3 Haver) (-2 Adv) (-1 Adv) ;
-SELECT PP IF (-2 Ref) (-1 Ser) ;
-SELECT PP IF (-3 Ref) (-2 Ser) (-1 Adv) ;
-SELECT PP IF (-4 Ref) (-3 Ser) (-2 Adv) (-1 Adv) ;
-SELECT PP IF (-3 Ref) (-2 Pro) (-1 Ser) ;
-SELECT PP IF (-4 Ref) (-3 Pro) (-2 Ser) (-1 Adv) ;
-SELECT PP IF (-5 Ref) (-4 Pro) (-3 Ser) (-2 Adv) (-1 Adv) ;
 
 # Coordinació
 SELECT M IF (-1C Ant + M) (0 ("Andrea")) ;	# Filippo Andrea
