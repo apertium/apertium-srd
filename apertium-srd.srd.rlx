@@ -318,6 +318,8 @@ REMOVE N IF (0 ("de s'aneddu")) ;
 
 SELECT ("insinnare") IF (0 ("insegnare")) ;	# dcorraine
 
+REMOVE ("mudire") IF (0 ("mudare")) ;	# guess
+
 REMOVE PreDet IF (NOT 1 Det) ;	# faghent totu in italian
 REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
 REMOVE SUB:1 PreDet IF (0 InTotu) (NOT 1 Det) ;
