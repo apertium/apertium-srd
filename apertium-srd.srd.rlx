@@ -242,6 +242,10 @@ REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda") + A + &&Concorda
 REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda_post") + &&ConcordaGN) ;	# guess
 REMOVE ("medu") + N + Fem ;	# guess
 
+SELECT Adv IF (-1C V) (0 ("<meda>"i)) (NOT -1 N + Sg) ;	# mudat meda ; est mudende meda
+SELECT Adv IF (-2 Haver) (-1C PP) (0 ("<meda>"i)) (NOT -1 N + Sg) ;	# at mudadu meda
+SELECT Adv IF (-3 Haver) (-2 Adv) (-1C PP) (0 ("<meda>"i)) (NOT -1 N + Sg) ;
+
 REMOVE Cog IF (0 ("<XI>")) ;
 
 SELECT ("peso") IF (-1 Num) (0 ("pesu")) ;
