@@ -233,6 +233,7 @@ SELECT Fem IF (NOT -1/* M) (0 ("biennale") + Masc) (NOT 1 M) ;
 
 LIST SuChi = "<su chi>"i "<sa chi>"i "<sos chi>"i "<sas chi>"i ;
 REMOVE Rel IF (-1 Prep) (0 SuChi) ;
+REMOVE Rel IF (-1 ("totu")) (0 SuChi) ;
 REMOVE Pron IF (0 SuChi) ;
 
 REMOVE ("medu") + A IF (NOT -1 Noun_Adj) ;
