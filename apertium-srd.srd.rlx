@@ -384,11 +384,11 @@ SELECT PP IF (-4 Ser + &&ConcordaSP) (-3 Istare + PP + &&ConcordaSP + &&Concorda
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP) ;
 
 REMOVE Acr IF (0 ("<as>")) ;
-REMOVE Aere IF (0 Haver) (1 PP) ;
-REMOVE Aere IF (0 Haver) (1 Adv) (2 PP) ;
-REMOVE Aere IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
-REMOVE Aere IF (0 Haver) (1 ("a")) (2 Inf) ;	# at a èssere
-REMOVE Aere IF (0 Haver) (1 Adv) (2 ("a")) (3 Inf) ;
+REMOVE Aere OR ("amu") IF (0 Haver) (1 PP) ;
+REMOVE Aere OR ("amu") IF (0 Haver) (1 Adv) (2 PP) ;
+REMOVE Aere OR ("amu") IF (0 Haver) (1 Adv) (2 Adv) (3 PP) ;
+REMOVE Aere OR ("amu") IF (0 Haver) (1 ("a")) (2 Inf) ;	# at a èssere
+REMOVE Aere OR ("amu") IF (0 Haver) (1 Adv) (2 ("a")) (3 Inf) ;
 SELECT Inf (-2 Haver) (-1 ("a")) (0 Inf) ;	# at a èssere
 SELECT Inf (-3 Haver) (-2 Adv) (-1 ("a")) (0 Inf) ;
 REMOVE Haver ;
