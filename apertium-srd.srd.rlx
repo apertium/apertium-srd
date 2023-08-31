@@ -266,6 +266,9 @@ REMOVE CnjAdv OR CnjSub IF (0 Prep) (1 Pro) (2 Pro) (3C Inf) ;
 REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1C Inf) ;	# si ischire
 REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1 Pro) (2C Inf) ;
 REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1 Pro) (2 Pro) (3C Inf) ;
+SELECT Prep IF (0 ("pro")) (1 Inf) ;	# pro produire
+SELECT Prep IF (0 ("pro")) (1 Pro) (2 Inf) ;
+SELECT Prep IF (0 ("pro")) (1 Pro) (2 Pro) (3 Inf) ;
 
 REMOVE ("candire") IF (0 ("cando")) ;	# GUESS
 
