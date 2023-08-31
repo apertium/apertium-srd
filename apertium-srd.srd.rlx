@@ -143,6 +143,7 @@ LIST Peus = "peus" ;
 LIST Nde = "nde" ;
 LIST Nche = "nche" ;
 LIST Ovest = "ovest" ;
+LIST Prus = "prus" ;
 LIST Tra = "tra" ;
 LIST Si = "<si>"i ;
 LIST Suo = "suo" ;
@@ -279,6 +280,9 @@ REMOVE ("candire") IF (0 ("cando")) ;	# GUESS
 
 SELECT ("argiolas") IF (-1 Num) (0 ("argiolas")) ;	# 13 argiolas
 SELECT ("argiolas") IF (0 ("argiolas")) (1 Num) ;	# argiolas 2023
+
+SELECT N IF (-1 Det + Def + MascSg) (0 ("prus")) (1 De) ;
+REMOVE N IF (0 ("prus")) ;
 
 SELECT CnjAdv IF (0 Si) (1 Si) (1 Pro OR Vall) ;
 REMOVE CnjAdv IF (0 Si) (1C Inf OR Ger) ;	# de se crear
