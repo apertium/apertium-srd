@@ -1,4 +1,4 @@
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+		DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>" "<;>";
 OPTIONS += no-inline-templates ; 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
@@ -275,6 +275,7 @@ REMOVE CnjAdv OR CnjSub IF (0 ("si")) (1 Pro) (2 Pro) (3C Inf) ;
 SELECT Prep IF (0 ("pro")) (1 Inf) ;	# pro produire
 SELECT Prep IF (0 ("pro")) (1 Pro) (2 Inf) ;
 SELECT Prep IF (0 ("pro")) (1 Pro) (2 Pro) (3 Inf) ;
+SELECT Prep IF (0 ("pro")) (NOT 1* Vall + Subj) (NOT 1C Vall + Pers) ;
 
 REMOVE ("candire") IF (0 ("cando")) ;	# GUESS
 
@@ -338,6 +339,7 @@ SELECT PreDet + &&ConcordaGN IF (0 PreDet + &&ConcordaGN) (1 Det + Def + &&Conco
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 N + &&ConcordaGN) ;	# unu pitzocu sardu ; sos àteros puntos
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 N_A + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# unu pitzocu sardu
+SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Adv OR PreAdv) (2 A + &&ConcordaGN) ;	# sa prus antiga
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Num) (2 N_A + &&ConcordaGN + Pl) ;	# unas 150 limbas
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + Ind + &&ConcordaGN) (1 Pref) (1 N + &&ConcordaGN) ;	# unu pitzocu sardu ; sos àteros puntos
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Pref) (2C N_A + &&ConcordaGN) ;
