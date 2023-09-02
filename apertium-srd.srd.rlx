@@ -116,6 +116,7 @@ LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
 LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
 LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
 LIST segles_num_romans = ("[IVX][IVX]*"r) ;
+LIST Anno = ("[1-2][0-9][0-9][0-9]"r) ;
 LIST Upper = "[A-Z][a-z]+"r ;
 
 
@@ -576,6 +577,7 @@ SELECT Cog IF (-1C Cog) (0 Cog) (-1 (META:/-/r)) ;
 SELECT Top IF (0 Top) (1C Top) (0 (META:/-/r)) ;
 SELECT Top IF (-1C Top) (0 Top) (-1 (META:/-/r)) ;
 SELECT Top IF (NOT -2 Ant OR Cog) (-1 Top) (0 Top) (-1 (META:/-/r)) ;	# Milano-Napoli
+SELECT Top IF (NOT -1 BOS) (0 NP) (1 CM) (2 Anno) ; # – Burgos, 1259
 
 SELECT Ant IF (0 ("Tzèsare")) (-1 BOS) ;
 
