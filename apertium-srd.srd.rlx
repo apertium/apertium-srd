@@ -1,4 +1,4 @@
-		DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>" "<;>";
 OPTIONS += no-inline-templates ; 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
@@ -64,7 +64,7 @@ SET Adv_PreAdv = Adv OR PreAdv ;
 SET Ant = (np ant) ;
 SET Cog = (np cog) ;
 SET Ant_Cog = Ant OR Cog ;
-SET Top = (np top) OR (np loc) ;
+SET Top = (np top) OR (np loc) OR (np hyd) ;
 SET Org = (org) ;
 SET Al = (al) ;
 
