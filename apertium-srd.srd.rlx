@@ -163,7 +163,7 @@ LIST Parrere = "pàrrere" ;
 LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ;
 
 LIST Mese = "ghennàrgiu" "ennalzu" "freàrgiu" "martzu" "abrile" "maju" "làmpadas" "trìulas" "argiolas" "austu" "cabudanni" "santugaine" "santandria" "nadale" ;
-SET Dignidade = ("presidente") OR ("guvernadore") OR ("imperadore") OR ("tzar") OR ("re") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("bìscamu") OR ("artzipìscamu") OR ("artzibìscamu") OR ("califa") OR ("emiru") OR ("sultanu") OR ("khan") OR ("satrapa") ;
+SET Dignidade = ("presidente") OR ("guvernadore") OR ("imperadore") OR ("tzar") OR ("re") OR ("giuighe") OR ("giuighissa") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("bìscamu") OR ("artzipìscamu") OR ("artzibìscamu") OR ("califa") OR ("emiru") OR ("sultanu") OR ("khan") OR ("satrapa") ;
 
 
 # Barriers
@@ -544,7 +544,7 @@ SELECT A IF (-1 Ant + MascSg) (0 ("Mannu")) ;
 SELECT A IF (-2 Ant + MascSg) (-1 Det + Def + MascSg) (0 ("Mannu")) ;
 
 REMOVE NP IF (0 ("Duca") OR ("Conte") OR ("Contessa") OR ("Barone")) (1 Ant OR unknownMajIni) ;
-SELECT Ant IF (-1 ("paba") OR ("imperadore") OR ("tzar") OR ("re") OR ("prìntzipe") OR ("duca") OR ("archiduca") OR ("marchesu") OR ("conte") OR ("visconte") OR ("barone")) (0 Ant) ;
+SELECT Ant IF (-1 ("paba") OR ("imperadore") OR ("tzar") OR ("re") OR ("giuighe") OR ("giuighissa") OR ("prìntzipe") OR ("duca") OR ("archiduca") OR ("marchesu") OR ("conte") OR ("visconte") OR ("barone")) (0 Ant) ;
 SELECT Ant OR Cog IF (-1 ("presidente") OR ("guvernaore") OR ("piscamu") OR ("archipiscamu")) (0 Ant) ;
 
 REMOVE NP IF (-1/* Det + MascSg) (0 Noun_Adj + MascSg) ;
@@ -596,7 +596,7 @@ SELECT Top IF (-2 ("cuntzìliu") OR ("parlamentu") OR ("istatutu") OR ("costitut
 	# contzìliu di Nicea
 SELECT Top IF (-2 ("corona") OR ("regnu") OR ("contea") OR ("ducadu")) (-1 De) (0 Cog OR Top) ;	# regno di Castiglia
 SELECT Top IF (-2 Dignidade) (-1 De) (0 Ant OR Cog ) ;	# principe di Viana
-SELECT Top IF (-2 ("tzitade") OR ("aeroportu") OR ("portu") OR ("rennu") OR ("printzipadu") OR ("granducadu") OR ("ducadu") OR ("marchesadu") OR ("contea") OR ("baronia") OR ("segnoria") OR ("califadu") OR ("emiradu") OR ("sultanadu") OR ("khanadu") OR ("satrapia") OR ("repùblica") OR ("___arcivescovado") OR ("___vescovado")) (-1 De) (0 Cog OR Ant) ;	# CHECK ___vescovado, ___arcivescovado
+SELECT Top IF (-2 ("tzitade") OR ("aeroportu") OR ("portu") OR ("rennu") OR ("giuigadu") OR ("printzipadu") OR ("granducadu") OR ("ducadu") OR ("marchesadu") OR ("contea") OR ("baronia") OR ("segnoria") OR ("califadu") OR ("emiradu") OR ("sultanadu") OR ("khanadu") OR ("satrapia") OR ("despotadu") OR ("repùblica") OR ("artzpiscamadu") OR ("piscamadu")) (-1 De) (0 Cog OR Ant) ;
 REMOVE Ant_Cog IF (-1 Det + Def) (0 NP) ;	# la Roma, il Veneto
 REMOVE Ant_Cog IF (-1 ("in")) (0 NP) ;		# in Napoli
 SELECT Top IF (-2 ("andare") OR ("biagiare")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
