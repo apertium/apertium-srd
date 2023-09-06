@@ -536,8 +536,7 @@ SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca") OR ("Sarbadore") O
 	# Llevem paraules que, per una raó o altra, es posen en majúscules sense ser NP
 SELECT NP IF (0 ("Val")) (0 (META:/-/r)) ;
 SELECT NP IF (0 ("Val")) (1 ("-")) ;
-REMOVE NP IF (-1 Det + Def) (0 ("Salvatore")) ;
-SELECT NP IF (0 ("Salvatore")) ;
+SELECT NP IF (0 ("Puddu")) ;
 SELECT A IF (-1 Top + MascSg) (0 ("Mannu")) ;
 SELECT A IF (-1 Top + &&ConcordaGV) (0 MajIni + &&ConcordaGV) ;
 SELECT A IF (-1 Ant + MascSg) (0 ("Mannu")) ;
