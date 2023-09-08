@@ -614,6 +614,14 @@ SELECT Ant IF (2C Ant) (1 CM OR CnjCoo) (0 Cog) (0 Ant);
 SELECT Cog IF (-2C Cog) (-1 CM OR CnjCoo) (0 Cog) (0 Ant);
 SELECT Cog IF (2C Cog) (1 CM OR CnjCoo) (0 Cog) (0 Ant);
 
+# A O ADV
+
+SELECT Adv IF (-1 N + &&ConcordaGN) (0 ("<pius>")) (1 A + &&ConcordaGN) ; # frutos pius bonos
+SELECT Adv IF (-1 Det + Def + &&ConcordaGN) (0 Prus) (1 A + &&ConcordaGN) ; # su prus fidele possìbile
+SELECT Adv IF (-1 Det + Def) (0 Prus) (1 Adv) ; # su prus fidelemente possìbile
+SELECT Adv IF (0 Prus) (1 unknown) ;
+SELECT A OR Adv IF (-2 Det + Def + &&ConcordaGN) (-1 Prus) (0 A + &&ConcordaGN) ; # su prus fidele possìbile
+
 # A O NUM
 
 REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
@@ -642,7 +650,6 @@ SELECT N IF (-3 Tra) (-2C N) (-1 ("e")) ;
 
 SELECT A IF (-2 Ant) (-1 Det + Def + MascSg) (0 A + MascSg + MajIni) ;  # Ludovicu su Piu
 SELECT A IF (-2 Ant) (-1 Det + Def + FemSg) (0 A + FemSg + MajIni) ;
-
 
 REMOVE A IF (0 A) (0 N) (-1/* Det) (1C Barrera_Final_SN) ; 	# una forza valida nel mondo. WARNING: No funciona per a "nel", però sí per a "el" (problema CG)
 REMOVE A IF (0 A) (0 N) (-2/* Det) (-1C A) (1C Barrera_Final_SN) ; 		# nei seguenti comuni
@@ -710,7 +717,7 @@ REMOVE A IF (0 A) (0 N) (-1/* Prep) (1 A) (1 N) (2/* Det) ; 		# dello stato tede
 REMOVE N IF (0 A) (0 N) (-2/* Det) (-1 N) (1/* Det) ; 	# dello stato tedesco del Baden-Württemberg
 REMOVE N IF (0 A) (0 N) (-2/* Prep) (-1 N) (1/* Det) ; 	# dello stato tedesco del Baden-Württemberg
 
-REMOVE A IF (0 A) (0 N) (-1/* Det) (1/* Prep) ; 			# sullo stato dei mari
+REMOVE A IF (0 A) (0 N) (-1/* Det) (1/* Prep) ; 		# sullo stato dei mari
 REMOVE A IF (0 A) (0 N) (-1/* Prep) (1/* Prep) ; 		# sullo stato dei mari
 REMOVE A IF (0 A) (0 N) (-1/* Det) (1/* Det) ; 			# sullo stato dei mari
 REMOVE A IF (0 A) (0 N) (-1/* Prep) (1/* Det) ; 		# sullo stato dei mari
