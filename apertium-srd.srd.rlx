@@ -640,6 +640,10 @@ SELECT Pron IF (-1C Barrera_Inicial_Estrict_SN) (0 ("medas")) (1 Pro) (2 Pro) (3
 SELECT N IF (-1 Tra) (1 ("e")) (2C N) ;
 SELECT N IF (-3 Tra) (-2C N) (-1 ("e")) ;
 
+SELECT A IF (-2 Ant) (-1 Det + Def + MascSg) (0 A + MascSg + MajIni) ;  # Ludovicu su Piu
+SELECT A IF (-2 Ant) (-1 Det + Def + FemSg) (0 A + FemSg + MajIni) ;
+
+
 REMOVE A IF (0 A) (0 N) (-1/* Det) (1C Barrera_Final_SN) ; 	# una forza valida nel mondo. WARNING: No funciona per a "nel", però sí per a "el" (problema CG)
 REMOVE A IF (0 A) (0 N) (-2/* Det) (-1C A) (1C Barrera_Final_SN) ; 		# nei seguenti comuni
 REMOVE A IF (0 A) (0 N) (-2/* Det) (-1C A) (1 CnjCoo) (NOT 2 A) ;
