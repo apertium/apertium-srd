@@ -140,6 +140,7 @@ LIST Li = "li" "ddi" ;
 LIST Lu = "lu" "ddu" ;
 LIST Meda = "<meda>"i ;
 LIST Megius = "mègius" ;
+LIST Mesu = "mesu" ;
 LIST Peus = "peus" ;
 LIST Nde = "nde" ;
 LIST Nche = "nche" ;
@@ -621,6 +622,9 @@ SELECT Adv IF (-1 Det + Def + &&ConcordaGN) (0 Prus) (1 A + &&ConcordaGN) ; # su
 SELECT Adv IF (-1 Det + Def) (0 Prus) (1 Adv) ; # su prus fidelemente possìbile
 SELECT Adv IF (0 Prus) (1 unknown) ;
 SELECT A OR Adv IF (-2 Det + Def + &&ConcordaGN) (-1 Prus) (0 A + &&ConcordaGN) ; # su prus fidele possìbile
+
+SELECT Adv IF (-1 N + &&ConcordaGN) (0 Mesu) (1 Adj_PP + &&ConcordaGN) ;  
+SELECT Adv IF (0 Mesu) (1C PP) ;
 
 # A O NUM
 
