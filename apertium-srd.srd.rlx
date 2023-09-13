@@ -245,6 +245,11 @@ REMOVE ("medu") + A IF (NOT -1 Noun_Adj + FemPl) (0 ("<medas>"i)) ;
 REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda") + A + &&ConcordaGN) ;	# guess
 REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda_post") + &&ConcordaGN) ;	# guess
 REMOVE ("medu") + N + Fem ;	# guess
+SELECT A IF (-1 ("<bias>"i) OR ("<bortas>"i)) (0 ("<medas>"i)) ;
+SELECT N IF (0 ("<bias>"i) OR ("<bortas>"i)) (1 ("<medas>"i)) ;
+SELECT N IF (-1 ("<medas>"i)) (0 ("<bias>"i) OR ("<bortas>"i)) ;
+SELECT A IF (0 ("<medas>"i)) (1 ("<bias>"i) OR ("<bortas>"i)) ;
+REMOVE N IF (NOT -1/* Det + Def + MascPl) (0 ("meda")) ;
 
 SELECT Prep IF (0 ("in logu")) (1 A + MascSg) ;	# in logu suo
 REMOVE Prep IF (0 ("in logu")) ;
