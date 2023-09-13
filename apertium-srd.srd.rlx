@@ -161,7 +161,7 @@ LIST Mantenere = "mantènnere" ;
 LIST Abarrare = "abarrare" ;
 LIST Parrere = "pàrrere" ;
 
-LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ;
+LIST AdjN = ("printzipale") ("ùrtimu") ("àteru") ("matessi") ("ex") ("àteru") ;
 
 LIST Mese = "ghennàrgiu" "ennalzu" "freàrgiu" "martzu" "abrile" "maju" "làmpadas" "trìulas" "argiolas" "austu" "cabudanni" "santugaine" "santandria" "nadale" ;
 SET Dignidade = ("presidente") OR ("guvernadore") OR ("imperadore") OR ("tzar") OR ("re") OR ("giuighe") OR ("giuighissa") OR ("prìntzipe") OR ("barone") OR ("conte") OR ("visconte") OR ("marchesu") OR ("duca") OR ("archiduca") OR ("pìscamu") OR ("bìscamu") OR ("artzipìscamu") OR ("artzibìscamu") OR ("califa") OR ("emiru") OR ("sultanu") OR ("khan") OR ("satrapa") ;
@@ -245,6 +245,8 @@ REMOVE ("medu") + A IF (NOT -1 Noun_Adj + FemPl) (0 ("<medas>"i)) ;
 REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda") + A + &&ConcordaGN) ;	# guess
 REMOVE ("medu") + A IF (-1 Noun_Adj + &&ConcordaGN) (0 ("meda_post") + &&ConcordaGN) ;	# guess
 REMOVE ("medu") + N + Fem ;	# guess
+SELECT A IF (-2C Barrera_Inicial_Estrict_SN) (-1C N + Pl) (0 ("meda")) ;	# in paisos medas
+SELECT A IF (-3C Barrera_Inicial_Estrict_SN) (-2 N + Pl + &&ConcordaGN) (-1 A + Pl + &&ConcordaGN) (0 ("meda")) ;	# in paisos europeos medas
 SELECT A IF (-1 ("<bias>"i) OR ("<bortas>"i)) (0 ("<medas>"i)) ;
 SELECT N IF (0 ("<bias>"i) OR ("<bortas>"i)) (1 ("<medas>"i)) ;
 SELECT N IF (-1 ("<medas>"i)) (0 ("<bias>"i) OR ("<bortas>"i)) ;
@@ -330,8 +332,17 @@ SELECT Pro IF (-1C Tn) (-1 Tn + &&ConcordaSP + P3) (0 Si) (1 Pro OR Vall + P3 + 
 
 SELECT Det IF (0 ("unu")) (1 unknown) ;
 SELECT Det IF (0 ("su")) (1 unknown) ;
+SELECT Det IF (0 Det + Dem) (1 unknown) ;
 
 SELECT Det IF (0 ("su")) (1 De) (2 Num) ;	# su de tres
+
+SELECT ("làmpadas") IF (-1 ("[1-9][0-9]?"r)) (0 ("làmpadas")) ;
+SELECT ("làmpadas") IF (-2 Num) (-1 De) (0 ("làmpadas")) ;
+SELECT ("làmpadas") IF (-2 ("mese")) (-1 De) (0 ("làmpadas")) ;
+SELECT ("làmpadas") IF (-2 Mese) (-1 CM OR CnjCoo) (0 ("làmpadas")) ;
+SELECT ("làmpadas") IF (0 ("làmpadas")) (1 CM OR CnjCoo) (2 Mese) ;
+
+SELECT N IF (-1 Det + &&ConcordaGN) (0 ("partidu") + &&ConcordaGN) ;	# custu partidu
 
 SELECT N IF (-1 Det + Masc) (0 ("de s'aneddu")) ;	# su de s'aneddu
 REMOVE N IF (0 ("de s'aneddu")) ;
@@ -341,7 +352,7 @@ SELECT ("insinnare") IF (0 ("insegnare")) ;	# dcorraine
 REMOVE ("mudire") IF (0 ("mudare")) ;	# guess
 
 REMOVE PreDet IF (NOT 1 Det) ;	# faghent totu in italian
-REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu su istadu
+REMOVE Adv IF (0 InTotu) (1 Det + &&ConcordaGN) (2 N_A + &&ConcordaGN) ;	# in totu s'istadu
 REMOVE SUB:1 PreDet IF (0 InTotu) (NOT 1 Det) ;
 REMOVE Adv IF (-1 ("totu")) (0 ("custu")) ;
 
@@ -457,6 +468,9 @@ REMOVE Det IF (NOT 1 N OR NP OR A OR PP OR Adv OR Num OR unknown) ;
 REMOVE Det IF (1C Adv) (NOT 2 A OR PP) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C N_A + &&ConcordaGN) ;
 REMOVE Pron IF (0 Det + Def + &&ConcordaGN) (1C NP + &&ConcordaGN) ;	# su Gia islàmicu
+SELECT Det (0 Det + Def + MascSg) (1C Num) ;	# su 3
+SELECT Det (-1 BOS) (0 Det + Def + &&ConcordaSP) (1 N + &&ConcordaSP) ;	# sas lissèntzias
+SELECT Det (-1 BOS) (0 Det + Def + &&ConcordaSP) (1 A + &&ConcordaSP) (2 N + &&ConcordaSP) ;
 
 SELECT Num IF (-1 Det + Def + Fem + Sg) (0 ("<una>"i)) ;	# sa una de note
 
@@ -571,6 +585,7 @@ SELECT N IF (-1/* Det + FemPl) (0 NP) (0 N + FemPl) (1C A + FemPl) ;
 
 SELECT NP IF (0 Top) (0 N OR A) (NOT -1C (ant) OR (cog));
 
+
 REMOVE Cog IF (-1 In OR Dae) (0 Top) (0 Cog) ;
 REMOVE Ant IF (-1 In OR Dae) (0 Top) (0 Ant) ;
 
@@ -631,9 +646,16 @@ SELECT A OR Adv IF (-2 Det + Def + &&ConcordaGN) (-1 Prus) (0 A + &&ConcordaGN) 
 SELECT Adv IF (-1 N + &&ConcordaGN) (0 Mesu) (1 Adj_PP + &&ConcordaGN) ;  
 SELECT Adv IF (0 Mesu) (1C PP) ;
 
+SELECT A IF (-2/* Det + Def + &&ConcordaGN) (-1 N + &&ConcordaGN) (0 ("matessi")) ;	# sos omines matessi produint
+SELECT Adv_PreAdv IF (-1 N + &&ConcordaGN) (0 ("bastante")) (1 A + &&ConcordaGN) ;	# una connoschentzia bastante bona
+
 # A O NUM
 
 REMOVE Num IF (0 Aord + &&ConcordaGN) (1 N + &&ConcordaGN) ;    # 2º posto
+
+# A O PRN
+
+REMOVE Pron IF (0 ("cale si siat")) (1C N) ;    # cale si siat ala
 
 # A O PREP
 
@@ -645,6 +667,8 @@ REMOVE A IF (NOT -1C Prep) (0 Prep) (NOT 0 Aord) (1 N) (0 A + &&ConcordaGN) (NOT
 REMOVE Inf IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
 REMOVE Inf IF (-1/* Det + Def + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
 SELECT Inf IF (-2/* Det + Def + MascSg) (-1 De) (0 Inf) ;	# su de pòtere
+
+REMOVE PP IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# de s'istadu
 
 # N OR PRON
 
@@ -695,6 +719,10 @@ REMOVE Adj_PP IF (0 Adj_PP) (0 N + Pl) (-1 Num) (NOT 0 Aord OR AdjN) ;
 
 REMOVE A IF (-1/* Det + &&ConcordaGN) (0 A + &&ConcordaGN) (0 N + &&ConcordaGN) (NOT 1 N + &&ConcordaGN OR CnjCoo) ;	# distinguere gli ambiti e usi
 SELECT A IF (-1/* Det + Def + &&ConcordaGN) (0 Aord + &&ConcordaGN) ;	# il settimo e ultimo re
+
+SELECT A IF (-1/* Det + &&ConcordaGN) (0 AdjN + &&ConcordaGN) (1 N + &&ConcordaGN) ;	# un'àtera informatzione
+
+REMOVE Adj_PP IF (-1/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) ;	# s'istadu suo
 
 REMOVE A IF (0 A) (0 N) (-1/* Det) (1 A) (1 N) (2 Lpar) ; 	#
 REMOVE A IF (0 A) (0 N) (-1/* Prep) (1 A) (1 N) (2 Lpar) ; 	#
