@@ -393,6 +393,8 @@ SELECT PreAdv IF (0 Ite) (1 A) (2 Chi) ;
 
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
 
+REMOVE Interj IF (-1 Det) ;
+
 LIST Adj_Sentimentu = "cuntentu" ;	# Adj = PP
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adj_Sentimentu + &&ConcordaGN) ;	# es istado cuntentu
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 PreAdv OR Adv) (2 Adj_Sentimentu + &&ConcordaGN) ;
