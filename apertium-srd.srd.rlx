@@ -531,6 +531,11 @@ SELECT Top IF (-1 ("regione") OR ("provincia") OR ("distretto")) (0 MajIni) ;		#
 SELECT Top IF (-2 ("regione") OR ("provincia") OR ("distretto")) (-1 A) (0 MajIni) ;
 SELECT Top IF (0 MajIni) (1 CM) (2 Num) (3 Mese) ;	# Milano, 6 luglio
 
+SELECT A IF (-5 Det + &&ConcordaGN) (-4 N + Masc + &&ConcordaGN) (-3 CnjCoo) (-2 Det) (-1 N + Fem) (0 ("lìberu") + Masc) ;	# sos òmines e sas fèminas liberos
+SELECT A IF (-4 Det + &&ConcordaGN) (-3 N + Masc + &&ConcordaGN) (-2 CnjCoo) (-1 N + Fem) (0 ("lìberu") + Masc) ;	# sos òmines e fèminas liberos
+SELECT N IF (-4 Det + &&ConcordaGN) (-3 N + Masc + &&ConcordaGN) (-2 CnjCoo) (-1 Det) (0 N + Fem) (1 ("lìberu") + Masc) ;	# sos òmines e sas fèminas liberos
+SELECT N IF (-3 Det + &&ConcordaGN) (-2 N + Masc + &&ConcordaGN) (-1 CnjCoo) (0 N + Fem) (1 ("lìberu") + Masc) ;	# sos òmines e fèminas liberos
+
 REMOVE A + F IF (-1C Noun_NP + M) (0 A + F) (NOT -1 (META:/[-"«»]/r));
 REMOVE A + M IF (-1C Noun_NP + F) (0 A + M) (NOT -1 (META:/[-"«»]/r)) ;
 REMOVE A + Pl IF (-1C Noun_NP + Sg) (0 A + Pl) (NOT -1 (META:/[-"«»]/r)) ;
