@@ -664,8 +664,8 @@ REMOVE A IF (NOT -1C Prep) (0 Prep) (NOT 0 Aord) (1 N) (0 A + &&ConcordaGN) (NOT
 
 # N OR V
 
-REMOVE Inf IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
-REMOVE Inf IF (-1/* Det + Def + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
+REMOVE Inf OR V + Pers IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
+REMOVE Inf OR V + Pers IF (-1/* Det + Def + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# su pòtere
 SELECT Inf IF (-2/* Det + Def + MascSg) (-1 De) (0 Inf) ;	# su de pòtere
 
 REMOVE PP IF (-1C/* Det + &&ConcordaGN) (0 N + &&ConcordaGN) ;	# de s'istadu
