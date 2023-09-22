@@ -1,4 +1,4 @@
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+	DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>" "<;>";
 OPTIONS += no-inline-templates ; 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
@@ -394,6 +394,13 @@ SELECT PreAdv IF (0 Ite) (1 A) (2 Chi) ;
 REMOVE Imper IF (0 Dare + Prs) (1 Inf) ;
 
 REMOVE Interj IF (-1 Det) ;
+SELECT Interj IF (NOT -1/* Det + FemSg) (0 ("bona die")) ;
+SELECT Interj IF (NOT -1/* Det + FemSg) (0 ("bona note")) ;
+SELECT Interj IF (NOT -1/* Det + FemPl) (0 ("bona dies")) ;
+SELECT Interj IF (NOT -1/* Det + FemPl) (0 ("bona notes")) ;
+REMOVE Interj IF (NOT 1* ("!")) ;
+SELECT Interj IF (-1 BOS OR CM) (1 ("!")) ;
+SELECT Interj IF (1 CM) (1* ("!")) ;
 
 LIST Adj_Sentimentu = "cuntentu" ;	# Adj = PP
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP + &&ConcordaGN) (1 Adj_Sentimentu + &&ConcordaGN) ;	# es istado cuntentu
