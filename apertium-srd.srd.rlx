@@ -423,6 +423,10 @@ SELECT PP IF (-3 Ser + &&ConcordaSP) (-2 Adv) (-1 Istare + PP + &&ConcordaSP + &
 SELECT PP IF (-4 Ser + &&ConcordaSP) (-3 Istare + PP + &&ConcordaSP + &&ConcordaGN) (-2 Adv) (-1 Adv) (0 PP + &&ConcordaGN) ;
 SELECT Ser IF (-1 Ser + &&ConcordaSP) (0 Ser + PP + &&ConcordaSP) ;
 
+LIST Vintr = "andare" "bènnere" "arribbare" "torrare" "artziare" "pèndere" "intrare" "essire" "nàschere" "mòrrere" ;
+SELECT PP IF (-1 Ser + &&ConcordaSP) (0 Vintr + &&ConcordaSP) ;
+SELECT PP IF (-2 Ser + &&ConcordaSP) (-1 Adv) (0 Vintr + &&ConcordaSP) ;
+
 REMOVE Acr IF (0 ("<as>")) ;
 REMOVE Aere OR ("amu") IF (0 Haver) (1 PP) ;
 REMOVE Aere OR ("amu") IF (0 Haver) (1 Adv) (2 PP) ;
