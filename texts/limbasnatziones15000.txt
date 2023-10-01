@@ -5034,15 +5034,6 @@
 05158. In s'istade chi benit, sos organizadores ant pessadu de fàghere un'ispetàculu in ue sos autores ant a lèghere sos contos e ant a dare su libreddu cun sas òperas de sa prima editzione de "Contos de sa vida mea".
 05159. Sergio Usai, assessore de sa cultura
 05160. Arangino, Comida, Deiana, Fronteddu
-05161. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-05162. Nulla semper convallis nunc
-05163. Sed felis mauris, accumsan vel, nonummy eget, vestibulum non, ligula
-05164. Aenean hendrerit, nisi et scelerisque mattis, ipsum nulla vehicula nunc, in varius felis nisl vitae eros
-05165. Fusce sapien nisl, pharetra sed, laoreet ornare, hendrerit pellentesque, lectus
-05166. Fusce eleifend purus et arcu
-05167. Mauris turpis enim, tempus sit amet, pretium id, venenatis vel, tellus
-05168. Praesent fermentum nibh at magna
-05169. Maecenas leo dolor, dapibus sed, tristique eget, pretium ut, metus
 05170. CASTEDDU, 9 de Nadale de su 2008
 05171. Sunt 10 sas bursas de istùdiu destinadas a giòvanos sardos laureados pro una chirca —cun riferimentu particulare a s'istùdiu de sa metodologia de sa didàtica pro imparare sa limba sarda in iscola— in custas bator àreas disciplinares: Limba e literadura de Sardigna (7 bursas), Istòria de sa Sardigna (1 bursa), Istòria de s'Arte (1 bursa), Deretu (1 bursa)
 05172. Àteras 3 bursas de istùdiu sunt destinadas a giòvanos laureados in matèrias umanìsticas, àmbitu linguìsticu, pro cuncordare una chirca subra de sas metodologias de sa didàtica de imparòngiu de sa limba sarda in iscola.
@@ -5061,7 +5052,6 @@
 05185. Su Collòchiu tenet unu programa prenu a beru, dae su 17 su 19 de Nadale 2008, comente si podet bìdere leghende su programa aclùdidu, in pdf.
 05186. S’organizadore de s’eventu est su _Departament de Filologia Catalana de sa Universitat Rovira i Virgili._
 05187. Su logu chi òspitat su collòchiu est su _Palau Firal i de Congressos_ de Tarragona, C/ Arquitecte Rovira, 43001 Tarragona.
-05188. III Col·loqui Fabra-Tarragona
 05189. Eris, 12-9-2008, in Bilartzi, sos partetzipantes a su cursu de autoformatzione promòvidu dae s'Ufìtziu de sa Limba Sarda de sa Provìntzia de Aristanis ant leadu s'impinnu de formare unu COMITADU pro afortire su movimentu in favore de s'ufitzialidade de sa limba sarda comente est cuntempladu in sa Lege 482 de su 1999 de sa Repùblica Italiana.
 05190. Si tratat de un'assòtziu lìberu, ispontàneu e informale, non ligadu a perunu ente o movimentu, chi tenet comente finalidades fundamentales:
 05191. —operare pro s'aplicatzione cumpreta de sa Lege 482 (dae como in antis "sa Lege")
