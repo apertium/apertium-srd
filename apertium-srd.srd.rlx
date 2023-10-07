@@ -1,4 +1,4 @@
-	DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>";
 SOFT-DELIMITERS = "<,>" "<;>";
 OPTIONS += no-inline-templates ; 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
@@ -706,6 +706,8 @@ SELECT N IF (-1 Tra) (1 ("e")) (2C N) ;
 SELECT N IF (-3 Tra) (-2C N) (-1 ("e")) ;
 
 SELECT A IF (-2 Num) (-1 ("e")) (0 ("mesu")) ;	# sas chimbe e mesa de merie
+
+SELECT A IF (-4 N + &&ConcordaGN) (-3 A + &&ConcordaGN) (-2 CnjCoo) (-1 A + &&ConcordaGN) (0 ("mannu")) ;	# un'isvilupu industriale e turìsticu mannos/mannu
 
 SELECT A IF (-2 Ant) (-1 Det + Def + MascSg) (0 A + MascSg + MajIni) ;  # Ludovicu su Piu
 SELECT A IF (-2 Ant) (-1 Det + Def + FemSg) (0 A + FemSg + MajIni) ;
