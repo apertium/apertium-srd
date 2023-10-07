@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-srd], [1.3.1], [apertium-stuff@lists.sourceforge.net])
+AC_INIT([apertium-srd], [1.4.0], [apertium-stuff@lists.sourceforge.net])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
