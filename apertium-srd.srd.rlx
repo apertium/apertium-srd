@@ -134,6 +134,7 @@ LIST De = "de" ;
 LIST Est = "<est>"i ;
 LIST In = "in" ;
 LIST InTotu = "<in totu>"i ;
+LIST Intre = "intre" ;
 LIST Ite = "ite" ;
 LIST ProIte = "pro ite" ;
 LIST Li = "li" "ddi" ;
@@ -203,6 +204,7 @@ REMOVE Subj IF (-2 Ser OR Haver) (-1 PP) ;	# an apiu atentzione
 REMOVE Subj IF (-3 Ser OR Haver) (-2 Adv) (-1 PP) ;
 REMOVE Subj IF (-3 Ser OR Haver) (-2 PP) (-1 Adv) ;
 REMOVE Subj IF (-1 ("pro") OR De) (0 Inf) ;
+REMOVE Subj IF (NOT -4 CnjSub OR CnjAdv) (NOT -3 CnjSub OR CnjAdv) (NOT -2 CnjSub OR CnjAdv) (NOT -1 CnjSub OR CnjAdv) (0 Intre) ;
 
 REMOVE ("èssere") IF (-1 Det + Def) (NOT -1 MajIni) (0 Est) (0 MajIni) ;
 SELECT N IF (-2 Prep) (-1 Det + Def) (0 Est) (0 MajIni) ;	# cara a l'Est
