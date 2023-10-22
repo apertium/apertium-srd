@@ -378,6 +378,7 @@ SELECT A + Pos IF (-4/* Det + Def) (-3 De) (-2 Num) (-1 N) (0 A + Pos) ;	# su de
 SELECT A + Pos IF (-5/* Det + Def) (-4 De) (-3 Num) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-6/* Det + Def) (-5 De) (-4 Num) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
+SELECT A + Pos IF (-2 unknown) (-1 A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
 SELECT A + Pos IF (-1 Ant + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# Pàule meu ; Pàule suo
 SELECT Pron + Pos IF (-1C Prep) (0 Suo) ;
 
