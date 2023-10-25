@@ -369,6 +369,7 @@ SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Pref) (2C 
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Pref) (2 N_A + &&ConcordaGN) (3 N_A + &&ConcordaGN) ;
 SELECT Det + &&ConcordaGN IF (NOT -1/* Det) (0 Det + &&ConcordaGN) (1 Num) (2 Pref) (3 N_A + &&ConcordaGN + Pl) ;
 
+LIST AdvLogu = "in dae in antis" "a dae in antis" "in antis" "in dae segus" "in segus" "a segus" "dae segus" "segus" "a curtzu" ;
 SELECT A + Pos IF (-2/* Det + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# sas domos meas
 SELECT A + Pos IF (-2/* Det + &&ConcordaGN) (-1 N_A + unknown) (0 A + Pos + &&ConcordaGN) ;
 SELECT A + Pos IF (-3/* Det + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;
@@ -377,8 +378,21 @@ SELECT A + Pos IF (-3/* Det + Def) (-2 De) (-1 Num) (0 A + Pos) ;	# su de 10 suo
 SELECT A + Pos IF (-4/* Det + Def) (-3 De) (-2 Num) (-1 N) (0 A + Pos) ;	# su de 10 anniversarios suo
 SELECT A + Pos IF (-5/* Det + Def) (-4 De) (-3 Num) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-6/* Det + Def) (-5 De) (-4 Num) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
+SELECT A + Pos IF (-3 N_A + &&ConcordaGN) (-2 De) (-1 N) (0 A + Pos + &&ConcordaGN) ;	# su maistru de sala suo
+SELECT A + Pos IF (-1 AdvLogu) (0 Suo + A) ;	# in antis suo
+SELECT Adv IF (0 AdvLogu) (0 A + Pos) ;	# in antis suo
+SELECT A + Pos IF (-1/* Det + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# a su suo
+SELECT Pron + Pos IF (-1 Ser + &&ConcordaSP) (0 A + Pos + &&ConcordaSP) ;	# est suo
+SELECT A + Pos IF (-2 Ser + &&ConcordaSP) (-1 N + &&ConcordaSP) (0 A + Pos + &&ConcordaSP) ;	# est amigu suo
+SELECT A + Pos IF (-2 ("pro")) (-1/* N + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# pro parte sua
+SELECT A + Pos IF (-2 ("in")) (-1/* N + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;
+SELECT A + Pos IF (-2 ("a")) (-1/* N + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# a pàrrere suo
+SELECT A + Pos IF (-2 Prep) (-1/* N + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# cun sorre sua
+SELECT A + Pos IF (-2 ("a")) (-1/* ("pàrrere") + MascSg) (0 A + Pos + MascSg) ;	# a pàrrere meu
+REMOVE Pron + Pos IF (-1 N_A + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# est amigu suo
 SELECT A + Pos IF (-1 unknown) (0 Suo + A) ;
 SELECT A + Pos IF (-2 unknown) (-1 A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;
+SELECT A + Pos IF (-2 PP + &&ConcordaGN) (-1 A + &&ConcordaGN) (0 Suo + A + &&ConcordaGN) ;	# unknown noun
 SELECT A + Pos IF (-1 Ant + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# Pàule meu ; Pàule suo
 SELECT Pron + Pos IF (-1C Prep) (0 Suo) ;
 
@@ -794,6 +808,10 @@ REMOVE Adv IF (0 Adv) (0 N) (-1/* Det) (1 A) ; 			# un'altra specie chimica
 
 REMOVE N IF (0 AdjN) (1 unknown) ;
 
+REMOVE A IF (0 N + Sg + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-1 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) ;	# est amigu meu
+REMOVE A IF (0 N + Pl + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-1 Ser + Pl OR Cunsiderare + Pl OR Giudicare + Pl OR Sentire + Pl OR Resurtare + Pl OR Mantenere + Pl + Abarrare + Pl OR Parrere + Pl) ;	# sunt amigos meos
+REMOVE A IF (0 N + Sg + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-2 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) (-1 Adv) ;	# est semper amigu meu
+REMOVE A IF (0 N + Pl + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-2 Ser + Pl OR Cunsiderare + Pl OR Giudicare + Pl OR Sentire + Pl OR Resurtare + Pl OR Mantenere + Pl + Abarrare + Pl OR Parrere + Pl) (-1 Adv) ;	# sunt semper amigos meos
 REMOVE N IF (0 N + Sg) (0 A + Sg) (-1 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) ;	# è verde
 REMOVE N IF (0 N + Pl) (0 A + Pl) (-1 Ser + Pl OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Pl) ;
 REMOVE N IF (0 N + Sg) (0 A + Sg) (-2 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) (-1 Adv_PreAdv OR CnjAdv) ;	# è molto verde
