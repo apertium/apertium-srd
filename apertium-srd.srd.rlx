@@ -379,8 +379,8 @@ SELECT A + Pos IF (-4/* Det + Def) (-3 De) (-2 Num) (-1 N) (0 A + Pos) ;	# su de
 SELECT A + Pos IF (-5/* Det + Def) (-4 De) (-3 Num) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-6/* Det + Def) (-5 De) (-4 Num) (-3 N_A + &&ConcordaGN) (-2 N_A + &&ConcordaGN) (-1 N_A + &&ConcordaGN) (0 A + Pos) ;
 SELECT A + Pos IF (-3 N_A + &&ConcordaGN) (-2 De) (-1 N) (0 A + Pos + &&ConcordaGN) ;	# su maistru de sala suo
-SELECT A + Pos IF (-1 AdvLogu) (0 Suo + A) ;	# in antis suo
-SELECT Adv IF (0 AdvLogu) (0 A + Pos) ;	# in antis suo
+SELECT Pron + Pos IF (-1 AdvLogu) (0 Pron + Pos) ;	# in antis suo
+SELECT Adv IF (0 AdvLogu) (0 Pron + Pos) ;	# in antis suo
 SELECT A + Pos IF (-1/* Det + &&ConcordaGN) (0 A + Pos + &&ConcordaGN) ;	# a su suo
 SELECT Pron + Pos IF (-1 Ser + &&ConcordaSP) (0 A + Pos + &&ConcordaSP) ;	# est suo
 SELECT A + Pos IF (-2 Ser + &&ConcordaSP) (-1 N + &&ConcordaSP) (0 A + Pos + &&ConcordaSP) ;	# est amigu suo
