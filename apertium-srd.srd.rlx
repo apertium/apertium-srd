@@ -518,6 +518,7 @@ SELECT Adv IF (-1 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (0 Me
 SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Inf) ;
 SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Inf) ;
 SELECT Adv IF (-2 Ser OR Cunsiderare OR Giudicare OR Parrere OR Resurtare) (-1 Adv) (0 Megius OR Peus) (1 ("a")) (2 Pro) (3 Pro) (4 Inf) ;
+SELECT PreAdv IF (1C A OR PP OR Adv) ;	# est belle inesistente
 
 
 # Pron
