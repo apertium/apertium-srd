@@ -299,6 +299,10 @@ SELECT ("argiolas") IF (0 ("argiolas")) (1 Num) ;	# argiolas 2023
 SELECT N IF (-1 Det + Def + MascSg) (0 ("prus")) (1 De) ;
 REMOVE N IF (0 ("prus")) ;
 
+REMOVE Adv IF (0 ("in parte")) (1 De) ;
+REMOVE Adv IF (0 ("in parte")) (1 Pos + FemSg) ;
+SELECT Adv IF (0 ("in parte")) ;
+
 SELECT CnjAdv IF (0 Si) (1 Si) (1 Pro OR Vall) ;
 REMOVE CnjAdv IF (0 Si) (1C Inf OR Ger) ;	# de se crear
 REMOVE CnjAdv IF (0 Si) (1 Pro) (2C Inf OR Ger) ;	# de se lo crear
