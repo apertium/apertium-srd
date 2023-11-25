@@ -597,7 +597,7 @@ REMOVE Pl IF (0 A + SP) (0 A + Pl) (-1/* Det + Sg) ;
 REMOVE Cog IF (0 ("<Costa>")) (1 A + FemSg) ;
 SELECT N IF (-1/* Det + Def + MascSg) (0 ("<Cantone>")) ;	# il Cantone
 
-SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca") OR ("Sarbadore") OR ("Mannu") OR ("Monte")) ;
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 ("Conte") OR ("Duca") OR ("Sarbadore") OR ("Mannu") OR ("Monte") OR ("Romanos")) ;
 	# Llevem paraules que, per una raó o altra, es posen en majúscules sense ser NP
 SELECT NP IF (0 ("Val")) (0 (META:/-/r)) ;
 SELECT NP IF (0 ("Val")) (1 ("-")) ;
