@@ -814,6 +814,9 @@ REMOVE Adv IF (0 Adv) (0 N) (-1/* Det) (1 A) ; 			# un'altra specie chimica
 
 REMOVE N IF (0 AdjN) (1 unknown) ;
 
+REMOVE N IF (-1 Top + &&ConcordaGN) (0 A + &&ConcordaGN + MajIni) ;
+REMOVE N IF (-2 Det + Def + &&ConcordaGN) (-1 Top + &&ConcordaGN) (0 A + &&ConcordaGN) ;
+
 REMOVE A IF (0 N + Sg + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-1 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) ;	# est amigu meu
 REMOVE A IF (0 N + Pl + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-1 Ser + Pl OR Cunsiderare + Pl OR Giudicare + Pl OR Sentire + Pl OR Resurtare + Pl OR Mantenere + Pl + Abarrare + Pl OR Parrere + Pl) ;	# sunt amigos meos
 REMOVE A IF (0 N + Sg + &&ConcordaGN) (1 A + Pos + &&ConcordaGN) (-2 Ser + Sg OR Cunsiderare + Sg OR Giudicare + Sg OR Sentire + Sg OR Resurtare + Sg OR Mantenere + Sg + Abarrare + Sg OR Parrere + Sg) (-1 Adv) ;	# est semper amigu meu
