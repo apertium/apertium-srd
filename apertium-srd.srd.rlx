@@ -646,6 +646,7 @@ SELECT Top IF (NOT -1 BOS) (0 NP) (1 CM) (2 Anno) ; # – Burgos, 1259
 
 SELECT Ant IF (0 ("Tzèsare")) (-1 BOS) ;
 
+REMOVE Ant_Cog IF (-1 Det + Def) (0 Top) ;
 SELECT Ant IF (0 Ant) (1C Ant) ;	# Rosa Maria
 SELECT Ant IF (0 Ant) (1 Cog) (NOT -1 Ant) ;	# Giordano Bruno
 SELECT Ant IF (-1 ("santo")) (0 Ant) (0 Cog OR Top) ;	# sant Benet
