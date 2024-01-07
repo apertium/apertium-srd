@@ -306,9 +306,9 @@ SELECT Adv IF (0 ("in parte")) ;
 SELECT CnjAdv IF (0 Si) (1 Si) (1 Pro OR Vall) ;
 REMOVE CnjAdv IF (0 Si) (1C Inf OR Ger) ;	# de se crear
 REMOVE CnjAdv IF (0 Si) (1 Pro) (2C Inf OR Ger) ;	# de se lo crear
-REMOVE Pron IF (0 Si) (NOT 1 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se canti
-REMOVE Pron IF (0 Si) (1 Pro) (NOT 2 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se li canti
-REMOVE Pron IF (0 Si) (1 Pro) (2 Pro) (NOT 3 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# se li o canti
+REMOVE Pron IF (0 Si) (NOT 1 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# si dao
+REMOVE Pron IF (0 Si) (1 Pro LINK NOT 0 Ddu) (NOT 2 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# si lu dao ; si ddu dao
+REMOVE Pron IF (0 Si) (1 Pro) (2 Pro) (NOT 3 Pro OR Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;	# si bi lu dao
 REMOVE Pron IF (0 Si) (1 Pro) (2 Pro) (3 Pro) (4 Vall + P3 OR Vall + Inf OR Vall + Ger OR unknownMinIni) ;
 SELECT CnjAdv IF (NOT -1C* Rel OR CnjSub OR CnjAdv) (0 Si) (1C Vall + Pers) (2C Vall + Pers) ;	# Se tot aquò se met en plaça serà
 SELECT Pro IF (0 Si) (1 unknownMinIni) ;
